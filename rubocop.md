@@ -1,8 +1,7 @@
 # Rubocop
 
-Heavily based on [Relaxed.Ruby.Style](http://relaxed.ruby.style/)
-
-Put this in your project at `.rubocop.yml`
+Mettete questo nel vostro `rubocop.yml` (ispirato a 
+[Relaxed.Ruby.Style](http://relaxed.ruby.style/)):
 
 ```yaml
 

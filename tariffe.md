@@ -1,8 +1,7 @@
 # Tariffe
 
-Applichiamo una tariffa oraria ai servizi svolti. A volte viene applicato uno **sconto del 12,5%** che riproporziona la giornata lavorativa da 8 a 7 ore.
-
-(Le tabelle sono generate con [Markdown Tables Generator](http://www.tablesgenerator.com/markdown_tables))
+Applichiamo una tariffa oraria ai servizi svolti. A volte viene applicato uno **sconto del 12,5%** 
+che riproporziona la giornata lavorativa da 8 a 7 ore.
 
 ## Riepilogo tariffe
 
