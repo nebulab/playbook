@@ -11,8 +11,8 @@ lavorando concretamente su diversi progetti.
 
 ## Su di noi
 
-- Standard
-- Cosa facciamo
+- [Standard](https://github.com/nebulab/playbook/blob/master/su-di-noi/standard.md)
+- [Cosa facciamo](https://github.com/nebulab/playbook/blob/master/su-di-noi/cosa-facciamo.md)
 
 ## Lavorare insieme
 
