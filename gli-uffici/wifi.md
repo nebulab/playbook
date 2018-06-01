@@ -10,9 +10,15 @@
 
 ## Latina
 
-### Rete
+### Rete 2.4 GHz
 
-**Rete**: Nebulab / Nebulab_5GHz
+**Rete**: Nebulab
+
+**Password**: lakupiippu
+
+### Rete 5 GHz
+
+**Rete**: Nebulab_5GHz
 
 **Password**: lakupiippu
 
