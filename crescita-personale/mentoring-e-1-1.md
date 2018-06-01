@@ -29,5 +29,5 @@ Al termine dell'1:1, il tuo mentore inserirà in un documento Google condiviso c
 quello di cui avete parlato e su eventuali impegni da parte sua o tua, in modo che possiate 
 riguardarle nel meeting successivo e vedere come le cose si sono evolute.
 
-L'1:1 è anche il momento in cui discutere dei tuoi [progetti di crescita personale](#il-venerdi) e 
-degli obiettivi che ti sei prefissato per il mese.
+L'1:1 è anche il momento in cui discutere dei tuoi [progetti di crescita personale](https://github.com/nebulab/playbook/blob/master/crescita-personale/venerdi.md) 
+e degli obiettivi che ti sei prefissato per il mese.
