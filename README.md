@@ -47,12 +47,12 @@ lavorando concretamente su diversi progetti.
 - [Setup](https://github.com/nebulab/playbook/blob/master/sviluppo/setup.md)
 - [Codice](https://github.com/nebulab/playbook/blob/master/sviluppo/codice.md)
 - [Rubocop](https://github.com/nebulab/playbook/blob/master/sviluppo/rubocop.md)
-- [Git / GitHub](https://github.com/nebulab/playbook/blob/master/sviluppo/git.md)
+- [Messaggi di commit](https://github.com/nebulab/playbook/blob/master/sviluppo/commit.md)
+- [Workflow GitHub](https://github.com/nebulab/playbook/blob/master/sviluppo/workflow-github.md)
 - [Readme](https://github.com/nebulab/playbook/blob/master/sviluppo/readme.md)
-- [Variabili di configurazione](https://github.com/nebulab/playbook/blob/master/sviluppo/variabili-di-configurazione.md)
 - [Seed](https://github.com/nebulab/playbook/blob/master/sviluppo/seed.md)
 - [Test](https://github.com/nebulab/playbook/blob/master/sviluppo/test.md)
-- [Errori comuni](https://github.com/nebulab/playbook/blob/master/sviluppo/errori-comuni.md)
+- [Cookbook](https://github.com/nebulab/playbook/blob/master/sviluppo/cookbook.md)
 - [Design](https://github.com/nebulab/playbook/blob/master/sviluppo/design.md)
 
 ## Risorse utili
