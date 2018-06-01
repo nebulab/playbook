@@ -23,7 +23,7 @@ lavorando concretamente su diversi progetti.
 - [Benefit](https://github.com/nebulab/playbook/blob/master/lavorare-insieme/benefit.md)
 - [Salute e sicurezza sul lavoro](https://github.com/nebulab/playbook/blob/master/lavorare-insieme/salute-e-sicurezza.md)
 - [Firma per le email](https://github.com/nebulab/playbook/blob/master/lavorare-insieme/firma-email.md)
-- [Social](https://github.com/nebulab/playbook/blob/master/lavorare-insieme/social.md)
+
 - [Non lavorare più insieme](https://github.com/nebulab/playbook/blob/master/lavorare-insieme/dimissioni.md)
 
 ## Gli uffici
@@ -36,6 +36,12 @@ lavorando concretamente su diversi progetti.
 - [I valori che portiamo avanti](https://github.com/nebulab/playbook/blob/master/lavorare-per-i-clienti/valori.md)
 - [La consuntivazione delle ore](https://github.com/nebulab/playbook/blob/master/lavorare-per-i-clienti/consuntivazione.md)
 - [Tariffe](https://github.com/nebulab/playbook/blob/master/lavorare-per-i-clienti/tariffe.md)
+
+## Lavorare su Nebulab
+
+- [Social](https://github.com/nebulab/playbook/blob/master/lavorare-su-nebulab/social.md)
+- Blog
+- Progetti interni
 
 ## Crescita personale
 
