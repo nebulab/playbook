@@ -1,4 +1,4 @@
-# Il playbook di Nebulab <img src="https://github.com/nebulab/playbook/blob/master/logo.png" alt="Nebulab logo" width="50" height="50">
+# Il playbook di Nebulab <img src="https://github.com/nebulab/playbook/blob/master/logo.png" alt="Nebulab logo" width="25" height="25">
 
 Nebulab è una società di consulenza nell’ambito web fondata nel 2012 che si occupa principalmente di 
 realizzazione e gestione di applicazioni web per clienti nazionali ed internazionali. Siamo 
