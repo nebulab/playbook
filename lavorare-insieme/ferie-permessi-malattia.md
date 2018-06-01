@@ -52,4 +52,4 @@ tipologia di `Time Off`, disponibile nel menù a tendina, dovrà seguire i segue
 * `Malattia` va utilizzato in caso di Malattia, **inserendo nelle note il Codice di Protocollo 
   rilasciato dal medico curante**;
 * `Permesso straordinario` va utilizzato per i permessi concessi in casi straordinari elencati nella 
-  sezione [Permessi, permessi straordinari e lavoro straordinario](https://github.com/nebulab/nebulab/wiki/Lavorare-insieme#permessi-permessi-straordinari-e-lavoro-straordinario).
+  sezione [Permessi, permessi straordinari e lavoro straordinario](#permessi-permessi-straordinari-e-lavoro-straordinario).
