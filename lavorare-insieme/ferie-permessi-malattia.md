@@ -26,7 +26,7 @@ matrimonio, funerale, donazione del sangue etc…. Un elenco di permessi straord
 non) è disponibile al 
 seguente [link](http://www.fpcgil.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/7737).
 
-Ore di lavoro straordinario possono essere richieste in casi eccezionali dall’azienda per 
+Ore di lavoro straordinario possono essere richieste in casi eccezionali dall'azienda per 
 particolari esigenze di organizzazione del lavoro.
 
 ## Malattia

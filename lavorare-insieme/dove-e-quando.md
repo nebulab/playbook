@@ -7,8 +7,8 @@ solo all'apprendimento, ai progetti interni o al contributo open source.
 
 Le giornate lavorative sono di 8 ore piuttosto flessibili. Per legge non si possono comunque 
 superare le 11 ore giornaliere. L'orario adottato dalla maggior parte di noi è compreso tra le 9:30 
-e le 18:30 considerando un’ora circa per la pausa pranzo. L’organizzazione del lavoro deve essere 
-comunque vista nell’ottica del lavoro in team. Quindi chi sceglie di lavorare in orari diversi deve 
+e le 18:30 considerando un'ora circa per la pausa pranzo. L'organizzazione del lavoro deve essere 
+comunque vista nell'ottica del lavoro in team. Quindi chi sceglie di lavorare in orari diversi deve 
 essere attento a non impedire ad un altro di svolgere correttamente il proprio lavoro.
 
 Riguardo al luogo la flessibilità è ancora maggiore. Nebulab al momento ha due sedi operative, una a

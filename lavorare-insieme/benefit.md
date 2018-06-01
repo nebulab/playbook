@@ -1,6 +1,6 @@
 # Benefit
 
-Chiunque all’interno del nostro team ha diritto ai seguenti benefici.
+Chiunque all'interno del nostro team ha diritto ai seguenti benefici.
 
 ## Hardware e software
 
@@ -70,5 +70,5 @@ Le credenziali per i corsi online sono:
   </tbody>
 </table>
 
-In caso di necessità è possibile richiedere l’acquisto di libri o servizi aggiuntivi di cui si ha 
+In caso di necessità è possibile richiedere l'acquisto di libri o servizi aggiuntivi di cui si ha 
 bisogno.

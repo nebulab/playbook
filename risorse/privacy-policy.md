@@ -42,7 +42,7 @@ In questa sezione descriviamo brevemente quali sono gli strumenti per la raccolt
 
 ### Netlify Form 
 
-[Netlify’s commitment to protect your data](https://www.netlify.com/gdpr/)
+[Netlify's commitment to protect your data](https://www.netlify.com/gdpr/)
 
 - Form di contatto commerciale sito e pannello di gestione del consenso 
 
@@ -60,7 +60,7 @@ Matteo Galliani | Partner | Gestione della fatturazione ; gesitone del consenso 
 
 ### Slack
 
-[Slack’s commitment to protect your data](https://slack.com/gdpr)
+[Slack's commitment to protect your data](https://slack.com/gdpr)
 
 Software di team messaging su cui arrivano le notifiche di contatto dei form Netlify. Le notifiche arrivano nel canale privato denominato `sales`.
 

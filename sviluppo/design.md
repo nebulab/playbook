@@ -3,7 +3,7 @@
 ## Presentazione
 
 Per la condivisione e la presentazione di mockup al cliente e agli altri membri del team usiamo 
-l’app [InVision](https://www.invisionapp.com/). Con InVision è possibile creare prototipi 
+l'app [InVision](https://www.invisionapp.com/). Con InVision è possibile creare prototipi 
 interattivi completi di gestures, transizioni e animazioni per desktop e mobile che possono essere 
 visionati e commentati da altri collaboratori del progetto.
 
@@ -25,7 +25,7 @@ una griglia.
 
 ### Icone
 
-[Font Awesome](http://fortawesome.github.io/Font-Awesome/): Un’immensa collezione di icone da 
+[Font Awesome](http://fortawesome.github.io/Font-Awesome/): Un'immensa collezione di icone da 
 utizzare tramite CSS.
 
 ### Template
