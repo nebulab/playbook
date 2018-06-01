@@ -1,5 +1,6 @@
-_Aggiornamento 25/08/2018_
-***
+# Privacy policy
+
+_Ultimo aggiornamento: 25/08/2018_
 
 La presente politica sulla privacy descrive i dati personali raccolti o elaborati quando si utilizza il sito web di Nebulab. La stessa spiega inoltre come i dati personali vengono da noi raccolti, trattati, condivisi e protetti nell'ambito della gestione della nostra attività, quali sono le scelte a vostra disposizione in tema di dati personali ed infine come contattarci. La nostra intenzione nella stesura della presente è di rispettare i principi cardine di Liceità, Correttezza e Trasparenza nella gestione di un bene fondamentale quale è il dato personale.
 
