@@ -23,7 +23,6 @@ lavorando concretamente su diversi progetti.
 - [Benefit](https://github.com/nebulab/playbook/blob/master/lavorare-insieme/benefit.md)
 - [Salute e sicurezza sul lavoro](https://github.com/nebulab/playbook/blob/master/lavorare-insieme/salute-e-sicurezza.md)
 - [Firma per le email](https://github.com/nebulab/playbook/blob/master/lavorare-insieme/firma-email.md)
-
 - [Non lavorare più insieme](https://github.com/nebulab/playbook/blob/master/lavorare-insieme/dimissioni.md)
 
 ## Gli uffici
