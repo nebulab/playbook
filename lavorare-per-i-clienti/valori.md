@@ -25,8 +25,9 @@ al tempo stesso competente, dove essere esperti del web si accompagna ad un appr
 leggero, moderno ed efficiente. 
 
 Per entrare un pochino di più nel dettaglio, nell'Introduzione di questa wiki abbiamo già accennato 
-qualcosa a proposito dei nostri [Standard](introduzione.md#standard)  che possiamo riassumere 
-brevemente in:
+qualcosa a proposito dei nostri 
+[Standard](https://github.com/nebulab/playbook/blob/master/su-di-noi/standard.md) che possiamo 
+riassumere brevemente in:
 
 - qualità del lavoro espresso sui progetti
 - onestà
