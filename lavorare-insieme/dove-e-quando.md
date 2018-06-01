@@ -1,7 +1,8 @@
 # Dove e quando
 
 La nostra settimana lavorativa si costituisce di 4 giorni dedicati a lavori per clienti esterni (non 
-necessariamente sempre con lo stesso cliente) e di 1 giorno, [il venerdì](il-venerdi.md), dedicato 
+necessariamente sempre con lo stesso cliente) e di 1 giorno, 
+[il venerdì](https://github.com/nebulab/playbook/blob/master/crescita-personale/venerdi.md), dedicato 
 solo all'apprendimento, ai progetti interni o al contributo open source.
 
 Le giornate lavorative sono di 8 ore piuttosto flessibili. Per legge non si possono comunque 
