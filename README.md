@@ -9,10 +9,10 @@
 
 ## Risorse utili
 
-- [Wi-Fi](https://github.com/nebulab/playbook/blob/master/wifi.md)
-- [Design](https://github.com/nebulab/playbook/blob/master/design.md)
-- [Tariffe](https://github.com/nebulab/playbook/blob/master/tariffe.md)
-- [Social](https://github.com/nebulab/playbook/blob/master/social.md)
-- [Rubocop](https://github.com/nebulab/playbook/blob/master/rubocop.md)
-- [Firma per le email](https://github.com/nebulab/playbook/blob/master/firma-email.md)
-- [Musica](https://github.com/nebulab/playbook/blob/master/musica.md)
+- [Wi-Fi](https://github.com/nebulab/playbook/blob/master/risorse/wifi.md)
+- [Design](https://github.com/nebulab/playbook/blob/master/risorse/design.md)
+- [Tariffe](https://github.com/nebulab/playbook/blob/master/risorse/tariffe.md)
+- [Social](https://github.com/nebulab/playbook/blob/master/risorse/social.md)
+- [Rubocop](https://github.com/nebulab/playbook/blob/master/risorse/rubocop.md)
+- [Firma per le email](https://github.com/nebulab/playbook/blob/master/risorse/firma-email.md)
+- [Musica](https://github.com/nebulab/playbook/blob/master/risorse/musica.md)

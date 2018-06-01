@@ -1,24 +1,25 @@
 # Benefit 🌴 
 
-Chiunque all’interno del nostro team ha diritto ai seguenti benefici:
+Chiunque all’interno del nostro team ha diritto ai seguenti benefici.
 
 ## Hardware e software
 
-* Hardware e licenze software a scelta;
+Hardware e licenze software a scelta, qualunque cosa vi serva per svolgere al meglio il vostro 
+lavoro. Se hai bisogno di qualcosa, manda un messaggio su Slack a uno dei soci.
 
 ## Settimane Nebulose
 
-* 2/3 meeting annuali di durata settimanale in cui si lavora tutti insieme (anche chiamate 
-  **Settimane Nebulose**)
+Le Settimane Nebulose sono 2/3 meeting annuali di durata settimanale in cui si lavora tutti insieme.
   
 ## Flessibilità
 
-* Orari flessibili;
-* Possibilità di lavorare da remoto.
+Tutti nel team hanno diritto a lavorare in orari flessibili (compatibilmente con le esigenze dei
+clienti e degli altri membri del team) e a lavorare da remoto.
 
 ## Conferenza
 
-* Spese per eventuali conferenze completamente coperte;
+Le spese per partecipare a eventuali conferenze (biglietto aereo, hotel e biglietto per la
+conferenza) sono completamente coperte da Nebulab. 
 
 ## Istruzione 📚 
 
@@ -32,7 +33,7 @@ Le credenziali per i corsi online sono:
       <th>Corso</th>
       <th style="text-align:center">utente</th>
       <th style="text-align:center">password</th>
-      <th style="text-align:center">status</th>
+      <th style="text-align:center">stato</th>
     </tr>
   </thead>
   <tbody>
@@ -66,11 +67,8 @@ Le credenziali per i corsi online sono:
       <td style="text-align:center">monarchiaportamivia</td>
       <td style="text-align:center">attivo</td>
     </tr>
-    <tr>
-      <td><a href="https://railscasts.com/">RailsCasts Pro</a></td>
-      <td colspan="3" style="text-align:center">&larr; Tutto gratis...</td>
-    </tr>
   </tbody>
 </table>
 
-In caso di necessità è possibile richiedere l’acquisto di libri o servizi di cui si ha bisogno.
+In caso di necessità è possibile richiedere l’acquisto di libri o servizi aggiuntivi di cui si ha 
+bisogno.
