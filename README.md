@@ -56,7 +56,7 @@ lavorando concretamente su diversi progetti.
 - [Workflow GitHub](https://github.com/nebulab/playbook/blob/master/sviluppo/workflow-github.md)
 - [Readme](https://github.com/nebulab/playbook/blob/master/sviluppo/readme.md)
 - [Seed](https://github.com/nebulab/playbook/blob/master/sviluppo/seed.md)
-- [Test](https://github.com/nebulab/playbook/blob/master/sviluppo/test.md)
+- [Testing](https://github.com/nebulab/playbook/blob/master/sviluppo/testing.md)
 - [Design](https://github.com/nebulab/playbook/blob/master/sviluppo/design.md)
 
 ## Risorse utili

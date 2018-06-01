@@ -1,4 +1,4 @@
-# Test
+# Testing
 
 In Nebulab crediamo fermamente nel valore del testing automatizzato. Tutto il codice che scriviamo
 è testato e quando ci capita di lavorare su un progetto senza test cerchiamo di testarne un pezzo
