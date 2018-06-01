@@ -35,10 +35,6 @@ che si verificano. Dallo stato dei server ai tweet dell'account
 [@nebulab_it](https://twitter.com/nebulab_it) ci sono chicche ed informazioni utili per tutti i 
 gusti.
 
-Altri comandi invece non servono proprio a niente se non a cazzeggiare... Occhio a quello che 
-scrivete perchè alcune parole riceveranno una risposta automatica, a volte divertente ma a volte 
-anche offensiva! :P
-
 ### Temi di Slack
 
 * Nebulab light: `#F0F7FD,#EBEFF2,#FEF135,#222222,#FFFFFF,#222222,#5FBFFD,#5FBFFD`
