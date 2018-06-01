@@ -3,8 +3,8 @@
 ## Orari e luoghi di lavoro 🕙 
 
 La nostra settimana lavorativa si costituisce di 4 giorni dedicati a lavori per clienti esterni (non 
-necessariamente sempre con lo stesso cliente) e di 1 giorno, il venerdì, dedicato solo
- all'apprendimento, ai progetti interni o al contributo open source.
+necessariamente sempre con lo stesso cliente) e di 1 giorno, [il venerdì](il-venerdi.md), dedicato 
+solo all'apprendimento, ai progetti interni o al contributo open source.
 
 Le giornate lavorative sono di 8 ore piuttosto flessibili. Per legge non si possono comunque 
 superare le 11 ore giornaliere. L'orario adottato dalla maggior parte di noi è compreso tra le 9:30 
@@ -18,58 +18,6 @@ propria).
 
 Questa flessibilità in termini di orario e luogo è resa possibile dalla disciplina del nostro team e 
 dall'uso continuo e attento di strumenti ad hoc.
-
-## Stand-up Meeting Settimanali 🔈 
-
-Venerdì mattina, appena siamo tutti operativi ci riuniamo in una video call (Skype) per fare il 
-punto della situazione tutti insieme. L'obiettivo è quello di impiegare un paio di minuti a testa 
-per  discutere di quello che si è fatto durante la settimana e quello che si farà nella prossima, 
-evidenziando dove necessario criticità o successi di quanto sta accadendo nei progetti su cui 
-lavoriamo. Questo è importante perché non tutti lavoriamo sugli stessi progetti e perché spesso non 
-abbiamo l'occasione di confrontarci tutti insieme su di essi.
-
-Ogni venerdì, alle 10:00 Slackbot ci ricorda:
-
-> Reminder: Stand-up Meeting del Venerdì
-> 
-> Domande
-> 
-> * cosa si è fatto durante la settimana. Ci sono stati problemi?
-> * cosa si fa oggi (venerdì)?
-> * cosa si farà la settimana prossima?
-
-Un esempio molto basilare di intervento potrebbe essere:
-
-> Ciao a tutti, questa settimana ho lavorato sul progetto NASA, oggi mi occuperò della 
-> sponsorizzazione del RubyDay e di risolvere un bug sul sito di Nebulab; la settimana prossima 
-> continuerò a lavorare sul progetto NASA, per il quale siamo quasi pronti per il lancio della nuova 
-> piattaforma web.
-
-### Risolviamo insieme i problemi e celebriamo insieme i successi
-
-Cerchiamo di tenere gli interventi al minimo indispensabile, ma non esageriamo! Se ci sono cose 
-importanti di cui parlare facciamolo pure, al massimo qualcuno suggerirà di continuare il discorso 
-in separata sede con un numero ristretto di partecipanti.
-
-È importante che in questi piccoli recap vengano fuori anche:
-
-- spunti di miglioramento;
-- argomenti di confronto;
-- cose che non vanno bene;
-- cose che vanno bene.
-
-### Report degli Stand-Up
-
-Spesso capita che vengano fuori degli argomenti di cui ridiscutere nei prossimi stand-up o 
-separatamente. Per questo utilizziamo una board Trello dedicata: 
-[Stand-Up](https://trello.com/b/GjXy3rlF/stand-up).
-
-Qui, per ogni meeting, si farà una card contenente un recap dei punti lasciati in sospeso. Le card 
-avranno una label `Cose in sospeso` finché ci saranno punti ancora irrisolti al loro interno. Alla 
-fine di ogni meeting faremo un rapido check tutti insieme delle vecchie card.
-
-**NB**: Questo approccio è sperimentale, se ci sono idee migliori per la gestione di questo aspetto 
-parliamone nel prossimo stand-up!
 
 ## Strumenti 🔧 
 
@@ -135,6 +83,71 @@ utilizzo:
 - Evitiamo le chat private il più possibile, soprattutto per richieste di aiuto o supporto. Altri 
   potrebbero avere una risposta migliore, imparare dalla domanda o semplicemente avere voglia di 
   scatenare un divertentissimo flame. 🔥
+
+## Mentoring e 1:1
+
+Al tuo ingresso in Nebulab ti sarà assegnato un mentore, il cui obiettivo è quello di seguirti
+per tutto il tempo che lavorerai qui e assicurarsi che non smetti mai di crescere. Il tuo mentore è 
+il tuo punto di riferimento per tutto quello che riguarda il mondo Nebulab, dunque sentiti libero di
+contattarlo in qualunque momento per qualunque dubbio o problematica.
+
+Una delle responsabilità più importanti del tuo mentore sarà l'organizzazione degli 1:1. Ogni primo 
+venerdì del mese, ti riunirai col tuo mentore in un 1:1 ("uno-a-uno" o "one-on-one"). L'1:1 non è un 
+meeting tradizionale: non ha un'agenda e non non ha una durata fissa. Se vuoi puoi parlare prima col 
+tuo mentore dei punti che vorresti affrontare, ma non è obbligatorio. Se non hai nulla di specifico 
+di cui parlare, sarà semplicemente una chiacchierata.
+
+Ecco alcune cose che l'1:1 NON è:
+
+- Non è necessariamente un meeting da ufficio. Se vuoi fare una passeggiata, dillo al tuo mentore. 
+Se vuoi andare a prendere un caffè, perfetto. Se vuoi/devi farlo da casa, va bene anche quello.
+- Non è un aggiornamento di stato sui progetti a cui stai lavorando. Se c'è qualche problema in
+particolare che vuoi affrontare, sentiti libero di farlo, ma il tuo mentore non ti farà pressioni
+al riguardo.
+- Non è un meeting in cui serve parlare di lavoro: se ultimamente ti è successo qualcosa di bello 
+(o, speriamo di no, di brutto) e ti fa piacere parlarne nell'1:1, fallo pure: sono quelle le 
+conversazioni più importanti.
+- Non è un meeting obbligatorio: se un giorno semplicemente non ti va di parlare, dillo al tuo 
+mentore e trovate insieme un'altra data. Gli 1:1 hanno una cadenza regolare per ragioni 
+organizzative, ma sono incentrati sulle persone, non sui calendari.
+
+Al termine dell'1:1, il tuo mentore inserirà in un documento Google condiviso con te alcune note su
+quello di cui avete parlato e su eventuali impegni da parte sua o tua, in modo che possiate 
+riguardarle nel meeting successivo e vedere come le cose si sono evolute.
+
+L'1:1 è anche il momento in cui discutere dei tuoi [progetti di crescita personale](#il-venerdi) e 
+degli obiettivi che ti sei prefissato per il mese.
+
+## Il venerdì
+
+Il venerdì in Nebulab è un momento di crescita personale e collettiva. Il venerdì non lavoriamo sui
+clienti, ma su noi stessi e di conseguenza su Nebulab.
+
+Ogni mese, al termine dell'1:1 col tuo mentore, deciderai su cosa ti vuoi concentrare per i 
+successivi tre venerdì: può essere studiare un nuovo tool che hai trovato interessante, realizzare 
+una piccola app, contribuire a un progetto OSS che usi spesso o lavorare a un post per il blog.
+Qualunque cosa che migliori in qualche modo te o Nebulab (o, ancora meglio, tutti e due) va bene.
+
+Insieme al progetto, il tuo mentore ti aiuterà a decidere quali obiettivi vuoi raggiungere e come
+farai a mostrare concretamente quello che hai realizzato. Per esempio, se hai deciso di studiare un
+nuovo framework front-end, potresti realizzare una piccola app con quel framework. Se hai letto un
+libro, potresti creare una presentazione su quello che hai imparato. Se non sei sicuro di cosa 
+portare, il tuo mentore ti aiuterà a scegliere.
+
+Il tuo progetto del venerdì sarà messo insieme agli altri in un documento Google condiviso con 
+tutti, in modo che gli altri sappiano a cosa lavori e siano pronti per quello che porterai al
+[Demo Friday](#il-demo-friday).
+
+### Il Demo Friday
+
+L'ultimo venerdì del mese è il Demo Friday. Gli uffici di Latina e Pescara saranno collegati in 
+videoconferenza (chi lavora da remoto si collegherà separatamente), e a turno ognuno mostrerà quello 
+che ha realizzato durante il mese. Non c'è una lunghezza fissa per la presentazione, ma l'ideale è 
+tra i 15 e i 30 minuti. Dopo aver presentato, aspettati delle domande, e assicurati di prepararne 
+per le presentazioni degli altri!
+
+I Demo Friday sono registrati e le registrazioni sono pubblicate su YouTube, in caso qualcuno non
+possa partecipare. 
 
 ## Istruzione 📚 
 
