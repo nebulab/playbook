@@ -1,4 +1,4 @@
-# 📖 Il playbook di Nebulab
+# Il playbook di Nebulab
 
 1. [Introduzione](https://github.com/nebulab/playbook/blob/master/introduzione.md)
 2. [Lavorare insieme](https://github.com/nebulab/playbook/blob/master/lavorare-insieme.md)

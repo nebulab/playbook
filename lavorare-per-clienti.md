@@ -8,7 +8,7 @@ propone, rispettivamente, di rappresentare e di mantenere. Lavorare per i client
 anche lavorare insieme ad uno o più membri del team di Nebulab. È importante supportarsi e 
 coordinarsi, sopperendo ad eventuali mancanze degli altri membri del team.
 
-## I valori che portiamo avanti 🙌
+## I valori che portiamo avanti
 
 Tutto ciò che Nebulab si propone di essere è riportato sul nostro sito internet. Un cliente che ci 
 contatta porta con sé un bagaglio di aspettative dovute alla comunicazione presente sul sito web che 
@@ -39,14 +39,14 @@ Alcuni di questi Standard dipendono direttamente o incarnano di per sé dei valo
 intellettuali che vorremmo fossero rappresentati da ciascuno dei componenti nel team nei confronti 
 dei clienti.
 
-### Onestà 🤝 
+### Onestà
 
 Lavoriamo in modo onesto. Agiamo e comunichiamo in maniera sincera, leale e trasparente. Non 
 cerchiamo soluzioni di comodo e esprimiamo le nostre perplessità se pensiamo che una scelta possa 
 portare anche solo indirettamente un danno al cliente. Segniamo e billiamo solo le ore 
 effettivamente svolte sul progetto.
 
-### Comunicatività 📢
+### Comunicatività
 
 Lavoriamo da remoto e la comunicazione è uno degli aspetti più importanti. Su qualsiasi mezzo (chat, 
 email, conference call, tool di PM, registri presenze etc...) bisognerebbe interagire con il cliente 
@@ -58,7 +58,7 @@ sta facendo o si farà in quella giornata. Segnaliamo le problematiche o i dubbi
 di tenere aggiornati i tool di PM del cliente o interni. Segniamo a fine giornata le ore svolte su 
 Float e/o sui registri presenze del cliente.
 
-### Tempismo ⏳
+### Tempismo
  
 Il miglior lavoro o la migliore risposta ad una domanda non servono a nulla se dati con i tempi 
 sbagliati. Cerchiamo di capire le priorità del cliente sui task da svolgere e se non siamo sicuri 
@@ -67,14 +67,14 @@ di rispondere prima possibile, chiedendo ad esempio di parlarne in un momento in
 occupati, oppure coinvolgete una persona che può prendere in carico la richiesta. La regola aurea è
 non procrastinare.
 
-### Iniziativa ✋
+### Iniziativa
 
 Liberate la vostra iniziativa. Sul lavoro per i clienti iniziativa si traduce con responsabilità e 
 autonomia nel lavoro che si va a svolgere. Affrontate le situazioni e le problematiche con senso 
 critico, cercando e proponendo la soluzione migliore, non aspettate che sia un altro a farlo per 
 voi.
 
-## La consuntivazione delle ore ✍️
+## La consuntivazione delle ore
 
 La giornata lavorativa per contratti full-time è di 8 ore. Si può decidere contrattualmente di 
 ridurre le ore lavorative accedendo al cosiddetto lavoro part-time.

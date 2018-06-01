@@ -1,4 +1,4 @@
-# Benefit 🌴 
+# Benefit
 
 Chiunque all’interno del nostro team ha diritto ai seguenti benefici.
 
@@ -16,12 +16,12 @@ Le Settimane Nebulose sono 2/3 meeting annuali di durata settimanale in cui si l
 Tutti nel team hanno diritto a lavorare in orari flessibili (compatibilmente con le esigenze dei
 clienti e degli altri membri del team) e a lavorare da remoto.
 
-## Conferenza
+## Conferenze
 
 Le spese per partecipare a eventuali conferenze (biglietto aereo, hotel e biglietto per la
 conferenza) sono completamente coperte da Nebulab. 
 
-## Istruzione 📚 
+## Istruzione
 
 Tutti i membri del team possono avere accesso a libri, e-book e corsi online.
 

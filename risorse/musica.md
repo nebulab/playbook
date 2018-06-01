@@ -1,4 +1,4 @@
-# Musica 🎹 
+# Musica
 
 In entrambi le sedi di Nebulab abbiamo installato due Bowers & Wilkins Z2 che possono essere usati 
 sia come Dock per iPhone sia come Speaker AirPlay.  Abbiamo creato due playlist collaborative, una 

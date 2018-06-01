@@ -1,6 +1,6 @@
 # Lavorare insieme
 
-## Orari e luoghi di lavoro 🕙 
+## Orari e luoghi di lavoro
 
 La nostra settimana lavorativa si costituisce di 4 giorni dedicati a lavori per clienti esterni (non 
 necessariamente sempre con lo stesso cliente) e di 1 giorno, [il venerdì](il-venerdi.md), dedicato 
@@ -19,9 +19,9 @@ propria).
 Questa flessibilità in termini di orario e luogo è resa possibile dalla disciplina del nostro team e 
 dall'uso continuo e attento di strumenti ad hoc.
 
-## Strumenti 🔧 
+## Strumenti
 
-### Google Apps 📱
+### Google App
 
 Usiamo la versione "business" dei servizi di google per usare e condividere:
 
@@ -39,7 +39,7 @@ Tra questi servizi prestate particolare ai calendari ed ai contatti sul quale po
 informazioni condivise quali contatti utili (clienti, freelance, etc.) e calendari di appuntamenti, 
 ferie e malattia.
 
-### Slack 💬 
+### Slack
 
 Per chattare e tenersi in contatto con gli altri. È fondamentale per comunicare
 e capire i ogni momento chi si sta occupando di cosa. L'account principale è 
@@ -82,9 +82,9 @@ utilizzo:
 - Non preoccupiamoci di disturbare gli altri, chi è occupato non leggerà.
 - Evitiamo le chat private il più possibile, soprattutto per richieste di aiuto o supporto. Altri 
   potrebbero avere una risposta migliore, imparare dalla domanda o semplicemente avere voglia di 
-  scatenare un divertentissimo flame. 🔥
+  scatenare un divertentissimo flame.
 
-## Salute e sicurezza sul lavoro 👷 
+## Salute e sicurezza sul lavoro
 
 Entrambi gli uffici di Nebulab rispettano le norme di sicurezza sul lavoro vigenti in Italia.
 
@@ -94,7 +94,7 @@ minuti ogni 2 ore di lavoro continuo davanti al computer. Durante queste pause �
 allontanarsi dalla propria postazione di lavoro e praticare altre attività come bere un caffè o un 
 tè, fare uno spuntino, fare una passeggiata, portare a spasso il cane.
 
-## Ferie, permessi, straordinari e malattia 😷
+## Ferie, permessi, straordinari e malatti
 
 I giorni di ferie e le ore di permesso residue possono essere consultate nulla propria busta paga:
 
@@ -150,7 +150,7 @@ tipologia di `Time Off`, disponibile nel menù a tendina, dovrà seguire i segue
 * `Permesso straordinario` va utilizzato per i permessi concessi in casi straordinari elencati nella 
   sezione [Permessi, permessi straordinari e lavoro straordinario](https://github.com/nebulab/nebulab/wiki/Lavorare-insieme#permessi-permessi-straordinari-e-lavoro-straordinario).
 
-## Paga 💰 
+## Paga
 
 Il pagamento dello stipendio viene emesso tramite bonifico bancario entro il giorno 10 di ogni mese. 
 La tredicesima mensilità viene erogata nel mese di dicembre mentre la quattordicesima nel mese di 
@@ -159,7 +159,7 @@ giugno.
 Il cedolino in cui risultano tutti gli importi di competenza del mese o delle mensilità aggiuntive 
 sarà disponibile nella cartella `/Buste Paga` privata su Google Drive di Nebulab.
 
-## Non lavorare più insieme 😢
+## Non lavorare più insiem
 
 Il contratto di lavoro prevede la facoltà per il lavoratore di recedere unilateralmente dal 
 contratto stesso mediante rassegnazione delle proprie dimissioni. La 
