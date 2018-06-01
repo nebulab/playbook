@@ -35,11 +35,6 @@ che si verificano. Dallo stato dei server ai tweet dell'account
 [@nebulab_it](https://twitter.com/nebulab_it) ci sono chicche ed informazioni utili per tutti i 
 gusti.
 
-Possono essere utilizzati anche alcuni comandi utili. Il più utile di tutti è `/deploy` con cui si 
-possono effettuare i deploy delle applicazioni che Nebulab gestice. Ad esempio 
-`/deploy nebulab staging` effettuerà un deploy in `staging` del sito web 
-[nebulab.it](http://nebulab.it).
-
 Altri comandi invece non servono proprio a niente se non a cazzeggiare... Occhio a quello che 
 scrivete perchè alcune parole riceveranno una risposta automatica, a volte divertente ma a volte 
 anche offensiva! :P
