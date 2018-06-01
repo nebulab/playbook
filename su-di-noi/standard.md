@@ -1,17 +1,4 @@
-# Introduzione
-
-## Benvenuto
-
-Nebulab è una società di consulenza nell’ambito web fondata nel 2012 che si occupa principalmente di 
-realizzazione e gestione di applicazioni web per clienti nazionali ed internazionali. Siamo 
-un’azienda in costante crescita grazie a un team di professionisti che amano il proprio lavoro e che 
-condividono gli stessi principi.
-
-L'obiettivo di questo manuale è di fare chiarezza e tracciare delle linee guida da seguire nel 
-lavoro di tutti i giorni. Ogni sezione riporterà una serie di decisioni e riflessioni venute fuori 
-lavorando concretamente su diversi progetti.
-
-## Standard
+# Standard
 
 I nostri standard fondamentali costituiscono la base per il nostro successo e la nostra crescita 
 come azienda. Crediamo fermamente che la qualità di un progetto (inteso come insieme di management, 
@@ -33,18 +20,3 @@ trasparenza ed efficienza.
 
 Crediamo che anche un professionista con anni di esperienza non debba mai smettere di imparare e 
 debba a volte, ove necessario, sapersi mettere in discussione.
-
-## Di che cosa ci occupiamo
-
-* Design e sviluppo e-commerce Solidus/Spree;
-* Design e sviluppo applicazioni web;
-* Design e sviluppo siti CMS;
-* Realizzazione siti statici (vetrina);
-* Branding web;
-* Gestione campagne PPC, SEO, social media e newsletter.
-
-## Di che cosa non ci occupiamo
-
-* Design e sviluppo applicazioni iOS e Android (ma non è escluso che in futuro lo faremo);
-* Sviluppo piattaforme e-commerce che non siano Solidus/Spree;
-* Campagne pubblicitarie e grafica tradizionale.

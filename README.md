@@ -1,19 +1,60 @@
 # Il playbook di Nebulab ![Nebulab logo](https://github.com/nebulab/playbook/blob/master/logo.png "Nebulab logo")
 
-1. [Introduzione](https://github.com/nebulab/playbook/blob/master/introduzione.md)
-2. [Lavorare insieme](https://github.com/nebulab/playbook/blob/master/lavorare-insieme.md)
-3. [Benefit](https://github.com/nebulab/playbook/blob/master/benefit.md)
-4. [Lavorare per i clienti](https://github.com/nebulab/playbook/blob/master/lavorare-per-clienti.md)
-5. [Crescita pesonale](https://github.com/nebulab/playbook/blob/master/crescita-personale.md)
-6. [Sviluppo](https://github.com/nebulab/playbook/blob/master/sviluppo.md)
+Nebulab è una società di consulenza nell’ambito web fondata nel 2012 che si occupa principalmente di 
+realizzazione e gestione di applicazioni web per clienti nazionali ed internazionali. Siamo 
+un’azienda in costante crescita grazie a un team di professionisti che amano il proprio lavoro e che 
+condividono gli stessi principi.
+
+L'obiettivo di questo manuale è di fare chiarezza e tracciare delle linee guida da seguire nel 
+lavoro di tutti i giorni. Ogni sezione riporterà una serie di decisioni e riflessioni venute fuori 
+lavorando concretamente su diversi progetti.
+
+## Su di noi
+
+- Standard
+- Cosa facciamo
+
+## Lavorare insieme
+
+- [Dove e quando](https://github.com/nebulab/playbook/blob/master/lavorare-insieme/dove-e-quando.md)
+- [Tool](https://github.com/nebulab/playbook/blob/master/lavorare-insieme/tool.md)
+- [Ferie, permessi e malattia](https://github.com/nebulab/playbook/blob/master/lavorare-insieme/ferie-permessi-malattia.md)
+- [Paga](https://github.com/nebulab/playbook/blob/master/lavorare-insieme/paga.md)
+- [Benefit](https://github.com/nebulab/playbook/blob/master/lavorare-insieme/benefit.md)
+- [Salute e sicurezza sul lavoro](https://github.com/nebulab/playbook/blob/master/lavorare-insieme/salute-e-sicurezza.md)
+- [Firma per le email](https://github.com/nebulab/playbook/blob/master/lavorare-insieme/firma-email.md)
+- [Social](https://github.com/nebulab/playbook/blob/master/lavorare-insieme/social.md)
+- [Non lavorare più insieme](https://github.com/nebulab/playbook/blob/master/lavorare-insieme/dimissioni.md)
+
+## Gli uffici
+
+- [Wi-Fi](https://github.com/nebulab/playbook/blob/master/gli-uffici/wifi.md)
+- [Musica](https://github.com/nebulab/playbook/blob/master/gli-uffici/musica.md)
+
+## Lavorare per i clienti
+
+- [I valori che portiamo avanti](https://github.com/nebulab/playbook/blob/master/lavorare-per-i-clienti/valori.md)
+- [La consuntivazione delle ore](https://github.com/nebulab/playbook/blob/master/lavorare-per-i-clienti/consuntivazione.md)
+- [Tariffe](https://github.com/nebulab/playbook/blob/master/lavorare-per-i-clienti/tariffe.md)
+
+## Crescita personale
+
+- [Mentoring e 1:1](https://github.com/nebulab/playbook/blob/master/crescita-personale/mentoring-e-1-1.md)
+- [Il venerdì](https://github.com/nebulab/playbook/blob/master/crescita-personale/venerdi.md)
+
+## Sviluppo
+
+- [Setup](https://github.com/nebulab/playbook/blob/master/sviluppo/setup.md)
+- [Codice](https://github.com/nebulab/playbook/blob/master/sviluppo/codice.md)
+- [Rubocop](https://github.com/nebulab/playbook/blob/master/sviluppo/rubocop.md)
+- [Git / GitHub](https://github.com/nebulab/playbook/blob/master/sviluppo/git.md)
+- [Readme](https://github.com/nebulab/playbook/blob/master/sviluppo/readme.md)
+- [Variabili di configurazione](https://github.com/nebulab/playbook/blob/master/sviluppo/variabili-di-configurazione.md)
+- [Seed](https://github.com/nebulab/playbook/blob/master/sviluppo/seed.md)
+- [Test](https://github.com/nebulab/playbook/blob/master/sviluppo/test.md)
+- [Errori comuni](https://github.com/nebulab/playbook/blob/master/sviluppo/errori-comuni.md)
+- [Design](https://github.com/nebulab/playbook/blob/master/sviluppo/design.md)
 
 ## Risorse utili
 
-- [Wi-Fi](https://github.com/nebulab/playbook/blob/master/risorse/wifi.md)
-- [Design](https://github.com/nebulab/playbook/blob/master/risorse/design.md)
-- [Tariffe](https://github.com/nebulab/playbook/blob/master/risorse/tariffe.md)
-- [Social](https://github.com/nebulab/playbook/blob/master/risorse/social.md)
-- [Rubocop](https://github.com/nebulab/playbook/blob/master/risorse/rubocop.md)
-- [Firma per le email](https://github.com/nebulab/playbook/blob/master/risorse/firma-email.md)
-- [Musica](https://github.com/nebulab/playbook/blob/master/risorse/musica.md)
 - [Privacy policy](https://github.com/nebulab/playbook/blob/master/risorse/privacy-policy.md)
