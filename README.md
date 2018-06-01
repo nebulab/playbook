@@ -16,3 +16,4 @@
 - [Rubocop](https://github.com/nebulab/playbook/blob/master/risorse/rubocop.md)
 - [Firma per le email](https://github.com/nebulab/playbook/blob/master/risorse/firma-email.md)
 - [Musica](https://github.com/nebulab/playbook/blob/master/risorse/musica.md)
+- [Privacy policy](https://github.com/nebulab/playbook/blob/master/risorse/privacy-policy.md)
