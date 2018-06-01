@@ -159,7 +159,7 @@ giugno.
 Il cedolino in cui risultano tutti gli importi di competenza del mese o delle mensilità aggiuntive 
 sarà disponibile nella cartella `/Buste Paga` privata su Google Drive di Nebulab.
 
-## Non lavorare più insiem
+## Non lavorare più insieme
 
 Il contratto di lavoro prevede la facoltà per il lavoratore di recedere unilateralmente dal 
 contratto stesso mediante rassegnazione delle proprie dimissioni. La 
