@@ -1,4 +1,4 @@
-# Errori comuni
+# Cookbook
 
 Capita che alcuni problemi nel deploy o nello sviluppo di nuove funzionalità siano legati ad errori 
 comuni e che tendono a ripresentarsi ciclicamente. Questa pagina vuole proporre una serie di 
