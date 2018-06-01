@@ -38,6 +38,7 @@ lavorando concretamente su diversi progetti.
 ## Lavorare su Nebulab
 
 - [Social](https://github.com/nebulab/playbook/blob/master/lavorare-su-nebulab/social.md)
+- Sito web
 - Blog
 - Progetti interni
 
