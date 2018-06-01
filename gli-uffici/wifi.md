@@ -1,27 +1,25 @@
-# WiFi
+# Wi-Fi
 
 ## Pescara
 
-**Network:** Guest@Nebulab
+### Rete
 
-**Wi-Fi Password:** orion_molecular_cloud_complex
+**Rete:** Guest@Nebulab
+
+**Password:** orion_molecular_cloud_complex
 
 ## Latina
 
-**Rete**: Nebulab o Nebulab_5GHz
+### Rete
+
+**Rete**: Nebulab / Nebulab_5GHz
 
 **Password**: lakupiippu
 
-***
+### Router
 
-**Rete Guest**: Nebulab-guest o Nebulab_5GHz-guest
+**IP**: http://192.168.1.1
 
-**Password**: ciao81
-
-***
-
-**Router**: http://192.168.1.1
-
-**User**: admin
+**Username**: admin
 
 **Password**: scorreggione
