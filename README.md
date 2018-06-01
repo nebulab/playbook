@@ -57,7 +57,6 @@ lavorando concretamente su diversi progetti.
 - [Readme](https://github.com/nebulab/playbook/blob/master/sviluppo/readme.md)
 - [Seed](https://github.com/nebulab/playbook/blob/master/sviluppo/seed.md)
 - [Test](https://github.com/nebulab/playbook/blob/master/sviluppo/test.md)
-- [Cookbook](https://github.com/nebulab/playbook/blob/master/sviluppo/cookbook.md)
 - [Design](https://github.com/nebulab/playbook/blob/master/sviluppo/design.md)
 
 ## Risorse utili
