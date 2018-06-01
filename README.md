@@ -34,7 +34,6 @@ lavorando concretamente su diversi progetti.
 
 - [I valori che portiamo avanti](https://github.com/nebulab/playbook/blob/master/lavorare-per-i-clienti/valori.md)
 - [La consuntivazione delle ore](https://github.com/nebulab/playbook/blob/master/lavorare-per-i-clienti/consuntivazione.md)
-- [Tariffe](https://github.com/nebulab/playbook/blob/master/lavorare-per-i-clienti/tariffe.md)
 
 ## Lavorare su Nebulab
 
