@@ -1,7 +1,7 @@
 # Rubocop
 
 L'utilizzo di Rubocop è importante per uniformare lo stile del 
-codice quanto più possibile sulle nostre applicazioni. Questo 
+codice quanto più possibile nelle nostre applicazioni. Questo 
 favorisce l'ordine e la pulizia all'interno dei file, semplifica 
 la lettura del codice e rende meno complessa la rotazione
 degli sviluppatori tra progetti e feature.
