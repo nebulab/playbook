@@ -1,160 +1,23 @@
 # Rubocop
 
-Mettete questo nel vostro `rubocop.yml` (ispirato a 
-[Relaxed.Ruby.Style](http://relaxed.ruby.style/)):
+L'utilizzo di Rubocop è importante per uniformare lo stile del 
+codice quanto più possibile sulle nostre applicazioni. Questo 
+favorisce l'ordine e la pulizia all'interno dei file, semplifica 
+la lettura del codice e rende meno complessa la rotazione
+degli sviluppatori tra progetti e feature.
+
+Invece di reinventare la ruota, abbiamo deciso di seguire una 
+styleguide adottata a livello universale, cioè [Relaxed.Ruby.Style](http://relaxed.ruby.style/)
+
+Utilizzare una styleguide accettata universalmente ha anche 
+l'effetto di ridurre il lock-in nei confronti dei nostri clienti
+che saranno liberi di cambiare partner di sviluppo senza trovare
+codice scritto in maniera troppo opinionata.
+
+Per iniziare ad usare questa styleguide basta inserire queste righe 
+nel vostro `rubocop.yml`:
 
 ```yaml
-
-# https://github.com/bbatsov/rubocop/issues/3284
-Style/FrozenStringLiteralComment:
-  Enabled: false
-
-Style/Alias:
-  Enabled: false
-  StyleGuide: http://relaxed.ruby.style/#stylealias
-
-Style/BeginBlock:
-  Enabled: false
-  StyleGuide: http://relaxed.ruby.style/#stylebeginblock
-
-Style/BlockDelimiters:
-  Enabled: false
-  StyleGuide: http://relaxed.ruby.style/#styleblockdelimiters
-
-Style/Documentation:
-  Enabled: false
-  StyleGuide: http://relaxed.ruby.style/#styledocumentation
-
-Style/DotPosition:
-  Enabled: false
-  StyleGuide: http://relaxed.ruby.style/#styledotposition
-
-Style/DoubleNegation:
-  Enabled: false
-  StyleGuide: http://relaxed.ruby.style/#styledoublenegation
-
-Style/EndBlock:
-  Enabled: false
-  StyleGuide: http://relaxed.ruby.style/#styleendblock
-
-Style/FormatString:
-  Enabled: false
-  StyleGuide: http://relaxed.ruby.style/#styleformatstring
-
-Style/IfUnlessModifier:
-  Enabled: false
-  StyleGuide: http://relaxed.ruby.style/#styleifunlessmodifier
-
-Style/Lambda:
-  Enabled: false
-  StyleGuide: http://relaxed.ruby.style/#stylelambda
-
-Style/ModuleFunction:
-  Enabled: false
-  StyleGuide: http://relaxed.ruby.style/#stylemodulefunction
-
-Style/MultilineBlockChain:
-  Enabled: false
-  StyleGuide: http://relaxed.ruby.style/#stylemultilineblockchain
-
-Style/NegatedIf:
-  Enabled: false
-  StyleGuide: http://relaxed.ruby.style/#stylenegatedif
-
-Style/NegatedWhile:
-  Enabled: false
-  StyleGuide: http://relaxed.ruby.style/#stylenegatedwhile
-
-Style/ParallelAssignment:
-  Enabled: false
-  StyleGuide: http://relaxed.ruby.style/#styleparallelassignment
-
-Style/PercentLiteralDelimiters:
-  Enabled: false
-  StyleGuide: http://relaxed.ruby.style/#stylepercentliteraldelimiters
-
-Style/PerlBackrefs:
-  Enabled: false
-  StyleGuide: http://relaxed.ruby.style/#styleperlbackrefs
-
-Style/Semicolon:
-  Enabled: false
-  StyleGuide: http://relaxed.ruby.style/#stylesemicolon
-
-Style/SignalException:
-  Enabled: false
-  StyleGuide: http://relaxed.ruby.style/#stylesignalexception
-
-Style/SingleLineBlockParams:
-  Enabled: false
-  StyleGuide: http://relaxed.ruby.style/#stylesinglelineblockparams
-
-Style/SingleLineMethods:
-  Enabled: false
-  StyleGuide: http://relaxed.ruby.style/#stylesinglelinemethods
-
-Style/SpaceBeforeBlockBraces:
-  Enabled: false
-  StyleGuide: http://relaxed.ruby.style/#stylespacebeforeblockbraces
-
-Style/SpaceInsideParens:
-  Enabled: false
-  StyleGuide: http://relaxed.ruby.style/#stylespaceinsideparens
-
-Style/SpecialGlobalVars:
-  Enabled: false
-  StyleGuide: http://relaxed.ruby.style/#stylespecialglobalvars
-
-Style/StringLiterals:
-  Enabled: false
-  StyleGuide: http://relaxed.ruby.style/#stylestringliterals
-
-Style/TrailingCommaInLiteral:
-  Enabled: false
-  StyleGuide: http://relaxed.ruby.style/#styletrailingcommainliteral
-
-Style/WhileUntilModifier:
-  Enabled: false
-  StyleGuide: http://relaxed.ruby.style/#stylewhileuntilmodifier
-
-Lint/AmbiguousRegexpLiteral:
-  Enabled: false
-  StyleGuide: http://relaxed.ruby.style/#lintambiguousregexpliteral
-
-Lint/AssignmentInCondition:
-  Enabled: false
-  StyleGuide: http://relaxed.ruby.style/#lintassignmentincondition
-
-Metrics/AbcSize:
-  Enabled: false
-
-Metrics/BlockNesting:
-  Enabled: false
-
-Metrics/BlockLength:
-  Enabled: true
-  Exclude:
-    - "spec/**/*.rb"
-
-Metrics/ClassLength:
-  Enabled: false
-
-Metrics/ModuleLength:
-  Enabled: false
-
-Metrics/CyclomaticComplexity:
-  Enabled: false
-
-Metrics/LineLength:
-  Enabled: false
-
-Metrics/MethodLength:
-  Enabled: false
-
-Metrics/ParameterLists:
-  Enabled: false
-
-Metrics/PerceivedComplexity:
-  Enabled: false
-
+inherit_from:
+  - https://relaxed.ruby.style/rubocop.yml
 ```
