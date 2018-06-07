@@ -6,10 +6,10 @@ il tuo punto di riferimento per tutto quello che riguarda il mondo Nebulab, dunq
 contattarlo in qualunque momento per qualunque dubbio o problematica.
 
 Una delle responsabilità più importanti del tuo mentore sarà l'organizzazione degli 1:1. Ogni primo 
-venerdì del mese, ti riunirai col tuo mentore in un 1:1 ("uno-a-uno" o "one-on-one"). L'1:1 non è un 
-meeting tradizionale: non ha un'agenda e non non ha una durata fissa. Se vuoi puoi parlare prima col 
-tuo mentore dei punti che vorresti affrontare, ma non è obbligatorio. Se non hai nulla di specifico 
-di cui parlare, sarà semplicemente una chiacchierata.
+venerdì del mese (se sei un tirocinante, ogni due venerdì), ti riunirai col tuo mentore in un 1:1 
+("uno-a-uno" o "one-on-one"). L'1:1 non è un meeting tradizionale: non ha un'agenda e non non ha una 
+durata fissa. Se vuoi puoi parlare prima col tuo mentore dei punti che vorresti affrontare, ma non è 
+obbligatorio. Se non hai nulla di specifico di cui parlare, sarà semplicemente una chiacchierata.
 
 Ecco alcune cose che l'1:1 NON è:
 

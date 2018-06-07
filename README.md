@@ -47,6 +47,7 @@ lavorando concretamente su diversi progetti.
 
 - [Mentoring e 1:1](https://github.com/nebulab/playbook/blob/master/crescita-personale/mentoring-e-1-1.md)
 - [Il venerdì](https://github.com/nebulab/playbook/blob/master/crescita-personale/venerdi.md)
+- [Tirocinio](https://github.com/nebulab/playbook/blob/master/crescita-personale/tirocinio.md)
 
 ## Sviluppo
 
