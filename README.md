@@ -38,10 +38,10 @@ lavorando concretamente su diversi progetti.
 ## Lavorare su Nebulab
 
 - [Social](https://github.com/nebulab/playbook/blob/master/lavorare-su-nebulab/social.md)
-- Sito web
-- Blog
-- Progetti interni
-- Playbook
+- [Sito web](https://github.com/nebulab/playbook/blob/master/lavorare-su-nebulab/sito-web.md)
+- [Blog](https://github.com/nebulab/playbook/blob/master/lavorare-su-nebulab/blog.md)
+- [Progetti interni](https://github.com/nebulab/playbook/blob/master/lavorare-su-nebulab/progetti-interni.md)
+- [Playbook](https://github.com/nebulab/playbook/blob/master/lavorare-su-nebulab/playbook.md)
 
 ## Crescita personale
 
