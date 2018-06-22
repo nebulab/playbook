@@ -8,7 +8,6 @@ Usiamo la versione "business" dei servizi di google per usare e condividere:
 * Calendari ([Google Calendar](https://www.google.com/calendar/))
 * Contatti ([Google Contacts](https://www.google.com/contacts/))
 * File ([Drive](https://drive.google.com))
-* Meeting con clienti, collaboratori ed altri membri del team ([Google Hangout](https://plus.google.com/hangouts))
 
 Per poter usufruire di tutti questi servizi (dopo essere stati registrati appositamente con un nuovo
 account) si può seguire [questa procedura](http://support.apple.com/kb/PH14276) per installare in
@@ -53,3 +52,29 @@ utilizzo:
 - Evitiamo le chat private il più possibile, soprattutto per richieste di aiuto o supporto. Altri
   potrebbero avere una risposta migliore, imparare dalla domanda o semplicemente avere voglia di
   scatenare un divertentissimo flame.
+
+## Float
+
+Per tracciare il lavoro svolto e per organizzare il lavoro da svolgere in futuro, usiamo
+[Float](https://nebulab.float.com).
+
+Ci sono degli eventi ricorrenti a cui bisogna prestare attenzione:
+
+- ogni venerdì, a fine giornata, ti verrà inviata un'email con la pianificazione del lavoro da svolgere per la settimana seguente;
+- ogni mattina ti verrà notificato in modo automatico su Slack cosa hai da fare durante la giornata;
+- a fine giornata ti verrà ricordato di aggiornare Float con le ore effettivamente svolte sui
+diversi progetti.
+
+Per farti un'idea su come segnare le ore su Float dai un'occhiata a
+[Consuntivazione]([Standard](https://github.com/nebulab/playbook/blob/master/lavorare-per-i-clienti/consuntivazione.md)).
+
+## Appear.in
+
+Per i meeting con i clienti e con il resto del team usiamo [Appear.in](https://appear.in/).
+
+Appear.in è pensato pensato per lavorare a _"stanze"_ e, con l'account a pagamento,
+abbiamo delle stanze ad alta qualità e capienza già riservate. Se hai necessità di
+riservare una stanza, chiedi a [@mtylty](https://github.com/mtylty).
+
+La stanza principale è [/nebulab](https://appear.in/) che puoi usare quando vuoi
+per qualsiasi esigenza.
