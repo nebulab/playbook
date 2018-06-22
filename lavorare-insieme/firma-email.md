@@ -4,8 +4,8 @@ Un esempio di firma da usare con la mail di Nebulab:
  
 ```
 —
-Davide Di Stefano
-+39 3200334162
+Rupert Sciamenna
++39 3331234567
 Nebulab
 http://nebulab.it
 ```
