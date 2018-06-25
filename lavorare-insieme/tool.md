@@ -76,5 +76,5 @@ Appear.in è pensato pensato per lavorare a _"stanze"_ e, con l'account a pagame
 abbiamo delle stanze ad alta qualità e capienza già riservate. Se hai necessità di
 riservare una stanza, chiedi a [@mtylty](https://github.com/mtylty).
 
-La stanza principale è [/nebulab](https://appear.in/) che puoi usare quando vuoi
+La stanza principale è [/nebulab](https://appear.in/nebulab) che puoi usare quando vuoi
 per qualsiasi esigenza.
