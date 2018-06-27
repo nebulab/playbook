@@ -5,7 +5,7 @@ clienti, ma su noi stessi e di conseguenza su Nebulab.
 
 Ogni mese, al termine dell'1:1 col tuo mentore, deciderai su cosa ti vuoi concentrare per i
 successivi tre venerdì: può essere studiare un nuovo tool che hai trovato interessante, realizzare
-una piccola app, contribuire a un progetto OSS che usi spesso o lavorare a un post per il blog.
+una piccola app, contribuire a un progetto OSS che usi spesso o lavorare a un [post per il blog](https://github.com/nebulab/playbook/blob/master/lavorare-su-nebulab/blog.md).
 Qualunque cosa che migliori in qualche modo te o Nebulab (o, ancora meglio, tutti e due) va bene.
 
 Insieme al progetto, il tuo mentore ti aiuterà a decidere quali obiettivi vuoi raggiungere e come
@@ -14,9 +14,8 @@ nuovo framework front-end, potresti realizzare una piccola app con quel framewor
 libro, potresti creare una presentazione su quello che hai imparato. Se non sei sicuro di cosa
 portare, il tuo mentore ti aiuterà a scegliere.
 
-Il tuo progetto del venerdì sarà messo insieme agli altri in un documento Google condiviso con
-tutti, in modo che gli altri sappiano a cosa lavori e siano pronti per quello che porterai al
-[Demo Friday](#il-demo-friday).
+Il tuo progetto del venerdì sarà messo insieme agli altri nella board [Demo Friday su GitHub](https://github.com/nebulab/nebulab/projects/5), in modo che gli altri sappiano a cosa lavori e siano pronti per quello che porterai al
+[Demo Friday](#il-demo-friday). Se hai scelto di scrivere un blog post come progetto, ricordati di seguire [le linee guida per la stesura dei post](https://github.com/nebulab/playbook/blob/master/lavorare-su-nebulab/blog.md) e tieni presente che l'ideale sarà avere il post in fase 4 (Feedback) già completata.
 
 ## Il Demo Friday
 
