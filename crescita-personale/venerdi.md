@@ -5,7 +5,7 @@ clienti, ma su noi stessi e di conseguenza su Nebulab.
 
 Ogni mese, al termine dell'1:1 col tuo mentore, deciderai su cosa ti vuoi concentrare per i
 successivi tre venerdì: può essere studiare un nuovo tool che hai trovato interessante, realizzare
-una piccola app, contribuire a un progetto OSS che usi spesso o lavorare a un [post per il blog](https://github.com/nebulab/playbook/blob/master/lavorare-su-nebulab/blog.md).
+una piccola app, contribuire ad un progetto OSS che usi spesso o lavorare ad un [post per il blog](https://github.com/nebulab/playbook/blob/master/lavorare-su-nebulab/blog.md).
 Qualunque cosa che migliori in qualche modo te o Nebulab (o, ancora meglio, tutti e due) va bene.
 
 Insieme al progetto, il tuo mentore ti aiuterà a decidere quali obiettivi vuoi raggiungere e come
