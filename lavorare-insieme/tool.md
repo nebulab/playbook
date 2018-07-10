@@ -66,7 +66,7 @@ Ci sono degli eventi ricorrenti a cui bisogna prestare attenzione:
 diversi progetti.
 
 Per farti un'idea su come segnare le ore su Float dai un'occhiata a
-[Consuntivazione]([Standard](https://github.com/nebulab/playbook/blob/master/lavorare-per-i-clienti/consuntivazione.md)).
+[Consuntivazione](https://github.com/nebulab/playbook/blob/master/lavorare-per-i-clienti/consuntivazione.md).
 
 ## Appear.in
 
