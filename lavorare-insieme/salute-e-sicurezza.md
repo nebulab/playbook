@@ -7,3 +7,6 @@ Raccomandiamo vivamente a tutti i membri del nostro team di fare delle pause reg
 minuti ogni 2 ore di lavoro continuo davanti al computer. Durante queste pause è bene alzarsi e 
 allontanarsi dalla propria postazione di lavoro e praticare altre attività come bere un caffè o un 
 tè, fare uno spuntino, fare una passeggiata, portare a spasso il cane.
+
+Consigliamo di usare [flexbot](http://www.flexbot.ai/), un bot per slack che può aiutare ad 
+essere costanti nell'eseguire queste attività.
