@@ -16,8 +16,9 @@ lavorando concretamente su diversi progetti.
 
 ## Lavorare insieme
 
-- [Dove e quando](https://github.com/nebulab/playbook/blob/master/lavorare-insieme/dove-e-quando.md)
+- [Dove, quando e come](https://github.com/nebulab/playbook/blob/master/lavorare-insieme/dove-quando-e-come.md)
 - [Tool](https://github.com/nebulab/playbook/blob/master/lavorare-insieme/tool.md)
+- [Meeting](https://github.com/nebulab/playbook/blob/master/lavorare-insieme/meeting.md)
 - [Ferie, permessi e malattia](https://github.com/nebulab/playbook/blob/master/lavorare-insieme/ferie-permessi-malattia.md)
 - [Paga](https://github.com/nebulab/playbook/blob/master/lavorare-insieme/paga.md)
 - [Benefit](https://github.com/nebulab/playbook/blob/master/lavorare-insieme/benefit.md)
