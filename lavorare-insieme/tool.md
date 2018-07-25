@@ -19,10 +19,9 @@ ferie e malattia.
 
 ## Slack
 
-Per chattare e tenersi in contatto con gli altri. È fondamentale per comunicare
-e capire in ogni momento chi si sta occupando di cosa. L'account principale è
-https://nebulab.slack.com/ e se si è in possesso di un indirizzo email del dominio nebulab.it è
-possibile accedere scegliendo una password.
+Per chattare e tenersi in contatto con gli altri. È fondamentale per comunicare e capire in ogni 
+momento chi si sta occupando di cosa. L'account principale è https://nebulab.slack.com/ e se si è in 
+possesso di un indirizzo email del dominio nebulab.it è possibile accedere scegliendo una password.
 
 Su Slack è possibile trovare alcune stanze pubbliche a cui tutti possono partecipare liberamente (e
 il cui nome dovrebbe essere abbastanza auto-esplicativo, come per `#bestemmie-varie`) e delle stanze
@@ -52,6 +51,15 @@ utilizzo:
 - Evitiamo le chat private il più possibile, soprattutto per richieste di aiuto o supporto. Altri
   potrebbero avere una risposta migliore, imparare dalla domanda o semplicemente avere voglia di
   scatenare un divertentissimo flame.
+- Slack è il nostro canale di comunicazione principale ed è importante essere reperibili. Detto
+  questo, lo sviluppo software è un mestiere che richiede lunghi periodi di concentrazione, dunque
+  se hai bisogno di "staccare" sentiti libero di farlo, assicurandoti di avvisare prima i tuoi
+  colleghi.
+- Ricorda che la comunicazione via chat manca completamente di segnali non-verbali, che 
+  costituiscono il 90% della comunicazione umana. È facile dunque essere fraintesi o fraintendere
+  l'altro. Un grande strumento per combattere l'assenza di emozione sono le emoji, e tra queste sono
+  da preferire quelle che esprimono emozioni di base, in quanto meno complesse. Un'altra ottima
+  opzione quando la comunicazione si fa troppo complessa è organizzare una conferenza con video!
 
 ## Float
 
