@@ -16,8 +16,10 @@ lavorando concretamente su diversi progetti.
 
 ## Lavorare insieme
 
+- [I valori che portiamo avanti](https://github.com/nebulab/playbook/blob/master/lavorare-insieme/valori.md)
 - [Dove, quando e come](https://github.com/nebulab/playbook/blob/master/lavorare-insieme/dove-quando-e-come.md)
 - [Tool](https://github.com/nebulab/playbook/blob/master/lavorare-insieme/tool.md)
+- [La consuntivazione delle ore](https://github.com/nebulab/playbook/blob/master/lavorare-insieme/consuntivazione.md)
 - [Meeting](https://github.com/nebulab/playbook/blob/master/lavorare-insieme/meeting.md)
 - [Ferie, permessi e malattia](https://github.com/nebulab/playbook/blob/master/lavorare-insieme/ferie-permessi-malattia.md)
 - [Paga](https://github.com/nebulab/playbook/blob/master/lavorare-insieme/paga.md)
@@ -30,11 +32,6 @@ lavorando concretamente su diversi progetti.
 
 - [Wi-Fi](https://github.com/nebulab/playbook/blob/master/gli-uffici/wifi.md)
 - [Musica](https://github.com/nebulab/playbook/blob/master/gli-uffici/musica.md)
-
-## Lavorare per i clienti
-
-- [I valori che portiamo avanti](https://github.com/nebulab/playbook/blob/master/lavorare-per-i-clienti/valori.md)
-- [La consuntivazione delle ore](https://github.com/nebulab/playbook/blob/master/lavorare-per-i-clienti/consuntivazione.md)
 
 ## Lavorare su Nebulab
 

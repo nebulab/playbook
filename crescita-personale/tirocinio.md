@@ -129,7 +129,7 @@ modo in cui si impara veramente.
 danneggiare il cliente, ma se anche dovessi rompere qualcosa, non sarà la fine del mondo.
 - Il cliente sa che sei un tirocinante e ha accettato di partecipare al tuo percorso di crescita.
 
-Ricorda sempre quali sono i [valori](https://github.com/nebulab/playbook/blob/master/lavorare-per-i-clienti/valori.md) 
+Ricorda sempre quali sono i [valori](https://github.com/nebulab/playbook/blob/master/lavorare-insieme/valori.md) 
 che ci muovono nel nostro lavoro e andrai alla grande.
 
 Happy coding!
