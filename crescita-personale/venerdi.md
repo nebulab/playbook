@@ -46,6 +46,7 @@ Questa regola comprende qualsiasi tipo di imprevisto nella settimana come feste 
 malattia et cetera e assenze più lunghe nelle settimane successive o precedenti come periodi di
 ferie, company retreat, conferenze et cetera.
 
-Come sempre, è decisiva la tua iniziativa e la tua sensibilità. Decidi tu se è importante per il
-cliente che ad esempio prima o dopo aver partecipato ad una conferenza è necessario il tuo supporto
-di venerdì, comunicalo su #calendario e avverti il cliente che quel venerdì sarai a disposizione.
+Come sempre, è decisiva la tua iniziativa e la tua sensibilità. Sta a te determinare se il tuo
+supporto di venerdì è importante per il cliente qualora ad esempio ti fossi assentato uno o più
+giorni per partecipare ad una conferenza. In quel caso comunicalo su #calendario e avverti il
+cliente che quel venerdì sarai a disposizione.
