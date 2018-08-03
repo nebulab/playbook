@@ -1,35 +1,25 @@
 # Blog
 
-[Il nostro blog](https://nebulab.it/blog/) è gestito da Shana ed è uno dei modi con cui contribuiamo
-al panorama OSS, nonché un modo per farci conoscere da potenziali clienti. Chiunque può scrivere sul
-blog e tutti sono incoraggiati a farlo! Scrivere è anche un ottimo modo per capire gli argomenti che
-stiamo studiando e i problemi che stiamo affrontando, dunque il risutlato di un progetto del venerdì
-potrebbe essere un articolo sul blog.
+La gestione del [nostro blog](https://nebulab.it/blog/) è di competenza del team Marketing che si assicura di tenerlo sempre vitale. 
+Il Blog è il mezzo attraverso il quale contribuiamo al panorama OSS, nonché un modo per farci conoscere da potenziali clienti e contribuire alle nostre campagne SEO. Inoltre, scrivere è anche un ottimo esercizio per comprendere e fissare gli argomenti che stiamo studiando e chiarirci i problemi che stiamo affrontando (ad esempio, un progetto del venerdì potrebbe trasformarsi in un bellissimo articolo!). Tutti sono liberi di contribuire al Blog di Nebulab.
+
+Come detto prima, però, è importante che il Blog sia sempre vitale, perciò, nel momento in cui dovesse esserci carenza di autori volontari, potrebbe essere il vostro mentore ad incoraggiarvi a scrivere.
 
 ## Scrivere un post
 
-Scrivere un post è un processo che si compone di quattro fasi ed è completamente gestito in un
+Scrivere un post è un processo che si compone di sei fasi ed è completamente gestito in un
 [progetto GitHub](https://github.com/nebulab/nebulab/projects/3):
 
 1. **Proposta:** se vuoi proporre un articolo, apri una issue e aggiungila al backlog del progetto
-[Blogposts](https://github.com/nebulab/nebulab/projects/3) su GitHub. Nella issue inserisci qualche
-dettaglio su ciò di cui vorresti parlare e su come vuoi affrontarlo. Pinga tutte le persone da cui
-vorresti del feedback o chiedi in #nebulab. Se non hai idee, puoi anche scegliere uno degli articoli
-che già sono stati proposti da Shana.
-2. **Accettazione:** una volta che sono stati raccolti abbastanza elementi per scrivere un articolo,
-lascia una nota per Shana, che provederà a spostarlo in ToDo (dopo aver chiesto chiarimenti e dato
-indicazioni, se necessario). A questo punto puoi iniziare a lavorarci!
+[Blogposts](https://github.com/nebulab/nebulab/projects/3) su GitHub. Nella issue inserisci qualche dettaglio su ciò di cui vorresti parlare e su come vorresti affrontarlo. Se invece non hai idee, puoi anche scegliere uno tra gli articoli che sono già stati proposti da Shana o altri, oppure consulta il tuo mentore.
+2. **Accettazione:** discuti l’argomento che hai deciso di trattare con il tuo mentore e raccogli quanti più elementi possibili per la stesura dell’articolo. Ottenuto l’ok dal mentore, contatta Shana e illustrale in linea generale l’idea e gli obiettivi del tuo articolo. Shana ti darà indicazioni preliminari per essere quanto più possibile SEO Friendly nella stesura (se necessario) e provvederà a spostare la issue in ToDo e a darti l’ok definitivo. A questo punto puoi iniziare a lavorarci!
 3. **Stesura:** scrivi l'articolo seguendo [le linee guida](https://github.com/nebulab/nebulab/blob/master/source/blog/posts/2050-01-01-blogpost-template.html.markdown)
-nel repository. Se hai qualche dubbio o hai bisogno di aiuto, scrivi in #nebulab e qualcuno sarà
-sicuramente felice di darti una mano.
-4. **Feedback:** una volta che hai finito la stesura iniziale, cerca di raccogliere feedback sul tuo
-articolo da più persone possibili. La tua PR deve essere approvata da almeno due persone per poter
-essere mergiata.
-5. **Grafica:** Davide provvederà a creare una copertina per il tuo articolo!
-6. **Review SEO:** dopo che l'articolo è stato finalizzato, Shana lascerà una review per
-l'ottimizzazione SEO dell'articolo.
-7. **Approvazione:** una volta mergiato, l'articolo sarà inserito nel calendario editoriale per
-essere pubblicato non appena arriva il momento.
+nel repository. Se hai qualche dubbio o hai bisogno di aiuto, scrivi in #nebulab e qualcuno sarà sicuramente felice di darti una mano.
+4. **Feedback e Review:** pinga sul canale #nebulab per richiedere feedback sul contenuto del tuo articolo e review per correggere eventuali errori grammaticali e refusi.
+5. **Review SEO e Grafica:** dopo che l'articolo è stato revisionato e implementato con le ultime correzioni, avvisa Shana che lascerà una review per l’ottimizzazione SEO dell'articolo e che a sua volta pingherà Davide per la realizzazione grafica della cover.
+7. **Approvazione:** implementate l’immagine e le ultime rifiniture SEO. A questo punto l’articolo è pronto per essere mergiato e inserito nel calendario editoriale social.
+
+Ricorda che sei sempre tu, l’autore dell’articolo, ad essere responsabile per esso, quindi non dimenticare di seguirne il progresso fino alla sua pubblicazione, anche nelle fasi che non ti riguardano direttamente
 
 ## Calendario editoriale
 
