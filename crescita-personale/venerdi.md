@@ -14,8 +14,11 @@ nuovo framework front-end, potresti realizzare una piccola app con quel framewor
 libro, potresti creare una presentazione su quello che hai imparato. Se non sei sicuro di cosa
 portare, il tuo mentore ti aiuterà a scegliere.
 
-Il tuo progetto del venerdì sarà messo insieme agli altri nella board [Demo Friday su GitHub](https://github.com/nebulab/nebulab/projects/5), in modo che gli altri sappiano a cosa lavori e siano pronti per quello che porterai al
-[Demo Friday](#il-demo-friday). Se hai scelto di scrivere un blog post come progetto, ricordati di seguire [le linee guida per la stesura dei post](https://github.com/nebulab/playbook/blob/master/lavorare-su-nebulab/blog.md) e tieni presente che l'ideale sarà avere il post in fase 4 (Feedback) già completata.
+Il tuo progetto del venerdì sarà messo insieme agli altri nella board [Demo Friday su GitHub](https://github.com/nebulab/nebulab/projects/5),
+in modo che gli altri sappiano a cosa lavori e siano pronti per quello che porterai al [Demo Friday](#il-demo-friday).
+Se hai scelto di scrivere un blog post come progetto, ricordati di seguire [le linee guida per la
+stesura dei post](https://github.com/nebulab/playbook/blob/master/lavorare-su-nebulab/blog.md) e
+tieni presente che l'ideale sarà avere il post in fase 4 (Feedback) già completata.
 
 ## Il Demo Friday
 
@@ -28,10 +31,22 @@ per le presentazioni degli altri!
 I Demo Friday sono registrati e le registrazioni sono pubblicate su YouTube, in caso qualcuno non
 possa partecipare.
 
-## Recuperare il venerdì
+## Lavorare sui clienti il venerdì
 
-Una regola è particolarmente importante: se per qualsiasi motivo non sei riuscito a lavorare in una
-giornata concordata sul progetto di un cliente dovrai rinunciare al venerdì di quella settimana per
-recuperare quella giornata e assicurare un livello minimo di servizio al cliente.
+Ci sono dei periodi in cui una giornata lavorativa su un cliente ha un peso diverso rispetto ad
+altri periodi. Questo però non vuol dire che ad ogni richiesta del cliente dobbiamo cancellare il
+nostro tempo di investimento previsto per il venerdì.
 
-Questa regola comprende qualsiasi tipo di imprevisto: feste nazionali, ferie, malattia etc.
+Detto ciò, è importante garantire un servizio minimo al cliente. In questo senso una regola è
+particolarmente importante: se per qualsiasi motivo non sei riuscito a lavorare in una giornata
+concordata sul progetto di un cliente dovrai rinunciare al venerdì di quella settimana per
+recuperare quella giornata.
+
+Questa regola comprende qualsiasi tipo di imprevisto nella settimana come feste nazionali, ferie,
+malattia et cetera e assenze più lunghe nelle settimane successive o precedenti come periodi di
+ferie, company retreat, conferenze et cetera.
+
+Come sempre, è decisiva la tua iniziativa e la tua sensibilità. Sta a te determinare se il tuo
+supporto di venerdì è importante per il cliente qualora ad esempio ti fossi assentato uno o più
+giorni per partecipare ad una conferenza. In quel caso comunicalo su #calendario e avverti il
+cliente che quel venerdì sarai a disposizione.
