@@ -62,3 +62,4 @@ lavorando concretamente su diversi progetti.
 ## Risorse utili
 
 - [Privacy policy](https://github.com/nebulab/playbook/blob/master/risorse/privacy-policy.md)
+- [Client guide](https://github.com/nebulab/playbook/blob/master/risorse/client-guide.md)
