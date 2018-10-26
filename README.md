@@ -30,11 +30,12 @@ lavorando concretamente su diversi progetti.
 
 ## Procedure
 
+- [Hiring](https://github.com/nebulab/playbook/blob/master/procedure/hiring.md)
+- [Tirocinio](https://github.com/nebulab/playbook/blob/master/procedure/tirocinio.md)
 - [Ferie, permessi e malattia](https://github.com/nebulab/playbook/blob/master/procedure/ferie-permessi-malattia.md)
 - [Paga](https://github.com/nebulab/playbook/blob/master/procedure/paga.md)
 - [Salute e sicurezza sul lavoro](https://github.com/nebulab/playbook/blob/master/procedure/salute-e-sicurezza.md)
 - [Dimissioni](https://github.com/nebulab/playbook/blob/master/procedure/dimissioni.md)
-- [Tirocinio](https://github.com/nebulab/playbook/blob/master/procedure/tirocinio.md)
 
 ## Gli uffici
 
