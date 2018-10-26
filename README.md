@@ -11,22 +11,30 @@ lavorando concretamente su diversi progetti.
 
 ## Su di noi
 
-- [Standard](https://github.com/nebulab/playbook/blob/master/su-di-noi/standard.md)
 - [Cosa facciamo](https://github.com/nebulab/playbook/blob/master/su-di-noi/cosa-facciamo.md)
+- [I nostri valori](https://github.com/nebulab/playbook/blob/master/su-di-noi/valori.md)
 
-## Lavorare insieme
+## Come lavoriamo
 
-- [I valori che portiamo avanti](https://github.com/nebulab/playbook/blob/master/lavorare-insieme/valori.md)
-- [Dove, quando e come](https://github.com/nebulab/playbook/blob/master/lavorare-insieme/dove-quando-e-come.md)
-- [Tool](https://github.com/nebulab/playbook/blob/master/lavorare-insieme/tool.md)
-- [La consuntivazione delle ore](https://github.com/nebulab/playbook/blob/master/lavorare-insieme/consuntivazione.md)
-- [Meeting](https://github.com/nebulab/playbook/blob/master/lavorare-insieme/meeting.md)
-- [Ferie, permessi e malattia](https://github.com/nebulab/playbook/blob/master/lavorare-insieme/ferie-permessi-malattia.md)
-- [Paga](https://github.com/nebulab/playbook/blob/master/lavorare-insieme/paga.md)
-- [Benefit](https://github.com/nebulab/playbook/blob/master/lavorare-insieme/benefit.md)
-- [Salute e sicurezza sul lavoro](https://github.com/nebulab/playbook/blob/master/lavorare-insieme/salute-e-sicurezza.md)
-- [Firma per le email](https://github.com/nebulab/playbook/blob/master/lavorare-insieme/firma-email.md)
-- [Dimissioni](https://github.com/nebulab/playbook/blob/master/lavorare-insieme/dimissioni.md)
+- [Dove, quando e come](https://github.com/nebulab/playbook/blob/master/come-lavoriamo/dove-quando-e-come.md)
+- [Tool](https://github.com/nebulab/playbook/blob/master/come-lavoriamo/tool.md)
+- [La consuntivazione delle ore](https://github.com/nebulab/playbook/blob/master/come-lavoriamo/consuntivazione.md)
+- [Meeting](https://github.com/nebulab/playbook/blob/master/come-lavoriamo/meeting.md)
+- [Client guide](https://github.com/nebulab/playbook/blob/master/come-lavoriamo/client-guide.md) (in English)
+
+## Crescita personale
+
+- [Mentoring e 1:1](https://github.com/nebulab/playbook/blob/master/crescita-personale/mentoring-e-1-1.md)
+- [Il venerdì](https://github.com/nebulab/playbook/blob/master/crescita-personale/venerdi.md)
+- [Benefit](https://github.com/nebulab/playbook/blob/master/crescita-personale/benefit.md)
+
+## Procedure
+
+- [Ferie, permessi e malattia](https://github.com/nebulab/playbook/blob/master/procedure/ferie-permessi-malattia.md)
+- [Paga](https://github.com/nebulab/playbook/blob/master/procedure/paga.md)
+- [Salute e sicurezza sul lavoro](https://github.com/nebulab/playbook/blob/master/procedure/salute-e-sicurezza.md)
+- [Dimissioni](https://github.com/nebulab/playbook/blob/master/procedure/dimissioni.md)
+- [Tirocinio](https://github.com/nebulab/playbook/blob/master/procedure/tirocinio.md)
 
 ## Gli uffici
 
@@ -40,12 +48,6 @@ lavorando concretamente su diversi progetti.
 - [Blog](https://github.com/nebulab/playbook/blob/master/lavorare-su-nebulab/blog.md)
 - [Progetti interni](https://github.com/nebulab/playbook/blob/master/lavorare-su-nebulab/progetti-interni.md)
 - [Playbook](https://github.com/nebulab/playbook/blob/master/lavorare-su-nebulab/playbook.md)
-
-## Crescita personale
-
-- [Mentoring e 1:1](https://github.com/nebulab/playbook/blob/master/crescita-personale/mentoring-e-1-1.md)
-- [Il venerdì](https://github.com/nebulab/playbook/blob/master/crescita-personale/venerdi.md)
-- [Tirocinio](https://github.com/nebulab/playbook/blob/master/crescita-personale/tirocinio.md)
 
 ## Sviluppo
 
@@ -62,4 +64,4 @@ lavorando concretamente su diversi progetti.
 ## Risorse utili
 
 - [Privacy policy](https://github.com/nebulab/playbook/blob/master/risorse/privacy-policy.md)
-- [Client guide](https://github.com/nebulab/playbook/blob/master/risorse/client-guide.md)
+- [Firma per le email](https://github.com/nebulab/playbook/blob/master/come-lavoriamo/firma-email.md)

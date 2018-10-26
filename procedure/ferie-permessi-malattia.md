@@ -59,7 +59,7 @@ straordinario giorno per giorno. Infatti, nel caso in cui in una giornata lavora
 imprevisto o per qualsiasi altro motivo, si deve prendere un permesso, quel permesso, per quanto
 esiguo possa essere, va segnato ANCHE in previsione di un recupero del tempo perso nel o nei giorni
 successivi. É molto importante seguire questa regola in quanto la
-[Consuntivazione](https://github.com/nebulab/playbook/blob/master/lavorare-insieme/consuntivazione.md)
+[Consuntivazione](https://github.com/nebulab/playbook/blob/master/come-lavoriamo/consuntivazione.md)
 delle ore a fine giornata è già di per sé una sfida. Segnare le ore in modo costante e trasparente
 permette invece di non dimenticarsi, in questo caso specifico, del permesso e di essere equi nei 
 confronti di clienti e colleghi.
