@@ -37,51 +37,10 @@ programmazione ma vorresti imparare, ti consigliamo di consultare queste risorse
 - [Programming Ruby (2nd edition)](https://pragprog.com/book/ruby/programming-ruby)
 - [Ruby Koans](http://rubykoans.com/)
 
-### Lettera di presentazione
+### Processo di selezione
 
-Completa il modulo che abbiamo sulla nostra pagina [Careers](https://nebulab.it/careers/) indicando 
-nella lettera di presentazione che sei interessato al tirocinio. Raccontaci un po' di te, della tua 
-esperienza (o mancanza di esperienza) col mondo del lavoro e con 
-[gli strumenti che usiamo](https://nebulab.it/tools/), del tuo approccio all'apprendimento e del 
-perché sei interessato a Nebulab.
-
-Qualcuno del team leggerà la tua lettera e, se pensa che potresti essere un buon candidato, ti 
-scriverà per trovare l'orario più adatto per un meeting conoscitivo in videoconferenza. A questo 
-meeting saranno presenti almeno due membri del team di Nebulab.
-
-### Meeting conoscitivo
-
-Il meeting conoscitivo è diviso in due parti:
-
-- nella prima parte, ti parleremo di Nebulab e risponderemo a qualunque domanda tu abbia in merito
-al tirocinio;
-- nella seconda parte, ti chiederemo qualche altra cosa di te, su quello che fai e su quello che ti
-piace.
-
-Ecco alcuni consigli per il meeting conoscitivo:
-
-- **Sii puntuale.** Questo è estremamente importante ed è indice di serietà: il solo essere puntuale 
-ti farà guadagnare un sacco di punti ai nostri occhi.
-- **Attrezzati.** Assicurati di avere una buona connessione a internet, delle buone cuffie e una 
-buona webcam. E per favore, non farlo da un bar, ma trova un posto silenzioso!
-- **Arriva preparato.** Sai già che parleremo di Nebulab e parleremo di te, dunque prepara qualche
-domanda su di noi e qualche risposta su di te! 
-- **Sii te stesso.** Il meeting conoscitivo serve per capire che tipo di persona sei e 
-personalizzare il tuo percorso. Non potremo farlo se cercherai di essere qualcun altro.
-- **Rilassati.** Siamo esseri umani. Nessuno di noi fa il responsabile delle risorse umane e nessuno
-di noi ha una laurea in psicologia. Pensa e parla come lo faresti normalmente. 
-
-Se dopo il meeting conoscitivo pensiamo che Nebulab sia il posto giusto per te e ci sarà possibile 
-inserirti immediatamente, sarai ricontattato da noi per il processo di onboarding.
-
-Purtroppo, poiché i tirocini richiedono un grande investimento di tempo, **per il momento possiamo
-accettare solo un tirocinante alla volta** (ma in futuro vogliamo incrementare questo numero). 
-Questo significa che potremmo non avere la possibilità di inserirti subito nel team nonostante il
-meeting conoscitivo sia andato bene. In ogni caso, saremo trasparenti sulla nostra capacità di 
-accettare nuovi tirocinanti mettendola sempre in chiaro nella pagina 
-[Careers](https://nebulab.it/careers/) e in risposta alla tua lettera di presentazione. Se anche non
-dovessimo essere in grado di prenderti, ti invitiamo comunque a fare domanda, in modo che possiamo
-aggiungerti alla lista di potenziali tirocinanti in attesa.
+Il processo di selezione è lo stesso per tutti, tirocinanti o meno, dunque consulta la pagina
+[Hiring](https://github.com/nebulab/playbook/blob/master/procedure/hiring.md).
 
 ## Onboarding
 
