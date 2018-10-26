@@ -66,3 +66,4 @@ lavorando concretamente su diversi progetti.
 
 - [Privacy policy](https://github.com/nebulab/playbook/blob/master/risorse/privacy-policy.md)
 - [Firma per le email](https://github.com/nebulab/playbook/blob/master/come-lavoriamo/firma-email.md)
+- [Press kit](https://drive.google.com/drive/folders/1VATPcbAhnhHZ376_GPixyYAo6u3gN8Os)
