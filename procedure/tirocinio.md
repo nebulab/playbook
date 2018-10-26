@@ -92,7 +92,7 @@ Ecco cosa faremo al tuo arrivo in Nebulab:
 - ti assegneremo un [mentore](https://github.com/nebulab/playbook/blob/master/crescita-personale/mentoring-e-1-1.md),
 che ti seguirà per tutto il tirocinio;
 - ti assegneremo un progetto reale su cui lavorare;
-- ti daremo accesso a tutti i [benefit](https://github.com/nebulab/playbook/blob/master/lavorare-insieme/benefit.md) 
+- ti daremo accesso a tutti i [benefit](https://github.com/nebulab/playbook/blob/master/crescita-personale/benefit.md) 
 dello staff di Nebulab!
 
 Come vedi, una figura importante del tirocinio è il mentore. Con lui/lei stabilirai un piano di 
@@ -129,7 +129,7 @@ modo in cui si impara veramente.
 danneggiare il cliente, ma se anche dovessi rompere qualcosa, non sarà la fine del mondo.
 - Il cliente sa che sei un tirocinante e ha accettato di partecipare al tuo percorso di crescita.
 
-Ricorda sempre quali sono i [valori](https://github.com/nebulab/playbook/blob/master/lavorare-insieme/valori.md) 
+Ricorda sempre quali sono i [valori](https://github.com/nebulab/playbook/blob/master/su-di-noi/valori.md) 
 che ci muovono nel nostro lavoro e andrai alla grande.
 
 Happy coding!
