@@ -42,9 +42,9 @@ particolarmente importante: se per qualsiasi motivo non sei riuscito a lavorare 
 concordata sul progetto di un cliente dovrai rinunciare al venerdì di quella settimana per
 recuperare quella giornata.
 
-Questa regola comprende qualsiasi tipo di imprevisto nella settimana come feste nazionali, ferie,
-malattia et cetera e assenze più lunghe nelle settimane successive o precedenti come periodi di
-ferie, company retreat, conferenze et cetera.
+Questa regola comprende qualsiasi tipo di imprevisto nella settimana quali ad esempio feste nazionali, ferie e
+malattia. Lo stesso vale per assenze più lunghe nelle settimane successive o precedenti, come periodi di
+ferie, company retreat, conferenze, eccetera.
 
 Come sempre, è decisiva la tua iniziativa e la tua sensibilità. Sta a te determinare se il tuo
 supporto di venerdì è importante per il cliente qualora ad esempio ti fossi assentato uno o più
