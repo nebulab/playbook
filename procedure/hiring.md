@@ -65,7 +65,27 @@ Ecco alcuni consigli per il colloquio:
 * **Rilassati.** Siamo esseri umani. Nessuno di noi fa il responsabile delle risorse umane e nessuno 
   di noi ha una laurea in psicologia. Pensa e parla come lo faresti normalmente.
 
-### Colloquio tecnico
+### Questionario attitudinale
+
+Dopo il colloquio, ti invieremo un questionario attitudinale che useremo per valutare il tuo metodo
+di lavoro e delle skill techniche di base. Il questionario ti sarà inviato sotto forma di un 
+documento Google che potrai compilare quando e come ti è più comodo. L'unica cosa che ti chiediamo è 
+di comunicarci in anticipo quando possiamo aspettarci di avere le risposte, per coordinare meglio 
+gli effort di hiring.
+
+Un requisito fondamentale nel rispondere al questionario è la sincerità: scrivi quello che è in 
+accordo con i tuoi valori e col modo in cui lavori, non quello che pensi vogliamo sentirci dire. Lo
+scopo del questionario è di capire se pensiamo che possa esserci un buon fit culturale e tecnico,
+dunque è nell'interesse di tutti che le risposte rispecchino il più possibile il modo in cui davvero
+lavori e affronti i problemi.
+
+Non farti problemi a chiedere chiarimenti sulle domande o sul quesito tecnico in caso qualcosa non
+ti fosse chiaro, e non avere paura di stonare: in passato, alcune delle risposte che più ci hanno
+colpito erano assolutamente fuori dal coro, magari menzionando aspetti al di fuori dell'ambito
+lavorativo che però ci permettevano di capire perfettamente il tipo di persona con cui avevamo a che 
+fare.
+
+### Valutazione tecnica
 
 Se siamo arrivati a questo stage vuol dire che pensiamo che tu possa essere un buon candidato per 
 il nostro processo di selezione. Siamo sicuri che lavorare con te sarà un piacere, per noi e per gli 
@@ -79,7 +99,8 @@ anche noi probabilmente ne indosseremo una!
 L’obiettivo di questo step è quello di capire il tuo livello in relazione a quello degli altri 
 membri del nostro team. Capirlo ci permetterà di formulare un'offerta consona alle tue capacità,
 quindi se non ne abbiamo ancora parlato sentiti libero di comunicarci eventuali aspettative
-economiche.
+economiche. Questo step ci permetterà anche di capire eventuali tue attitudini e potenzialità 
+future.
 
 Non immaginare il colloquio tecnico come la classica interview dove ti verranno fatte domande 
 imbarazzanti sugli algoritmi che ricordi a memoria, oppure di programmare davanti a noi. Vogliamo 
@@ -87,7 +108,25 @@ invece accertarci che l’idea che ci siamo fatti o che tu ci hai comunicato rig
 di esperienza sia coerente con le nostre aspettative, quindi sentiti a tuo agio: nessuno qui riesce
 a risolvere grandi problemi senza consultare manuali, articoli e Stack Overflow.
 
-Questo step ci permetterà anche di capire eventuali tue attitudini e potenzialità future.
+La valutazione tecnica può assumere diverse forme, a seconda di come ti trovi meglio. Questi sono
+solo alcuni esempi, ma siamo aperti a qualunque idea purché ci permetta di valutarti a livello 
+tecnico:
+
+- Possiamo discutere insieme di un progetto, open o closed-source, a cui hai lavorato recentemente.
+  Guarderemo insieme i sorgenti e ti chiederemo di spiegarci le motivazioni e la storia dietro al 
+  progetto. Sii pronto a discutere scelte di design e architetturali, performance e possibili
+  ottimizzazioni future, workflow per lo sviluppo etc.
+- Possiamo lavorare insieme a una piccola PR a un progetto open source che ti sta a cuore, oppure 
+  scelto da noi, se non dovessi avere idee. Saremo disponibili in qualunque momento per 
+  delucidazioni e aiuti di qualunque genere, dunque non sentirti in difetto se non ti ricordi
+  qualcosa e hai bisogno di chiedere o consultare un manuale. Generalmente scegliamo issue che non
+  richiedono molte linee di codice, ma una buona dose di riflessione per essere affrontate 
+  correttamente. Fai attenzione alla history di Git e alla documentazione!
+- Se preferisci, possiamo lavorare al problema di un nostro cliente reale (che sarà scelto tenendo
+  conto del tuo livello tecnico). Anche in questo caso attento alla documentazione e alla history di
+  Git, e anche in questo caso avrai il pieno supporto del team per qualunque chiarimento o aiuto. Se 
+  dovessi scegliere questa strada, ti pagheremo per il lavoro che hai fatto, alla stessa tariffa con 
+  cui pagheremmo un consulente esterno.
 
 ### Proposta economica
 
