@@ -1,74 +1,72 @@
-# I valori che portiamo avanti
+# I nostri valori
 
-Ognuno di noi sarà chiamato nello svolgimento del proprio lavoro ad avere un rapporto con la 
-clientela, siano essi proprietari del business, project manager o sviluppatori/designer/marketer. Il 
-rapporto che si instaura con il cliente è fondamentale. Nel momento della produzione del servizio di 
-consulenza bisogna essere in grado di tenere presenti tutti i valori e gli standard che Nebulab si 
-propone, rispettivamente, di rappresentare e di mantenere. Lavorare per i clienti vuol dire spesso 
-anche lavorare insieme ad uno o più membri del team di Nebulab. È importante supportarsi e 
-coordinarsi, sopperendo ad eventuali mancanze degli altri membri del team.
+Tutti noi, nello svolgimento del nostro lavoro, abbiamo rapporti diretti con i colleghi e gli 
+stakeholder, siano essi clienti, altri team di sviluppo, membri della comunità OSS o altri 
+professionisti. Il rapporto che si instaura con essi è fondamentale: dobbiamo sempre tenere presenti 
+tutti i valori e gli standard che Nebulab si propone di rappresentare e di mantenere.
 
-Tutto ciò che Nebulab si propone di essere è riportato sul nostro sito internet. Un cliente che ci 
-contatta porta con sé un bagaglio di aspettative dovute alla comunicazione presente sul sito web che 
-incorpora dei concetti chiave come: 
+Lavorare in Nebulab vuol dire inserirsi in un contesto collaborativo a tutto tondo. È importante 
+supportarsi e coordinarsi, sopperendo a eventuali mancanze degli altri membri del team.
 
-- persone appassionate di tecnologia e del web
-- giovani ed esperti
-- sviluppiamo prodotti di qualità
-- risolviamo problemi
-- nerd comunicativi
-- persone che amano lavorare e divertirsi
-- attitudine alla sperimentazione e alla condivisione
+Tutto ciò che ci proponiamo di essere è riportato sul nostro sito internet. Chi entra in contatto 
+con noi si aspetta di avere a che fare con persone:
 
-È molto importante tenere presente quindi che il cliente si aspetta di trovare un ambiente giovane e 
-al tempo stesso competente, dove essere esperti del web si accompagna ad un approccio al lavoro 
-leggero, moderno ed efficiente. 
+- appassionate di tecnologia e del web;
+- esperte nel loro campo, ma pronte al cambiamento;
+- che sviluppano prodotti di qualità;
+- che risolvono problemi senza perdersi in dettagli irrilevanti;
+- che siano nerd, ma comunicative;
+- con cui si possa lavorare e ci si possa divertire;
+- che sperimentano e condividono.
 
-Per entrare un pochino di più nel dettaglio, nell'introduzione di questo playbook abbiamo già 
-accennato qualcosa a proposito dei nostri 
-[Standard](https://github.com/nebulab/playbook/blob/master/su-di-noi/standard.md), che possiamo 
-riassumere brevemente in:
-
-- qualità del lavoro espresso sui progetti
-- onestà
-- trasparenza verso i clienti e verso i membri del team
-- disponibilità verso i clienti e verso i membri del team
-
-Alcuni di questi Standard dipendono direttamente o incarnano di per sé dei valori umani e 
-intellettuali che vorremmo fossero rappresentati da ciascuno dei componenti nel team nei confronti 
-dei clienti.
+Queste aspettative sono incarnate dai nostri valori, che sono riportati di seguito insieme ad alcuni
+comportamenti esemplari.
 
 ## Onestà
 
-Lavoriamo in modo onesto. Agiamo e comunichiamo in maniera sincera, leale e trasparente. Non 
-cerchiamo soluzioni di comodo e esprimiamo le nostre perplessità se pensiamo che una scelta possa 
-portare anche solo indirettamente un danno al cliente. Segniamo e billiamo solo le ore 
-effettivamente svolte sul progetto.
+- Lavoriamo in modo onesto.
+- Agiamo e comunichiamo in maniera sincera, leale e trasparente.
+- Non cerchiamo soluzioni di comodo.
+- Esprimiamo le nostre perplessità se pensiamo che una scelta possa portare anche solo 
+  indirettamente un danno al progetto sul quale stiamo lavorando.
+- Segniamo e fatturiamo solo le ore effettivamente svolte sul progetto.
 
 ## Comunicatività
 
-Lavoriamo da remoto e la comunicazione è uno degli aspetti più importanti. Su qualsiasi mezzo (chat, 
-email, conference call, tool di PM, registri presenze etc...) bisognerebbe interagire con il cliente 
-il più possibile facendolo con chiarezza, semplicità e precisione. Di solito lavoriamo in un 
-ambiente rilassato e informale, quindi anche un po' di humor, quando appropriato, non guasta.
-Salutiamo il cliente all'inizio della giornata e alla fine. Rendiamo disponibili tutte le 
-informazioni che possono servire al cliente o agli altri membri del team, anche banalmente cosa si 
-sta facendo o si farà in quella giornata. Segnaliamo le problematiche o i dubbi.  Facciamo in modo 
-di tenere aggiornati i tool di PM del cliente o interni. Segniamo a fine giornata le ore svolte su 
-Float e/o sui registri presenze del cliente.
+- Salutiamo nel canale di comunicazione del progetto a inizio e fine giornata.
+- Comunichiamo sempre con chiarezza, semplicità e precisione.
+- Usiamo lo humor quando è appropriato.
+- Rendiamo disponibili tutte le informazioni che possono servire al cliente o agli altri membri del 
+  team, anche banalmente cosa stiamo facendo o faremo oggi.
+- Segnaliamo dubbi e problemi.
+- Teniamo aggiornati i nostri tool di project management e quelli del cliente.
+- Segniamo puntualmente le ore svolte.
+- Comunichiamo con il giusto tempismo, delegando o posticipando quando non siamo in grado di fornire
+  immediatamente una risposta.
 
-## Tempismo
- 
-Il miglior lavoro o la migliore risposta ad una domanda non servono a nulla se dati con i tempi 
-sbagliati. Cerchiamo di capire le priorità del cliente sui task da svolgere e se non siamo sicuri 
-chiediamo a lui stesso. Se non stiamo lavorando per il cliente ma ci arriva una richiesta, cerchiamo 
-di rispondere prima possibile, chiedendo ad esempio di parlarne in un momento in cui non sarete 
-occupati, oppure coinvolgete una persona che può prendere in carico la richiesta. La regola aurea è
-non procrastinare.
+## Collaborazione
 
-## Iniziativa
+- Aiutiamo gli altri a crescere, e li mettiamo nella posizione di aiutare altri a loro volta.
+- Capiamo che la produttività dipende dal talento del nostro team e dalla capacità di collaborare
+  e proviamo sempre a migliorare entrambi gli aspetti.
+- Non risolviamo i problemi da soli, anche quando saremmo in grado di farlo.
+- Siamo pazienti nell'insegnare agli altri e cerchiamo di adattarci al loro stile di apprendimento
+  invece di adattarli al nostro stile di insegnamento.
+- Rispettiamo standard elevati e chiediamo lo stesso agli altri, ma con gentilezza.
 
-Liberate la vostra iniziativa. Sul lavoro per i clienti iniziativa si traduce con responsabilità e 
-autonomia nel lavoro che si va a svolgere. Affrontate le situazioni e le problematiche con senso 
-critico, cercando e proponendo la soluzione migliore, non aspettate che sia un altro a farlo per 
-voi.
+## Problem owning
+
+- Assegniamo ai problemi il giusto peso, trovando un compromesso tra la perfezione tecnica e il
+  valore che la nostra soluzione porta al progetto.
+- Nei confronti dei clienti agiamo sempre come se stessimo spendendo i nostri soldi, non i suoi.
+- Facciamo in modo che i problemi che affrontiamo non si verifichino più.
+- Siamo pragmatici e connessi ai dettagli piuttosto che ai tecnicismi di alto livello.
+- Affrontiamo i problemi con senso critico, cercando e proponendo la soluzione migliore.
+
+## Crescita
+
+- Affrontiamo le sfide piuttosto che evitarle.
+- Trattiamo le critiche come un'occasione di crescita.
+- Prendiamo ispirazione dal successo degli altri e cerchiamo di imitarli.
+- Coltiviamo gli aspetti che vogliamo migliorare di noi stessi.
+- Trattiamo i nostri difetti come obiettivi di miglioramento invece di nasconderli.
