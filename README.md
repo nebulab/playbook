@@ -52,14 +52,12 @@ lavorando concretamente su diversi progetti.
 
 ## Sviluppo
 
-- [Setup](https://github.com/nebulab/playbook/blob/master/sviluppo/setup.md)
-- [Codice](https://github.com/nebulab/playbook/blob/master/sviluppo/codice.md)
-- [Rubocop](https://github.com/nebulab/playbook/blob/master/sviluppo/rubocop.md)
-- [Usare Git](https://github.com/nebulab/playbook/blob/master/sviluppo/usare-git.md)
-- [Workflow](https://github.com/nebulab/playbook/blob/master/sviluppo/workflow.md)
-- [Readme](https://github.com/nebulab/playbook/blob/master/sviluppo/readme.md)
-- [Seed](https://github.com/nebulab/playbook/blob/master/sviluppo/seed.md)
+- [Ambiente di sviluppo](https://github.com/nebulab/playbook/blob/master/sviluppo/ambiente-di-sviluppo.md)
+- [Guida stilistica](https://github.com/nebulab/playbook/blob/master/sviluppo/guida-stilistica.md)
+- [Usare Git e GitHub](https://github.com/nebulab/playbook/blob/master/sviluppo/usare-git-e-github.md)
+- [Documentazione](https://github.com/nebulab/playbook/blob/master/sviluppo/documentazione.md)
 - [Testing](https://github.com/nebulab/playbook/blob/master/sviluppo/testing.md)
+- [Lavorare con Rails](https://github.com/nebulab/playbook/blob/master/sviluppo/lavorare-con-rails.md)
 - [Design](https://github.com/nebulab/playbook/blob/master/sviluppo/design.md)
 
 ## Risorse utili
