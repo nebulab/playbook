@@ -12,13 +12,13 @@ il nostro lavoro. Ci sono alcune accortezze che possiamo usare per assicurarci c
 siano efficaci senza diventare un onere:
 
 - Scriviamo per lo più integration test, che richiedono meno manutenzione e testano più componenti
-contemporaneamente
+contemporaneamente.
 - Nei test, diamo priorità 1) a ciò che si può rompere più facilmente e 2) a ciò che è più critico
-per il business del cliente
+per il business del cliente.
 - Assicuriamoci che i test siano significativi: davvero si assicurano che il codice non si rompa,
 o passerebbero in ogni caso?
 - Scriviamo test che servano anche come documentazione per il codice, in modo che possano essere
-usati come risorsa per capire come funziona il progetto
+usati come risorsa per capire come funziona il progetto.
 
 Una buona guida al testing pragmatico è questo blogpost: 
 [Write tests. Not too many. Mostly integration.](https://blog.kentcdodds.com/write-tests-not-too-many-mostly-integration-5e8c7fff591c)
