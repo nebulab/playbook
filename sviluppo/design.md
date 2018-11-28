@@ -11,8 +11,6 @@ visionati e commentati da altri collaboratori del progetto.
 
 ### Ispirazione
 
-- [Octobox](http://useoctobox.com/): Permette di creare e organizzare una collezione di elementi di 
-  ispirazione.
 - [Dribbble](https://dribbble.com/): La più grande community di designer e fonte di ispirazione.
 - [The Best Designs](https://www.thebestdesigns.com): Una galleria dei più bei siti in circolazione.
 
@@ -28,8 +26,6 @@ visionati e commentati da altri collaboratori del progetto.
 
 ### Template
 
-- [App Icon Template](http://appicontemplate.com): Dei template gratis per Photoshop da usare per 
-  creare delle icone per OSX, iOS e Android.
 - [MockUPhone](http://mockuphone.com): Una collezione di mockup di dispositivi mobili.
 
 ### Responsive design
@@ -43,7 +39,7 @@ visionati e commentati da altri collaboratori del progetto.
 
 - [Subtle Patterns](http://subtlepatterns.com): La migliore collezione di pattern.
 
-### Free Stock Photos
+### Foto stock gratuite
 
 - [Pexels](http://www.pexels.com)
 - [picjumbo](http://picjumbo.com)
@@ -53,12 +49,10 @@ visionati e commentati da altri collaboratori del progetto.
 - [Gratisography](http://www.gratisography.com)
 - [Life Of Pix](http://www.lifeofpix.com)
   
-### Placeholders
+### Placeholder
 
 - [placekitten](http://placekitten.com): Un servizio veloce e semplice grazie al quale è possibile 
   scaricare immagini di gatti da usare per il proprio design o per il proprio codice.
-- [User Inter Faces](http://uifaces.com): Uno strumento dove è possibile trovare degli avatar di 
-  esempio da usare per i propri mockup. 
 
 ### Style guide
 
