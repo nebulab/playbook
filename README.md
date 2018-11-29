@@ -66,3 +66,5 @@ lavorando concretamente su diversi progetti.
 - [Firma per le email](https://github.com/nebulab/playbook/blob/master/risorse/firma-email.md)
 - [Foto profilo](https://github.com/nebulab/playbook/blob/master/risorse/foto-profilo.md)
 - [Press kit](https://drive.google.com/drive/folders/1VATPcbAhnhHZ376_GPixyYAo6u3gN8Os)
+
+##Make a PR on GitHub & get a free T-Shirt!
