@@ -10,4 +10,4 @@ musica su più casse. Si può controllare il sistema installando le app per i pr
 (desktop/mobile) direttamente dal [sito Sonos](https://www.sonos.com/redir/controller_software_mac).
 
 Naturalmente per rispetto degli altri da evitare assolutamente generi musicali spinti tipo death
-metal Norvegese o trashate pop tipo Nicki Minaj.
+metal Norvegese, Rap, Trap o trashate pop tipo Nicki Minaj.
