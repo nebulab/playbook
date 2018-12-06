@@ -61,22 +61,29 @@ utilizzo:
   da preferire quelle che esprimono emozioni di base, in quanto meno complesse. Un'altra ottima
   opzione quando la comunicazione si fa troppo complessa è organizzare una conferenza con video!
 
-## Float
+## Harvest
 
-Per tracciare il lavoro svolto e per organizzare il lavoro da svolgere in futuro, usiamo
-[Float](https://nebulab.float.com).
+Per tracciare le ore di lavoro svolto utilizziamo [Harvest](https://nebulab.harvestapp.com/) che,
+oltre alla versione browser, mette a disposizione anche l'[app nativa](https://www.getharvest.com/apps)
+per desktop e mobile.
 
-Ci sono degli eventi ricorrenti a cui bisogna prestare attenzione:
+Per farti un'idea su come segnare le ore su Harvest dai un'occhiata alla sezione
+[Consuntivazione delle ore](https://github.com/nebulab/playbook/blob/come-lavoriamo/consuntivazione.md).
 
-- ogni venerdì, a fine giornata, ti verrà inviata un'email con la pianificazione del lavoro da svolgere per la settimana seguente;
-- ogni mattina ti verrà notificato in modo automatico su Slack cosa hai da fare durante la giornata;
-- a fine giornata ti verrà ricordato di aggiornare Float con le ore effettivamente svolte sui
-diversi progetti.
+## Dipendenti in Cloud
 
-Per farti un'idea su come segnare le ore su Float dai un'occhiata a
-[Consuntivazione](https://github.com/nebulab/playbook/blob/master/come-lavoriamo/consuntivazione.md).
+Per tenere traccia dei giorni di ferie, permessi, straordinari e malattia usiamo il software
+[Dipendenti in cloud](https://secure.dipendentincloud.it/app/dashboard).
 
-## Appear.in
+Questo software ci permette anche di richiedere un rimborso spese, inserendo una richiesta nel tab
+[Spese e Viaggi](https://secure.dipendentincloud.it/app/expenses).
+
+Per farti un'idea su come segnare le ore su Dipendenti in Cloud dai un'occhiata alla sezione
+[Consuntivazione delle ore](https://github.com/nebulab/playbook/blob/come-lavoriamo/consuntivazione.md).
+
+## Meeting da remoto
+
+### Appear.in
 
 Per i meeting con i clienti e con il resto del team usiamo [Appear.in](https://appear.in/).
 
@@ -86,3 +93,7 @@ riservare una stanza, chiedi a [@mtylty](https://github.com/mtylty).
 
 La stanza principale è [/nebulab](https://appear.in/nebulab) che puoi usare quando vuoi
 per qualsiasi esigenza.
+
+### Zoom.us
+
+É attivo anche il tool zoom.us riservato, per adesso, alle riunioni di management.
