@@ -84,6 +84,6 @@ caso specifico, del permesso e di essere equi nei confronti di clienti e collegh
 
 Esempi:
 
-- *NO* "Prendo mezz'ora oggi, la recupererò domani" senza segnare nulla su Float;
+- *NO* "Prendo mezz'ora oggi, la recupererò domani" senza segnare nulla su Dipendenti in Cloud;
 - *SI* "Prendo mezz'ora oggi, la recupererò domani" segnando mezz'ora di permesso oggi e mezz'ora
  di straordinario il giorno dopo.
