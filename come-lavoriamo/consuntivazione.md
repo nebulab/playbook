@@ -1,62 +1,89 @@
-# La consuntivazione delle ore
+# Misurare il tempo
 
-La giornata lavorativa per contratti full-time è di 8 ore. Si può decidere contrattualmente di
-ridurre le ore lavorative accedendo al cosiddetto lavoro part-time.
+In questa sezione vogliamo offrire uno spunto per la corretta determinazione da un lato delle ore
+lavorative spese sui diversi progetti e dall'altro delle ore di presenza in ufficio.
 
-In questa sezione si vuole offrire uno spunto per la corretta divisione del tempo lavorativo e per
-la corretta valutazione delle ore svolte sui progetti, in modo da non danneggiare né il cliente né
-Nebulab.
+### Le ore lavorative
 
-Prima di tutto va sottolineato che lo schedule, che attulamente viene redatto sul software Float,
-rappresenta semplicemente una divisione ideale del tempo lavorativo settimanale/mensile. Ognuno di
-noi deve sapere quali sono le priorità sui progetti e deve valutare, in linea con i principi
-delineati in [Lavorare per i clienti](), di cosa si dovrà occupare in quella giornata, fermo
-restando che per la stragrande maggioranza dei casi dovrà occuparsi proprio del progetto che riporta
-lo schedule. Gli accordi con i clienti spesso prevedono un numero di ore, o più semplicemente di
-giornate, settimanali ed é importante tenerlo presente nella gestione di più progetti. Infatti
-ognuno può, se lo ritiene opportuno, anticipare una giornata su un cliente e recuperare la giornata
-dell'altro cliente in un'altro momento (comunicandolo :)).
+L'effort su un progetto viene individuato con un numero di ore, o più semplicemente di giornate,
+settimanali da spendere sul progetto stesso che é importante conoscere e tenere presente sempre. Se
+avete dubbi sulla quantità di ore da svolgere su un progetto a voi assegnato non esitate a chiederlo
+al vostro mentore.
 
-Il tema della valutazione delle ore lavorative è delicato e l'interpretazione spesso non è univoca.
-La soluzione che adottiamo a Nebulab è quella di segnare il tempo effettivamente svolto sul progetto
-avendo come unità minima la mezz'ora. Quali attività include e quali non il "tempo effettivamente
-svolto"?
+> Se salto una giornata su un progetto di un cliente devo [recuperare il venerdì?](https://github.com/nebulab/playbook/blob/master/crescita-personale/venerdi.md#lavorare-sui-clienti-il-venerd%C3%AC)
 
-Include:
+Il tempo svolto effettivamente sul progetto deve essere poi misurato. Adottiamo un time tracker per
+diversi motivi:
 
-- Tempo di implementazione effettiva
-- Tempo di pair-programming sullo stesso progetto
-- Tempo di comunicazione direttamente correlato con il lavoro che si sta svolgendo
-- Tempo di studio direttamente ed esclusivamente correlato con il lavoro che si sta svolgendo
-- Tempo di pausa normale (<30 minuti al giorno)
+- onestà e trasparenza;
+- efficenza amministrativa;
+- facilità di utilizzo;
+- precisione dei dati.
 
-Non include:
+É fondamentale tenere presente che l'attività che svolgiamo è soprattutto creativa. Non poniamoci
+degli obiettivi in termini di ore da svolgere e cerchiamo sempre di dare la precedenza alla qualità
+del lavoro. Lasciamo che il tracker sia un semplice strumento per la consuntivazione delle ore, non
+un misuratore della nostra produttività.
 
-- Tempo di implementazione su altri progetti
-- Tempo di pair-programming su altri progetti
-- Tempo di comunicazione non correlati con il lavoro che si sta svolgendo
-- Tempo di studio non direttamente e non esclusivamente correlato con il lavoro che si sta svolgendo
-- Tempo di pausa lunghi (>30 minuti al giorno)
+Tuttavia, dobbiamo essere consapevoli delle sfide che il time tracking porta con sé.
 
-Come potete immaginare esistono diverse zone d'ombra nel confine tra attivita incluse e attività non
-incluse. La raccomandazione è quella di usare il buonsenso e di chiedere una mano ad un'altra
-persona, magari che è sul progetto con voi, se vi trovate in difficoltà nella determinazione del
-numero di ore svolte.
+Una è sicuramente quella di definire quali sono i task da attribuire ad un progetto. Non c'è
+un'interpretazione univoca nel nostro settore. Tuttavia in linea con quelli che sono [i nostri valori](https://github.com/nebulab/playbook/blob/master/su-di-noi/valori.md)
+adottiamo la seguente soluzione. Sono, quindi, da includere:
 
-Un piccolo trucco che potete utilizzare è cercare di quantificare le attività non incluse e
-sottrarle alle ore di presenza in ufficio.
+- tempo di prestazione diretta o implementazione;
+- tempo di lavoro in pairing sullo stesso progetto;
+- tempo di comunicazione direttamente correlato con il lavoro che si sta svolgendo;
+- tempo di studio direttamente ed esclusivamente correlato con il lavoro che si sta svolgendo.
 
-Un caso particolare: I tempi di attesa delle risposte del cliente che passo girandomi i pollici
+Si dovrebbe invece switchare il tracker su un altro progetto per:
+
+- tempo di prestazione diretta o implementazione su altri progetti;
+- tempo di lavoro in pairing con un'altra persona su altri progetti;
+- tempo di comunicazione non correlato con il lavoro che si sta svolgendo;
+- tempo di studio non direttamente e non esclusivamente correlato con il lavoro che si sta svolgendo.
+
+> Un caso particolare: I tempi di attesa delle risposte del cliente che passo girandomi i pollici
 devono essere inclusi? La risposta è: non trovarsi mai nella situazione di doversi girare i pollici
 e trovare qualcosa da fare comunque. Se proprio non si ha nulla da fare questo tempo NON va incluso
 nel "tempo effettivamente svolto" ma ne va data pronta comunicazione al cliente, segnalando
 l'inefficienza.
 
-Per segnare su Float i tempi di pausa e i tempi di attesa utilizziamo il progetto `Time-Wasting`.
+Non serve far partire il tracker per i tempi di pausa ma lasciamo la libertà, per chi volesse, di
+segnare questi momenti con il progetto `Time wasting`.
 
-La consuntivazione delle ore deve avvenire a fine giornata sugli strumenti previsti (Float e
-registro del cliente se presente).
+Alcune difficoltà potrebbero nascere soprattutto in presenza di molte attività diverse da svolgere
+contemporaneamente. La raccomandazione è quella di evitare il multitasking. Concentrarsi su task
+omogenei permette di lavorare con meno stress, più produttività e rende molto più facile l'utilizzo
+del tracker.
 
-Ricorda che, se per qualsiasi motivo non dovessi poter lavorare sul progetto di un cliente
-in un giorno della settimana, dovrai [recuperare la giornata](https://github.com/nebulab/playbook/blob/master/crescita-personale/venerdi.md#recuperare-il-venerdi)
-di venerdì.
+In generale, se trovate in difficoltà nell'utilizzo del tracker rivolgetevi al vostro mentore.
+
+### Ore di permesso o di straordinario
+
+Cliccando sul tab [Presenze](https://secure.dipendentincloud.it/app/timesheet) e in seguito sul
+giorno o trascinando il puntataore su più giorni, sarà possibile inserire tutte le tipologie di
+giustificativi: [varie tipologie di Permessi (utilizza il default `Permessi`); Ferie; Malattia;
+Straordinari.](https://github.com/nebulab/playbook/blob/master/procedure/ferie-permessi-malattia.md)
+
+La scelta della tipologia, disponibile nel menù a tendina, dovrà seguire i seguenti criteri:
+
+- `Permessi/Ferie` va utilizzato per le ore di permesso o per i giorni di ferie: potete usarlo
+  quindi per giornata intera di ferie oppure mettendo il numero di ore di permesso;
+- `Malattia` va utilizzato in caso di Malattia, **inserendo nelle note il Codice di Protocollo
+  rilasciato dal medico curante**;
+- `Permesso straordinario` va utilizzato per i permessi concessi in casi straordinari elencati nella
+  sezione [Permessi, permessi straordinari e lavoro straordinario](https://github.com/nebulab/playbook/blob/master/procedure/ferie-permessi-malattia.md#permessi-permessi-straordinari-e-lavoro-straordinario).
+
+Un'importantissima regola di condotta è quella di segnare sempre le ore di permesso e di
+straordinario giorno per giorno. Infatti, nel caso in cui in una giornata lavorativa, per un
+imprevisto o per qualsiasi altro motivo, si deve prendere un permesso, quel permesso, per quanto
+esiguo possa essere, va segnato ANCHE in previsione di un recupero del tempo perso nel o nei giorni
+successivi. Segnare le ore in modo costante e trasparente permette di non dimenticarsi, in questo
+caso specifico, del permesso e di essere equi nei confronti di clienti e colleghi.
+
+Esempi:
+
+- *NO* "Prendo mezz'ora oggi, la recupererò domani" senza segnare nulla su Float;
+- *SI* "Prendo mezz'ora oggi, la recupererò domani" segnando mezz'ora di permesso oggi e mezz'ora
+ di straordinario il giorno dopo.
