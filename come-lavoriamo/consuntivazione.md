@@ -1,9 +1,41 @@
 # Misurare il tempo
 
-In questa sezione vogliamo offrire uno spunto per la corretta determinazione da un lato delle ore
-lavorative spese sui diversi progetti e dall'altro delle ore di presenza in ufficio.
+Un aspetto molto importante del lavoro che svogliamo tutti i giorni è saper usare
+il tempo in modo efficiente. Per poter usare il tempo al meglio è importante
+misurarlo.
 
-### Le ore lavorative
+Durante la giornata lavorativa misuriamo cumulativamete le ore:
+
+* svolte "in ufficio";
+* svolte sul progetto di un cliente.
+
+### Le ore svolte in ufficio
+
+Queste ore sono quelle scritte sul tuo contratto. Se hai un contratto full-time saranno 8,
+se hai concordato un part-time, saranno meno, probabilemente 6.
+
+Durante queste ore ci aspettiamo che tu sia in ufficio o, se lavori da remoto, che tu
+sia raggiungibile via computer. Queste ore includono le pause brevi come caffè, bagno e
+relax ma escludono le pause lunghe (maggiori di 10 minuti).
+
+L'orario di lavoro è totalmente flessibile compatibilmente con gli impegni ma va realizzato
+il totale delle ore da svolgere da contratto. Alcuni esempi:
+
+* inizio alle 10, pranzo dalle 13 alle 14, finisco alle 19;
+* inizio alle 9, vado in palestra dalle 13 alle 14 e mangio fino alle 14:30, finisco alle 18:30;
+* inizio alle 9:30, mangio dalle 12:30 alle 13, finisco alle 18;
+* inizio alle 11, mangio dalle 13:30 alle 14, prendo 30 minuti di permesso e finisco alle 19;
+* inizio alle 10, mangio dalle 13:30 alle 14, finisco alle 19 e segno 30 minuti di straordinario;
+
+Riassumendo: le ore riportate sul contratto sono ore in cui devi poter essere "reperibile"
+e attivo sui progetti. La flessiblità è completa e, a fine giornata, se hai fatto di più dovrai
+segnare degli straordinari, se hai fatto di meno dei permessi.
+
+[link alla spiegazione delle ferie]
+
+[link a dipendenti in cloud]
+
+### Le ore svolte sul progetto di un cliente
 
 L'effort su un progetto viene individuato con un numero di ore, o più semplicemente di giornate,
 settimanali da spendere sul progetto stesso che é importante conoscere e tenere presente sempre. Se
@@ -58,32 +90,3 @@ omogenei permette di lavorare con meno stress, più produttività e rende molto 
 del tracker.
 
 In generale, se trovate in difficoltà nell'utilizzo del tracker rivolgetevi al vostro mentore.
-
-### Ore di permesso o di straordinario
-
-Cliccando sul tab [Presenze](https://secure.dipendentincloud.it/app/timesheet) e in seguito sul
-giorno o trascinando il puntataore su più giorni, sarà possibile inserire tutte le tipologie di
-giustificativi: [varie tipologie di Permessi (utilizza il default `Permessi`); Ferie; Malattia;
-Straordinari.](https://github.com/nebulab/playbook/blob/master/procedure/ferie-permessi-malattia.md)
-
-La scelta della tipologia, disponibile nel menù a tendina, dovrà seguire i seguenti criteri:
-
-- `Permessi/Ferie` va utilizzato per le ore di permesso o per i giorni di ferie: potete usarlo
-  quindi per giornata intera di ferie oppure mettendo il numero di ore di permesso;
-- `Malattia` va utilizzato in caso di Malattia, **inserendo nelle note il Codice di Protocollo
-  rilasciato dal medico curante**;
-- `Permesso straordinario` va utilizzato per i permessi concessi in casi straordinari elencati nella
-  sezione [Permessi, permessi straordinari e lavoro straordinario](https://github.com/nebulab/playbook/blob/master/procedure/ferie-permessi-malattia.md#permessi-permessi-straordinari-e-lavoro-straordinario).
-
-Un'importantissima regola di condotta è quella di segnare sempre le ore di permesso e di
-straordinario giorno per giorno. Infatti, nel caso in cui in una giornata lavorativa, per un
-imprevisto o per qualsiasi altro motivo, si deve prendere un permesso, quel permesso, per quanto
-esiguo possa essere, va segnato ANCHE in previsione di un recupero del tempo perso nel o nei giorni
-successivi. Segnare le ore in modo costante e trasparente permette di non dimenticarsi, in questo
-caso specifico, del permesso e di essere equi nei confronti di clienti e colleghi.
-
-Esempi:
-
-- *NO* "Prendo mezz'ora oggi, la recupererò domani" senza segnare nulla su Dipendenti in Cloud;
-- *SI* "Prendo mezz'ora oggi, la recupererò domani" segnando mezz'ora di permesso oggi e mezz'ora
- di straordinario il giorno dopo.
