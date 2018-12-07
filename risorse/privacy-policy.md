@@ -40,9 +40,9 @@ I dati personali raccolti rispettano il principio generale di "minimizzazione de
 
 In questa sezione descriviamo brevemente quali sono gli strumenti per la raccolta e la gestione dei dati personali, il loro utilizzo ed infine le persone che hanno accesso ai dati.
 
-### Netlify Form 
+### FormKeep Form 
 
-[Netlify's commitment to protect your data](https://www.netlify.com/gdpr/)
+[FormKeep's commitment to protect your data](https://intercom.help/formkeep/frequently-asked-questions/gdpr-compliance)
 
 - Form di contatto commerciale sito e pannello di gestione del consenso 
 
@@ -62,7 +62,7 @@ Matteo Galliani | Partner | Gestione della fatturazione ; gesitone del consenso 
 
 [Slack's commitment to protect your data](https://slack.com/gdpr)
 
-Software di team messaging su cui arrivano le notifiche di contatto dei form Netlify. Le notifiche arrivano nel canale privato denominato `sales`.
+Software di team messaging su cui arrivano le notifiche di contatto dei form FormKeep. Le notifiche arrivano nel canale privato denominato `sales`.
 
 | Nome              | Ruolo           | Scopo                                                   |
 |-------------------|-----------------|---------------------------------------------------------|
