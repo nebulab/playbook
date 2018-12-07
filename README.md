@@ -18,7 +18,7 @@ lavorando concretamente su diversi progetti.
 
 - [Dove, quando e come](https://github.com/nebulab/playbook/blob/master/come-lavoriamo/dove-quando-e-come.md)
 - [Tool](https://github.com/nebulab/playbook/blob/master/come-lavoriamo/tool.md)
-- [La consuntivazione delle ore](https://github.com/nebulab/playbook/blob/master/come-lavoriamo/consuntivazione.md)
+- [Misurare il tempo](https://github.com/nebulab/playbook/blob/master/come-lavoriamo/consuntivazione.md)
 - [Meeting](https://github.com/nebulab/playbook/blob/master/come-lavoriamo/meeting.md)
 - [Client guide](https://github.com/nebulab/playbook/blob/master/come-lavoriamo/client-guide.md) (in English)
 

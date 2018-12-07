@@ -1,5 +1,8 @@
 # Ferie, permessi, straordinari e malattia
 
+La giornata lavorativa per contratti full-time è di 8 ore. Si può decidere contrattualmente di
+ridurre le ore lavorative accedendo al cosiddetto lavoro part-time.
+
 I giorni di ferie e le ore di permesso residue possono essere consultate nulla propria busta paga:
 
 * Giorni di ferie, nella casella `FERIE RES.`
@@ -12,22 +15,44 @@ competenza dell'anno precedente ma tuttavia ancora godibili.
 
 ## Ferie
 
-Sono previsti 22 giorni di ferie l'anno. Tutti i membri del team devono comunicare, tramite chat o
+Sono previsti 22 giorni di ferie l'anno (176 ore). Tutti i membri del team devono comunicare, tramite chat o
 anche a voce, possibilmente almeno due settimane prima, i giorni di ferie di cui si desidera
 beneficiare.
 
 ## Permessi, permessi straordinari e lavoro straordinario
 
-I permessi si dividono in ROL e EX-FESTIVITA' e possono essere richiesti anche nel corso della
-giornata lavorativa.
+Il numero di ore di permesso annuale varia in base all'anzianità di servizio.
 
-Un'altra tipologia di permessi sono quelli che vengono concessi in casi straordinari come
-matrimonio, funerale, donazione del sangue etc…. Un elenco di permessi straordinari (retribuiti e
-non) è disponibile al
-seguente [link](http://www.fpcgil.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/7737).
+| Anzianità in mesi     | Ore/Anno |
+|-----------------------|----------|
+| 0 - 24                |    32    |
+| 25 - 48               |    60    |
+| >48                   |    88    |
 
-Ore di lavoro straordinario possono essere richieste in casi eccezionali dall'azienda per
-particolari esigenze di organizzazione del lavoro.
+Un'altra tipologia di permessi retribuiti sono quelli che vengono concessi in casi straordinari.
+Ecco un elenco non esaustivo:
+
+- evento nascita;
+- matrimonio;
+- lutto parenti entro il secondo grado;
+- donazione sangue.
+
+Se credi di avere diritto a un permesso retribuito, scrivi al responsabile amministrativo il quale
+provvederà a fare un controllo per te.
+
+Il tempo di lavoro straordinario è quello che eccede le 8 ore giornaliere. Per legge non si può,
+in nessun caso, superare la soglia delle 48 ore settimanali.
+
+### Compensazione e arrotondamento
+
+A fine mese verranno compensate tutte le ore di lavoro straordinario e di permesso del mese. Il
+saldo verrà poi arrotondato alla mezz'ora più vicina secondo le seguenti regole:
+
+- da 0 a 0,249 = 0;
+- da 0,25 a 0,749 = 0,5;
+- da 0,75 a 1 = 1
+
+e così via.
 
 ## Malattia
 
@@ -37,34 +62,13 @@ l'invio telematico di tale certificato all'INPS che, a sua volta, lo renderà di
 modalità telematica. In base ai giorni di malattia concessi dal medico curante, il dipendente dovrà
 comunicare all'azienda i giorni di assenza insieme al codice univoco del certificato.
 
-## Float
+# Scelta della tipologia
 
-Per tenere traccia dei giorni di ferie, permessi, straordinari e malattia usiamo il software web
-[Float di Nebulab](http://nebulab.float.com/).
+La scelta della tipologia di giustificativo da segnare dovrà seguire i seguenti criteri:
 
-Cliccando sul tab `TIME OFF` nella finestra di edit del giorno sarà possibile segnare tutte le
-tipologie di assenze per Permessi o Ferie ed i giorni passati in Malattia. La scelta della
-tipologia di `Time Off`, disponibile nel menù a tendina, dovrà seguire i seguenti criteri:
-
-* `Permesso/Ferie` va utilizzato per le ore di permesso o per i giorni di ferie: potete usarlo
-  quindi per giornata intera di ferie oppure mettendo il numero di ore di permesso, deflaggando
-  `all day`;
-* `Malattia` va utilizzato in caso di Malattia, **inserendo nelle note il Codice di Protocollo
+- `Permessi/Ferie` va utilizzato per le ore di permesso o per i giorni di ferie: potete usarlo
+  quindi per giornata intera di ferie oppure mettendo il numero di ore di permesso;
+- `Malattia` va utilizzato in caso di Malattia, **inserendo nelle note il Codice di Protocollo
   rilasciato dal medico curante**;
-* `Permesso straordinario` va utilizzato per i permessi concessi in casi straordinari elencati nella
-  sezione [Permessi, permessi straordinari e lavoro straordinario](#permessi-permessi-straordinari-e-lavoro-straordinario).
-
-Un'importantissima regola di condotta è quella di segnare sempre le ore di permesso e di
-straordinario giorno per giorno. Infatti, nel caso in cui in una giornata lavorativa, per un
-imprevisto o per qualsiasi altro motivo, si deve prendere un permesso, quel permesso, per quanto
-esiguo possa essere, va segnato ANCHE in previsione di un recupero del tempo perso nel o nei giorni
-successivi. É molto importante seguire questa regola in quanto la
-[Consuntivazione](https://github.com/nebulab/playbook/blob/master/come-lavoriamo/consuntivazione.md)
-delle ore a fine giornata è già di per sé una sfida. Segnare le ore in modo costante e trasparente
-permette invece di non dimenticarsi, in questo caso specifico, del permesso e di essere equi nei 
-confronti di clienti e colleghi.
-Esempi:
-
- * *NO* "Prendo mezz'ora oggi, la recupererò domani" senza segnare nulla su Float;
- * *SI* "Prendo mezz'ora oggi, la recupererò domani" segnando mezz'ora di permesso oggi e mezz'ora
- di straordinario il giorno dopo.
+- `Permesso straordinario` va utilizzato per i permessi concessi in casi straordinari elencati nella
+  sezione [Permessi, permessi straordinari e lavoro straordinario](https://github.com/nebulab/playbook/blob/master/procedure/ferie-permessi-malattia.md#permessi-permessi-straordinari-e-lavoro-straordinario).

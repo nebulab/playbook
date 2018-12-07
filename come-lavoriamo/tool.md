@@ -19,8 +19,8 @@ ferie e malattia.
 
 ## Slack
 
-Per chattare e tenersi in contatto con gli altri. È fondamentale per comunicare e capire in ogni 
-momento chi si sta occupando di cosa. L'account principale è https://nebulab.slack.com/ e se si è in 
+Per chattare e tenersi in contatto con gli altri. È fondamentale per comunicare e capire in ogni
+momento chi si sta occupando di cosa. L'account principale è https://nebulab.slack.com/ e se si è in
 possesso di un indirizzo email del dominio nebulab.it è possibile accedere scegliendo una password.
 
 Su Slack è possibile trovare alcune stanze pubbliche a cui tutti possono partecipare liberamente (e
@@ -55,28 +55,39 @@ utilizzo:
   questo, lo sviluppo software è un mestiere che richiede lunghi periodi di concentrazione, dunque
   se hai bisogno di "staccare" sentiti libero di farlo, assicurandoti di avvisare prima i tuoi
   colleghi.
-- Ricorda che la comunicazione via chat manca completamente di segnali non-verbali, che 
+- Ricorda che la comunicazione via chat manca completamente di segnali non-verbali, che
   costituiscono il 90% della comunicazione umana. È facile dunque essere fraintesi o fraintendere
   l'altro. Un grande strumento per combattere l'assenza di emozione sono le emoji, e tra queste sono
   da preferire quelle che esprimono emozioni di base, in quanto meno complesse. Un'altra ottima
   opzione quando la comunicazione si fa troppo complessa è organizzare una conferenza con video!
 
-## Float
+## Harvest
 
-Per tracciare il lavoro svolto e per organizzare il lavoro da svolgere in futuro, usiamo
-[Float](https://nebulab.float.com).
+Per tracciare le ore di lavoro svolto utilizziamo [Harvest](https://nebulab.harvestapp.com/) che,
+oltre alla versione browser, mette a disposizione anche l'[app nativa](https://www.getharvest.com/apps)
+per desktop e mobile.
 
-Ci sono degli eventi ricorrenti a cui bisogna prestare attenzione:
+Per farti un'idea di come segnare le ore su Harvest dai un'occhiata alla sezione
+[Misurare il tempo](https://github.com/nebulab/playbook/blob/come-lavoriamo/consuntivazione.md).
 
-- ogni venerdì, a fine giornata, ti verrà inviata un'email con la pianificazione del lavoro da svolgere per la settimana seguente;
-- ogni mattina ti verrà notificato in modo automatico su Slack cosa hai da fare durante la giornata;
-- a fine giornata ti verrà ricordato di aggiornare Float con le ore effettivamente svolte sui
-diversi progetti.
+## Dipendenti in Cloud
 
-Per farti un'idea su come segnare le ore su Float dai un'occhiata a
-[Consuntivazione](https://github.com/nebulab/playbook/blob/master/come-lavoriamo/consuntivazione.md).
+Per tenere traccia dei giorni di ferie, permessi, straordinari e malattia usiamo il software
+[Dipendenti in cloud](https://secure.dipendentincloud.it/app/dashboard).
 
-## Appear.in
+Cliccando sul tab [Presenze](https://secure.dipendentincloud.it/app/timesheet) e in seguito sul
+giorno o trascinando il puntatore su più giorni, sarà possibile inserire tutte le [tipologie di
+giustificativi](https://github.com/nebulab/playbook/blob/master/procedure/ferie-permessi-malattia.md)
+
+Questo software ci permette anche di richiedere un rimborso spese, inserendo una richiesta nel tab
+[Spese e Viaggi](https://secure.dipendentincloud.it/app/expenses).
+
+Per farti un'idea di come segnare le ore su Dipendenti in Cloud dai un'occhiata alla sezione
+[Misurare il tempo](https://github.com/nebulab/playbook/blob/come-lavoriamo/consuntivazione.md).
+
+## Meeting da remoto
+
+### Appear.in
 
 Per i meeting con i clienti e con il resto del team usiamo [Appear.in](https://appear.in/).
 
@@ -86,3 +97,7 @@ riservare una stanza, chiedi a [@mtylty](https://github.com/mtylty).
 
 La stanza principale è [/nebulab](https://appear.in/nebulab) che puoi usare quando vuoi
 per qualsiasi esigenza.
+
+### Zoom.us
+
+É attivo anche il tool zoom.us riservato, per adesso, alle riunioni di management.
