@@ -32,12 +32,12 @@ Il numero di ore di permesso annuale varia in base all'anzianità di servizio.
 Un'altra tipologia di permessi retribuiti sono quelli che vengono concessi in casi straordinari.
 Ecco un elenco non esaustivo:
 
-- evento nascita
-- matrimonio
-- lutto parenti entro il secondo grado
-- donazione sangue
+- evento nascita;
+- matrimonio;
+- lutto parenti entro il secondo grado;
+- donazione sangue.
 
-Se credi di avere diritto ad un permesso retribuito, scrivi al responsabile amministrativo il quale
+Se credi di avere diritto a un permesso retribuito, scrivi al responsabile amministrativo il quale
 provvederà a fare un controllo per te.
 
 Il tempo di lavoro straordinario è quello che eccede le 8 ore giornaliere. Per legge non si può,
@@ -48,9 +48,10 @@ in nessun caso, superare la soglia delle 48 ore settimanali.
 A fine mese verranno compensate tutte le ore di lavoro straordinario e di permesso del mese. Il
 saldo verrà poi arrotondato alla mezz'ora più vicina secondo le seguenti regole:
 
-- da 0 a 0,249 = 0
-- da 0,25 a 0,749 = 0,5
+- da 0 a 0,249 = 0;
+- da 0,25 a 0,749 = 0,5;
 - da 0,75 a 1 = 1
+
 e così via.
 
 ## Malattia
@@ -60,3 +61,14 @@ medico per richiedere il certificato attestante l'assenza per malattia. Il medic
 l'invio telematico di tale certificato all'INPS che, a sua volta, lo renderà disponibile sempre in
 modalità telematica. In base ai giorni di malattia concessi dal medico curante, il dipendente dovrà
 comunicare all'azienda i giorni di assenza insieme al codice univoco del certificato.
+
+# Scelta della tipologia
+
+La scelta della tipologia di giustificativo da segnare dovrà seguire i seguenti criteri:
+
+- `Permessi/Ferie` va utilizzato per le ore di permesso o per i giorni di ferie: potete usarlo
+  quindi per giornata intera di ferie oppure mettendo il numero di ore di permesso;
+- `Malattia` va utilizzato in caso di Malattia, **inserendo nelle note il Codice di Protocollo
+  rilasciato dal medico curante**;
+- `Permesso straordinario` va utilizzato per i permessi concessi in casi straordinari elencati nella
+  sezione [Permessi, permessi straordinari e lavoro straordinario](https://github.com/nebulab/playbook/blob/master/procedure/ferie-permessi-malattia.md#permessi-permessi-straordinari-e-lavoro-straordinario).
