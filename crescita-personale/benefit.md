@@ -12,14 +12,15 @@ dei benefit, non siate timidi e chiedete!
   - [monitor LG 27UK850-W](https://www.lg.com/it/monitor/lg-27UK850-W) (IPS, 27", 4K);
   - [scrivania BEKANT](https://www.ikea.com/it/it/catalog/products/S69282592/#/S19022808) (delle dimensioni desiderate) e [sedia da ufficio JÄRVFJÄLLET](https://www.ikea.com/it/it/catalog/products/S99275632/#/S89275623).
 - **[Mentoring](https://github.com/nebulab/playbook/blob/master/crescita-personale/mentoring-e-1-1.md).**
-  Quando entri a far parte di Nebulab, ti sarà assegnato un mentore che è il tuo punto di 
-  riferimento non solo per tutto quello che riguarda l'azienda, ma anche per la tua crescita 
-  personale e professionale. Se sei interessato a un argomento e vorresti approfondirlo, ricorda che
-  il tuo mentore è lì per questo!
+  Quando entri a far parte del nostro team, ti viene assegnato un mentore, che sarà un punto di
+  riferimento e sostegno durante tutto il tuo percorso all'interno di Nebulab, soprattutto per quel 
+  che riguarda la tua crescita personale e professionale. Ad esempio, se sei interessato a un 
+  argomento e vuoi approfondirlo, oppure sei in difficoltà su un progetto, rivolgiti senza indugio
+  al tuo mentore, sarà felice di aiutarti!
 - **[Study Friday](https://github.com/nebulab/playbook/blob/master/crescita-personale/venerdi.md).** 
   Il venerdì è un momento per staccare dal lavoro per i clienti e concentrarci su progetti di studio 
-  e crescita personale (o aziendale). Se non sapete bene su che cosa lavorare, chiedete al vostro
-  mentore di aiutarvi a trovare un progetto adeguato al vostro percorso di crescita.
+  e crescita personale (o aziendale). Se non sai bene su che cosa lavorare, chiedi al vostro
+  mentore di aiutarti a trovare un progetto adeguato al tuo percorso di crescita.
 - **[Orario flessibile](https://github.com/nebulab/playbook/blob/master/come-lavoriamo/dove-quando-e-come.md).** 
   Guardiamo i risultati, non le ore di lavoro. Tutti nel team hanno diritto a lavorare in orari 
   flessibili, compatibilmente con le esigenze dei clienti e degli altri membri del team. Se sei in 
