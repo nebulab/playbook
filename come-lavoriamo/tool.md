@@ -68,7 +68,7 @@ oltre alla versione browser, mette a disposizione anche l'[app nativa](https://w
 per desktop e mobile.
 
 Per farti un'idea di come segnare le ore su Harvest dai un'occhiata alla sezione
-[Misurare il tempo](https://github.com/nebulab/playbook/blob/come-lavoriamo/consuntivazione.md).
+[Misurare il tempo](https://github.com/nebulab/playbook/blob/master/come-lavoriamo/consuntivazione.md).
 
 ## Dipendenti in Cloud
 
@@ -83,7 +83,7 @@ Questo software ci permette anche di richiedere un rimborso spese, inserendo una
 [Spese e Viaggi](https://secure.dipendentincloud.it/app/expenses).
 
 Per farti un'idea di come segnare le ore su Dipendenti in Cloud dai un'occhiata alla sezione
-[Misurare il tempo](https://github.com/nebulab/playbook/blob/come-lavoriamo/consuntivazione.md).
+[Misurare il tempo](https://github.com/nebulab/playbook/blob/master/come-lavoriamo/consuntivazione.md).
 
 ## Meeting da remoto
 
