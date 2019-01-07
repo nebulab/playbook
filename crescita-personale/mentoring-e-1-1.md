@@ -1,33 +1,34 @@
-# Mentoring and one-on-one
+# Mentoring and 1:1s
 
-Upon your arrival at Nebulab, a mentor will be assigned to you. His/her duty is to follow you
-throughout your working life here and ensure that you are constantly improving. Your mentor is your 
-point of reference for anything concerning the Nebulab world, so feel free to
-contact him/her at any time with any queries or concerns you may have.
+Upon your arrival at Nebulab, a mentor will be assigned to you. His/her duty is to follow you and
+ensure that you are constantly improving. Your mentor is your point of reference for anything
+concerning the Nebulab world, so feel free to contact him/her at any time with any queries or
+concerns you may have.
 
-One of the most important responsibilities of your mentor is the organization of one-on-one meetings. Each first
-Friday of the month (if you are an intern, every other Friday), you will have a one-on-one meeting with your mentor
-(a "one-on-one"). The one-on-one is not a standard style meeting: there is no agenda, nor is there a
-set duration. If you wish, you can inform your mentor in advance about what you would like to discuss, 
-but it is not essential. If you do not have anything specific to discuss, it will simply be a friendly chat.
+One of the most important responsibilities of your mentor is the organization of one-on-one (1:1)
+meetings. Each first Friday of the month (if you are an intern, every other Friday), you will have a
+one-on-one meeting with your mentor. The 1:1 is not a standard meeting: there is no agenda, nor is
+there a set duration. If you wish, you can inform your mentor in advance about what you would like
+to discuss, but it is not required. If you do not have anything specific to discuss, it will simply
+be a friendly chat.
 
 Here are some things that the one-on-one is NOT:
 
 - It is not necessarily an office meeting.  If you want to take a walk, tell this to your mentor. 
-If you want to have a coffee, that's fine. If you want/have to do this from home, this works fine too.
-- It is not an update on the status of projects you are working on. If there is any particular problem
-you wish to discuss, feel free to do so, but your mentor will not exert any
-pressure on you.
-- It is not a meeting where you have to talk about work: if something good
-has happened to you recently (or bad, let's hope not) and you would like to discuss this at the one-on-one, do so: these are the
-most important conversations.
+  If you want to have a coffee, that's fine. If you want/have to do this from home, that works too.
+- It is not an update on the status of projects you are working on. If there is a particular work
+  issue you wish to discuss, feel free to do so, but your mentor will not ask you to do so.
+- It is not a meeting where you have to talk about work: if something nice (or not so nice) has
+  happened in your life recently and you would like to discuss this at the 1:1, do so: these are the
+  most important conversations and your mentor will be there for you. 
 - It is not an obligatory meeting: if one day you simply don't feel like talking, please tell your 
-mentor and compatibly establish another date. The one-on-one meetings are held regularly for
-organizational purposes, but focus on people, not on schedules.
+  mentor and move the meeting to another date. 1:1s are recurring for organizational purposes but
+  they focus on people, not schedules.
 
-At the end of the one-on-one, your mentor will make some notes in a Google document that is then shared with you, on
-what you discussed and your possible commitments, so that at the
-following meeting you can review them and see how things have progressed.
+At the end of the 1:1, your mentor will take some notes on what you discussed and what you both
+commit to, so that at the following meeting you can review them and see how things have progressed.
+This document will be shared with you and you are free to make any adjustments or add topics for the
+next meeting.
 
-The one-on-one is also a time to discuss your [personal growth projects](https://github.com/nebulab/playbook/blob/master/crescita-personale/venerdi.md)
-and the goals you set for yourself for that month.
+The 1:1 is also a time to discuss your [personal growth projects](https://github.com/nebulab/playbook/blob/master/crescita-personale/venerdi.md)
+and the goals you set for yourself.
