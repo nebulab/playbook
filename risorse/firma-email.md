@@ -1,7 +1,7 @@
 # Email signature
 
-An example of signature to be used with Nebulab email:
- 
+Use the following template for the signature in your work emails:
+
 ```
 —
 Rupert Sciamenna
