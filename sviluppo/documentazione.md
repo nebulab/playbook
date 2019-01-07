@@ -1,18 +1,18 @@
-# Documentazione
+# Documentation
 
 ## Readme
 
-Un buon readme è fondamentale per la salute di un progetto, perché permette a nuovi sviluppatori di
-iniziare a lavorare velocemente sul codice, senza dover chiedere in giro come configurare 
-l'applicazione o l'ambiente di sviluppo. Idealmente, il readme dovrebbe toccare tutti i seguenti
-punti:
+A good readme is fundamental for the project's health, because it permits new developers
+to start working on the code quickly, without asking others how to configure 
+the application or the development environment. Ideally, the readme should contain all of the following 
+points:
 
-- una breve descrizione del progetto;
-- come installare il progetto per lo sviluppo locale;
-- quali linee guida sono state adottate per il codice;
-- qual è il workflow per lo sviluppo di nuove funzionalità;
-- quali tool esterni vengono usati (es. SendGrid, Honeybadger);
-- come funziona il deployment del progetto nei vari ambienti.
+- A short description of the project;
+- How to install the project for local development;
+- What guidelines have been adopted for the code;
+- What is the work flow for development of new features;
+- Which external tools are used (for example: SendGrid, Honeybadger);
+- How does the project deployment work in various environments.
 
-Per ispirazione sulla struttura e il contenuto del readme si possono guardare alcuni dei progetti
-esistenti o chiedere in #sviluppo.
+For inspiration regarding the readme structure and content you can look at some
+existing projects or ask in #development.

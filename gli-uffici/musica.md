@@ -1,13 +1,13 @@
-# Musica
+# Music
 
-Per ascoltare la musica abbiamo due diverse soluzioni a seconda dell'ufficio:
+We have two solutions for listening to the music, depending on the office: 
 
-* Pescara: una cassa Bowers & Wilkins Z2 che supporta AirPlay. Può essere usata tramite i soliti
-sistemi [previsti da Apple](https://support.apple.com/en-us/HT202809).
-* Latina: un sistema di riproduzione Sonos distribuito nelle stanze dell'ufficio. Con Sonos si
-possono gestire diverse playlist distribuite oppure associare le casse per riprodurre la stessa
-musica su più casse. Si può controllare il sistema installando le app per i propri dispositivi
-(desktop/mobile) direttamente dal [sito Sonos](https://www.sonos.com/redir/controller_software_mac).
+* Pescara: a Bowers & Wilkins Z2 system supporting AirPlay. It can be used with the standard
+systems [provided by Apple](https://support.apple.com/en-us/HT202809).
+* Latina: a Sonos sound system projected in the office rooms. With Sonos 
+you can manage various distributed playlists or combine the speakers to play the same 
+music on several speakers. You can manage the system by installing the app for your own devices
+(desktop/mobile) directly from [Sonos site](https://www.sonos.com/redir/controller_software_mac).
 
-Naturalmente per rispetto degli altri da evitare assolutamente generi musicali spinti tipo death
-metal Norvegese, Rap, Trap o trashate pop tipo Nicki Minaj.
+For obvious reasons, and out of respect for others, please avoid extreme musical genres at all costs, such as 
+Norwegian death metal, Rap, Trap or pop trash such as Nicki Minaj.

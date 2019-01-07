@@ -1,13 +1,13 @@
-# Progetti interni
+ # Internal projects
 
-Nel corso degli anni, abbiamo sviluppato diversi tool a uso interno per aiutarci nel lavoro di tutti
-i giorni e nel rapporto con i clienti. Sei libero in qualunque momento di migliorare questi tool
-partecipando alle discussioni che li riguardano, suggerendo miglioramenti o addentrandoti nel
-codice per risolvere problemi e aggiungere funzionalità.
+Throughout the years, we have developed a variety of tools for internal use to help us in our daily work
+and in dealing with our clients. Feel free to improve these tools at any time,
+taking part in discussions about them, recommending improvements or examining the
+code to solve problems and add new functionalities.
 
-Ecco una lista dei tool che abbiamo attualmente, con il responsabile della loro manutenzione:
+Below is a list of tools that we have currently have, with the name if the person in charge of their maintenance:
 
-| Nome tool | Repository | Responsabile |
+| Tool name | Repository | Person responsible |
 | --------- | ---------- | ------------ |
 | Baywatch | [nebulab/baywatch](https://github.com/nebulab/baywatch) | Matteo Latini ([@mtylty][mtylty]) |
 | Bridge | [nebulab/bridge](https://github.com/nebulab/bridge) | Matteo Latini ([@mtylty][mtylty]) |

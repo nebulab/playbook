@@ -1,52 +1,52 @@
-# Il venerdì
+# Friday
 
-Il venerdì in Nebulab è un momento di crescita personale e collettiva. Il venerdì non lavoriamo sui
-clienti, ma su noi stessi e di conseguenza su Nebulab.
+At Nebulab, Friday the time of personal and collective growth. On Fridays, we do not focus on
+clients, but on ourselves and, therefore, on Nebulab.
 
-Ogni mese, al termine dell'1:1 col tuo mentore, deciderai su cosa ti vuoi concentrare per i
-successivi tre venerdì: può essere studiare un nuovo tool che hai trovato interessante, realizzare
-una piccola app, contribuire ad un progetto OSS che usi spesso o lavorare ad un [post per il blog](https://github.com/nebulab/playbook/blob/master/lavorare-su-nebulab/blog.md).
-Qualunque cosa che migliori in qualche modo te o Nebulab (o, ancora meglio, tutti e due) va bene.
+Every month, at the end of your one-on-one meeting with your mentor, you will decide what you wish to focus on for the 
+following three Fridays: you can study a new tool that you found interesting, create 
+a small app, contribute to an OSS project that you use often or work on a [post for the blog](https://github.com/nebulab/playbook/blob/master/lavorare-su-nebulab/blog.md).
+Anything that improves your skills or Nebulab (or, even better, both) is fine.
 
-Insieme al progetto, il tuo mentore ti aiuterà a decidere quali obiettivi vuoi raggiungere e come
-farai a mostrare concretamente quello che hai realizzato. Per esempio, se hai deciso di studiare un
-nuovo framework front-end, potresti realizzare una piccola app con quel framework. Se hai letto un
-libro, potresti creare una presentazione su quello che hai imparato. Se non sei sicuro di cosa
-portare, il tuo mentore ti aiuterà a scegliere.
+Together with the project, your mentor will help you decide what objectives you want to meet 
+and how you can concretely show what you have done. For example, if you decided to study a
+new front-end framework, you could create a small app with that framework. If you read a
+book, you could produce a presentation on what you have learned. If you are not sure what to bring,
+your mentor will help you choose.
 
-Il tuo progetto del venerdì sarà messo insieme agli altri nella board [Demo Friday su GitHub](https://github.com/nebulab/nebulab/projects/5),
-in modo che gli altri sappiano a cosa lavori e siano pronti per quello che porterai al [Demo Friday](#il-demo-friday).
-Se hai scelto di scrivere un blog post come progetto, ricordati di seguire [le linee guida per la
-stesura dei post](https://github.com/nebulab/playbook/blob/master/lavorare-su-nebulab/blog.md) e
-tieni presente che l'ideale sarà avere il post in fase 4 (Feedback) già completata.
+Your Friday project will be put together with other projects on the board [Friday demo on GitHub](https://github.com/nebulab/nebulab/projects/5),
+so that others know what you are working on and are familiar with what you will be bringing to the [Friday Demo](#il-demo-friday).
+If you have chosen to write a blog post as a project, remember to follow [the posting guidelines]
+(https://github.com/nebulab/playbook/blob/master/lavorare-su-nebulab/blog.md) and
+remember that it would be best to have the post in phase 4 (Feedback) already completed.
 
-## Il Demo Friday
+## The Friday Demo
 
-L'ultimo venerdì del mese è il Demo Friday. Gli uffici di Latina e Pescara saranno collegati in
-videoconferenza (chi lavora da remoto si collegherà separatamente), e a turno ognuno mostrerà quello
-che ha realizzato durante il mese. Non c'è una lunghezza fissa per la presentazione, ma l'ideale è
-tra i 15 e i 30 minuti. Dopo aver presentato, aspettati delle domande, e assicurati di prepararne
-per le presentazioni degli altri!
+The last Friday of the month is Demo Friday. The Latina and Pescara offices will be connected via
+video conference (those working remotely will connect separately), and everyone will show in turn 
+what they did during the last month. There is no set duration for the presentation, but ideally it should be 
+between 15 and 30 minutes. After making your presentation, wait for questions and make sure you have prepared
+questions for other presentations!
 
-I Demo Friday sono registrati e le registrazioni sono pubblicate su YouTube, in caso qualcuno non
-possa partecipare.
+The Friday Demos are recorded and they are published on YouTube, in case anyone
+cannot take part.
 
-## Lavorare sui clienti il venerdì
+## Doing client work on a Friday
 
-Ci sono dei periodi in cui una giornata lavorativa su un cliente ha un peso diverso rispetto ad
-altri periodi. Questo però non vuol dire che ad ogni richiesta del cliente dobbiamo cancellare il
-nostro tempo di investimento previsto per il venerdì.
+There are times when work for a client is more important compared to
+other times. However, this does not mean that we must cancel
+our investment time scheduled for Fridays, to deal with a client's request.
 
-Detto ciò, è importante garantire un servizio minimo al cliente. In questo senso una regola è
-particolarmente importante: se per qualsiasi motivo non sei riuscito a lavorare in una giornata
-concordata sul progetto di un cliente dovrai rinunciare al venerdì di quella settimana per
-recuperare quella giornata.
+That said, it is important to guarantee a minimal service for the client. So, one rule is
+particularly important: if for any reason you could not work for the client
+on the agreed date, you must give up the Friday of that week to
+make up for that day.
 
-Questa regola comprende qualsiasi tipo di imprevisto nella settimana quali ad esempio feste nazionali, ferie e
-malattia. Lo stesso vale per assenze più lunghe nelle settimane successive o precedenti, come periodi di
-ferie, company retreat, conferenze, eccetera.
+This rule includes any kind of contingencies during the week, such as national holidays, vacation or
+sick leave. The same applies to longer absences in the following or previous weeks, such as periods of 
+vacation, company retreat, conferences, etc.
 
-Come sempre, è decisiva la tua iniziativa e la tua sensibilità. Sta a te determinare se il tuo
-supporto di venerdì è importante per il cliente qualora ad esempio ti fossi assentato uno o più
-giorni per partecipare ad una conferenza. In quel caso comunicalo su #calendario e avverti il
-cliente che quel venerdì sarai a disposizione.
+As always, your initiative and your sensitivity play a decisive role. It is up to you to determine if your
+Friday support is important for the client, for example, if you were absent for one or more days
+while attending a conference. In that case, communicate this on #calendar and inform the
+client that you will be available on that Friday.

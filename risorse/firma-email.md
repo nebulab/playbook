@@ -1,6 +1,6 @@
-# Firma per le email
+# Email signature
 
-Un esempio di firma da usare con la mail di Nebulab:
+An example of signature to be used with Nebulab email:
  
 ```
 —

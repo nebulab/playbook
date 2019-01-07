@@ -1,74 +1,74 @@
-# Ferie, permessi, straordinari e malattia
+# Vacations, time off, special leave and sick leave
 
-La giornata lavorativa per contratti full-time è di 8 ore. Si può decidere contrattualmente di
-ridurre le ore lavorative accedendo al cosiddetto lavoro part-time.
+The working day for full-time contracts is 8 hours. It can be decided contractually to
+reduce the working hours using so-called part-time work.
 
-I giorni di ferie e le ore di permesso residue possono essere consultate nulla propria busta paga:
+Vacation and residual leave hours can be viewed in your payroll slip:
 
-* Giorni di ferie, nella casella `FERIE RES.`
-* Ore per festività soppresse (o Ex Festività), nella casella `FEST. RES.`
-* Ore per Riduzione Orario Lavorativo (o ROL), nella casella `ROL RES.`
+* Vacation days, in the box `FERIE RES.`
+* Abolished holiday hours (or former Public Holidays), in the box `FEST. RES.`
+* Work time Reduction Hours (or ROL), in the box `ROL RES.`
 
-Lo stesso vale per le quantità maturate e godute, consultando le stesse caselle in corrispondenza di
-`MAT.` e `GOD.`. L'acronimo `A.P.` sta per Anno Precedente e indica le quantità che sono di
-competenza dell'anno precedente ma tuttavia ancora godibili.
+The same applies to the quantities earned and used, displayed in the same box corresponding to 
+`MAT.` and `GOD.`. The acronym `A.P.` stands for Previous Year and indicates the amounts corresponding to
+the previous year, but which can still be taken.
 
-## Ferie
+## Vacations
 
-Sono previsti 22 giorni di ferie l'anno (176 ore). Tutti i membri del team devono comunicare, tramite chat o
-anche a voce, possibilmente almeno due settimane prima, i giorni di ferie di cui si desidera
-beneficiare.
+There are 22 days of vacation per year (176 hours). All members of the team must communicate via chat or 
+verbally, possibly at least two weeks in advance, the vacations days they wish
+to take.
 
-## Permessi, permessi straordinari e lavoro straordinario
+## Time off, special leave and overtime
 
-Il numero di ore di permesso annuale varia in base all'anzianità di servizio.
+The annual number hours for time off varies depending on your seniority.
 
-| Anzianità in mesi     | Ore/Anno |
+| Seniority in months     | Hours/Year |
 |-----------------------|----------|
 | 0 - 24                |    32    |
 | 25 - 48               |    60    |
 | >48                   |    88    |
 
-Un'altra tipologia di permessi retribuiti sono quelli che vengono concessi in casi straordinari.
-Ecco un elenco non esaustivo:
+Another type of paid leave is when it is granted in special cases.
+Below is a non-exhaustive list:
 
-- evento nascita;
-- matrimonio;
-- lutto parenti entro il secondo grado;
-- donazione sangue.
+- Birth;
+- Marriage;
+- Death of relatives up to those once removed;
+- blood donation.
 
-Se credi di avere diritto a un permesso retribuito, scrivi al responsabile amministrativo il quale
-provvederà a fare un controllo per te.
+If you think you have the right to paid leave, write to the administrative manager, who will
+check this for you.
 
-Il tempo di lavoro straordinario è quello che eccede le 8 ore giornaliere. Per legge non si può,
-in nessun caso, superare la soglia delle 48 ore settimanali.
+Overtime is a working time in excess of the 8 hours a day. By law it is not allowed, 
+under any circumstances, to exceed the limit of 48 hours a week.
 
-### Compensazione e arrotondamento
+### Compensation and rounding-off
 
-A fine mese verranno compensate tutte le ore di lavoro straordinario e di permesso del mese. Il
-saldo verrà poi arrotondato alla mezz'ora più vicina secondo le seguenti regole:
+All overtime hours and time off in the month will be compensated at the end of the month. The
+balance will then be rounded-up to the nearest half-hour by applying the following rules:
 
-- da 0 a 0,249 = 0;
-- da 0,25 a 0,749 = 0,5;
-- da 0,75 a 1 = 1
+- from 0 to 0.249 = 0;
+- from 0.25 to 0.749 = 0.5;
+- from 0.75 to 1 = 1
 
-e così via.
+and so on.
 
-## Malattia
+## Illness
 
-Per quanto riguarda le comunicazioni relative alla malattia il dipendente deve contattare il proprio
-medico per richiedere il certificato attestante l'assenza per malattia. Il medico, effettuerà
-l'invio telematico di tale certificato all'INPS che, a sua volta, lo renderà disponibile sempre in
-modalità telematica. In base ai giorni di malattia concessi dal medico curante, il dipendente dovrà
-comunicare all'azienda i giorni di assenza insieme al codice univoco del certificato.
+For communications regarding illness, employees must contact their
+physician to request a sick leave certificate. The physician will
+send the certificate electronically to INPS, which, in turn, will make it available in
+electronic form. Based on the sick leave days granted by the attending physician, the employee must 
+communicate to the company the days of absence together with the certificate's unique code.
 
-# Scelta della tipologia
+# Choice of type
 
-La scelta della tipologia di giustificativo da segnare dovrà seguire i seguenti criteri:
+The choice of type of supporting document to provide must follow these criteria:
 
-- `Permessi/Ferie` va utilizzato per le ore di permesso o per i giorni di ferie: potete usarlo
-  quindi per giornata intera di ferie oppure mettendo il numero di ore di permesso;
-- `Malattia` va utilizzato in caso di Malattia, **inserendo nelle note il Codice di Protocollo
-  rilasciato dal medico curante**;
-- `Permesso straordinario` va utilizzato per i permessi concessi in casi straordinari elencati nella
-  sezione [Permessi, permessi straordinari e lavoro straordinario](https://github.com/nebulab/playbook/blob/master/procedure/ferie-permessi-malattia.md#permessi-permessi-straordinari-e-lavoro-straordinario).
+- `Time-off / Vacation` is used for time-off hours or vacation days: therefore, 
+  you can use it for the whole days off or by putting in the number of hours of time-off; 
+- `Sick-leave` is used in case of Illness, **inserting the Protocol Code in the notes
+  issued by the attending physician**;
+- `Special leave` is used for time off granted in special cases listed in the 
+  section [Time-off, special permits and overtime](https://github.com/nebulab/playbook/blob/master/procedure/ferie-permessi-malattia.md#permessi-permessi-straordinari-e-lavoro-straordinario).

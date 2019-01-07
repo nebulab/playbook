@@ -41,8 +41,8 @@ certain aspects and we want to make sure you're aware of (and onboard with!) our
 #### We work 4 days a week
 
 That's right. We only work Monday-Thursday, while Friday is reserved for studying, team-building 
-and open-source work. While we understand that this might be a  challenge in some situations, we 
-strongly believe that having time to learn new tools and  technologies should not come at the 
+and open-source work. While we understand that this might be a challenge in some situations, we 
+strongly believe that having time to learn new tools and technologies should not come at the 
 expense of our developers' work/life balance, which is why we allocate 20% of the week to learning. 
 
 If you're curious about what your team is doing in their personal investment time, just ask them! 
@@ -65,14 +65,14 @@ development roadmap, you will do it with a developer, not a project manager. Whe
 your team up (or down), you will ask a developer, not an account manager. See the pattern? 
 
 We won't add any extra layers of bureaucracy on our end, and we expect you to do the same: keep 
-things as human and straightforward as possible to improve development velocity and  developer 
+things as human and straightforward as possible to improve development velocity and developer 
 happiness. Don't worry, we'll help you in the process!
 
 #### We don't like (useless) deadlines
 
 If you have a real deadline, we will do whatever we can to accommodate it. A real deadline is one
-that is motivated by a real-world event: perhaps you're  changing warehouses and you need the new 
-integration to be ready by the time you move, or you have  a big marketing event coming up and you 
+that is motivated by a real-world event: perhaps you're changing warehouses and you need the new 
+integration to be ready by the time you move, or you have a big marketing event coming up and you 
 want people to see your shiny redesign. However, what we don't like is spending more time on 
 estimating and putting dates on features than doing actual work. 
 

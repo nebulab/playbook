@@ -1,24 +1,24 @@
 # Social
 
-## Orario condivisione 
+## Sharing time 
 
-Per coprire sia gli Stati Uniti che l'Italia, l'ideale sarebbe postare sui social verso le 18:00 
-(ora italiana).
+To cover both the United States and Italy, the ideal would be to post on social media around 6:00 PM 
+(Italian time).
 
-Bisognerebbe comunque tenere in considerazione di fare una distinzione laddove fosse utile farla.
+However, we should take into consideration the need to make a distinction where required.
 
-## Linee guida immagini
+## Image guidelines
 
-**IMPORTANTE:** Tutte le immagini devono essere PNG-24.
+**IMPORTANT:** All images must be PNG-24.
 
 ### Twitter
 
-**Immagine post:** `1024×512px`
+**Post. image:** `1024×512px`
 
 ### Facebook
 
-**Immagine anteprima link condiviso:** `1200x630px` (oppure `476x249px`)
+**Preview image shared link:** `1200x630px` (or`476x249px`)
 
-**Immagine post squared:** `940x940px`
+**Squared post image:** `940x940px`
 
-**Immagine post landscape:** `940x788px` 
+**Landscape post image:** `940x788px` 

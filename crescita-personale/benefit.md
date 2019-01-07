@@ -1,41 +1,41 @@
-# Benefit
+# Benefits
 
-Tutti i membri del team hanno diritto ai benefit elencati in questo documento. Se avete dubbi su uno
-dei benefit, non siate timidi e chiedete! 
+All members of the team ere entitled to the benefits listed in this document. If you have any doubts regarding
+any of the benefits, feel free to ask! 
 
-- **Hire kit.** Tutti i membri del team ricevono un kit hardware all'assunzione composto da:
-  - [MacBook Pro da 13"](https://www.apple.com/it/shop/buy-mac/macbook-pro/13%22-grigio-siderale-dual%E2%80%91core-a-2,3ghz-128gb#) (16 GB di RAM, SSD da 256 GB, tastiera US o IT);
-  - [sleeve Tucano Second Skin Elements](https://www.amazon.it/dp/B009F8ARNS/ref=pe_3310731_189395851_TE_dp_1); 
-  - [Apple Magic Keyboard](https://www.apple.com/it/shop/product/MLA22T/A/magic-keyboard-italiano) (con layout a scelta tra US e IT);
-  - mouse a scelta tra [Apple Magic Mouse](https://www.apple.com/it/shop/product/MRME2Z/A/magic-mouse-2-grigio-siderale) e [Logitech MX Master 2S](https://www.logitech.com/it-it/product/mx-master-2s-flow);
-  - cuffie a cancellazione attiva del rumore (a scelta tra [Bose QuietComfort 35 II](https://www.bose.it/it_it/products/headphones/over_ear_headphones/quietcomfort-35-wireless-ii.html) e [Sony WH-1000XM3](https://www.sony.it/electronics/cuffie-archetto/wh-1000xm3));
+- **Hire kit.** All members of the team receive a hardware hire kit that includes:
+  - [MacBook Pro of 13"](https://www.apple.com/it/shop/buy-mac/macbook-pro/13%22-grigio-siderale-dual%E2%80%91core-a-2,3ghz-128gb#) (16 GB of RAM, SSD of 256 GB, US or IT keyboard);
+  - [Tucano Second Skin Elements sleeve](https://www.amazon.it/dp/B009F8ARNS/ref=pe_3310731_189395851_TE_dp_1); 
+  - [Apple Magic Keyboard](https://www.apple.com/it/shop/product/MLA22T/A/magic-keyboard-italiano) (with the layout choice of US or IT);
+  - mouse to choose between [Apple Magic Mouse](https://www.apple.com/it/shop/product/MRME2Z/A/magic-mouse-2-grigio-siderale) and [Logitech MX Master 2S](https://www.logitech.com/it-it/product/mx-master-2s-flow);
+  - Active noise canceling headphones (to choose between [Bose QuietComfort 35 II](https://www.bose.it/it_it/products/headphones/over_ear_headphones/quietcomfort-35-wireless-ii.html) and [Sony WH-1000XM3](https://www.sony.it/electronics/cuffie-archetto/wh-1000xm3));
   - [monitor LG 27UK850-W](https://www.lg.com/it/monitor/lg-27UK850-W) (IPS, 27", 4K);
-  - [scrivania BEKANT](https://www.ikea.com/it/it/catalog/products/S69282592/#/S19022808) (delle dimensioni desiderate) e [sedia da ufficio JÄRVFJÄLLET](https://www.ikea.com/it/it/catalog/products/S99275632/#/S89275623).
+  - [desk BEKANT](https://www.ikea.com/it/it/catalog/products/S69282592/#/S19022808) (with the desired dimensions) and [an office chair JÄRVFJÄLLET](https://www.ikea.com/it/it/catalog/products/S99275632/#/S89275623).
 - **[Mentoring](https://github.com/nebulab/playbook/blob/master/crescita-personale/mentoring-e-1-1.md).**
-  Quando entri a far parte del nostro team, ti viene assegnato un mentore, che sarà un punto di
-  riferimento e sostegno durante tutto il tuo percorso all'interno di Nebulab, soprattutto per quel 
-  che riguarda la tua crescita personale e professionale. Ad esempio, se sei interessato a un 
-  argomento e vuoi approfondirlo, oppure sei in difficoltà su un progetto, rivolgiti senza indugio
-  al tuo mentore, sarà felice di aiutarti!
+  When you become a member of our team, you will be assigned a mentor, who will be the
+  person for reference and support during your whole career at Nebulab, especially for 
+  the aspects of your personal and professional growth. For example, if you are interested in a 
+  given subject and would like to study it, or if you have difficulties with a project, do not hesitate to contact your 
+  mentor who will be happy to help you!
 - **[Study Friday](https://github.com/nebulab/playbook/blob/master/crescita-personale/venerdi.md).** 
-  Il venerdì è un momento per staccare dal lavoro per i clienti e concentrarci su progetti di studio 
-  e crescita personale (o aziendale). Se non sai bene su che cosa lavorare, chiedi al vostro
-  mentore di aiutarti a trovare un progetto adeguato al tuo percorso di crescita.
-- **[Orario flessibile](https://github.com/nebulab/playbook/blob/master/come-lavoriamo/dove-quando-e-come.md).** 
-  Guardiamo i risultati, non le ore di lavoro. Tutti nel team hanno diritto a lavorare in orari 
-  flessibili, compatibilmente con le esigenze dei clienti e degli altri membri del team. Se sei in 
-  dubbio, chiedi al cliente e ai tuoi colleghi.
-- **[Lavoro da remoto](https://github.com/nebulab/playbook/blob/master/come-lavoriamo/dove-quando-e-come.md#lavorare-da-remoto).** 
-  Nonostante abbiamo due uffici, la nostra cultura è assolutamente _remote-first_. È possibile in 
-  qualunque momento optare di lavorare da remoto, non importa se lo si vuole fare per un giorno, per 
-  un anno o a tempo indefinito.
-- **Settimane Nebulose.** Ogni anno, organizziamo almeno due Settimane Nebulose, dei team retreat di 
-  durata settimanale in cui si lavora e ci si diverte insieme. Questi incontri hanno l'obiettivo di 
-  far socializzare membri del team che lavorano in uffici diversi o da remoto; siete incoraggiati a 
-  partecipare!
-- **[Conferenze pagate](https://github.com/nebulab/playbook/blob/master/crescita-personale/conferenze.md).** 
-  Le spese (viaggio, alloggio e biglietto) di partecipazione a conferenze di settore sono
-  completamente a carico nostro.
-- **Budget internet.** Se lavori da remoto, pagheremo le spese che sostieni per la connessione
-  internet di casa. Avere una buona connessione è tanto nel tuo interesse quanto in quello di chi
-  lavora con te, dunque facci sapere se hai bisogno di un upgrade!
+  Friday is the time to set aside work for clients and focus on 
+  study or personal (or company) growth projects. If you don't know what to work on, ask your 
+  mentor to help you find a project appropriate for your growth.
+- **Flexible time](https://github.com/nebulab/playbook/blob/master/come-lavoriamo/dove-quando-e-come.md).** 
+  We look at the results, not the amount of time spent working. All members of the team have the right to work 
+  flexible hours, compatible with client requirements and those of other members of the team. If you have 
+  any doubts, ask the client and your colleagues.
+- **[Remote work](https://github.com/nebulab/playbook/blob/master/come-lavoriamo/dove-quando-e-come.md#lavorare-da-remoto).** 
+  Despite having two offices, our culture is absolutely _remote-first_. It is possible 
+  at any time to opt for working remotely, whether you want to do it for one day, for  
+  one year or indefinitely.
+- **Nebulab Weeks.** Each year we organize at least two Nebulab Weeks of weekly team retreats  
+  where we work and have fun together. The purpose of these meetings is to  
+  let members of the team who work in different offices or remotely socialize; your are encouraged to 
+  take part!
+- **[Paid conferences](https://github.com/nebulab/playbook/blob/master/crescita-personale/conferenze.md).** 
+  The cost (travel, lodging and ticket) of taking part in sector related conferences are 
+  fully paid by us.
+- **Internet budget.** If you work remotely, we will pay the costs of your 
+  home Internet connection. Having a good connection is in your best interest and those who 
+  work with you, so please let us know if you need an upgrade!

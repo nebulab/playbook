@@ -1,8 +1,8 @@
 # Paga
 
-Il pagamento dello stipendio viene effettuato tramite bonifico bancario entro il giorno 10 di ogni mese. 
-La tredicesima mensilità viene erogata nel mese di dicembre mentre la quattordicesima nel mese di 
-giugno.
+Salaries are paid via bank transfer by the tenth day of each month. 
+The thirteenth month is paid in December, while the fourteenth one is paid in the month of 
+June.
 
-Il cedolino in cui risultano tutti gli importi di competenza del mese o delle mensilità aggiuntive 
-sarà disponibile nella cartella `/Buste Paga` privata su Google Drive di Nebulab.
+The payslip showing all the various amounts for the month or additional months 
+can be found in the private `/Payroll` folder on Nebulab Google Drive.

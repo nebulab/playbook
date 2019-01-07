@@ -1,45 +1,45 @@
 # Design
 
-## Presentazione
+## Presentation
 
-Per la condivisione e la presentazione di mockup al cliente e agli altri membri del team usiamo 
-l'app [InVision](https://www.invisionapp.com/). Con InVision è possibile creare prototipi 
-interattivi completi di gestures, transizioni e animazioni per desktop e mobile che possono essere 
-visionati e commentati da altri collaboratori del progetto.
+For sharing and presentation of mock-ups to the client and to other members of the team we use 
+the app [InVision](https://www.invisionapp.com/). With InVision it is possible to create 
+interactive prototypes complete with gestures, transitions and animations for desktop and mobile, which can be 
+viewed and commented by other project coworkers.
 
-## Risorse
+## Resources
 
-### Ispirazione
+### Inspiration
 
-- [Dribbble](https://dribbble.com/): La più grande community di designer e fonte di ispirazione.
-- [The Best Designs](https://www.thebestdesigns.com): Una galleria dei più bei siti in circolazione.
+- [Dribbble](https://dribbble.com/): The largest designer community and a source of inspiration.
+- [The Best Designs](https://www.thebestdesigns.com): A gallery of the bests sites available.
 
-### Griglie
+### Grids
 
-- [Gridulator](http://gridulator.com/): Calcola e genera le dimensione e lo spazio tra le colonne di 
-  una griglia. 
+- [Gridulator](http://gridulator.com/): Calculates and generates the dimension and the space between the columns of 
+  a grid. 
 
-### Icone
+### Icons
 
-- [Font Awesome](http://fortawesome.github.io/Font-Awesome/): Un'immensa collezione di icone da 
-  utizzare tramite CSS.
+- [Font Awesome](http://fortawesome.github.io/Font-Awesome/): An immense collection of icons to 
+  be used via CSS.
 
-### Template
+### Templates
 
-- [MockUPhone](http://mockuphone.com): Una collezione di mockup di dispositivi mobili.
+- [MockUPhone](http://mockuphone.com): A collection of mock-ups of mobile devices.
 
 ### Responsive design
 
-- [Screen Sizes](http://screensiz.es/): Aiuta a trovare le dimensioni dei più famosi dispositivi e 
-  monitor sul mercato.
-- [Responsinator](http://www.responsinator.com): Mostra come un sito responsive viene visualizzato 
-  sui dispositivi più popolari.
+- [Screen Sizes](http://screensiz.es/): Help find the dimensions of the best-known devices and  
+  monitors on the market.
+- [Responsinator](http://www.responsinator.com): Shows how a responsive site is displayed 
+  on the most popular devices.
 
-### Texture e pattern
+### Textures and patterns
 
-- [Subtle Patterns](http://subtlepatterns.com): La migliore collezione di pattern.
+- [Subtle Patterns](http://subtlepatterns.com): The best collection of patterns.
 
-### Foto stock gratuite
+### Free stock photos
 
 - [Pexels](http://www.pexels.com)
 - [picjumbo](http://picjumbo.com)
@@ -49,11 +49,11 @@ visionati e commentati da altri collaboratori del progetto.
 - [Gratisography](http://www.gratisography.com)
 - [Life Of Pix](http://www.lifeofpix.com)
   
-### Placeholder
+### Placeholders
 
-- [placekitten](http://placekitten.com): Un servizio veloce e semplice grazie al quale è possibile 
-  scaricare immagini di gatti da usare per il proprio design o per il proprio codice.
+- [placekitten](http://placekitten.com): A fast and simple service that allows you to  
+  download pictures of cats to be used for your design or code.
 
 ### Style guide
 
-- [Styleguide](http://livingstyleguide.devbridge.com/): Un tool per creare style guide interattive.
+- [Styleguide](http://livingstyleguide.devbridge.com/): A tool for creating interactive style guides.

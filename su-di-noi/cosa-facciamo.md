@@ -1,16 +1,16 @@
-# Cosa facciamo
+# What do we do
 
-Ci occupiamo di:
+We work on:
 
-* Design e sviluppo e-commerce Solidus/Spree;
-* Design e sviluppo applicazioni web;
-* Design e sviluppo siti CMS;
-* Realizzazione siti statici (vetrina);
-* Branding web;
-* Gestione campagne PPC, SEO, social media e newsletter.
+* Solidus/Spree e-commerce design and development;
+* Design and development of web applications;
+* Design and development of CMS sites;
+* Development of static sites (window);
+* Web branding;
+* Management of PPC, SEO, social media campaigns and newsletters.
 
-NON ci occupiamo di:
+We DO NOT work on:
 
-* Design e sviluppo applicazioni iOS e Android (ma non è escluso che in futuro lo faremo);
-* Sviluppo piattaforme e-commerce che non siano Solidus/Spree;
-* Campagne pubblicitarie e grafica tradizionale.
+* Design and development of iOS and Android applications (but it cannot be ruled out that we may do so in the future);
+* Development of e-commerce platforms other than Solidus/Spree;
+* Advertising campaigns and traditional graphics.

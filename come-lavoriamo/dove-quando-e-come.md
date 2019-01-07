@@ -1,84 +1,84 @@
-# Dove, quando e come
+# Where, when and how
 
-La nostra settimana lavorativa si costituisce di 4 giorni dedicati a lavori per clienti esterni (non
-necessariamente sempre con lo stesso cliente) e di 1 giorno,
-[il venerdì](https://github.com/nebulab/playbook/blob/master/crescita-personale/venerdi.md), dedicato
-solo all'apprendimento, ai progetti interni o al contributo open source.
+Our working day consists of four days devoted to work for external clients (not
+necessarily always with the same client) and one day,
+[Friday](https://github.com/nebulab/playbook/blob/master/crescita-personale/venerdi.md), dedicated
+exclusively to learning, internal projects or open source contributions.
 
-Le giornate lavorative sono di 8 ore piuttosto flessibili. Per legge non si possono comunque
-superare le 13 ore giornaliere e le 48 ore settimanali. L'orario adottato dalla maggior parte
-di noi è compreso tra le 9:30 e le 18:30 considerando un'ora circa per la pausa pranzo.
-L'organizzazione del lavoro deve essere comunque vista nell'ottica del lavoro in team.
-Quindi chi sceglie di lavorare in orari diversi deve essere attento a non impedire ad un
-altro di svolgere correttamente il proprio lavoro.
+We work an 8-hour day though these are reasonably flexible. In any case, legally, you cannot exceed
+13 hours a day or 48 hours a week. The hours adopted by most of us 
+is between 9:30 AM and 6:30 PM, considering about an hour for lunch.
+The work organization must, in any case, be from a team work perspective.
+Those who choose to work at different hours must be careful not to prevent 
+others from performing their work correctly.
 
-Riguardo al luogo la flessibilità è ancora maggiore. Nebulab al momento ha due sedi operative, una a
-Pescara e una a Latina, ma si è liberi di lavorare ovunque si voglia (volendo anche da casa
-propria).
+In terms of place, the flexibility is even higher. Nebulab currently has two operative offices, one in 
+Pescara and one in Latina, but you are free to work anywhere you want (including from 
+your home).
 
-Questa flessibilità in termini di orario e luogo è resa possibile dalla disciplina del nostro team e
-dall'uso continuo e attento di strumenti ad hoc.
+This flexibility in terms of time and place is possible thanks to the discipline of our team and
+continuous and attentive use of ad hoc instruments.
 
-## Lavorare da remoto
+## Remote work
 
-Come menzionato sopra, è possibile in qualunque momento (con l'opportuno preavviso) scegliere di
-lavorare da remoto per un periodo determinato o a tempo indefinito. In Nebulab crediamo fermamente 
-nella filosofia remote-first, in quanto non solo aumenta la produttività del singolo che si trova a 
-lavorare nell'ambiente a lui più congeniale, ma soprattutto instilla nel team l'abitudine alla 
-comunicazione continua e alla trasparenza. Del resto lavoriamo da remoto per tutti i nostri clienti!
+As mentioned above, it is possible at any time (with advance notification) to choose to work
+remotely for a determined period of time or indefinitely. At Nebulab, we strongly believe 
+in the remote-first philosophy, as it not only improves the productivity of individuals who are  
+in an environment most congenial to them, but especially instills in the team the habit of  
+continuous communication and transparency. By the way, we work remotely for all our clients!
 
-Detto questo, il lavoro da remoto porta con sé delle sfide non indifferenti che è importante 
-affrontare preventivamente, per evitare di influire negativamente sulla produttività propria e di 
-tutto il team. In questa sezione spiegheremo alcune di queste sfide e come si possono vincere.
+That said, remote work comes with serious challenges that 
+must be handled in advance, to avoid negative influence on your productivity and that 
+of the entire team. In this section, we explain some of these challenges and how they can be overcome.
 
-### Principi fondamentali
+### Basic principles
 
-Innanzitutto è necessaro tenere sempre presenti alcuni principi fondamentali quando si lavora da
-remoto:
+First of all, we must always remember some basic principles when we work
+remotely:
 
-- Il lavoro da remoto non è semplicemente un benefit, ma una vera e propria filosofia e alternativa
-  al lavoro in sede. Come tale, richiede la stessa attenzione e cura che mettiamo nel lavoro in sede.
-- Il lavoro da remoto richiede un impegno collettivo da parte di chi lavora da remoto e di chi lavora
-  in ufficio. Se uno di questi due gruppi non si impegna a sufficienza, non può funzionare.
-- Una filosofia remote-first ben realizzata migliora la qualità del lavoro di tutti, portando con sé
-  una maggiore calma e trasparenza nella comunicazione, nelle decisioni e nel lavoro di tutti i giorni.
-- Se stai lavorando da remoto, sei in ufficio. Se hai bisogno di fare altro, comunicalo al team e chiedi
-  un permesso. Lavorare mentre fai altro _non_ è accettabile, perché ne risente non solo la tua produttività,
-  ma anche quella delle persone con cui lavori.
-- Adotta la trasparenza per default. Assicurati che tutte le comunicazioni avvengano su canali pubblici a
-  meno che non sia strettamente necessario tenerle private, in modo che tutti abbiano modo di tenersi
-  informati su quello che accade.
+- The remote work is not simply a benefit, but a philosophy in itself and an alternative
+  to work at the office. As such, it should be approached with the same focus and care we use when working at the office.
+- Remote work requires the collective effort of those who work remotely and those who work
+  at the office. If one of these two groups is not sufficiently involved, it will not work.
+- A well-implemented remote-first philosophy improves everyone's work quality, bringing
+  calmness and transparency in communication, decisions and daily work.
+- If you are working remotely, you are at the office. If you need to do anything else, inform the team and ask for 
+  permission. Working while you are doing something else is _not_ acceptable, because it affects not only your productivity,
+  but also the productivity of people you work with.
+- Adopt the transparency by default. Ensure that all communication takes place via public channels, 
+  unless it is strictly necessary to keep it private, so that everyone is informed
+  on what is happening.
 
-### Spazio di lavoro
+### Work space
 
-Il nostro spazio di lavoro è il nostro tempio. Questo è vero tanto per il lavoro in sede quanto per 
-quello da remoto. La differenza è che, mentre l'ufficio è uno spazio in cui tutti quanti ci occupiamo
-di creare un ambiente di lavoro confortevole, lavorando da remoto starà a te assicurarti di avere tutti
-gli strumenti e le condizioni per essere il più produttivo/a possibile.
+Our work space is our temple. This applies both to work at the office and 
+to remote work. The difference is that while the office is a space where we all
+create a comfortable work environment, when you work remotely, it is up to you to ensure
+having all the instruments and the conditions to be as productive as possible.
 
-Ecco una lista delle cose indispensabili per lavorare da remoto:
+Here is a list of essential things for working remotely:
 
-- **Il tuo spazio produttivo.** Uno spazio dedicato esclusivamente al lavoro. Quando sei lì, sei in 
-  ufficio. Questo spazio dev'essere dedicato, silenzioso, libero da distrazioni e altre persone.
-- **Una buona connessione a internet.** È frustrante essere in una riunione con qualcuno che non si 
-  riesce a capire o si disconnette in continuazione. Se hai intenzione di lavorare da remoto, 
-  investi in una buona connessione a internet. Se non sai come fare, troviamo una soluzione insieme.
+- **Your productive space.** A space dedicated exclusively to work. When you are there, you are at the 
+  office. This space must be specific, quiet, free of distraction and other persons.
+- **A good Internet connection.** It is frustrating to be in a meeting with someone whom we 
+  cannot understand or who disconnects continuously. If you intend to work remotely, 
+  invest in a good Internet connection. If you don't know how to do this, we will find a solution together.
 
-### Canali di comunicazione
+### Communication channels
 
-Usiamo il canale Slack #calendario per tutte le comunicazioni relative agli orari e i luoghi di 
-lavoro. Se intendi lavorare da remoto, comunicalo lì con più anticipo possibile.
+We use the Slack channel #calendar for all communications regarding working time 
+and place. If you intend to work remotely, communicate this as early as possible.
  
-**Importante: NON usare messaggi privati o canali non ufficiali per questo tipo di comunicazioni!**
-È importante che siano centralizzate e accessibili.
+**Important: DO NOT use private messages or unofficial channels for this type of communication!**
+It is important to keep them centralized and accessible.
 
-### Strappi alla regola
+### Exceptions to the rule
 
-La vita è complicata e succedono un sacco di cose. Tutti quanti abbiamo bisogno di fare un piccolo 
-strappo alla regola ogni tanto. Magari un tuo famigliare è malato/a e nessuno può prendersene cura, 
-ma non vuoi comunque rinunciare a una giornata di lavoro. La chiave in queste situazioni è **la 
-comunicazione**. Fai sapere agli altri che lavorerai da remoto ma potresti non essere sempre 
-raggiungibile; nessuno ti mangerà.
+Life is complicated and lots of things happen. We all need to make a small exception 
+to the rule every now and then. Perhaps someone in your family is sick and nobody can take care of them,  
+but you don't want to take a whole day off. **Communication** 
+is the key in such situations. Inform others that you will be working remotely but may not be accessible 
+at all times; nobody will object.
 
-In ogni caso, se questo tipo di situazioni si presenta spesso, parlacene e troveremo una soluzione 
-insieme.
+In any case, if situations of this type happen often, talk to us and we will find a solution  
+together.

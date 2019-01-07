@@ -1,23 +1,23 @@
-# Usare Git e GitHub
+# Use Git and GitHub
 
-Git viene usato per gestire tutti i progetti su cui lavoriamo. Imparare ad usare
-Git è molto importante poichè, oltre che conservare il codice, permette di documentarlo
-e condividere con il resto del team le scelte implementative, anche a distanza di
-tempo.
+Git is used to manage all the projects we work on. Learning to use
+Git is very important because, in addition to preserving the code, it means it can be documented
+and allows for the implementation choices to be shared with the rest of the team, even after some
+time.
 
-Prima di cominciare a contribuire ci sono un paio di cose da sapere:
+Before you start contributing, there are a few things you must know:
 
-- usiamo sempre il [GitHub Flow](https://guides.github.com/introduction/flow/):
-su tutti i progetti usiamo i feature branch per fare delle modifiche ed un unico
-branch `master` per conservare il codice;
-- usiamo dei commit message che permettano di ricostruire lo storico degli sviluppi
-e che seguano delle regole che puoi trovare [qui](https://chris.beams.io/posts/git-commit/).
+- we always use [GitHub Flow](https://guides.github.com/introduction/flow/):
+for all projects we use the branch features to make modifications and only one
+`master` branch to preserve the code;
+- We use commit messages that allow us to reconstruct the development history 
+and which comply with the rules that you can find [here](https://chris.beams.io/posts/git-commit/).
 
-A parte questi punti non ci sono altre regole. Se hai bisogno di chiarimenti
-rivolgiti ai tuoi colleghi (di persona o su #sviluppo su Slack).
+Apart from these points, there are no other rules. If you need anything explained,
+ask your colleagues (in person or on #development on Slack).
 
-Se vuoi continuare ad approfoindire l'argomento ecco una lista di link
-interessanti su Git:
+If you want to learn more about this, here is a list of
+interesting links on Git:
 
 - https://mislav.net/2014/02/hidden-documentation/
 - http://who-t.blogspot.com/2009/12/on-commit-messages.html
@@ -25,21 +25,21 @@ interessanti su Git:
 
 ## Workflow
 
-Le funzionalità da implementare vanno gestite tramite pull request su GitHub.
+The functionalities to implement are managed via a pull request on GitHub.
 
-Per implementare una nuova funzionalità si deve:
+To implement a new functionality, you must:
 
-1. se necessario creare una issue (utilizzare la lingua decisa per il progetto)
-2. creare un nuovo branch `handle-sviluppatore/123-nome-funzionalita`, dove `123` è il numero della
-   issue sul tool di project management (es. `aldesantis/123-login`);
-3. aggiungere un certo numero di commit (in inglese :gb:);
-4. fare la pull request al branch master (utilizzare la lingua decisa per il progetto)
-5. farsi accettare la pull request da un'altra persona che fa la review;
-6. testare la nuova funzionalità su staging prima di fare il deploy in production.
+1. Create an issue if necessary (use the language chosen for the project)
+2. Create a new branch `handle-developer/123-name-functionality`, where `123` is the issue number
+   in the project management tool (e.g. `aldesantis/123-login`);
+3. Add a certain number of commits (in English :gb:);
+4. Make the pull request to the branch master (use the language chosen for the project)
+5. Have the pull request accepted by another person performing the review;
+6. Test the new functionality on staging before deploying it to production.
 
-In generale quando si collabora a progetti esterni:
+In general, when you work on external projects:
 
-- Adattarsi ai messaggi di commit, issue e pull request pre-esistenti solo se questi sono espressi 
-  in maniera omogenea.
-- Applicare le [regole di Nebulab](https://github.com/nebulab/playbook/blob/master/sviluppo/usare-git.md#messaggi-di-commit) 
-  (dopo aver chiesto al team, se presente) quando si rileva un'incoerenza nella forma dei messaggi.
+- Adapt to pre-existing commit messages, issues and pull requests only if they are expressed  
+  homogeneously. 
+- Apply the [Nebulab rules](https://github.com/nebulab/playbook/blob/master/sviluppo/usare-git.md#messaggi-di-commit) 
+  (after asking the team, if present) when you note any incoherence in the message form.

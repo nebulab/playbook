@@ -2,25 +2,25 @@
 
 ## Pescara
 
-### Rete
+### Network
 
-**Rete:** Guest@Nebulab
+**Network:** Guest@Nebulab
 
-**Password:** chiedi a qualcuno in ufficio
+**Password:** ask someone at the office
 
 ## Latina
 
-### Rete 2.4 GHz
+### Network 2.4 GHz
 
-**Rete**: Nebulab
+**Network**: Nebulab
 
-**Password**: chiedi a qualcuno in ufficio
+**Password**: ask someone at the office
 
-### Rete 5 GHz
+### Network 5 GHz
 
-**Rete**: Nebulab_5GHz
+**Network**: Nebulab_5GHz
 
-**Password**: chiedi a qualcuno in ufficio
+**Password**: ask someone at the office
 
 ### Router
 
@@ -28,4 +28,4 @@
 
 **Username**: admin
 
-**Password**: chiedi a qualcuno in ufficio
+**Password**: ask someone at the office
