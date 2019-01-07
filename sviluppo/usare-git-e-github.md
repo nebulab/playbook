@@ -1,23 +1,20 @@
-# Use Git and GitHub
+# Using Git and GitHub
 
-Git is used to manage all the projects we work on. Learning to use
-Git is very important because, in addition to preserving the code, it means it can be documented
-and allows for the implementation choices to be shared with the rest of the team, even after some
-time.
+Git is used to manage all the projects we work on. Learning to use Git is very important because, in 
+addition to preserving the code, it serves as a source of documentation and makes it easier to share
+design and implementation decisions with the team.
 
-Before you start contributing, there are a few things you must know:
+Before you start contributing to a project, there are a few things you should know:
 
-- we always use [GitHub Flow](https://guides.github.com/introduction/flow/):
-for all projects we use the branch features to make modifications and only one
-`master` branch to preserve the code;
-- We use commit messages that allow us to reconstruct the development history 
-and which comply with the rules that you can find [here](https://chris.beams.io/posts/git-commit/).
+- we always use [GitHub Flow](https://guides.github.com/introduction/flow/): we use feature branches
+  for all changes and merge into `master`, which serves as the single source of truth for the
+  project's state;
+- we use commit messages that allow us to understand the development history (more info on good 
+  commit messages [here](https://chris.beams.io/posts/git-commit/)).
 
-Apart from these points, there are no other rules. If you need anything explained,
-ask your colleagues (in person or on #development on Slack).
+If you need anything explained, ask your colleagues (in person or on #sviluppo in Slack).
 
-If you want to learn more about this, here is a list of
-interesting links on Git:
+If you want to learn more about this, here is a list of interesting links about Git:
 
 - https://mislav.net/2014/02/hidden-documentation/
 - http://who-t.blogspot.com/2009/12/on-commit-messages.html
@@ -25,21 +22,21 @@ interesting links on Git:
 
 ## Workflow
 
-The functionalities to implement are managed via a pull request on GitHub.
+The workflow of new features is managed via pull requests on GitHub.
 
-To implement a new functionality, you must:
+To implement a new feature:
 
-1. Create an issue if necessary (use the language chosen for the project)
-2. Create a new branch `handle-developer/123-name-functionality`, where `123` is the issue number
-   in the project management tool (e.g. `aldesantis/123-login`);
-3. Add a certain number of commits (in English :gb:);
-4. Make the pull request to the branch master (use the language chosen for the project)
-5. Have the pull request accepted by another person performing the review;
-6. Test the new functionality on staging before deploying it to production.
+1. create an issue (use the language chosen for the project);
+2. create a new branch named `developer-name/123-feature-name`, where `123` is the issue number in 
+   the project management tool (e.g. `aldesantis/123-login`);
+3. add a certain number of commits (in English :gb:);
+4. open a pull request for the `master` branch (use the language chosen for the project)
+5. have the pull request reviewed accepted by another team member;
+6. test the new feature on staging or the review app before deploying to production.
 
 In general, when you work on external projects:
 
-- Adapt to pre-existing commit messages, issues and pull requests only if they are expressed  
-  homogeneously. 
-- Apply the [Nebulab rules](https://github.com/nebulab/playbook/blob/master/sviluppo/usare-git.md#messaggi-di-commit) 
-  (after asking the team, if present) when you note any incoherence in the message form.
+- Adapt to the style of existing commit messages, issues and pull requests only if they are 
+  written homogeneously. 
+- Apply the Nebulab rules (after asking the team, if present) when you note discrepancies in the
+  existing commits.

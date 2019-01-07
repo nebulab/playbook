@@ -2,10 +2,10 @@
 
 ## Presentation
 
-For sharing and presentation of mock-ups to the client and to other members of the team we use 
-the app [InVision](https://www.invisionapp.com/). With InVision it is possible to create 
-interactive prototypes complete with gestures, transitions and animations for desktop and mobile, which can be 
-viewed and commented by other project coworkers.
+We use [InVision](https://www.invisionapp.com/) to share and present mock-ups to clients and team 
+members. With InVision, it is possible to create interactive prototypes complete with gestures, 
+transitions and animations for desktop and mobile, which can be viewed and commented by other
+project members.
 
 ## Resources
 
@@ -16,24 +16,22 @@ viewed and commented by other project coworkers.
 
 ### Grids
 
-- [Gridulator](http://gridulator.com/): Calculates and generates the dimension and the space between the columns of 
-  a grid. 
+- [Gridulator](http://gridulator.com/): Calculates the size and space between the columns of a grid. 
 
 ### Icons
 
-- [Font Awesome](http://fortawesome.github.io/Font-Awesome/): An immense collection of icons to 
-  be used via CSS.
+- [Font Awesome](http://fortawesome.github.io/Font-Awesome/): An immense collection of icons.
 
 ### Templates
 
-- [MockUPhone](http://mockuphone.com): A collection of mock-ups of mobile devices.
+- [MockUPhone](http://mockuphone.com): A collection of mobile device mock-up templates.
 
 ### Responsive design
 
-- [Screen Sizes](http://screensiz.es/): Help find the dimensions of the best-known devices and  
-  monitors on the market.
-- [Responsinator](http://www.responsinator.com): Shows how a responsive site is displayed 
-  on the most popular devices.
+- [Screen Sizes](http://screensiz.es/): Helps find the dimensions of the best-known devices and  
+  screens on the market.
+- [Responsinator](http://www.responsinator.com): Shows how a responsive site is displayed on the
+  most popular devices.
 
 ### Textures and patterns
 
@@ -51,9 +49,10 @@ viewed and commented by other project coworkers.
   
 ### Placeholders
 
-- [placekitten](http://placekitten.com): A fast and simple service that allows you to  
-  download pictures of cats to be used for your design or code.
+- [placekitten](http://placekitten.com): A fast and simple service that allows you to  download 
+  pictures of cats to be used for your design or code.
 
 ### Style guide
 
-- [Styleguide](http://livingstyleguide.devbridge.com/): A tool for creating interactive style guides.
+- [Styleguide](http://livingstyleguide.devbridge.com/): A tool for creating interactive style
+  guides.
