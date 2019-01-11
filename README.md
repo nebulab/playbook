@@ -35,7 +35,7 @@ solidly on various projects.
 - [Paid time off and overtime](https://github.com/nebulab/playbook/blob/master/processes/paid-time-off-and-overtime.md)
 - [Payroll](https://github.com/nebulab/playbook/blob/master/processes/payroll.md)
 - [Workplace health and safety](https://github.com/nebulab/playbook/blob/master/processes/workplace-health-and-safety.md)
-- [Resignations](https://github.com/nebulab/playbook/blob/master/processes/resignation.md)
+- [Resignation](https://github.com/nebulab/playbook/blob/master/processes/resignation.md)
 
 ## The offices
 
