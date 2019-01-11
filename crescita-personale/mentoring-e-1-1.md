@@ -1,33 +1,34 @@
-# Mentoring e 1:1
+# Mentoring and 1:1s
 
-Al tuo ingresso in Nebulab ti sarà assegnato un mentore, il cui obiettivo è quello di seguirti
-per tutto il tempo che lavorerai qui e assicurarsi che tu non smetta mai di crescere. Il tuo mentore è 
-il tuo punto di riferimento per tutto quello che riguarda il mondo Nebulab, dunque sentiti libero di
-contattarlo in qualunque momento per qualunque dubbio o problematica.
+Upon your arrival at Nebulab, a mentor will be assigned to you. His/her duty is to follow you and
+ensure that you are constantly improving. Your mentor is your point of reference for anything
+concerning the Nebulab world, so feel free to contact him/her at any time with any queries or
+concerns you may have.
 
-Una delle responsabilità più importanti del tuo mentore sarà l'organizzazione degli 1:1. Ogni primo
-venerdì del mese (se sei un tirocinante, ogni due venerdì), ti riunirai col tuo mentore in un 1:1
-("uno-a-uno" o "one-on-one"). L'1:1 non è un meeting tradizionale: non ha un'agenda e non non ha una
-durata fissa. Se vuoi puoi parlare prima col tuo mentore dei punti che vorresti affrontare, ma non è
-obbligatorio. Se non hai nulla di specifico di cui parlare, sarà semplicemente una chiacchierata.
+One of the most important responsibilities of your mentor is the organization of one-on-one (1:1)
+meetings. Each first Friday of the month (if you are an intern, every other Friday), you will have a
+one-on-one meeting with your mentor. The 1:1 is not a standard meeting: there is no agenda, nor is
+there a set duration. If you wish, you can inform your mentor in advance about what you would like
+to discuss, but it is not required. If you do not have anything specific to discuss, it will simply
+be a friendly chat.
 
-Ecco alcune cose che l'1:1 NON è:
+Here are some things that the one-on-one is NOT:
 
-- Non è necessariamente un meeting da ufficio. Se vuoi fare una passeggiata, dillo al tuo mentore.
-Se vuoi andare a prendere un caffè, perfetto. Se vuoi/devi farlo da casa, va bene anche quello.
-- Non è un aggiornamento di stato sui progetti a cui stai lavorando. Se c'è qualche problema in
-particolare che vuoi affrontare, sentiti libero di farlo, ma il tuo mentore non ti farà pressioni
-al riguardo.
-- Non è un meeting in cui serve parlare di lavoro: se ultimamente ti è successo qualcosa di bello
-(o, speriamo di no, di brutto) e ti fa piacere parlarne nell'1:1, fallo pure: sono quelle le
-conversazioni più importanti.
-- Non è un meeting obbligatorio: se un giorno semplicemente non ti va di parlare, dillo al tuo
-mentore e trovate insieme un'altra data. Gli 1:1 hanno una cadenza regolare per ragioni
-organizzative, ma sono incentrati sulle persone, non sui calendari.
+- It is not necessarily an office meeting.  If you want to take a walk, tell this to your mentor. 
+  If you want to have a coffee, that's fine. If you want/have to do this from home, that works too.
+- It is not an update on the status of projects you are working on. If there is a particular work
+  issue you wish to discuss, feel free to do so, but your mentor will not ask you to do so.
+- It is not a meeting where you have to talk about work: if something nice (or not so nice) has
+  happened in your life recently and you would like to discuss this at the 1:1, do so: these are the
+  most important conversations and your mentor will be there for you. 
+- It is not an obligatory meeting: if one day you simply don't feel like talking, please tell your 
+  mentor and move the meeting to another date. 1:1s are recurring for organizational purposes but
+  they focus on people, not schedules.
 
-Al termine dell'1:1, il tuo mentore inserirà in un documento Google condiviso con te alcune note su
-quello di cui avete parlato e su eventuali impegni da parte sua o tua, in modo che possiate
-riguardarle nel meeting successivo e vedere come le cose si sono evolute.
+At the end of the 1:1, your mentor will take some notes on what you discussed and what you both
+commit to, so that at the following meeting you can review them and see how things have progressed.
+This document will be shared with you and you are free to make any adjustments or add topics for the
+next meeting.
 
-L'1:1 è anche il momento in cui discutere dei tuoi [progetti di crescita personale](https://github.com/nebulab/playbook/blob/master/crescita-personale/venerdi.md)
-e degli obiettivi che ti sei prefissato per il mese.
+The 1:1 is also a time to discuss your [personal growth projects](https://github.com/nebulab/playbook/blob/master/crescita-personale/venerdi.md)
+and the goals you set for yourself.

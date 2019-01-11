@@ -1,72 +1,72 @@
-# I nostri valori
+# Our values
 
-Tutti noi, nello svolgimento del nostro lavoro, abbiamo rapporti diretti con i colleghi e gli 
-stakeholder, siano essi clienti, altri team di sviluppo, membri della comunità OSS o altri 
-professionisti. Il rapporto che si instaura con essi è fondamentale: dobbiamo sempre tenere presenti 
-tutti i valori e gli standard che Nebulab si propone di rappresentare e di mantenere.
+All of us, in our work, have direct relations with colleagues and stakeholders, such as clients,
+other development teams, members of the OSS community and other professionals. The relationship
+established with them is fundamental: we must always keep in mind all the values and standards that
+Nebulab aims to represent and uphold.
 
-Lavorare in Nebulab vuol dire inserirsi in un contesto collaborativo a tutto tondo. È importante 
-supportarsi e coordinarsi, sopperendo a eventuali mancanze degli altri membri del team.
+Working at Nebulab means investing in an all-round collaboration context. It is essential to support
+one another as well as coordinate with each other in an attempt to compensate any shortcomings of
+other team members.
 
-Tutto ciò che ci proponiamo di essere è riportato sul nostro sito internet. Chi entra in contatto 
-con noi si aspetta di avere a che fare con persone:
+All that we want to be is described on our website. Anyone contacting us expects to deal with
+people who are:
 
-- appassionate di tecnologia e del web;
-- esperte nel loro campo, ma pronte al cambiamento;
-- che sviluppano prodotti di qualità;
-- che risolvono problemi senza perdersi in dettagli irrilevanti;
-- che siano nerd, ma comunicative;
-- con cui si possa lavorare e ci si possa divertire;
-- che sperimentano e condividono.
+- passionate about the Web;
+- expert in their field, but open to change;
+- developing high-quality products;
+- solving problems without getting lost in irrelevant details;
+- nerds, but communicative;
+- dedicated to work, but easy-going;
+- willing to experiment and share.
 
-Queste aspettative sono incarnate dai nostri valori, che sono riportati di seguito insieme ad alcuni
-comportamenti esemplari.
+These expectations are reflected in our values, which are reported below along with some exemplary
+behaviors.
 
-## Onestà
+## Honesty
 
-- Lavoriamo in modo onesto.
-- Agiamo e comunichiamo in maniera sincera, leale e trasparente.
-- Non cerchiamo soluzioni di comodo.
-- Esprimiamo le nostre perplessità se pensiamo che una scelta possa portare anche solo 
-  indirettamente un danno al progetto sul quale stiamo lavorando.
-- Segniamo e fatturiamo solo le ore effettivamente svolte sul progetto.
+- We work honestly.
+- We act and communicate in a sincere, loyal and transparent way.
+- We don't look for convenient solutions.
+- We express our perplexities if a decision may damage the project, even indirectly.
+- We only bill the hours that were actually worked on the project.
+    
+## Communication
 
-## Comunicatività
+- We say hi via the project's communication channel at the beginning and at the end of the day.
+- We always communicate clearly, simply and precisely.
+- We use humor when appropriate.
+- We provide all the information that can be useful to the client or other members of the team, even
+  if it's simply a summary of what we are doing or will do today.
+- We report doubts and problems.
+- We keep our project management tools and client's tools updated.
+- We promptly record the hours worked.
+- We communicate in a timely fashion, delegating or postponing only when we cannot provide an
+  immediate response.
 
-- Salutiamo nel canale di comunicazione del progetto a inizio e fine giornata.
-- Comunichiamo sempre con chiarezza, semplicità e precisione.
-- Usiamo lo humor quando è appropriato.
-- Rendiamo disponibili tutte le informazioni che possono servire al cliente o agli altri membri del 
-  team, anche banalmente cosa stiamo facendo o faremo oggi.
-- Segnaliamo dubbi e problemi.
-- Teniamo aggiornati i nostri tool di project management e quelli del cliente.
-- Segniamo puntualmente le ore svolte.
-- Comunichiamo con il giusto tempismo, delegando o posticipando quando non siamo in grado di fornire
-  immediatamente una risposta.
+## Collaboration
 
-## Collaborazione
-
-- Aiutiamo gli altri a crescere, e li mettiamo nella posizione di aiutare altri a loro volta.
-- Capiamo che la produttività dipende dal talento del nostro team e dalla capacità di collaborare
-  e proviamo sempre a migliorare entrambi gli aspetti.
-- Non risolviamo i problemi da soli, anche quando saremmo in grado di farlo.
-- Siamo pazienti nell'insegnare agli altri e cerchiamo di adattarci al loro stile di apprendimento
-  invece di adattarli al nostro stile di insegnamento.
-- Rispettiamo standard elevati e chiediamo lo stesso agli altri, ma con gentilezza.
+- We help others grow enable them to help others in turn.
+- We understand that productivity depends on our team's talent and their capacity to collaborate,
+  and we constantly try to improve both aspects.
+- We do not solve problems alone, even if we were capable of doing so.
+- We are patient when teaching others and we try to adapt to their learning style instead of
+  adapting them to our teaching style.
+- We operate with high standards and politely expect others to do the same.
 
 ## Problem owning
 
-- Assegniamo ai problemi il giusto peso, trovando un compromesso tra la perfezione tecnica e il
-  valore che la nostra soluzione porta al progetto.
-- Nei confronti dei clienti agiamo sempre come se stessimo spendendo i nostri soldi, non i suoi.
-- Facciamo in modo che i problemi che affrontiamo non si verifichino più.
-- Siamo pragmatici e connessi ai dettagli piuttosto che ai tecnicismi di alto livello.
-- Affrontiamo i problemi con senso critico, cercando e proponendo la soluzione migliore.
+- We pay the necessary attention to problems, finding a compromise between technical perfection and
+  the value that our solution brings to the project.
+- With regard to our clients, we always act as if we were spending our own money, not theirs.
+- We ensure that the problems we face do not happen again.
+- We are pragmatic and focus on details instead of high-level technicalities.
+- We take a critical approach to problems, finding and suggesting the best solution.
 
-## Crescita
+## Growth
 
-- Affrontiamo le sfide piuttosto che evitarle.
-- Trattiamo le critiche come un'occasione di crescita.
-- Prendiamo ispirazione dal successo degli altri e cerchiamo di imitarli.
-- Coltiviamo gli aspetti che vogliamo migliorare di noi stessi.
-- Trattiamo i nostri difetti come obiettivi di miglioramento invece di nasconderli.
+- We face challenges instead of avoiding them.
+- We treat criticism as an opportunity to grow.
+- We are inspired by the success of others and imitate them.
+- We cultivate the aspects we want to improve in ourselves.
+- We treat our defects as opportunities for improvement instead of hiding them.

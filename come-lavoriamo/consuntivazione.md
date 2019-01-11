@@ -1,79 +1,76 @@
-# Misurare il tempo
+# Tracking time
 
-In questa sezione vogliamo offrire uno spunto per la corretta determinazione delle ore di lavoro,
-sia spese sui progetti sia di presenza in ufficio.
+In this section we want to provide a cue on how to correctly calculate working hours, no matter 
+whether they're spent on clients or internal projects.
 
-## Le ore lavorative
+## The working hours
 
-L'effort su un progetto viene individuato con un numero di ore, o più semplicemente di giornate,
-settimanali da spendere sul progetto stesso che è importante conoscere e tenere presente sempre. Se
-avete dubbi sulla quantità di ore da svolgere su un progetto a voi assegnato non esitate a chiederlo
-al vostro mentore.
+The effort on a project is established as number of hours or days spent on a project each week. It 
+is important to be aware of this and keep it in mind. If you have any doubts on the number of hours
+to be spent on a project assigned to you, do not hesitate to ask your mentor.
 
-> Se salto una giornata su un progetto di un cliente devo [recuperare il venerdì?](https://github.com/nebulab/playbook/blob/master/crescita-personale/venerdi.md#lavorare-sui-clienti-il-venerd%C3%AC)
+> If I skip a day of work on a client's project, do I have to 
+> [make up for it on Friday?](https://github.com/nebulab/playbook/blob/master/crescita-personale/venerdi.md#lavorare-sui-clienti-il-venerd%C3%AC)
 
-Il tempo svolto effettivamente sul progetto deve essere poi misurato. Adottiamo un time tracker per
-diversi motivi:
+Then the time actually spent on a project must be calculated. We use a time tracker for various 
+reasons:
 
-- onestà e trasparenza;
-- efficenza amministrativa;
-- facilità di utilizzo;
-- precisione dei dati.
+- honesty and transparency;
+- administrative efficiency;
+- ease of use;
+- data precision.
 
-È fondamentale tenere presente che l'attività che svolgiamo è soprattutto creativa. Non poniamoci
-degli obiettivi in termini di ore da svolgere e cerchiamo sempre di dare la precedenza alla qualità
-del lavoro. Lasciamo che il tracker sia un semplice strumento per tracciare le ore, non un
-misuratore della nostra produttività.
+It is essential to keep in mind that the activity we perform is mainly creative. We do not set
+objectives in terms of working hours and we always try to give priority to work quality. The tracker 
+is a simple instrument to keep track of time, not a measure of our productivity.
 
-Tuttavia, dobbiamo essere consapevoli delle sfide che il time tracking porta con sé.
+However, we must be aware of the challenges brought by time tracking.
 
-Una è sicuramente quella di definire quali sono i task da attribuire ad un progetto. Non c'è
-un'interpretazione univoca nel nostro settore. Tuttavia in linea con quelli che sono [i nostri valori](https://github.com/nebulab/playbook/blob/master/su-di-noi/valori.md)
-adottiamo la seguente soluzione:
+One of them is undoubtedly establishing which tasks need to be attributed to a project. There is no
+single interpretation in our industry. However we adopt the following solution, which is in line 
+with [our values](https://github.com/nebulab/playbook/blob/master/su-di-noi/valori.md):
 
-- tempo di prestazione diretta o implementazione;
-- tempo di lavoro in pairing sullo stesso progetto;
-- tempo di comunicazione direttamente correlato con il lavoro che si sta svolgendo;
-- tempo di studio direttamente correlato con il lavoro che si sta svolgendo.
+- time of direct service or implementation;
+- time spent pairing on the project;
+- communication time directly related to the work performed;
+- study time directly related to the work performed.
 
-Si dovrebbe invece switchare il tracker su un altro progetto per:
+On the other hand, the tracker should be switched to another project for:
 
-- tempo di prestazione diretta o implementazione su altri progetti;
-- tempo di lavoro in pairing con un'altra persona su altri progetti;
-- tempo di comunicazione non correlato con il lavoro che si sta svolgendo;
-- tempo di studio non direttamente correlato con il lavoro che si sta svolgendo.
+- time of direct service or implementation on other projects;
+- time spent pairing with another person on other projects;
+- communication time not directly related to the work performed;
+- study time not directly related to the work performed.
 
-> Un caso particolare: I tempi di attesa delle risposte del cliente che passo girandomi i pollici
-devono essere inclusi? La risposta è: non trovarsi mai nella situazione di doversi girare i pollici
-e trovare qualcosa da fare comunque. Se proprio non si ha nulla da fare questo tempo NON va incluso
-nel "tempo effettivamente svolto" ma ne va data pronta comunicazione al cliente, segnalando
-l'inefficienza.
+> A particular case: Should I include the time spent waiting for client's responses, when I am
+> twiddling my thumbs? The answer is: never be in a situation where you have to twiddle your thumbs
+> and find something to do anyway. If you really have nothing to do, this time is NOT included in the 
+> "time actually spent", but the client should be informed promptly, reporting the inefficiency.
 
-Non serve far partire il tracker per i tempi di pausa ma lasciamo la libertà, per chi volesse, di
-segnare questi momenti con il progetto *Time wasting*.
+There is no need to start the tracker for break times, but we leave the freedom, to those who want, 
+to assign this time to the *Time wasting* project.
 
-Alcune difficoltà potrebbero nascere soprattutto in presenza di molte attività diverse da svolgere
-contemporaneamente. La raccomandazione è quella di evitare il multitasking. Concentrarsi su task
-omogenei permette di lavorare con meno stress, più produttività e rende molto più facile l'utilizzo
-del tracker.
+Some difficulties may arise especially when faced with having to deal with multiple activities
+at the same time. We recommend you avoid multitasking. Focusing on homogeneous tasks allows you to 
+work under less stress with higher productivity and makes using the tracker much easier.
 
-Se trovate in difficoltà nell'utilizzo del tracker rivolgetevi al vostro mentore.
+If you have any difficulties using the tracker, contact your mentor.
 
-## Ore di permesso o di straordinario
+## Leave and overtime hours
 
-Per calcolare le ore di presenza in ufficio basta semplicemente calcolare l'orario di inizio e di
-fine della giornata lavorativa, sottraendo il tempo per la pausa pranzo. Di conseguenza saprete se
-avete fatto il giusto numero di ore o se dovrete [segnare un permesso o uno straordinario.](https://github.com/nebulab/playbook/blob/master/come-lavoriamo/tool.md#dipendenti-in-cloud)
+In order to calculate the hours spent at the office, just calculate the start and end time of a 
+working day, subtracting the lunch break time. This way you will know if you worked the correct 
+number of hours or if you have to [mark leave or overtime hours.](https://github.com/nebulab/playbook/blob/master/come-lavoriamo/tool.md#dipendenti-in-cloud)
 
-Un'importantissima regola di condotta è quella di segnare sempre le ore di permesso e di
-straordinario giorno per giorno. Infatti, nel caso in cui in una giornata lavorativa, per un
-imprevisto o per qualsiasi altro motivo, si deve prendere un permesso, quel permesso, per quanto
-esiguo possa essere, va segnato ANCHE in previsione di un recupero del tempo perso nel o nei giorni
-successivi. Segnare le ore in modo costante e trasparente permette di non dimenticarsi, in questo
-caso specifico, del permesso e di essere equi nei confronti di clienti e colleghi.
+One very important rule of conduct is to always mark the hours of leave and overtime day by day. In 
+fact, if you have to take time off during a working day, due to an emergency or any other reason, 
+that leave of absence, short as it may be, you need to track it so that you remember to make up for 
+the lost time over the coming days. Tracking your hours constantly and transparently helps you be 
+fair towards clients and colleagues.
 
-Esempi:
+Examples:
 
-- *NO* "Prendo mezz'ora oggi, la recupererò domani" senza segnare nulla su Dipendenti in Cloud;
-- *SÌ* "Prendo mezz'ora oggi, la recupererò domani" segnando mezz'ora di permesso oggi e mezz'ora
- di straordinario il giorno dopo.
+- **NO**: "I take half an hour off today, I will make up for it tomorrow" without marking anything 
+  on Dipendenti in Cloud;
+- **YES**: "I take half an hour off today, I will make up for it tomorrow" marking a half a hour of 
+  time off today and half an hour of overtime the next day.

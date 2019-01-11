@@ -1,64 +1,60 @@
 # Meeting
 
-La comunicazione via Slack è il nostro pane quotidiano, ma a volte un meeting sincrono è quello che 
-serve. Nel corso degli anni abbiamo raccolto alcune best practice che ci aiutano a rendere i nostri
-meeting il più efficaci possibile.
+Communicating via Slack is our bread and butter, but sometimes a synchronous meeting is needed.
+Throughout the years we have built some best practices that help us make our meetings as effective
+as possible.
 
-## Organizzazione del meeting
+## Organization of the meeting
 
-- **Non aver paura di dire no.** Tutti quanti abbiamo paura di perdere cose importanti. Tuttavia, 
-  se vieni invitato a un meeting e pensi che non ci sia motivo per te di essere lì, non aver paura 
-  di chiedere quale contributo puoi portare o quale beneficio ne puoi trarre. Se nessuno sa 
-  risponderti, è probabile che la tua presenza non sia necessaria.
+- **Don't be afraid to say no.** We are all afraid of missing out on important things. However, if
+  you are invited to a meeting but you think that there is no reason for you to be there, don't be
+  afraid to ask what contribution you could make or what benefit you could get from it. If nobody
+  can answer you, your presence is probably not required.
 
-Inoltre, se l'organizzatore del meeting sei tu:
+Moreover, if you are the organizer of the meeting:
 
-- **Stabilisci un'agenda e degli obiettivi.** Assicurati che l'agenda e gli obiettivi del meeting 
-  siano ben definiti e che tutti ne siano a conoscenza. Se non riesci a stabilire l'agenda o gli 
-  obiettivi, chiediti se ci sia davvero bisogno di un meeting e se sarebbe un meeting produttivo.
-- **Scegli i partecipanti con attenzione.** Non invitare persone che non possono contribuire o
-  beneficiare del meeting. Il tempo di tutti quanti è prezioso e va usato con parsimonia.
-- **Crea un documento condiviso.** Crea un documento Google in cui tutti i partecipanti possono
-  prendere appunti. Se stai organizzando un meeting ricorrente, dividi il documento per data.
+- **Establish an agenda and objectives.** Ensure that the agenda and the objectives of the meeting 
+  are clear and everyone is familiar with them. If you are unable to set the agenda or the 
+  objectives, ask yourself if a meeting is needed and if it would be productive.
+- **Choose the participants carefully.** Do not invite people who cannot contribute or benefit from
+  the meeting. Everyone's time is precious and must be used wisely.
+- **Create a shared document.** Create a Google document where all participants can take notes. If
+  you are organizing a recurrent meeting, create a separate section for each meeting.
 
-## Prima del meeting
+## Before the meeting
 
-- **Sii puntuale.** A nessuno piace perdere tempo. Non far iniziare i meeting 5 minuti dopo perché 
-  devi accendere il computer. Assicurati di liberare 5-10 minuti prima di ogni meeting per 
-  sistemarti. Quando arriva l'ora di incontrarsi, presentati al meeting senza chiedere agli altri se 
-  siano pronti.
-- **Arriva preparato.** Poiché ogni meeting deve avere un'agenda e degli obiettivi, dovrebbe essere
-  facile usare i 10 minuti di preparazione per pensare a cosa vuoi dire. Questa pratica ti aiuta a 
-  strutturare i tuoi pensieri e fa risparmiare tempo a tutti i partecipanti.
+- **Be on time.** Nobody likes wasting time. Ensure that you have 5-10 minutes before each meeting
+  to get organized. When the time comes, just enter the meeting without waiting for someone to nudge
+  you.
+- **Come prepared.** Since each meeting must have an agenda and objectives, it should be easy to use
+  the ten minutes of preparation time to think what you want to say. This practice helps you 
+  structure your thoughts and saves all participants' time.
 
-## Durante il meeting
+## During the meeting
 
-- **Use delle cuffie.** Non c'è niente di peggio che parlare senza che nessuno capisca quello che 
-  dici. Compra delle buone cuffie e usale per i meeting. NON usare il microfono del laptop: anche se
-  ti sembrache funzioni bene, in realtà non è così.
-- **Accendi la webcam (se serve).** Se gli altri hanno acceso la webcam, fallo anche tu. La
-  comunicazione non verbale è importante e vedere il volto del proprio interlocutore aiuta a
-  costruire fiducia.
-- **Prendi appunti.** Prendere appunti in un meeting è un ottimo modo per restare concentrati e, 
-  soprattutto, permette anche a chi non ha partecipato di essere aggiornato su quello che si è detto 
-  e deciso. Se non puoi prendere appunti, assicurati che _qualcuno_ lo stia facendo.
+- **Use a headset.** There is nothing worse than speaking without anyone understanding what you are 
+  saying. Get a good headset and use it for the meetings. DO NOT use a laptop microphone: even if it
+  seems to work well, in reality it does not.
+- **Start your camera (if needed).** If others have their camera on, use yours too. Non-verbal
+  communication is important and seeing the face of the person you are talking to helps build trust.
+- **Take notes.** Taking notes at a meeting is an excellent way to stay focused and allows those who
+  did not participate to know what was said and decided. If you cannot take notes, make sure that+
+  someone is.
 
-## Dopo il meeting
+## After the meeting
 
-- **Rifletti sul meeting.** Prenditi 5 minuti per riorganizzare gli appunti e riflettere su ciò di 
-  cui si è parlato. Se hai altro da aggiungere, manda un messaggio ai partecipanti.
+- **Think about the meeting.** Take five minutes to reorganize the notes and reflect on what has
+  been discussed. If you have anything to add, send a message to the participants.
 
-Inoltre, se eri l'organizzatore:
+In addition, if you are the organizer:
 
-- **Registra gli elementi azionabili.** Scrivi nel sommario tutti gli elementi azionabili che sono
-  usciti fuori durante la discussione è chi è responsabile per ciascuna iniziativa, in modo che i
-  partecipanti sappiano che cosa ci si aspetta da loro. (Questo vale anche per le iniziative di cui
-  tu sei responsabile.) 
-- **Condividi un sommario.** Condividi il riassunto del meeting con gli altri partecipanti, in modo
-  che tutti possano completare i propri appunti.
+- **Record the actionable elements.** Write down all actionable elements that emerged during the
+  discussion and who is in charge of each initiative, so that participants know what they are
+  expected to do. (This also applies to initiatives for which you are responsible.) 
+- **Share a summary.** Share the summary from the meeting with other participants, so that 
+  everyone can complete their notes.
 
-Se il meeting è un meeting ricorrente organizzato da te:
+If the meeting is a recurrent meeting organized by you:
 
-- **Lavora sull'agenda del prossimo meeting.** È probabile che a questo punto tu abbia una buona
-  idea degli argomenti da discutere e rivedere durante il prossimo meeting. In tal caso, questo è
-  un buon momento per scriverli.
+- **Work on the agenda of the next meeting.** At this point you likely have a good idea of subjects
+  to discuss and share at the next meeting. This is a good time to write them down.

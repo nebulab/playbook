@@ -1,11 +1,11 @@
-# Ambiente di sviluppo
+# Development environment
 
-La fase di setup è necessaria per passare da una macchina vergine ad un computer pronto per lavorare 
-sui progetti Nebulab. Concetti fondamentali:
+The setup phase is essential for passing from a virgin machine to a computer ready to work on 
+Nebulab projects. Fundamental concepts:
   
-* usa un Mac, preferibilmente un portatile;
-* usa [laptop](https://github.com/thoughtbot/laptop);
-* usa dei [dotfiles](http://github.com/nebulab/dotfiles).
+* use a Mac, preferably a laptop;
+* use [laptop](https://github.com/thoughtbot/laptop);
+* use [dotfiles](http://github.com/nebulab/dotfiles).
 
-Nessuno è obbligato a usare questi tool ma è richiesto essere disponibili verso gli altri,
-soprattutto se si è scelta una tecnologia che gli altri non hanno adottato.
+No one is required to use these tools, but we recommend being adaptable to others, especially if you 
+choose hardware or software that are not commonly adopted.

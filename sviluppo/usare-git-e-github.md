@@ -1,23 +1,20 @@
-# Usare Git e GitHub
+# Using Git and GitHub
 
-Git viene usato per gestire tutti i progetti su cui lavoriamo. Imparare ad usare
-Git è molto importante poichè, oltre che conservare il codice, permette di documentarlo
-e condividere con il resto del team le scelte implementative, anche a distanza di
-tempo.
+Git is used to manage all the projects we work on. Learning to use Git is very important because, in 
+addition to preserving the code, it serves as a source of documentation and makes it easier to share
+design and implementation decisions with the team.
 
-Prima di cominciare a contribuire ci sono un paio di cose da sapere:
+Before you start contributing to a project, there are a few things you should know:
 
-- usiamo sempre il [GitHub Flow](https://guides.github.com/introduction/flow/):
-su tutti i progetti usiamo i feature branch per fare delle modifiche ed un unico
-branch `master` per conservare il codice;
-- usiamo dei commit message che permettano di ricostruire lo storico degli sviluppi
-e che seguano delle regole che puoi trovare [qui](https://chris.beams.io/posts/git-commit/).
+- we always use [GitHub Flow](https://guides.github.com/introduction/flow/): we use feature branches
+  for all changes and merge into `master`, which serves as the single source of truth for the
+  project's state;
+- we use commit messages that allow us to understand the development history (more info on good 
+  commit messages [here](https://chris.beams.io/posts/git-commit/)).
 
-A parte questi punti non ci sono altre regole. Se hai bisogno di chiarimenti
-rivolgiti ai tuoi colleghi (di persona o su #sviluppo su Slack).
+If you need anything explained, ask your colleagues (in person or on #sviluppo in Slack).
 
-Se vuoi continuare ad approfoindire l'argomento ecco una lista di link
-interessanti su Git:
+If you want to learn more about this, here is a list of interesting links about Git:
 
 - https://mislav.net/2014/02/hidden-documentation/
 - http://who-t.blogspot.com/2009/12/on-commit-messages.html
@@ -25,21 +22,21 @@ interessanti su Git:
 
 ## Workflow
 
-Le funzionalità da implementare vanno gestite tramite pull request su GitHub.
+The workflow of new features is managed via pull requests on GitHub.
 
-Per implementare una nuova funzionalità si deve:
+To implement a new feature:
 
-1. se necessario creare una issue (utilizzare la lingua decisa per il progetto)
-2. creare un nuovo branch `handle-sviluppatore/123-nome-funzionalita`, dove `123` è il numero della
-   issue sul tool di project management (es. `aldesantis/123-login`);
-3. aggiungere un certo numero di commit (in inglese :gb:);
-4. fare la pull request al branch master (utilizzare la lingua decisa per il progetto)
-5. farsi accettare la pull request da un'altra persona che fa la review;
-6. testare la nuova funzionalità su staging prima di fare il deploy in production.
+1. create an issue (use the language chosen for the project);
+2. create a new branch named `developer-name/123-feature-name`, where `123` is the issue number in 
+   the project management tool (e.g. `aldesantis/123-login`);
+3. add a certain number of commits (in English :gb:);
+4. open a pull request for the `master` branch (use the language chosen for the project)
+5. have the pull request reviewed accepted by another team member;
+6. test the new feature on staging or the review app before deploying to production.
 
-In generale quando si collabora a progetti esterni:
+In general, when you work on external projects:
 
-- Adattarsi ai messaggi di commit, issue e pull request pre-esistenti solo se questi sono espressi 
-  in maniera omogenea.
-- Applicare le [regole di Nebulab](https://github.com/nebulab/playbook/blob/master/sviluppo/usare-git.md#messaggi-di-commit) 
-  (dopo aver chiesto al team, se presente) quando si rileva un'incoerenza nella forma dei messaggi.
+- Adapt to the style of existing commit messages, issues and pull requests only if they are 
+  written homogeneously. 
+- Apply the Nebulab rules (after asking the team, if present) when you note discrepancies in the
+  existing commits.

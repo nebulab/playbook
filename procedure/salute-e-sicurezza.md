@@ -1,12 +1,12 @@
-# Salute e sicurezza sul lavoro
+# Workplace health and safety
 
-Entrambi gli uffici di Nebulab rispettano le norme di sicurezza sul lavoro vigenti in Italia.
+Both of our offices comply with current Italian workplace health and safety standards.
 
-Non è produttivo e soprattuto non è salutare rimanere seduti nella stessa posizione per quasi 8 ore. 
-Raccomandiamo vivamente a tutti i membri del nostro team di fare delle pause regolari di almeno 15 
-minuti ogni 2 ore di lavoro continuo davanti al computer. Durante queste pause è bene alzarsi e 
-allontanarsi dalla propria postazione di lavoro e praticare altre attività come bere un caffè o un 
-tè, fare uno spuntino, fare una passeggiata, portare a spasso il cane.
+It is unproductive and certainly unhealthy to remain seated in the same position for eight hours or
+more.  We strongly encourage all members of our team to take regular breaks of at least 15 minutes
+every two hours of continuous work in front of a computer. During these breaks it's good to get up
+and walk away from your workstation and perform other activities, such as having coffee or tea,
+having a snack, taking a walk or walking a dog.
 
-Consigliamo di usare [flexbot](http://www.flexbot.ai/), un bot per slack che può aiutare ad 
-essere costanti nell'eseguire queste attività.
+We recommend using [flexbot](http://www.flexbot.ai/), a Slack bot that can help you practice these
+activities regularly.

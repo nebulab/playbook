@@ -1,131 +1,124 @@
-# Tirocinio
+# Internship
 
-In Nebulab, crediamo fermamente nella capacità delle persone di esprimere il proprio potenziale
-quando si trovano nelle condizioni adatte. Per questo abbiamo inserito nel nostro team una posizione
-di tirocinio permanente.
+At Nebulab, we strongly believe in a person's ability to reveal their potential under the right
+conditions. This is why we created a permanent internship position within our team.
 
-L'obiettivo del tirocinio è quello di inserire sviluppatori alle prime armi nel contesto in cui ci 
-lavoriamo tutti i giorni, col fine di insegnargli le migliori pratiche nello sviluppo e nel lavoro
-in team. Con noi imparerai tutto quello che ti serve per lavorare su progetti reali con clienti 
-reali e tutte le responsabilità che ne conseguono.
+The internship aims to place developers who are just starting out in a real work environment, in
+order to teach them the best practices in development and teamwork. With us, you will learn
+everything you need to work on real projects with real clients and with all the responsibilities
+that entails.
 
-Il nostro tirocinio dura quattro mesi. Al termine del tirocinio, se tutto sarà andato per il meglio,
-ti faremo un'offerta per inserirti in Nebulab. Se questo non dovesse essere possibile, ti aiuteremo 
-a trovare una posizione più adatta a te.
+Our internship runs for four months. At the end of the internship, if everything goes well, we will
+extend to become a permanent member of the Nebulab team. If this is not possible, we will help you 
+find a position that best suits your needs.
 
-## Selezione
+## Process
 
-Il processo di selezione è piuttosto semplice e lineare.
+### Basic requirements
 
-### Requisiti base
+First of all, make sure you meet the basic application requirements, which are:
 
-Innanzitutto, assicurati di possedere i requisiti base per fare domanda, che sono:
+- Excellent knowledge of Italian (because this is the language we speak here) and English (because 
+  the majority of our clients are foreign);
+- Sound knowledge of basic programming concepts (flow control, the most common iterative 
+  structures) and of OOP programming (classes, objects and inheritance);
+- A proactive approach to work and learning (i.e. do not wait for us to tell you what to do
+  or what to read, but ask us or find it!).
 
-- ottima padronanza dell'italiano (perché è la lingua che parliamo tra noi) e dell'inglese (perché i 
-nostri clienti sono per la maggior parte esteri);
-- buona conoscenza dei concetti di base della programmazione (flow control, strutture iterative più 
-comuni) e della programmazione OOP (classi, oggetti ed ereditarietà);
-- un atteggiamento proattivo al lavoro e all'apprendimento (= non aspettare che ti diciamo cosa fare
-o cosa leggere, ma chiedicelo/trovalo!).
+We realize that these requirement could eliminate candidates who do not have experience in
+programming but would like to learn. Unfortunately, at this stage, teaching programming would be an
+excessive time investment for us. If you do not have programming experience, but would like to
+learn, we suggest checking these resources:
 
-Ci rendiamo conto che questi requisiti potrebbero escludere dei candidati che non hanno esperienza
-con la programmazione ma vorrebbero imparare. Purtroppo, in questo momento insegnare a qualcuno la
-programmazione sarebbe un investimento di tempo troppo grande per noi. Se non hai esperienza con la
-programmazione ma vorresti imparare, ti consigliamo di consultare queste risorse:
-
-- [Learn to Program (2dn edition)](https://pragprog.com/book/ltp2/learn-to-program)
+- [Learn to Program (2nd edition)](https://pragprog.com/book/ltp2/learn-to-program)
 - [Programming Ruby (2nd edition)](https://pragprog.com/book/ruby/programming-ruby)
 - [Ruby Koans](http://rubykoans.com/)
 
-### Processo di selezione
+### Selection process
 
-Il processo di selezione è lo stesso per tutti, tirocinanti o meno, dunque consulta la pagina
+The selection process is the same for everyone, interns or not, so check the page
 [Hiring](https://github.com/nebulab/playbook/blob/master/procedure/hiring.md).
 
 ## Onboarding
 
-Ecco cosa faremo al tuo arrivo in Nebulab:
+This is what we will do upon your arrival at Nebulab:
 
-- creeremo per te un'email @nebulab.it;
-- ti inviteremo nel nostro Slack, in Float e in tutti i tool che usiamo;
-- ti assegneremo un [mentore](https://github.com/nebulab/playbook/blob/master/crescita-personale/mentoring-e-1-1.md),
-che ti seguirà per tutto il tirocinio;
-- ti assegneremo un progetto reale su cui lavorare;
-- ti daremo accesso a tutti i [benefit](https://github.com/nebulab/playbook/blob/master/crescita-personale/benefit.md) 
-dello staff di Nebulab!
+- We will create a @nebulab.it email for you;
+- We will invite you to our Slack, Harvest and all the tools we use;
+- We will assign you a [mentor](https://github.com/nebulab/playbook/blob/master/crescita-personale/mentoring-e-1-1.md),
+  who will assist you throughout your internship;
+- We will assign a real project for you to work on;
+- We will give you access to all the [benefits](https://github.com/nebulab/playbook/blob/master/crescita-personale/benefit.md) 
+  of the Nebulab team!
 
-Come vedi, una figura importante del tirocinio è il mentore. Con lui/lei stabilirai un piano di 
-crescita personale: capirete insieme dove sei oggi e dove vuoi essere al termine del tirocinio, e 
-come misurare se stai facendo progressi in questa direzione. Con il tuo mentore avrete inoltre dei 
-meeting 1:1 (uno-a-uno) ogni due venerdì per valutare come sta andando.
+As you can see, the mentor is an important person in the internship. You will draw up a personal 
+growth plan with your mentor, and together, you will see where you are now and where you want to be
+at the end of the internship, and how to measure whether you are progressing in that direction. You
+will also have bi-weekly one-on-one meetings with your mentor to assess how things are going.
 
-## Lavorare per il cliente
+## Working for clients
 
-Ora che ti sei sistemato e hai tutti gli strumenti che ti servono, è ora di iniziare il lavoro! 
-Verrai inserito a tutti gli effetti nel team del progetto, dunque parteciperai a eventuali meeting
-col cliente e con il team. Il tuo mentore e il team del progetto ti assegneranno alcuni task da 
-completare. 
+Now that you are in and have all the tools you need, it's time to start working! You will become
+part of the project's team, so you will participate in meetings with the client and other team
+members. Your mentor and the project team will provide you with tasks to complete. 
 
-Sarai seguito in ogni passo del processo, ma se hai bisogno di aiuto con qualcosa non esitare a 
-chiedere a chiunque in messaggio privato o, ancora meglio, in #sviluppo.
+You will be assisted at each step of the process, but if you need help with anything, do not
+hesitate to ask someone in a private message or, even better, in #sviluppo.
 
-Il codice che scrivi sarà controllato dal tuo mentore e da un membro del team del progetto su cui 
-stai lavorando. Loro ti daranno consigli su come migliorare quello che hai fatto e ti suggeriranno
-risorse per lo studio in base agli aspetti da migliorare. 
+The code you write will be checked by your mentor and by a member of the project team with whom you
+are working. They will advise you on how to improve what you have done and will recommend appropriate
+resources to consult.  
 
-Sappiamo che, soprattutto per chi non è mai stato in un contesto lavorativo reale, trovarsi a
-lavorare per dei clienti può essere spaventoso, se non terrificante! Ecco qualche pillola per
-rassicurarti:
+We know that working for clients can be scary, if not terrifying, for someone who has never been in
+a real work environment! Here are a few points that will reassure you:
 
-- Con tutti i nostri clienti abbiamo un ottimo rapporto, spesso costruito in anni di lavoro insieme.
-Se lavoriamo ancora con loro, è perché sono persone fantastiche che condividono i nostri valori.
-- Se ti abbiamo scelto per lavorare con noi, è perché pensiamo che tu possa farcela.
-- Il tuo mentore e il team del progetto a cui sei stato assegnato ti seguiranno e ti supporteranno
-in qualunque dubbio o problema tu dovessi avere. Non aver paura di chiedere aiuto!
-- Sei qui per imparare, dunque ci aspettiamo (anzi, speriamo) che tu faccia degli errori: è il solo
-modo in cui si impara veramente.
-- Abbiamo creato dei processi (es. le code review) per evitare che eventuali tuoi errori possano 
-danneggiare il cliente, ma se anche dovessi rompere qualcosa, non sarà la fine del mondo.
-- Il cliente sa che sei un tirocinante e ha accettato di partecipare al tuo percorso di crescita.
+- We have excellent relations with our clients, often built over years of working together. If we
+  are still working with them, it is because they are fantastic people who share our values.
+- If we have chosen you to work with us, this is because we think you can do it.
+- Your mentor and the project team you have been assigned to help and support you with any doubts or
+  problems you might have. Don't be afraid to ask for help!
+- You are here to learn, so we expect (even hope) that you will make mistakes: this is the only real
+  way to learn.
+- We have processes (such as code reviews) to prevent any errors you make from affecting the client.
+  Even if a mistake managed to get into production, it wouldn't be the end of the world.
+- The client knows that you are an intern and has agreed to be a part of your internship.
 
-Ricorda sempre quali sono i [valori](https://github.com/nebulab/playbook/blob/master/su-di-noi/valori.md) 
-che ci muovono nel nostro lavoro e andrai alla grande.
+Just remember the [values](https://github.com/nebulab/playbook/blob/master/su-di-noi/valori.md) that 
+inspire us in our work and you will do a great job.
 
 Happy coding!
 
-## Dopo il tirocinio
+## After the internship
 
-Al termine dei quattro mesi di tirocinio, avrai un incontro col tuo mentore per valutare il 
-progresso che è stato fatto. Se ci siamo trovati bene e pensiamo che Nebulab sia il posto per te, ti 
-offriremo di entrare a pieno titolo nel team come sviluppatore junior. 
+At the end of the four-month internship, you will meet with your mentor to assess your progress. If
+we are happy and think that Nebulab is the place for you, we will offer you the chance to become a
+full-time member of the team as a junior developer. 
 
-Ecco cosa accadrà se dovessi accettare:
+This is what will happen if you accept:
 
-- sarai probabilmente spostato su un altro progetto, più adatto al tuo nuovo livello di competenza;
-- ti inviteremo a visitare l'ufficio più vicino a te per incontrare il team (se hai fatto il 
-tirocinio da remoto);
-- ti porteremo fuori a cena per festeggiare.
+- You will probably be moved to another project, more suited to your new level of experience;;
+- We will take you out for dinner to celebrate!
 
-Una volta sopravvissuto/a alla cena, il resto della transizione dovrebbe essere piuttosto facile!
+Once you have survived the dinner, the rest of the transition should be quite easy.
 
-## Domande frequenti
+## FAQs
 
-**Il tirocinio è pagato?**
+**Is the internship paid?**
 
-Sì. Avrai un inquadramento e un rimborso variabile che dipendono fondamentalmente dal tuo livello di 
-partenza e dal tuo status professionale (libero professionista con partita IVA, disoccupato etc.) e 
-che saranno valutati caso per caso.
+Yes. You will have a salary that depends essentially on your starting level and your professional
+status (freelance professional with VAT number, unemployed, etc.) that will be assessed on a case by
+case basis.
 
-**Sono un programmatore esperto, ma in un altro ambiente. Posso comunque fare il tirocinio?**
+**I am an expert programmer, but in another environment. Can I do the internship anyway?**
 
-Il nostro tirocinio è pensato per candidati alle prime armi con il mondo della programmazione,
-dunque persone con più esperienza non sarebbero probabilmente a proprio agio seguendo il percorso
-che abbiamo previsto. Detto questo, se vuoi lavorare con noi ma non rientri perfettamente nel 
-profilo del tirocinante, ti invitiamo comunque a [fare domanda](https://nebulab.it/careers).  
+Our internship is meant for candidates just starting out in the world of programming, so people with
+more experience would probably not feel at ease following the path we have established. That said,
+if you want to work with us but you do not exactly match an intern's profile, please
+[apply](https://nebulab.it/careers) anyway.  
 
-**So già che non vorrò lavorare in Nebulab al termine del tirocinio. Posso fare domanda?**
+**I already know that I do not want to work at Nebulab at the end of the internship. Can I apply?**
 
-Purtroppo no. Come abbiamo detto, il tirocinio rappresenta un grande investimento per noi, e non
-siamo in grado di formare persone che già sanno di non voler lavorare con noi. In ogni caso ci
-interessa sapere perché non pensi che Nebulab sia il posto giusto per te, dunque non esitare a
-[scriverci](https://nebulab.it/contact-us/). Magari ti faremo cambiare idea!
+Unfortunately not. The internship represents a serious investment for us, and we cannot train people
+who already know that they do not want to work with us. _But_ we do want to know why you don't think
+that Nebulab is the right place for you, so do not hesitate to [write to us](https://nebulab.it/contact-us/).
+Perhaps we can make you change your mind!

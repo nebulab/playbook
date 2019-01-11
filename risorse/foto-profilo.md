@@ -1,20 +1,18 @@
-# Foto profilo
+# Profile picture
 
-Come avrai notato su Slack o GitHub abbiamo tutti una foto profilo simile. Le foto profilo sono 
-anche usate sul nostro sito nella sezione Team della pagina [About Us](https://nebulab.it/about-us/). 
-Non appena ne avrai una verrai inserito nella lista.
+As you may have noticed on Slack or GitHub, we all have similar profile pictures. The pictures are
+also used on our site in the Team section of the page [About Us](https://nebulab.it/about-us/). 
+You will be included in the list once you have yours.
 
-Ecco una foto del set che usiamo di solito per fare le foto.
+This is a picture of the photo set that we usually use to take the photos.
 
 ![Photo Set](https://github.com/nebulab/playbook/raw/master/assets/profile-pictures/set.jpg)
 
-Non è indispensabile riprodurre esattamente il set proposto e forniamo questa configurazione solo 
-come esempio. L'importante è che il risultato sia una foto coerente con le altre. Ecco il risultato 
-della foto:
+There is no need to create an exact reproduction of this set. It is only provided as an example. All
+we require is for your photo to be consistent with the others. Here is the result of the photo:
 
 ![Pre Production](https://github.com/nebulab/playbook/raw/master/assets/profile-pictures/pre-production.jpg)
 
-Questi asset dovranno essere passati a Davide, che si occuperà della post-produzione per rendere la 
-foto definitiva:
+These assets must be provided to Davide (@davidedistefano), who is in charge of post-production to finalize the photo:
 
 ![Post Production](https://github.com/nebulab/playbook/raw/master/assets/profile-pictures/post-production.jpg)

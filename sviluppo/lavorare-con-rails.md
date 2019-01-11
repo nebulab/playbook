@@ -1,23 +1,22 @@
-# Lavorare con Rails
+# Working with Rails
 
-## Seed
+## Seeds
 
-Oltre al readme, la presenza o l'assenza di buoni seed sono un altro degli elementi che determina
-quanto velocemente si può iniziare a lavorare su un progetto nuovo.
+In addition to the readme, the presence or absence of good seeds is another element that determines
+how quickly you can start work on a new project.
 
-Ogni volta che una nuova feature viene sviluppata, sarebbe buona norma scrivere dei seed che possono
-essere usati per testare la feature. Non è necessario essere troppo dettagliati e testare ogni
-possibile scenario, ma è utile permettere ai nuovi sviluppatori di farsi un'idea di come funzioni
-l'applicazione senza doverla configurare manualmente.
+Once a new feature has been developed, it's a good idea to write seeds that can be used to test it. 
+There is no need to be too detailed and test all possible scenarios, but it is useful to help new 
+developers have an idea how the application works without having to configure it manually.
 
-Di nuovo, per ispirazione sulla scrittura di seed si possono vedere alcuni dei progetti esistenti
-o chiedere in #sviluppo. 
+Again, for inspiration on how to write seeds, you can see some of the existing projects or ask in 
+\#sviluppo. 
 
-## Migrazioni
+## Migrations
 
-Bisogna stare sempre attenti alle migrazioni che scriviamo, soprattutto quando stiamo lavorando su
-applicazioni ad alto traffico che potrebbero causare downtime.
+We should always be careful with DB migrations, especially when working on high-traffic applications 
+where a bad migration can easily cause minutes of downtime.
 
-Una buona norma è configurare [strong_migrations](https://github.com/ankane/strong_migrations) sui
-progetti, in modo che qualunque migrazione che potrebbe causare del downtime venga rilevata prima di 
-essere rilasciata in produzione. 
+It is a good practice to configure [strong_migrations](https://github.com/ankane/strong_migrations) 
+for projects, so that any migrations that could cause downtime are detected before being deployed
+to production.

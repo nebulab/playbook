@@ -1,56 +1,54 @@
-# Conferenze
+# Conferences
 
-Uno dei benefit a cui hanno accesso tutti i dipendenti è la possibilità di poter partecipare a
-qualunque conferenza in ambito tecnologico, ottendendo il rimborso delle spese di viaggio, alloggio
-e ovviamente del biglietto per la conferenza stessa.
+We offer full reimbursement for all industry-related conferences.
 
-## Proporre una conferenza
+## Suggesting a conference
 
-In alcuni casi, la partecipazione alla conferenza sarà proposta da un mentore nel canale Slack 
-`#conferenze`, ma chiunque può fare la propria richiesta, dunque non siate timidi. Indipendentemente
-dall'origine della proposta, il processo è sempre lo stesso:
+In some cases, taking part in a conference will be suggested by a mentor on the `#conferenze`
+channel in Slack, but anyone can make a recommendation, so feel free to do so. Regardless of who
+the proposal comes from, the process is the same:
 
-1. qualcuno propone la partecipazione a una conferenza in `#conferenze`;
-2. chi vuole partecipare lo fa presente con una reazione al messaggio originale, spiegando perché
-   vogliono partecipare e a quali talk sono interessati;
-3. i mentori o chi per loro si occuperanno di gestire viaggio e alloggio o, per conferenze con pochi 
-   partecipanti, potrebbero semplicemente chiedere l'invio di un rimborso spese. 
+1. Someone suggests taking part in a conference in `#conferenze`;
+2. Those who want to take part respond to the original message, explaining why they want to
+   participate and which talks they are interested in;
+3. The mentors, or someone on their behalf, will manage the travel and accommodation or, for
+   conferences with only a few participants, they can simply ask you to apply for an expense
+   reimbursement. 
 
-Se siete voi a dovervi occupare delle prenotazioni e non sapete quale sia il budget di spesa, 
-sappiate che non c'è un budget: usate il buon senso. Non siamo una società della Fortune 500, ma non
-vogliamo neanche che viaggiate scomodi o dormiate male. Se siete in dubbio, chiedete e vi sarà 
-risposto. 
+If you are making the reservations and don't know the spending budget, know that there is no fixed
+budget: just use your common sense. We are not a Fortune 500 company, but we don't want you to
+travel uncomfortably or stay at a cheap motel where you can't sleep comfortably either. If in doubt,
+ask. 
 
-## Ottenere il massimo dalla conferenza
+## Getting the most out of a conference
 
-È importante fare una distinzione tra conferenza e team retreat: a differenza del team retreat, la 
-conferenza è un evento incentrato sulla formazione, mentre il team retreat è un evento incentrato 
-sul divertimento e la socializzazione. Sebbene in ogni conferenza ci sia un elemento di 
-socializzazione, è importante che l'obiettivo finale della partecipazione sia la crescita personale. 
+It is important to make a distinction between a conference and a team retreat: the conference is an
+event focused on learning, while the team retreat is an event focused on having fun and socializing.
+While people obviously also socialize at conferences, it is important that your goal in attending a
+conference is your own professional growth.
 
-Al fine di ottenere il meglio dalla conferenza adottiamo questi accorgimenti:
+In order to get the most out of a conference, we follow a few basic rules:
 
-- Compatibilmente con le esigenze dei clienti, cerchiamo di arrivare un giorno prima della 
-  conferenza, in modo da non perderci parte della prima (e magari unica) giornata, e di tornare solo
-  a conferenza terminata. Se questo significa fermarsi un giorno in più, non è un problema.
-- Non facciamo troppo tardi la sera. Stare in giro fino alle 3 di notte può essere divertente sul
-  momento, ma non lo è più quando suona la sveglia alle 7 del mattino.
-- Alla conferenza, seguiamo tutti i talk che vogliamo seguire, senza farci distrarre da altro. Può
-  capitare che un talk proprio non piaccia e si preferisca interromperlo prima, ma se succede
-  ripetutamente forse non abbiamo valutato bene la conferenza quando abbiamo deciso di partecipare.
-- Mostriamo sempre massimo rispetto verso i relatori. Può sembrare facile giudicare chi parla, ma ci 
-  vuole un coraggio notevole per salire su un palco davanti a decine o centinaia di persone ed 
-  esprimere le proprie idee.
+- If compatible with client requirements, we try to arrive the day before the conference, so we can
+  prepare well in advance, and return only when the conference has finished. If this means staying
+  one more night, that's fine.
+- We do not stay out too late. Being out until 3 AM can be fun, but it won't be nearly as fun when
+  the alarm rings at 7am.
+- At the conference, we follow all the talks we want to follow and try not to get distracted.
+  Sometimes, we don't like the talk and prefer to leave early, but if this happens repeatedly,
+  perhaps we did a poor job of evaluating the conference when we decided to take part.
+- We always show the utmost respect towards the speakers. It takes a lot of courage to in front of
+  an audience and your ideas.
 
-## Dopo la conferenza
+## After the conference
 
-Dopo la conferenza è buona norma condividere quello che abbiamo visto/sentito con gli altri, insieme
-alle nostre impressioni. Sarebbe fantastico anche scrivere un articolo sulla conferenza! Ecco alcuni
-punti che potremmo affrontare:
+After the conference, it is a good practice to share what we saw/heard with others, along with
+our impressions. It would also be fantastic to write an article about the conference! Here are some
+points we could address:
 
-- La conferenza è valsa la pena? Perché sì o perché no?
-- Quali sono stati i talk più interessanti?
-- Abbiamo imparato cose che si potrebbero applicare al nostro lavoro?
+- Was the conference worth it? If yes/no, then why?
+- What were the most interesting talks?
+- Have we learned things that could be applied to our work?
 
-Queste informazioni sono oro, perché potrebbero aiutere altre persone a crescere e a decidere se 
-partecipare alla prossima conferenza!
+This information is priceless, because it could help others grow and decide whether to attend the
+next conference!

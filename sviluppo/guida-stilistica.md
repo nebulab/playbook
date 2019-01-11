@@ -1,6 +1,6 @@
-# Guida stilistica
+# Style
 
-Seguiamo queste linee guida per la scrittura di codice pulito e applicazioni affidabili:
+We follow these guidelines to write clean code and reliable applications: 
 
 - Ruby: 
   - https://github.com/bbatsov/ruby-style-guide
@@ -10,24 +10,24 @@ Seguiamo queste linee guida per la scrittura di codice pulito e applicazioni aff
 - RSpec: http://betterspecs.org/
 - Javascript: https://github.com/airbnb/javascript
 
-**Nota:** Nel leggere questa sezione, tenete sempre in considerazione che sui progetti è importante
-adattarsi allo stile del cliente, se ha un proprio team di sviluppo. In caso contrario, va bene 
-portare _gradualmente_ il progetto verso i nostri standard ([Opportunistic Refactoring](https://martinfowler.com/bliki/OpportunisticRefactoring.html)).
+**Note:** When reading this section, always keep in mind that, when working on projects, it is 
+important to adapt to the client's style if they have a development team. Otherwise, it is acceptable 
+to _gradually_ bring the project towards our standards ([Opportunistic Refactoring](https://martinfowler.com/bliki/OpportunisticRefactoring.html)).
 
 ## Rubocop
 
-L'utilizzo di Rubocop è importante per uniformare lo stile del codice quanto più possibile nelle 
-nostre applicazioni. Questo favorisce l'ordine e la pulizia all'interno dei file, semplifica la 
-lettura del codice e rende meno complessa la rotazione degli sviluppatori tra progetti e feature.
+The use of Rubocop is important to ensure code style is as uniform as possible in our projects. This 
+encourages order and cleanliness inside the files, makes it easier to read the code and facilitates 
+the rotation of developers on projects and features.
 
-Invece di reinventare la ruota, abbiamo deciso di seguire una style guide adottata a livello 
-universale, cioè [Relaxed.Ruby.Style](http://relaxed.ruby.style/)
+Instead of re-inventing the wheel, we decided to follow a common style guide such as 
+[Relaxed.Ruby.Style](http://relaxed.ruby.style/)
 
-Utilizzare una style guide accettata universalmente ha anche l'effetto di ridurre il lock-in nei 
-confronti dei nostri clienti che saranno liberi di cambiare partner di sviluppo senza trovare
-codice scritto in maniera troppo opinionata.
+Using a universally accepted style guide also reduces the lock-in effect towards our clients, who 
+will be free to change development partner without having to deal with an overly opinionated 
+codebase.
 
-Per iniziare ad usare questa styleguide basta inserire queste righe nel vostro `rubocop.yml`:
+In order to start using this style guide, just add these lines to your `rubocop.yml`:
 
 ```yaml
 inherit_from:
@@ -36,19 +36,22 @@ inherit_from:
 
 ## Frontend
 
-### Stili e BEM
+### Styles and BEM
 
-Per lo sviluppo frontend, partite da queste risorse:
+For front-end development, start from here:
 
 - [BEM Quick Start](https://en.bem.info/methodology/quick-start/)
 - [BEM for Beginners: Why you Need BEM](https://www.smashingmagazine.com/2018/06/bem-for-beginners/)
 
-E integrate con questi commenti, frutto dell'esperienza accumulata sui progetti:
+We also have our own rules, which are the result of experience acquired over various projects: 
 
-- *Selettore universale*: a volte è accettabile, ma non bisogna abusarne. Un buon esempio è l'uso del
-  selettore universale per impostare il `box-model` degli elementi.
-- *Nomenclatura*: usiamo il [Two Dashes style](https://en.bem.info/methodology/naming-convention/#two-dashes-style).
-- *Mix*: Evitiamoli, complicano inutilmente la struttura e si possono usare i modifier per ottenere le stesse funzionalità.
-- *Struttura dei file*: Usiamo un file per blocco, senza separare anche elementi e modifier. Non mettiamo l'underscore davanti ai nomi dei file da importare.
-- *Variabili*: usiamo un solo file per tutte le variabili, invece di separarle in diversi file.
-- *@extend*: evitiamolo, anche perché ha poco senso in una struttura BEM. 
+- *Universal selector*: sometimes it is acceptable, but it should not be used in excess. A good
+  example is using it to set the `box-model` of elements.
+- *Naming*: we use the [Two Dashes style](https://en.bem.info/methodology/naming-convention/#two-dashes-style).
+- *Mixes*: Avoid them, as they needlessly complicate the selector structure. Modifiers can be used 
+  to obtain the same functionality.
+- *File structure*: We use one file per block, without separating elements and modifiers into their
+  own file. We do not use an underscore before the names of files to import.
+- *Variables*: we only use one file for all variables, instead of separating them into different 
+  files.
+- *@extend*: we avoid it, mainly because it does not make much sense in a BEM structure. 
