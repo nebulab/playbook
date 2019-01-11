@@ -33,7 +33,7 @@ behaviors.
     
 ## Communication
 
-- We say hi via the project0s communication channel at the beginning and at the end of the day.
+- We say hi via the project's communication channel at the beginning and at the end of the day.
 - We always communicate clearly, simply and precisely.
 - We use humor when appropriate.
 - We provide all the information that can be useful to the client or other members of the team, even

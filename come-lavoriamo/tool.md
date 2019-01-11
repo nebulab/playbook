@@ -78,7 +78,7 @@ You can request an expense reimbursement by adding your request in the
 We use [Appear.in](https://appear.in/) for meetings with clients and other team members.
 
 Appear.in is based on the concept of rooms. The main room is [/nebulab](https://appear.in/nebulab),
-which you can use any time you want for work-related amtters.
+which you can use any time you want for work-related matters.
 
 ### Zoom.us
 

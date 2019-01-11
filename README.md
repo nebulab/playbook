@@ -1,6 +1,6 @@
 # The Nebulab playbook <img src="https://github.com/nebulab/playbook/blob/master/logo.png" alt="Nebulab logo" width="25" height="25">
 
-Nebulab is a web consulting company set up in 2012, working mainly on the design and management of 
+Nebulab is a web consulting company founded in 2012, working mainly on the design and management of 
 web applications for national and international clients. We are a constantly growing company thanks 
 to a team of professionals who love their work and share our principles.
 
@@ -32,7 +32,7 @@ solidly on various projects.
 
 - [Hiring](https://github.com/nebulab/playbook/blob/master/procedure/hiring.md)
 - [Internship](https://github.com/nebulab/playbook/blob/master/procedure/tirocinio.md)
-- [Vacation, leave and illness](https://github.com/nebulab/playbook/blob/master/procedure/ferie-permessi-malattia.md)
+- [Paid time off and overtime](https://github.com/nebulab/playbook/blob/master/procedure/ferie-permessi-malattia.md)
 - [Payroll](https://github.com/nebulab/playbook/blob/master/procedure/paga.md)
 - [Workplace health and safety](https://github.com/nebulab/playbook/blob/master/procedure/salute-e-sicurezza.md)
 - [Resignations](https://github.com/nebulab/playbook/blob/master/procedure/dimissioni.md)
@@ -42,7 +42,7 @@ solidly on various projects.
 - [Wi-Fi](https://github.com/nebulab/playbook/blob/master/gli-uffici/wifi.md)
 - [Music](https://github.com/nebulab/playbook/blob/master/gli-uffici/musica.md)
 
-## Working at Nebulab
+## Working on Nebulab
 
 - [Social](https://github.com/nebulab/playbook/blob/master/lavorare-su-nebulab/social.md)
 - [Web site](https://github.com/nebulab/playbook/blob/master/lavorare-su-nebulab/sito-web.md)

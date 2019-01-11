@@ -24,7 +24,7 @@ Moreover, if you are the organizer of the meeting:
 ## Before the meeting
 
 - **Be on time.** Nobody likes wasting time. Ensure that you have 5-10 minutes before each meeting
-  to get organized. When the time comes, just ente the meeting without waiting for someone to nudge
+  to get organized. When the time comes, just enter the meeting without waiting for someone to nudge
   you.
 - **Come prepared.** Since each meeting must have an agenda and objectives, it should be easy to use
   the ten minutes of preparation time to think what you want to say. This practice helps you 

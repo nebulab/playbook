@@ -113,7 +113,7 @@ examples, but we are open to any idea, as long as it allows us to assess your te
   of any kind, so don't be afraid if you cannot remember something and need to ask or check a
   manual. Generally, we choose issues that do not require many lines of code, but a good amount of
   reflection to be tackled correctly. Pay attention to Git history and documentation!
-- If you prefer, we can work on a real problem from oen of our clients (which will be selected in 
+- If you prefer, we can work on a real problem from one of our clients (which will be selected in 
   accordance with your technical level). Again, you should pay attention to documentation and Git
   history, and you will have the full support of the team for any clarification or help. If you 
   choose this option, we will pay for your work at the same rate we would pay to a consultant.

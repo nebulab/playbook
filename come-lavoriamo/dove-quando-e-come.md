@@ -69,7 +69,7 @@ intend to work remotely, communicate this as early as possible.
 **Important: DO NOT use private messages or unofficial channels for this type of communication!**
 It is important to keep them centralized and accessible.
 
-### Exceptions to the rule
+### Exceptions
 
 Life is complicated and things happen. We all need to make a small exception to the rule every now
 and then. Perhaps someone in your family is sick and nobody can take care of them, but you don't

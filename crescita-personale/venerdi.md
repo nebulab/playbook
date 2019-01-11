@@ -19,7 +19,7 @@ are working on and are familiar with what you will be bringing to the [demo Frid
 If you have chosen to write a blog post as a project, remember to follow [our guidelines](https://github.com/nebulab/playbook/blob/master/lavorare-su-nebulab/blog.md)
 and try to get it all the way to phase 4 (Feedback).
 
-## The Friday Demo
+## Demo Fridays
 
 The last Friday of the month is Demo Friday. We all get on a video call and everyone shows what they
 worked on during the last month. There is no set duration for the presentation, but ideally it

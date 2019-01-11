@@ -27,8 +27,8 @@ is a simple instrument to keep track of time, not a measure of our productivity.
 However, we must be aware of the challenges brought by time tracking.
 
 One of them is undoubtedly establishing which tasks need to be attributed to a project. There is no
-single interpretation in our sector. However we adopt the following solution, which is in line with 
-[our values](https://github.com/nebulab/playbook/blob/master/su-di-noi/valori.md):
+single interpretation in our industry. However we adopt the following solution, which is in line 
+with [our values](https://github.com/nebulab/playbook/blob/master/su-di-noi/valori.md):
 
 - time of direct service or implementation;
 - time spent pairing on the project;
@@ -56,17 +56,17 @@ work under less stress with higher productivity and makes using the tracker much
 
 If you have any difficulties using the tracker, contact your mentor.
 
-## Permitted leave or special leave hours
+## Leave and overtime hours
 
 In order to calculate the hours spent at the office, just calculate the start and end time of a 
 working day, subtracting the lunch break time. This way you will know if you worked the correct 
-number of hours or if you have to [mark time off or special leave.] (https://github.com/nebulab/playbook/blob/master/come-lavoriamo/tool.md#dipendenti-in-cloud)
+number of hours or if you have to [mark leave or overtime hours.](https://github.com/nebulab/playbook/blob/master/come-lavoriamo/tool.md#dipendenti-in-cloud)
 
-One very important rule of conduct is to always mark the hours of time off and special leave day by 
-day. In fact, if you have to take time off during a working day, due to an emergency or any other 
-reason, that leave of absence, short as it may be, must ALSO be recorded with the prospect of making 
-up for that lost time over the coming days. Marking your hours constantly and transparently helps 
-you be fair towards clients and colleagues.
+One very important rule of conduct is to always mark the hours of leave and overtime day by day. In 
+fact, if you have to take time off during a working day, due to an emergency or any other reason, 
+that leave of absence, short as it may be, you need to track it so that you remember to make up for 
+the lost time over the coming days. Tracking your hours constantly and transparently helps you be 
+fair towards clients and colleagues.
 
 Examples:
 

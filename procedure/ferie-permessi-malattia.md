@@ -1,4 +1,4 @@
-# Vacations, time off, special leave and sick leave
+# Paid time off and overtime
 
 The work day for full-time contracts is comprised of 8 hours. You can decide to reduce your
 contract's work hours and opt for part-time work.
@@ -21,9 +21,9 @@ possible.
 
 ## Time off, special leave and overtime
 
-The annual number of hours for time off varies depending on your seniority.
+The annual number of hours for time off depends on how long you've been with us.
 
-| Seniority in months     | Hours/Year |
+| Length of service       | Hours/Year |
 |-------------------------|------------|
 | 0 - 24                  |    32      |
 | 25 - 48                 |    60      |
@@ -53,11 +53,11 @@ balance will then be rounded-up to the nearest half-hour by applying the followi
 
 and so on.
 
-## Illness
+## Sick leave
 
-For communications regarding illness, employees must contact their physician to request a sick leave
-certificate. The physician will send the certificate electronically to INPS, which, in turn, will
-make it available in electronic form. Based on the sick leave days granted by the attending 
+For communications regarding sick leave, employees must contact their physician to request a sick 
+leave certificate. The physician will send the certificate electronically to INPS, which, in turn, 
+will make it available in electronic form. Based on the sick leave days granted by the attending 
 physician, the employee must  communicate to the company the days of absence together with the
 certificate's unique code.
 
@@ -65,9 +65,9 @@ certificate's unique code.
 
 When deciding which type of permit to ask for, adopt the following rules:
 
-- `Time-off / Vacation` is used for time-off hours or vacation days: therefore, you can use it for
+- `Permessi/Ferie` is used for time off hours or vacation days: therefore, you can use it for
   whole days off or by putting in the number of hours of time off; 
-- `Sick-leave` is used in case of illness, **inserting the Protocol Code in the notes issued by the
+- `Malattia` is used in case of sick leave, **inserting the Protocol Code in the notes issued by the
   attending physician**;
-- `Special leave` is used for time off granted in special cases listed in the section
-  [Time off, special permits and overtime](#time-off-special-leave-and-overtime).
+- `Permesso straordinario` is used for time off granted in special cases listed in the section
+  [Time off, special leave and overtime](#time-off-special-leave-and-overtime).
