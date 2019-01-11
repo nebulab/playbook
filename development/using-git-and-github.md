@@ -12,7 +12,7 @@ Before you start contributing to a project, there are a few things you should kn
 - we use commit messages that allow us to understand the development history (more info on good 
   commit messages [here](https://chris.beams.io/posts/git-commit/)).
 
-If you need anything explained, ask your colleagues (in person or on #sviluppo in Slack).
+If you need anything explained, ask your colleagues (in person or on #development in Slack).
 
 If you want to learn more about this, here is a list of interesting links about Git:
 

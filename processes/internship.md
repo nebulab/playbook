@@ -37,7 +37,7 @@ learn, we suggest checking these resources:
 ### Selection process
 
 The selection process is the same for everyone, interns or not, so check the page
-[Hiring](https://github.com/nebulab/playbook/blob/master/procedure/hiring.md).
+[Hiring](https://github.com/nebulab/playbook/blob/master/processes/hiring.md).
 
 ## Onboarding
 
@@ -45,10 +45,10 @@ This is what we will do upon your arrival at Nebulab:
 
 - We will create a @nebulab.it email for you;
 - We will invite you to our Slack, Harvest and all the tools we use;
-- We will assign you a [mentor](https://github.com/nebulab/playbook/blob/master/crescita-personale/mentoring-e-1-1.md),
+- We will assign you a [mentor](https://github.com/nebulab/playbook/blob/master/personal-growth/mentoring-and-1-1.md),
   who will assist you throughout your internship;
 - We will assign a real project for you to work on;
-- We will give you access to all the [benefits](https://github.com/nebulab/playbook/blob/master/crescita-personale/benefit.md) 
+- We will give you access to all the [benefits](https://github.com/nebulab/playbook/blob/master/personal-growth/benefits.md) 
   of the Nebulab team!
 
 As you can see, the mentor is an important person in the internship. You will draw up a personal 
@@ -63,7 +63,7 @@ part of the project's team, so you will participate in meetings with the client 
 members. Your mentor and the project team will provide you with tasks to complete. 
 
 You will be assisted at each step of the process, but if you need help with anything, do not
-hesitate to ask someone in a private message or, even better, in #sviluppo.
+hesitate to ask someone in a private message or, even better, in #development.
 
 The code you write will be checked by your mentor and by a member of the project team with whom you
 are working. They will advise you on how to improve what you have done and will recommend appropriate
@@ -83,7 +83,7 @@ a real work environment! Here are a few points that will reassure you:
   Even if a mistake managed to get into production, it wouldn't be the end of the world.
 - The client knows that you are an intern and has agreed to be a part of your internship.
 
-Just remember the [values](https://github.com/nebulab/playbook/blob/master/su-di-noi/valori.md) that 
+Just remember the [values](https://github.com/nebulab/playbook/blob/master/about-us/our-values.md) that 
 inspire us in our work and you will do a great job.
 
 Happy coding!

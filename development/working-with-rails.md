@@ -10,7 +10,7 @@ There is no need to be too detailed and test all possible scenarios, but it is u
 developers have an idea how the application works without having to configure it manually.
 
 Again, for inspiration on how to write seeds, you can see some of the existing projects or ask in 
-\#sviluppo. 
+\#development. 
 
 ## Migrations
 

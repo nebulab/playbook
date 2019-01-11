@@ -1,4 +1,4 @@
-# Paga
+# Payroll
 
 Salaries are paid via bank transfer by the tenth day of each month. The thirteenth month is paid in
 December, while the fourteenth is paid in June.
