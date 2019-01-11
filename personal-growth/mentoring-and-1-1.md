@@ -30,5 +30,5 @@ commit to, so that at the following meeting you can review them and see how thin
 This document will be shared with you and you are free to make any adjustments or add topics for the
 next meeting.
 
-The 1:1 is also a time to discuss your [personal growth projects](https://github.com/nebulab/playbook/blob/master/crescita-personale/venerdi.md)
+The 1:1 is also a time to discuss your [personal growth projects](https://github.com/nebulab/playbook/blob/master/personal-growth/fridays.md)
 and the goals you set for yourself.

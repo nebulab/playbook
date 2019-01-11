@@ -1,4 +1,4 @@
- # Internal projects
+# Internal projects
 
 Throughout the years, we have developed a variety of tools for internal use to help us in our daily work
 and in dealing with our clients. Feel free to improve these tools at any time,

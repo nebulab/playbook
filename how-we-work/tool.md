@@ -10,7 +10,7 @@ We use the business version of Google services:
 - files ([Drive](https://drive.google.com)).
 
 In order to use these services (after being provided with a @nebulab.it account) you can follow
-[this procedure](http://support.apple.com/kb/PH14276) to install them locally on your Mac.
+[this processes](http://support.apple.com/kb/PH14276) to install them locally on your Mac.
 
 Of these services, pay specific attention to calendars and contacts, where you can find various
 information about useful contacts (clients, freelancers, etc.) and appointments.
@@ -22,7 +22,7 @@ who is doing what at all times. The main account is https://nebulab.slack.com/ a
 @nebulab.it email address, you can sign up by yourself.
 
 On Slack, it is possible to find some public rooms that can be freely accessed by anyone (their
-names should be self-explanatory, such as `#sviluppo`) and private rooms that are usually used to
+names should be self-explanatory, such as `#development`) and private rooms that are usually used to
 discuss individual projects and/or clients.
 
 ### Slack themes
@@ -57,14 +57,14 @@ To track our work hours, we use [Harvest](https://nebulab.harvestapp.com/), whic
 [native app](https://www.getharvest.com/apps) and a Web-based version.
 
 In order to get an idea of how to track time on Harvest, look at
-[Measuring time](https://github.com/nebulab/playbook/blob/come-lavoriamo/consuntivazione.md).
+[Measuring time](https://github.com/nebulab/playbook/blob/how-we-work/tracking-time.md).
 
 ## Dipendenti in Cloud
 
 In order to keep track of vacations, leave, overtime and sick leave, we use
 [Dipendenti in cloud](https://secure.dipendentincloud.it/app/dashboard).
 
-You can track [time off](https://github.com/nebulab/playbook/blob/master/procedure/ferie-permessi-malattia.md) 
+You can track [time off](https://github.com/nebulab/playbook/blob/master/processes/paid-time-off-and-overtime.md) 
 by clicking to the [Presenze](https://secure.dipendentincloud.it/app/timesheet) tab and clicking on 
 a day (or dragging the mouse over several days).
 

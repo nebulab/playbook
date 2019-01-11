@@ -5,7 +5,7 @@ clients but on ourselves and, therefore, on Nebulab.
 
 Every month, at the end of your 1:1 meeting with your mentor, you will decide what you wish to focus
 on for the  following three Fridays: you can study a new tool that you found interesting, create 
-a small app, contribute to an OSS project that you use often or work on a [post for the blog](https://github.com/nebulab/playbook/blob/master/lavorare-su-nebulab/blog.md).
+a small app, contribute to an OSS project that you use often or work on a [post for the blog](https://github.com/nebulab/playbook/blob/master/working-on-nebulab/blog.md).
 Anything that improves your skills or Nebulab (or, even better, both) is fine.
 
 Together with the project, your mentor will help you decide what objectives you want to meet and how
@@ -16,7 +16,7 @@ choose.
 
 Your Friday project will added to a Kanban board along with others, so that the team knows what you
 are working on and are familiar with what you will be bringing to the [demo Friday](#demo-fridays).
-If you have chosen to write a blog post as a project, remember to follow [our guidelines](https://github.com/nebulab/playbook/blob/master/lavorare-su-nebulab/blog.md)
+If you have chosen to write a blog post as a project, remember to follow [our guidelines](https://github.com/nebulab/playbook/blob/master/working-on-nebulab/blog.md)
 and try to get it all the way to phase 4 (Feedback).
 
 ## Demo Fridays

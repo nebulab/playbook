@@ -14,4 +14,4 @@ development environment. Ideally, the readme should contain all of the following
 - the project's deployment workflow.
 
 For inspiration on readme structure and content, you can look at some of the existing projects or 
-ask in #sviluppo.
+ask in #development.
