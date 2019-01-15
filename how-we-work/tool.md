@@ -9,8 +9,8 @@ We use the business version of Google services:
 - contacts ([Google Contacts](https://www.google.com/contacts/))
 - files ([Drive](https://drive.google.com)).
 
-In order to use these services (after being provided with a @nebulab.it account) you can follow
-[this processes](http://support.apple.com/kb/PH14276) to install them locally on your Mac.
+You can install and use these services locally on your Mac (after being provided with a @nebulab.it
+account).
 
 Of these services, pay specific attention to calendars and contacts, where you can find various
 information about useful contacts (clients, freelancers, etc.) and appointments.
@@ -57,7 +57,7 @@ To track our work hours, we use [Harvest](https://nebulab.harvestapp.com/), whic
 [native app](https://www.getharvest.com/apps) and a Web-based version.
 
 In order to get an idea of how to track time on Harvest, look at
-[Measuring time](https://github.com/nebulab/playbook/blob/how-we-work/tracking-time.md).
+[Measuring time](https://github.com/nebulab/playbook/blob/master/how-we-work/tracking-time.md).
 
 ## Dipendenti in Cloud
 
