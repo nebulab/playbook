@@ -31,7 +31,6 @@ solidly on various projects.
 ## Processes
 
 - [Hiring](https://github.com/nebulab/playbook/blob/master/processes/hiring.md)
-- [Internship](https://github.com/nebulab/playbook/blob/master/processes/internship.md)
 - [Paid time off and overtime](https://github.com/nebulab/playbook/blob/master/processes/paid-time-off-and-overtime.md)
 - [Payroll](https://github.com/nebulab/playbook/blob/master/processes/payroll.md)
 - [Workplace health and safety](https://github.com/nebulab/playbook/blob/master/processes/workplace-health-and-safety.md)
