@@ -9,8 +9,7 @@ We use the business version of Google services:
 - contacts ([Google Contacts](https://www.google.com/contacts/))
 - files ([Drive](https://drive.google.com)).
 
-In order to use these services (after being provided with a @nebulab.it account) you can follow
-[these processes](http://support.apple.com) to install them locally on your Mac.
+You can install and use these services locally on your mac (after being provided with a @nebulab.it account).
 
 Of these services, pay specific attention to calendars and contacts, where you can find various
 information about useful contacts (clients, freelancers, etc.) and appointments.
