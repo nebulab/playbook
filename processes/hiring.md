@@ -101,24 +101,18 @@ questions on algorithms you should know by heart or to program in front of us. I
 to be sure that your level of experience is coherent with our expectations, so feel at ease: nobody 
 here manages to solve major problems without checking manuals, articles and Stack Overflow.
 
-The technical assessment can take various forms, depending on how you shine. These are only some
-examples, but we are open to any idea, as long as it allows us to assess your technical level:
+The technical assessment will usually consist of a feature, enhancement or bugfix on a real project
+from one of our clients, which will be selected according to your role and experience. Here are some
+tips to help you excel:
 
-- We may discuss a project, open or closed-source, on which you worked recently. We will look at the
-  source code together and we will ask you to explain the motivations and the background of the 
-  project. Be prepared to discuss design and architectural choices, performance and possible future
-  optimizations, development workflow etc.
-- We may work together on a small PR or an open source project of your choice, or one chosen by us,
-  if you don't have any ideas. We will be available at any time to provide clarifications and help
-  of any kind, so don't be afraid if you cannot remember something and need to ask or check a
-  manual. Generally, we choose issues that do not require many lines of code, but a good amount of
-  reflection to be tackled correctly. Pay attention to Git history and documentation!
-- If you prefer, we can work on a real problem from one of our clients (which will be selected in 
-  accordance with your technical level). Again, you should pay attention to documentation and Git
-  history, and you will have the full support of the team for any clarification or help. If you 
-  choose this option, we will pay for your work at the same rate we would pay to a consultant.
+- Pay attention to documentation and Git history.
+- Follow the conventions established on the project.
+- If in doubt, feel free to ask! You have our full support.
+ 
+If we don't hire you, we will pay for your work at our standard rate for external consultants, which
+will be shared when the task is assigned to you.
 
-### Economic proposal
+### Offer
 
 We will contact you to let you know to let you know what salary level we have in mind for you.
 The offer often comes with a series of objectives, which we will agree upon with you based on your
