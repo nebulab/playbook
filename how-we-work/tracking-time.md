@@ -60,7 +60,7 @@ If you have any difficulties using the tracker, contact your mentor.
 
 In order to calculate the hours spent at the office, just calculate the start and end time of a 
 working day, subtracting the lunch break time. This way you will know if you worked the correct 
-number of hours or if you have to [mark leave or overtime hours.](https://github.com/nebulab/playbook/blob/master/how-we-work/tool.md#dipendenti-in-cloud)
+number of hours or if you have to [mark leave or overtime hours.](https://github.com/nebulab/playbook/blob/master/how-we-work/tools.md#dipendenti-in-cloud)
 
 One very important rule of conduct is to always mark the hours of leave and overtime day by day. In 
 fact, if you have to take time off during a working day, due to an emergency or any other reason, 
