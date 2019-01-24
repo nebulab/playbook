@@ -6,7 +6,7 @@ We follow these guidelines to write clean code and reliable applications:
   - https://github.com/bbatsov/ruby-style-guide
   - https://github.com/uohzxela/clean-code-ruby
 - Rails: https://github.com/bbatsov/rails-style-guide
-- CSS: https://pages.18f.gov/frontend/css-coding-styleguide/architecture/
+- CSS: https://frontend.18f.gov/css/architecture/
 - RSpec: http://betterspecs.org/
 - Javascript: https://github.com/airbnb/javascript
 
