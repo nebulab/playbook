@@ -30,6 +30,12 @@ Moreover, if you are the organizer of the meeting:
   the ten minutes of preparation time to think what you want to say. This practice helps you 
   structure your thoughts and saves all participants' time.
 
+Additionally, if you are the organizer:
+
+- **Send the agenda.** Review the agenda one more time, make sure every point on it has a title and
+  a description that covers what the point is about and how to reach a conclusion, and share the
+  agenda with everyone so they have time to read it.
+
 ## During the meeting
 
 - **Use a headset.** There is nothing worse than speaking without anyone understanding what you are 
@@ -38,8 +44,19 @@ Moreover, if you are the organizer of the meeting:
 - **Start your camera (if needed).** If others have their camera on, use yours too. Non-verbal
   communication is important and seeing the face of the person you are talking to helps build trust.
 - **Take notes.** Taking notes at a meeting is an excellent way to stay focused and allows those who
-  did not participate to know what was said and decided. If you cannot take notes, make sure that+
+  did not participate to know what was said and decided. If you cannot take notes, make sure that
   someone is.
+- **Don't veer off topic.** It might be tempting to propose an unrelated idea right when it comes to
+  you, but be respectful of everyone's time and make sure any unrelated points are added to the
+  bottom of the current meeting's agenda or to another meeting's agenda.
+
+Additionally, if you are the organizer:
+
+- **Run the conversation.** The meeting should run linearly, from one point to the next one. If new
+  ideas for discussion arise, add them to the agenda and keep talking about the matter at hand.
+- **Moderate off-topic discussion.** When you sense that the meeting is going off-topic, it's your
+  responsibility to remind everyone what the current point on the agenda is, and it's in everyone's
+  interest that the meeting stays on track and all the points are addressed in the allotted time.
 
 ## After the meeting
 
@@ -54,7 +71,7 @@ In addition, if you are the organizer:
 - **Share a summary.** Share the summary from the meeting with other participants, so that 
   everyone can complete their notes.
 
-If the meeting is a recurrent meeting organized by you:
+Additionally, if you are the organizer and the meeting is recurring:
 
 - **Work on the agenda of the next meeting.** At this point you likely have a good idea of subjects
   to discuss and share at the next meeting. This is a good time to write them down.
