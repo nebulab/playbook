@@ -16,10 +16,10 @@ solidly on various projects.
 ## How we work
 
 - [Where, when and how](https://github.com/nebulab/playbook/blob/master/how-we-work/where-when-and-how.md)
-- [Tool](https://github.com/nebulab/playbook/blob/master/how-we-work/tool.md)
+- [Tools](https://github.com/nebulab/playbook/blob/master/how-we-work/tools.md)
 - [Measuring the time](https://github.com/nebulab/playbook/blob/master/how-we-work/tracking-time.md)
 - [Meetings](https://github.com/nebulab/playbook/blob/master/how-we-work/meetings.md)
-- [Client guide](https://github.com/nebulab/playbook/blob/master/how-we-work/client-guide.md) (in English)
+- [Client guide](https://github.com/nebulab/playbook/blob/master/how-we-work/client-guide.md)
 
 ## Personal growth
 
