@@ -1,48 +1,37 @@
 # Fridays
 
-At Nebulab, Fridays are the time of personal and collective growth. On Fridays, we do not focus on
-clients but on ourselves and, therefore, on Nebulab.
+Fridays are our time for personal and collective growth. On Fridays, we do not work on clients.
+Instead, we focus on initiatives that improve our skills or contribute to the community or the
+company. Here are some ideas for Friday work:
 
-Every month, at the end of your 1:1 meeting with your mentor, you will decide what you wish to focus
-on for the  following three Fridays: you can study a new tool that you found interesting, create 
-a small app, contribute to an OSS project that you use often or work on a [post for the blog](https://github.com/nebulab/playbook/blob/master/working-on-nebulab/blog.md).
-Anything that improves your skills or Nebulab (or, even better, both) is fine.
+- Write a post for our [blog](https://github.com/nebulab/playbook/blob/master/working-on-nebulab/blog.md)
+- Contribute to an open source project
+- Study a new tool/technology
+- Come up with a tweet to publish
+- Follow an online course
+- Mentor a teammate and teach them a skill
 
-Together with the project, your mentor will help you decide what objectives you want to meet and how
-you can concretely show what you have done. For example, if you decided to study a new front-end
-framework, you could create a small app with that framework. If you read a book, you could produce a
-presentation on what you have learned. If you are not sure what to bring, your mentor will help you
-choose.
-
-Your Friday project will added to a Kanban board along with others, so that the team knows what you
-are working on and are familiar with what you will be bringing to the [demo Friday](#demo-fridays).
-If you have chosen to write a blog post as a project, remember to follow [our guidelines](https://github.com/nebulab/playbook/blob/master/working-on-nebulab/blog.md)
-and try to get it all the way to phase 4 (Feedback).
+If you come up with an idea and you're not sure whether it's a good candidate for Friday time, your
+mentor will be able to help you.
 
 ## Demo Fridays
 
-The last Friday of the month is Demo Friday. We all get on a video call and everyone shows what they
-worked on during the last month. There is no set duration for the presentation, but ideally it
-should be between 15 and 30 minutes. After each presentation there are about 5 minutes for Q&A.
+Every two months, we host a Demo Friday. We all get on a video call and present our work to the 
+company in a series of 5-minute lightning talks. If needed, your mentor will help you prepare for 
+this demo, but as a rule of thumb keep it simple and you'll be fine!
 
-Demo Friadys are recorded and published privately on YouTube, in case anyone could not take part to
-the meeting but still wants to see it.
+Demo Fridays are recorded in case anyone was not able to attend but still wants to know what the
+rest of the team is up to. 
 
-## Doing client work on a Friday
+## Reconciling client work and Friday time
 
-In certain periods (e.g. the weeks leading to Black Friday and Cyber Monday), client work becomes
-more important than usual. However, this does not mean that we must cancel our Friday investment
-time to deal with last-minute requests.
+Our first responsibility is towards our amazing clients, who have been kind enough to give up 20%
+of the workweek so that we could focus on our growth.
 
-That said, it is important to guarantee a minimum service-level to clients. So, one rule is
-particularly important: if for any reason you could not work for the client on an agreed date, you
-must give up your investment time for that week and make up for the lost hours.
+If, for any reason, you were not able to provide the allotted amount of hours, you will need to make
+up for the lost time on Friday. This rule usually includes any work time that is lost because of
+national holidays, conferences, retreats or paid time off.
 
-This rule includes any kind of contingencies during the week, such as national holidays, vacation or
-sick leave. The same applies to longer absences in the following or previous weeks, such as periods
-of vacation, company retreat, conferences, etc.
-
-As always, your initiative and your sensitivity play a decisive role. It is up to you to determine
-if your Friday support is important for the client, for example, if you were absent for one or more
-days while attending a conference. In that case, communicate this on #calendario and inform the
-client that you will be available on that Friday.
+There might also be sensitive periods of the year (e.g. the days immediately before and after Black
+Friday and Cyber Monday) during which clients might need more support than usual, in which case we
+will temporarily give up our Friday time to ensure they have all the help they need.
