@@ -17,15 +17,15 @@ solidly on various projects.
 
 - [Where, when and how](https://github.com/nebulab/playbook/blob/master/how-we-work/where-when-and-how.md)
 - [Tools](https://github.com/nebulab/playbook/blob/master/how-we-work/tools.md)
-- [Measuring the time](https://github.com/nebulab/playbook/blob/master/how-we-work/tracking-time.md)
+- [Tracking time](https://github.com/nebulab/playbook/blob/master/how-we-work/tracking-time.md)
 - [Meetings](https://github.com/nebulab/playbook/blob/master/how-we-work/meetings.md)
 - [Client guide](https://github.com/nebulab/playbook/blob/master/how-we-work/client-guide.md)
 
 ## Personal growth
 
-- [Mentoring and one-on-one](https://github.com/nebulab/playbook/blob/master/personal-growth/mentoring-and-1-1.md)
-- [Friday](https://github.com/nebulab/playbook/blob/master/personal-growth/fridays.md)
-- [Benefit](https://github.com/nebulab/playbook/blob/master/personal-growth/benefits.md)
+- [Mentoring and 1:1s](https://github.com/nebulab/playbook/blob/master/personal-growth/mentoring-and-1-1.md)
+- [Fridays](https://github.com/nebulab/playbook/blob/master/personal-growth/fridays.md)
+- [Benefits](https://github.com/nebulab/playbook/blob/master/personal-growth/benefits.md)
 - [Conferences](https://github.com/nebulab/playbook/blob/master/personal-growth/conferences.md)
 
 ## Processes
@@ -43,10 +43,8 @@ solidly on various projects.
 
 ## Working on Nebulab
 
-- [Social](https://github.com/nebulab/playbook/blob/master/working-on-nebulab/social.md)
-- [Web site](https://github.com/nebulab/playbook/blob/master/working-on-nebulab/website.md)
 - [Blog](https://github.com/nebulab/playbook/blob/master/working-on-nebulab/blog.md)
-- [Internal projects](https://github.com/nebulab/playbook/blob/master/working-on-nebulab/internal-projects.md)
+- [Company projects](https://github.com/nebulab/playbook/blob/master/working-on-nebulab/company-projects.md)
 - [Playbook](https://github.com/nebulab/playbook/blob/master/working-on-nebulab/playbook.md)
 
 ## Development
@@ -63,5 +61,5 @@ solidly on various projects.
 
 - [Privacy policy](https://github.com/nebulab/playbook/blob/master/useful-resources/privacy-policy.md)
 - [Email signature](https://github.com/nebulab/playbook/blob/master/useful-resources/email-signature.md)
-- [Profile photo](https://github.com/nebulab/playbook/blob/master/useful-resources/profile-picture.md)
+- [Profile picture](https://github.com/nebulab/playbook/blob/master/useful-resources/profile-picture.md)
 - [Press kit](https://drive.google.com/drive/folders/1VATPcbAhnhHZ376_GPixyYAo6u3gN8Os)
