@@ -1,50 +1,40 @@
 # Blog
 
-Our marketing team is trusted with managing [our blog](https://nebulab.it/blog/), and they make 
-sure that it is always updated.  
-The Blog is our way of contributing to the OSS panorama, and a way of making ourselves known  
-to potential clients and contributing to our SEO campaigns. Moreover, writing is also an excellent 
-exercise in understanding and setting topics we are studying and clarifying the problems  
-we are facing (for example, a Friday project could become a wonderful 
-article!). We are all free to contribute to Nebulab's Blog.
+Everyone is free to contribute to [our blog](https://nebulab.it/blog/), which is run and managed by 
+our marketing team.
+  
+The blog is our way of contributing to the software industry as well as a way of making ourselves
+known to potential clients. Moreover, writing is also an excellent way to deeply understand topics
+we are studying and to make clarity on problems we are facing (for example, Friday time projects
+make excellent articles!).
 
-However, as was mentioned above, it is important to keep the Blog updated, so if there are no  
-volunteering authors, your mentor could encourage you to 
-write.
+Note that we have a #blogposts channel in Slack that you can and should join if you're working or
+plan to work on an article. It's an amazing place to get some feedback, tips, or just the occasional
+confidence boost!
 
-## Writing a post
+When you have a final draft, ping @shana.remigio in the #blogposts channel. She runs the
+blog and will provide a final review to ensure the article is in line with our SEO strategy. She
+will also ask our designers to whip up an artsy cover.
 
-Writing a post is a process that involves six phases, and it is fully managed on a 
-[GitHub project](https://github.com/nebulab/nebulab/projects/3):
+## Guidelines for writing
 
-1. **Proposal:** if you want to propose an article, open an issue and add it to the project backlog 
-[Blogposts](https://github.com/nebulab/nebulab/projects/3) on GitHub. In the issue, include some 
-details on what you would like to write about and how you would tackle this. On the other hand, if you don't have any ideas, 
-you could choose one of the articles that has already been proposed by Shana or others, or 
-consult with your mentor.
-2. **Acceptance:** discuss the subject you decided to write about with your mentor and collect 
-as many elements as possible for drafting the article. After obtaining mentor's approval, contact Shana 
-and give her a general rundown about the idea and the objectives of your article. Shana will give you 
-preliminary indications to be as SEO Friendly as possible in the drafting (if necessary) and will move the issue 
-to the To Do list and will give you the final OK. At this point you can start working!
-3. **Drafting:** write the article following [the guidelines](https://github.com/nebulab/nebulab/blob/master/source/blog/posts/2050-01-01-blogpost-template.html.markdown) 
-in the repository. If you have any doubts or need help, write in #nebulab and someone will definitely 
-be happy to lend you a helping hand.
-4. **Feedback and Review:** ping on the #nebulab channel to ask for feedback regarding the content of your 
-article and review it to correct any grammar errors or typos.
-5. **SEO Review and Graphics:** after the article has been reviewed and the last corrections have been implemented, 
-inform Shana who will make a review for SEO optimization of the article and who will in turn  
-ping Davide for the creation of cover graphics.
-6. **Approval:** the image and the last SEO touch-ups are implemented. At this point the article is 
-ready to be merged and inserted in the social editorial calendar.
+Here are some tips for writing good articles:
 
-Please remember that you, as the article's author, remain responsible for it, so don't  
-forget to follow the process until the end, even in the phases that do not concern you 
-directly.
+- Keep it short. The ideal article is 400-600 words long. Longer articles are beautiful but they are
+  time and effort intensive - they should be the exception, not the rule.
+- Stay practical. There's no need to overdo it and get philosophical. Write about an issue you have
+  faced recently or a new tool you're experimenting with. If it helps others, it's fair game.
+- Get it done. It's easy to obsess over small details if you're not used to writing. Even if you
+  hate what you wrote, finish it and get someone to review it.
+- More tips can be found in our [article template][template].
 
-## Editorial calendar
+If you follow these rules, you should be able to produce an article in 8 hours. If it's taking
+longer than 8 hours, you should probably reach out to your mentor, who will help you figure out any
+issues you might be having!
 
-A fundamental aspect of keeping a blog is to try to publish it at regular intervals, in order to 
-generate content and present a serious image of the editorial process to the readers. We currently 
-**try to publish an article every two weeks**, and any surplus articles are  
-inserted in the calendar to be published at a future date.
+[template]: https://github.com/nebulab/nebulab/blob/master/source/blog/posts/2050-01-01-blogpost-template.html.markdown 
+
+## Publishing frequency
+
+A fundamental aspect of maintaining the blog is to ensure new content is published on a regular
+basis. We currently try to publish an article every two weeks and any surplus articles are queued.
