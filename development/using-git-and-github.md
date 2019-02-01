@@ -6,9 +6,9 @@ design and implementation decisions with the team.
 
 Before you start contributing to a project, there are a few things you should know:
 
-- we always use [GitHub Flow](https://guides.github.com/introduction/flow/): we use feature branches
-  for all changes and merge into `master`, which serves as the single source of truth for the
-  project's state;
+- we always use [Trunk Based Development](https://guides.github.com/introduction/flow/):
+  we use short-lived feature branches for all changes and merge into `master`,
+  which serves as the single source of truth for the project's state;
 - we use commit messages that allow us to understand the development history (more info on good
   commit messages [here](https://chris.beams.io/posts/git-commit/)).
 
