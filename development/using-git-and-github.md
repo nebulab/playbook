@@ -30,8 +30,10 @@ To implement a new feature:
 2. create a new branch named `developer-name/123-feature-name`, where `123` is the issue number in
    the project management tool (e.g. `aldesantis/123-login`);
 3. add a certain number of commits (in English :gb:);
-4. open a pull request for the `master` branch (use the language chosen for the project)
+4. open a pull request for the `master` branch (use the language chosen for the project);
 5. have the pull request reviewed accepted by another team member;
+6. rebase on master and merge after the pull request is approved and required
+status checks are green;
 6. test the new feature on staging or the review app before deploying to production.
 
 In general, when you work on external projects:
