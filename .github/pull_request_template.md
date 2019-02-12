@@ -2,4 +2,4 @@
 
 #### Todo
 
-- [ ] This change needs a public announcement, _I'll update [the agenda of our monthly meeting](https://docs.google.com/document/d/1hjSS-o_cKs5Db1E1TqRykfQfnAQUFS4gDXMQ2x-CSzE/edit?usp=sharing) once merged_.
+- [ ] This change needs a public announcement, _I'll update [the agenda of our monthly meeting](https://tadum.app/rhythms/3JAFLu5H6JKDvLrfzXFZL4nf) once merged_.
