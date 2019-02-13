@@ -16,12 +16,15 @@ mentor will be able to help you.
 
 ## Demo Fridays
 
-Every two months, we host a Demo Friday. We all get on a video call and present our work to the 
+Every three months, we host a Demo Friday. We all get on a video call and present our work to the 
 company in a series of 5-minute lightning talks. If needed, your mentor will help you prepare for 
 this demo, but as a rule of thumb keep it simple and you'll be fine!
 
 Demo Fridays are recorded in case anyone was not able to attend but still wants to know what the
 rest of the team is up to. 
+
+To know when the next Demo Friday will be hosted, please take a look at your Nebulab calendar. You 
+should find a recurring event shared with everyone in the company. 
 
 ## Reconciling client work and Friday time
 
