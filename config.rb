@@ -24,6 +24,10 @@ page '/*.txt', layout: false
 # With alternative layout
 # page '/path/to/file.html', layout: 'other_layout'
 
+# Redirects
+# https://middlemanapp.com/basics/redirects/
+# redirect "/my/old/path.html", to: "/my/new/path.html"
+
 # Proxy pages
 # https://middlemanapp.com/advanced/dynamic-pages/
 
