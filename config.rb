@@ -23,6 +23,7 @@ page '/*.txt', layout: false
 
 # With alternative layout
 # page '/path/to/file.html', layout: 'other_layout'
+page '/', layout: 'home'
 
 # Redirects
 # https://middlemanapp.com/basics/redirects/
