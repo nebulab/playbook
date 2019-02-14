@@ -10,8 +10,13 @@ set :css_dir, 'assets/stylesheets'
 set :images_dir, 'assets/images'
 set :js_dir, 'assets/javascripts'
 
+set :playbook_section_topics_dir, 'playbook/topics'
+set :playbook_topic_belongs_to_section_key, :title
+set :playbook_section_has_many_topics_key, 'playbook-section-topics'
+
 # Ignored paths
 ignore '**/.keep'
+ignore 'playbook/topics/**'
 
 # Layouts
 # https://middlemanapp.com/basics/layouts/
@@ -24,6 +29,7 @@ page '/*.txt', layout: false
 # With alternative layout
 # page '/path/to/file.html', layout: 'other_layout'
 page '/', layout: 'home'
+page '/playbook/*', layout: 'playbook'
 
 # Redirects
 # https://middlemanapp.com/basics/redirects/
