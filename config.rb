@@ -49,6 +49,9 @@ page '/*.txt', layout: false
 #   end
 # end
 
+# Pretty urls
+activate :directory_indexes
+
 # Build-specific configuration
 # https://middlemanapp.com/advanced/configuration/#environment-specific-settings
 
