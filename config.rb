@@ -56,6 +56,11 @@ page '/playbook/*', layout: 'playbook'
 #   end
 # end
 
+# Middleman fails to reload helpers, although it notices their modification
+# This force-reloads them. See
+# https://github.com/middleman/middleman/issues/1105#issuecomment-305715209
+Dir['helpers/*'].each(&method(:load))
+
 # Pretty urls
 activate :directory_indexes
 
