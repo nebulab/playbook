@@ -2,7 +2,7 @@
 # https://middlemanapp.com/advanced/configuration/#configuring-extensions
 
 activate :autoprefixer do |prefix|
-  prefix.browsers = "last 2 versions"
+  prefix.browsers = 'last 2 versions'
 end
 
 # Settings
@@ -33,7 +33,7 @@ page '/playbook/*', layout: 'playbook'
 
 # Redirects
 # https://middlemanapp.com/basics/redirects/
-# redirect "/my/old/path.html", to: "/my/new/path.html"
+# redirect '/my/old/path.html', to: '/my/new/path.html'
 
 # Proxy pages
 # https://middlemanapp.com/advanced/dynamic-pages/
