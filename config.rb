@@ -30,6 +30,7 @@ page '/*.txt', layout: false
 # page '/path/to/file.html', layout: 'other_layout'
 page '/', layout: 'home'
 page '/playbook/*', layout: 'playbook'
+page '/admin/*', layout: false
 
 # Redirects
 # https://middlemanapp.com/basics/redirects/
