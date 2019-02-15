@@ -1,0 +1,98 @@
+backend: # Uncomment at need
+  # GitHub backend
+  name: github
+  repo: mdesantis/playbook
+  branch: middleman-subfolder-v2 # Branch to update (optional; defaults to master) repository
+
+  # Local testing
+  # name: test-repo
+
+publish_mode: editorial_workflow
+
+media_folder: middleman/assets
+public_folder: /middleman/assets
+
+logo_url: /middleman/assets/logo.png
+
+collections:
+  - label: Home
+    name: home
+    files:
+      - file: index.html.md
+        label: Homepage
+        name: homepage
+        format: frontmatter
+        create: false
+        delete: false
+        slug: '{{title}}'
+        fields:
+          - label: Title
+            name: title
+            widget: string
+            required: true
+          - label: Body
+            name: body
+            widget: markdown
+      - file: middleman/data/home/navigation.yml
+        label: Navigation
+        name: navigation
+        fields:
+          - label: Navigation items
+            name: navigation_items
+            widget: list
+            fields:
+              - label: Image
+                name: image_path
+                widget: image
+              - label: Caption
+                name: caption
+                widget: string
+              - label: Link
+                name: link
+                widget: string
+  - label: Sections
+    name: sections
+    files:
+      - file: about-us.html.md
+        label: About us
+        name: about-us
+        format: frontmatter
+        create: false
+        delete: false
+        slug: '{{title}}'
+        fields:
+          - label: Title
+            name: title
+            widget: string
+            required: true
+          - label: Topics
+            name: playbook-section-topics
+            label_singular: topic
+            widget: list
+            field:
+              label: Topic
+              name: playbook-section-topic
+              widget: relation
+              collection: about-us-topics
+              searchFields:
+                - title
+              valueField: title
+          - label: Body
+            name: body
+            widget: markdown
+  - label: "About us" section topics
+    name: about-us-section-topics
+    label_singular: "About us" section topic
+    folder: about-us/
+    extension: .html.md
+    format: frontmatter
+    create: true
+    slug: '{{title}}'
+    fields:
+      - label: Title
+        name: title
+        widget: string
+        required: true
+      - label: Body
+        name: body
+        widget: markdown

@@ -15,7 +15,7 @@ set :playbook_section_has_many_topics_key, 'playbook-section-topics'
 # Ignored paths
 ignore '**/.keep'
 ignore '.github/**'
-ignore /^middleman(?!\/assets).*/
+ignore /^middleman(?!\/assets)(?!\/admin).*/
 ignore /^(?!middleman\/).+\/.*/
 
 # Activate and configure extensions
@@ -40,6 +40,7 @@ page '/*.txt', layout: false
 # page '/path/to/file.html', layout: 'other_layout'
 page '/', layout: 'home'
 page /.+/, layout: 'playbook'
+page '/middleman/admin/*', layout: false
 
 # Proxy pages
 # https://middlemanapp.com/advanced/dynamic-pages/
