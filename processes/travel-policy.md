@@ -1,10 +1,8 @@
 # Travel Policy
 
-This Travel Policy aims to define travel and conference attendance guidelines for the year 2019.
-You can find below a Customer Profile to be filled out by every Team member with all the information
-we need for a hassle-free trip:
-
-[TRAVELLER PROFILE NEBULAB.pdf]()
+This Travel Policy aims to define travel and conference attendance guidelines for the year 2019. You
+can find here a [Traveler profile](https://drive.google.com/file/d/1aW0GJGBOhCsYzHR2vgt-d5yh0bN5-cqg/)
+to be filled out by every Team member with all the information we need for a hassle-free trip.
 
 ## Generic Travel
 
@@ -14,7 +12,13 @@ Slack channel #travel.
 ### **Hotel**
 
 We'll prefer where possible double rooms with single beds or queen beds.
-[Hotel Budget table]
+
+| City size    | Country   | Budget per night per room | Esempi                                        |
+|--------------|-----------|---------------------------|-----------------------------------------------|
+| Medium/Small | Italy     | 70€                       | Pescara, Latina                               |
+| Large        | Italy     | 120€                      | Roma, Milano, Firenze, Bologna, Torino        |
+| Large        | Europe    | 150€                      | Londra, Parigi, Berlino                       |
+| Large        | Worldwide | 200€                      | New York, Los Angeles, San Francisco, Toronto |
 
 ### Trains
 
@@ -124,11 +128,11 @@ relating to:
 - self-improvement conferences recommended for topics that are tight to Nebulab interests and
 business;
 - marketing conferences, which are attractive for our marketing initiatives.
-[Conferences list](notion://www.notion.so/982ae7532a5b49298a89ea0ecd0b8d66)
+[Conferences list](https://docs.google.com/document/d/1QX6YhV3GMPwE9sQ8x52wDhUzyhKRfXxG2jqAFrt3tsQ)
 If you want to submit some not-listed event, you can suggest a conference in the document or the
 Slack channel #conferenze.
 Your mentor will follow you in the choice. Propose your conference schedule, respecting our yearly
-[budget limitations](notion://www.notion.so/982ae7532a5b49298a89ea0ecd0b8d66), and explain why you
+[budget limitations](https://github.com/nebulab/playbook/blob/master/processes/travel-policy.md#yearly-budget-and-days-amount), and explain why you
 are interested in those events according to your growth path and be sure to [get the most out of
 your conferences.](https://github.com/nebulab/playbook/blob/master/personal-growth/conferences.md)
 
