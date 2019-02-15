@@ -16,6 +16,7 @@ set :playbook_section_has_many_topics_key, 'playbook-section-topics'
 # Ignored paths
 ignore /^middleman(?!\/assets).*/
 ignore '**/.keep'
+ignore '.github/**'
 ignore 'topics/**'
 
 # Activate and configure extensions
