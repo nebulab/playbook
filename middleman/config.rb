@@ -22,7 +22,7 @@ ignore /^(?!middleman\/).+\/.*/
 # https://middlemanapp.com/advanced/configuration/#configuring-extensions
 
 activate :autoprefixer do |prefix|
-  prefix.browsers = "last 2 versions"
+  prefix.browsers = 'last 2 versions'
 end
 
 # Pretty urls
