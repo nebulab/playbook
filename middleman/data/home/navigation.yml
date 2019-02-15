@@ -1,0 +1,7 @@
+navigation_items:
+  - image_path: about-us.png
+    caption: About us
+    link: /playbook/sections/about-us
+  - image_path: how-we-work.png
+    caption: How we work
+    link: /playbook/sections/how-we-work
