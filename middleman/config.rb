@@ -8,6 +8,9 @@ set :layouts_dir, 'middleman/layouts'
 set :data_dir, 'data'
 set :helpers_dir, 'helpers'
 
+# Ignored paths
+ignore /^middleman(?!\/assets).*/
+
 # Activate and configure extensions
 # https://middlemanapp.com/advanced/configuration/#configuring-extensions
 
