@@ -1,3 +1,13 @@
+# Settings
+set :source, '..'
+set :css_dir, 'middleman/assets/stylesheets'
+set :js_dir, 'middleman/assets/javascripts'
+set :images_dir, 'middleman/assets'
+set :fonts_dir, 'middleman/assets/fonts'
+set :layouts_dir, 'middleman/layouts'
+set :data_dir, 'data'
+set :helpers_dir, 'helpers'
+
 # Ignored paths
 ignore '**/.keep'
 
