@@ -27,12 +27,12 @@ regarding any of the benefits, feel free to ask!
 - **[Remote work](https://github.com/nebulab/playbook/blob/master/how-we-work/where-when-and-how.md#lavorare-da-remoto).** 
   Despite having two offices, our culture is absolutely _remote-first_. It is possible at any time
   to work remotely, whether you want to do it for a day, a year or indefinitely.
-- **Team retreats.** Each year we organize at least two weekly team retreats where we work and have
-  fun together. The purpose of these meetings is to let members of the team who work in different
-  offices or remotely socialize; your are encouraged to take part!
-- **[Paid conferences](https://github.com/nebulab/playbook/blob/master/personal-growth/conferences.md).** 
-  The cost (travel, accommodation and conference ticket) of taking part in industry conferences are 
-  fully paid by us.
+- **[Team retreats.](https://github.com/nebulab/playbook/blob/master/processes/travel-policy.md#team-retreat)**
+  Each year we organize a team retreat where we work and have fun together. The purpose of these
+  meetings is to let members of the team who work in different offices or remotely socialize; your
+  are encouraged to take part!
+- **[Paid conferences](https://github.com/nebulab/playbook/blob/master/processes/travel-policy.md#conferences).** 
+  The cost of taking part in industry conferences are fully paid by us.
 - **Internet budget.** If you work remotely, we will pay the costs of your home Internet connection.
   Having a good connection is not only in your interest, but also in the interest of your team
   members, so let us know if you need an upgrade!
