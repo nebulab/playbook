@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Use the title from a page's frontmatter if it has one -->
+    <title><%= current_page.data.title || 'Playbook' %></title>
+    <%= stylesheet_link_tag 'playbook' %>
+    <%#= javascript_include_tag "playbook" %>
+  </head>
+  <body>
+    <%= yield %>
+    <% playbook_section_topics_files(current_page).each do |section_topic| %>
+      <%= partial 'middleman/layouts/playbook/section_topic', locals: { section_topic: section_topic } %>
+    <% end %>
+  </body>
+</html>
