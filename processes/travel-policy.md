@@ -11,7 +11,7 @@ Slack channel #travel.
 
 ### **Hotel**
 
-We'll prefer where possible double rooms with single beds or queen beds.
+Where possible, we'll prefer rooms with two single beds or two queen beds.
 
 | City size    | Country   | Budget per night per room | Esempi                                        |
 |--------------|-----------|---------------------------|-----------------------------------------------|
