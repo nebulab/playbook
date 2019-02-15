@@ -1,24 +1,6 @@
 # Conferences
 
-We offer full reimbursement for all industry-related conferences.
-
-## Suggesting a conference
-
-In some cases, taking part in a conference will be suggested by a mentor on the `#conferenze`
-channel in Slack, but anyone can make a recommendation, so feel free to do so. Regardless of who
-the proposal comes from, the process is the same:
-
-1. Someone suggests taking part in a conference in `#conferenze`;
-2. Those who want to take part respond to the original message, explaining why they want to
-   participate and which talks they are interested in;
-3. The mentors, or someone on their behalf, will manage the travel and accommodation or, for
-   conferences with only a few participants, they can simply ask you to apply for an expense
-   reimbursement. 
-
-If you are making the reservations and don't know the spending budget, know that there is no fixed
-budget: just use your common sense. We are not a Fortune 500 company, but we don't want you to
-travel uncomfortably or stay at a cheap motel where you can't sleep comfortably either. If in doubt,
-ask. 
+We offer full reimbursement for all industry-related conferences according to our [travel policy.](https://github.com/nebulab/playbook/blob/master/processes/travel-policy.md#conferences)
 
 ## Getting the most out of a conference
 
