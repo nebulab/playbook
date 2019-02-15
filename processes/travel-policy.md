@@ -1,171 +1,173 @@
-# Travel Policy
+# Travel policy
 
-This Travel Policy aims to define travel and conference attendance guidelines for 2019. You can find
-here a [Traveler profile](https://drive.google.com/file/d/1aW0GJGBOhCsYzHR2vgt-d5yh0bN5-cqg/) to be
-filled out by every Team member with all the information we need for a hassle-free trip.
+This travel policy defines travel and conference attendance guidelines for 2019. You can find
+a [Traveler profile](https://drive.google.com/file/d/1aW0GJGBOhCsYzHR2vgt-d5yh0bN5-cqg/) here -
+this should be filled out by every team member in order to guarantee a hassle-free trip.
 
-## Generic Travel
+## Communication
 
-For every travel-related requests such as hotel bookings, flight tickets and so on you can use the
-Slack channel #travel.
+The #travel Slack channel should be used for all travel-related requests such as hotel bookings, 
+flight tickets and so on. 
 
-### **Hotel**
-
-Where possible, we'll prefer rooms with two single beds or two queen beds.
-
-| City size    | Country   | Budget per night per room | Esempi                                        |
-|--------------|-----------|---------------------------|-----------------------------------------------|
-| Medium/Small | Italy     | 70€                       | Pescara, Latina                               |
-| Large        | Italy     | 120€                      | Roma, Milano, Firenze, Bologna, Torino        |
-| Large        | Europe    | 150€                      | Londra, Parigi, Berlino                       |
-| Large        | Worldwide | 200€                      | New York, Los Angeles, San Francisco, Toronto |
+## Travel
 
 ### Trains
 
-We'll reserve first-class seats asking the Team member the departure time preference, with a
-flexibility of 1 hour before/after the suggested schedule.
+We'll reserve first-class seats at the time preferred by the team member, if possible. There might
+be fluctuations of 1 hour from the schedued time.
 
 ### Flights
 
-Flight seat category is the following:
+Flight seat categories are the following:
+
 - Italy/Europe: Economy
-- Worldwide: Economy + comfort seats*
-*When possible, we will reserve comfort seats for flights over six hours.
+- Worldwide: Premium Economy (when possible, for flights over 6 hours)
+
+Considering the frequency of our trips abroad, we advise obtaining a passport as soon as you enter
+the company, as release times can vary wildly depending on the time of the year.
+
+Make sure to check-in online 24-48 hours in advance and print your boarding pass before departure.
 
 ### Car
 
-We prefer to travel by public transport, but as regards business trips with your car or with a
-rental car, they will be managed as follows:
-- if you use your vehicle between main offices (Pescara/Latina - Latina/Pescara) there's a flat-rate
-reimbursement of 150,00€;
-- if you use your car in Italy we'll refer to the ViaMichelin cost estimation;
-- rental car group B standard, total fuel, and highway reimbursement.
+We prefer to travel by public transport, but if you have to travel by car, the following policies 
+apply:
 
-### Reimbursement business trips Italy
+- if you use your vehicle between main offices (Pescara/Latina - Latina/Pescara) there's a flat-rate
+reimbursement of €150.00 per round-trip;
+- if you use your car in Italy, we'll refer to the ViaMichelin cost estimation;
+- total reimbursement for group B rental cars, including fuel and highway fees.
+
+### Uber
+
+Use Uber if you need a quick, easy ride around the city.
+
+Before your departure, check if Uber is available at your destination (you can do it from
+[here](https://www.uber.com/it/cities/)). Also make sure you're part of the Nebulab Uber
+organization (if you're not, ask for it in the #travel Slack channel).
+
+All you have to do if you need a ride is book your Uber as usual and select "Nebulab Srls" from the
+account selection menu.
+
+## Accommodation
+
+Where possible, we'll prefer rooms with two single beds or two queen beds.
+
+| City size    | Country   | Budget (per night per room) | Examples                                      |
+|--------------|-----------|-----------------------------|-----------------------------------------------|
+| Medium/Small | Italy     | 70€                         | Pescara, Latina                               |
+| Large        | Italy     | 120€                        | Rome, Milan, Florence, Bologna, Turin         |
+| Large        | Europe    | 150€                        | London, Paris, Berlin                         |
+| Large        | Worldwide | 200€                        | New York, Los Angeles, San Francisco, Toronto |
+
+## Reimbursements
+
+To obtain a reimbursement, every team member has to submit a complete travel expense report,
+attaching every expense receipt (for both meals and travel) within seven days of their return
+date from the trip.
+
+### Reimbursement for travel in Italy
 
 We offer full reimbursement for the following expenses: train tickets, flight tickets, car rental,
 bus tickets, hotel stay with breakfast and possible event ticket. Meals are on the Team member.
 Moreover, we offer full reimbursement for Taxi/Bus rides from/to the train station, bus station or
 airport to/from the hotel and for the journey hotel/venue/hotel.
 
-### Reimbursement business trips Europe/Worldwide
+### Reimbursement for international travel
 
-We offer full reimbursement for the following expenses: train tickets, flight tickets, car rental,
-bus tickets, travel insurance, hotel stay and a daily refund of max €60,00 per day for meals and
+We offer full reimbursement for the following expenses: train tickets, flight tickets, car rentals,
+bus tickets, travel insurance, hotel stays and a daily refund of up to €60,00/day for meals and
 possible event ticket.
-Moreover, we offer full reimbursement for [Uber](https://github.com/nebulab/playbook/blob/master/processes/travel-policy.md#uber)/Taxi/Bus
-rides from/to the train station, bus station or airport to/from the hotel and for the journey
-hotel/venue/hotel.
 
-We won't reimburse in any case expenses for hotel minibar, pay tv, road or parking fines and so on.
+We also fully reimburse any [Uber](#uber), cab or public transport rides from/to your train station,
+bus station, airport, hotel or venue.
 
-### Useful information
+We do not reimburse hotel minibar consumptions, pay-per-view TV, or any fines for traffic
+violations.
 
-#### Passport
+We provide adequate medical insurance for any trips outside the EU.
 
-Considering the frequency of our trips abroad, we advise obtaining a Biometric Passport.
+### Company information
 
-#### Expense report
+Here's our company information if you need to ask for an invoice:
 
-To obtain a reimbursement every team member has to submit a complete travel expense report,
-attaching every expense receipt (meals and movements) within seven days starting from the return
-date from the travel.
-
-#### Uber
-To get a ride within the city with ease. Before your departure, check if Uber provide the service
-in the city you are traveling to at this [link](https://www.uber.com/it/cities/). Afterward, ask to
-be included in the Nebulab Uber organization in the Slack channel #travel. All you have to do on
-your business travel is to get a ride and charge Nebulab for it selecting "Nebulab Srls" in the
-drop-down menu.
-
-#### Hotel invoice issue
-
-At the checkout, if you are in charge of the whole reservation, you have to require an invoice
-towards your stay. Here you can find our invoicing details:
+```
 Nebulab srls
+
 Strada Comunale Piana, 3
 65129 Pescara (PE)
-VAT #: IT02112180688
-Unique code e-invoice (Italy only): M5UXCR1
+Italia
 
-#### Reservation notice
+Partita IVA (VAT ID): IT02112180688
+Codice fiscale (tax ID): IT02112180688
 
-To attend a conference "World area," we require a three-month notice.
-To attend a conference "Europe and Italy area," we require a two-month notice.
+Electronic invoice code: M5UXCR1
+```
 
-#### Travel documents
-
-We'll send every booking confirmation and ticket issue via email.
-For the low-cost companies tickets, you have to do the online check-in and print or download your
-boarding pass before departure, following the airline company deadlines.
-
-#### Safe traveling
-
-Before your departure, you should check the due date of your main travel identification document
-(passport or ID). Also, you can find useful information for the country you are visiting on the
-[Farnesina](http://www.viaggiaresicuri.it/home.html) website, such as the practices needed to enter
-the country like visa, safety information or vaccinations and so on.
-
-#### Credit card
-
-When you travel abroad, a personal Credit Card with embossed numbers and heading to the traveler is
-required, especially in the US. Whether it is of a Hotel deposit or a rental car, a Credit Card is
-essential. The primary credit card circuits are American Express, Visa and MasterCard.
-
-#### Travel insurance
-
-When you travel outside the European Union, we'll provide medical insurance to cover possible
-injuries that require medical treatment.
-
-#### Useful mobile Apps
-
-- **Wi-Fi Finder,** detects free Wi-fi networks.
-- **MetrO, Kinevia** is a free mobile guide to public transport systems worldwide. It provides the
-fastest route to your point of interest considering the day of the week and the time of the day.
-- **Airline companies official App,** allows through your confirmation or ticket number to download
-an e-ticket for Wallet or Pass2U Wallet. Also, you'll have handy information about your flight.
-- **Mytaxi:** is a Taxi app available in 9 countries within the European Union, Italy included.
-- **[Uber](https://github.com/nebulab/playbook/blob/master/processes/travel-policy.md#uber)**
+Make sure to request an invoice when checking out at a hotel, if you're in charge of the
+reservation!
+  
 ## Conferences
 
-### Choosing the right conference
+### Conference budget
 
-In the following document you can find a conference list that you and Nebulab may be interested in
-relating to:
-- self-improvement conferences recommended for topics that are tight to Nebulab interests and
-business;
+Every year, we publish a budget detailing the budget allowance and number of days you can use for
+conference conference. The conference list contains the number of days and cost for each event.
+
+For 2019, you can use up to **8 days** and **€3.400,00** for conferences. There are two cases where
+conference attendance doesn't count towards your budget:
+
+- If you're in the conference marketing team, we won't deduct the conference from your yearly 
+  budget.
+- If you're invited as a speaker, we won't deduct the conference from your yearly budget.
+
+### Choosing conferences
+
+[This document](https://docs.google.com/document/d/1QX6YhV3GMPwE9sQ8x52wDhUzyhKRfXxG2jqAFrt3tsQ)
+contains a list of interesting conferences:
+
+- self-improvement conferences recommended for topics that are related to our work and business;
 - marketing conferences, which are attractive for our marketing initiatives.
-[Conferences list](https://docs.google.com/document/d/1QX6YhV3GMPwE9sQ8x52wDhUzyhKRfXxG2jqAFrt3tsQ)
-If you want to submit some not-listed event, you can suggest a conference in the document or the
-Slack channel #conferenze.
-Your mentor will follow you in the choice. Propose your conference schedule, respecting our yearly
-[budget limitations](https://github.com/nebulab/playbook/blob/master/processes/travel-policy.md#yearly-budget-and-days-amount),
-and explain why you are interested in those events according to your growth path and be sure to [get
-the most out of your conferences.](https://github.com/nebulab/playbook/blob/master/personal-growth/conferences.md)
 
-### Yearly budget and days amount
+These are just suggestions: you can ask us to add other conferences to the document by pinging the
+\#conferenze Slack channel.
 
-Every year we give you a budget and a maximum amount of conference attendance days. In the
-conference list, you can find days and budget associated with each event.
-**2019 team member conference budget**
-- maximum of eight days;
-- maximum 3.400,00€.
+Your mentor will help you choose which conferences to attend. Propose your conference schedule,
+in accordance with our [yearly allowance](#yearly-budget-and-days-amount), and explain why you are
+interested in those events.
 
-### Team sponsorship
+Finally, make sure to [get the most out of your conferences.](https://github.com/nebulab/playbook/blob/master/personal-growth/conferences.md)
 
-If you're in the conference marketing team, we won't deduct the cost and the days for that
-conference from your yearly budget.
+Please note that a three-month notice is required to attend non-European conferences/events, and a
+two-month notice is required to attend European/Italian conferences/events.
 
-### Conference speaker
+## Team retreats
 
-Being invited as a speaker is an honor as well as, pairing with our values, a great way to spread
-your knowledge. At the same time, it will give us much visibility. Therefore, we encourage to submit
-talks proposal to sponsored, listed or even non-listed conferences. If you're invited as a speaker,
-we won't deduct the cost and the days for that conference from your yearly budget.
+We will organize one team retreat per year. Team retreats usually last one week and give us a chance
+to get to know each other better, build trust and improve communication and cooperation.
 
-## Team Retreat
+They're also a lot of fun!
 
-We will organize one Team Retreat per year, lasting one week. We'll know each other in a better way,
-building stronger relationships and mutual trust and improving communication and cooperation.
-Of course, we will have much fun.
-We'll ask you for confirmation with a three-month notice.
+We'll inform everyone of team retreats at least three months in advance. Attendance is not 
+mandatory, but strongly encouraged.
+
+## Useful apps
+
+- **Wi-Fi Finder** detects free Wi-fi networks.
+- **MetrO, Kinevia** is a free mobile guide to public transport systems worldwide. It provides the
+fastest route to your point of interest considering the day of the week and the time of the day.
+- **the official app of your airline** will often allow you to download an e-ticket for Apple 
+Wallet or Pass2U Wallet. Also, it will provide handy information about your flight.
+- **MyTaxi** is a taxi app available in 9 European countries (including Italy).
+- **[Uber](#uber)**.
+
+## Travel tips
+
+- Always watch your passport's expiration date. Make sure it expires in at least 6 months.
+- Also ensure you always have at least two blank pages for visas in your passport.  
+- If you are travelling to the US or plan on renting a car/staying at a hotel, you will need a 
+  credit card. If you don't have one, get one from your bank or from 
+  [American Express](https://www.americanexpress.com/it/).
+- You can find useful information for the country you are visiting, such as any practices needed to
+  enter the country (visa, vaccinations etc), on the [Farnesina](http://www.viaggiaresicuri.it/home.html)
+  website.
