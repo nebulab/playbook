@@ -1,3 +1,6 @@
+---
+title: What we do
+---
 # What do we do
 
 We work on:

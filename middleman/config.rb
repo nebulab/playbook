@@ -8,10 +8,15 @@ set :layouts_dir, 'middleman/layouts'
 set :data_dir, 'data'
 set :helpers_dir, 'helpers'
 
+## Playbook settings
+set :playbook_topic_belongs_to_section_key, :title
+set :playbook_section_has_many_topics_key, 'playbook-section-topics'
+
 # Ignored paths
 ignore '**/.keep'
 ignore '.github/**'
 ignore /^middleman(?!\/assets).*/
+ignore /^(?!middleman\/).+\/.*/
 
 # Activate and configure extensions
 # https://middlemanapp.com/advanced/configuration/#configuring-extensions
@@ -34,6 +39,7 @@ page '/*.txt', layout: false
 # With alternative layout
 # page '/path/to/file.html', layout: 'other_layout'
 page '/', layout: 'home'
+page /.+/, layout: 'playbook'
 
 # Proxy pages
 # https://middlemanapp.com/advanced/dynamic-pages/
@@ -55,6 +61,11 @@ page '/', layout: 'home'
 #     'Helping'
 #   end
 # end
+
+# Middleman fails to reload helpers, although it notices their modification
+# This force-reloads them. See
+# https://github.com/middleman/middleman/issues/1105#issuecomment-305715209
+Dir['helpers/*'].each(&method(:load))
 
 # Build-specific configuration
 # https://middlemanapp.com/advanced/configuration/#environment-specific-settings

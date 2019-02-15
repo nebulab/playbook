@@ -1,3 +1,6 @@
+---
+title: Our values
+---
 # Our values
 
 All of us, in our work, have direct relations with colleagues and stakeholders, such as clients,
@@ -30,7 +33,7 @@ behaviors.
 - We don't look for convenient solutions.
 - We express our perplexities if a decision may damage the project, even indirectly.
 - We only bill the hours that were actually worked on the project.
-    
+
 ## Communication
 
 - We say hi via the project's communication channel at the beginning and at the end of the day.
