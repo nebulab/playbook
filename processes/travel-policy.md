@@ -1,8 +1,8 @@
 # Travel Policy
 
-This Travel Policy aims to define travel and conference attendance guidelines for the year 2019. You
-can find here a [Traveler profile](https://drive.google.com/file/d/1aW0GJGBOhCsYzHR2vgt-d5yh0bN5-cqg/)
-to be filled out by every Team member with all the information we need for a hassle-free trip.
+This Travel Policy aims to define travel and conference attendance guidelines for 2019. You can find
+here a [Traveler profile](https://drive.google.com/file/d/1aW0GJGBOhCsYzHR2vgt-d5yh0bN5-cqg/) to be
+filled out by every Team member with all the information we need for a hassle-free trip.
 
 ## Generic Travel
 
@@ -25,14 +25,14 @@ We'll prefer where possible double rooms with single beds or queen beds.
 We'll reserve first-class seats asking the Team member the departure time preference, with a
 flexibility of 1 hour before/after the suggested schedule.
 
-### **Flights**
+### Flights
 
 Flight seat category is the following:
 - Italy/Europe: Economy
 - Worldwide: Economy + comfort seats*
 *When possible, we will reserve comfort seats for flights over six hours.
 
-### **Car**
+### Car
 
 We prefer to travel by public transport, but as regards business trips with your car or with a
 rental car, they will be managed as follows:
@@ -41,38 +41,42 @@ reimbursement of 150,00€;
 - if you use your car in Italy we'll refer to the ViaMichelin cost estimation;
 - rental car group B standard, total fuel, and highway reimbursement.
 
-### Reimbursement **business trips Italy**
+### Reimbursement business trips Italy
 
 We offer full reimbursement for the following expenses: train tickets, flight tickets, car rental,
 bus tickets, hotel stay with breakfast and possible event ticket. Meals are on the Team member.
 Moreover, we offer full reimbursement for Taxi/Bus rides from/to the train station, bus station or
 airport to/from the hotel and for the journey hotel/venue/hotel.
 
-### Reimbursement **business trips Europe/Worldwide**
+### Reimbursement business trips Europe/Worldwide
 
 We offer full reimbursement for the following expenses: train tickets, flight tickets, car rental,
 bus tickets, travel insurance, hotel stay and a daily refund of max €60,00 per day for meals and
 possible event ticket.
-Moreover, we offer full reimbursement for Uber/Taxi/Bus rides from/to the train station, bus station
-or airport to/from the hotel and for the journey hotel/venue/hotel.
-- **Uber** to get a ride within the city with ease. Before your departure, check if Uber provide the
-service in the city you are traveling to at this [link](https://www.uber.com/it/cities/). Afterward,
-ask to be included in the Nebulab Uber organization in the Slack channel #travel. All you have to do
-on your business travel is to get a ride and charge Nebulab for it selecting "Nebulab Srls" in the
-drop-down menu.
+Moreover, we offer full reimbursement for [Uber](https://github.com/nebulab/playbook/blob/master/processes/travel-policy.md#uber)/Taxi/Bus
+rides from/to the train station, bus station or airport to/from the hotel and for the journey
+hotel/venue/hotel.
+
 We won't reimburse in any case expenses for hotel minibar, pay tv, road or parking fines and so on.
 
-### **Useful information**
+### Useful information
 
 #### Passport
 
 Considering the frequency of our trips abroad, we advise obtaining a Biometric Passport.
 
-#### Expense report**
+#### Expense report
 
 To obtain a reimbursement every team member has to submit a complete travel expense report,
 attaching every expense receipt (meals and movements) within seven days starting from the return
 date from the travel.
+
+#### Uber
+To get a ride within the city with ease. Before your departure, check if Uber provide the service
+in the city you are traveling to at this [link](https://www.uber.com/it/cities/). Afterward, ask to
+be included in the Nebulab Uber organization in the Slack channel #travel. All you have to do on
+your business travel is to get a ride and charge Nebulab for it selecting "Nebulab Srls" in the
+drop-down menu.
 
 #### Hotel invoice issue
 
@@ -92,8 +96,8 @@ To attend a conference "Europe and Italy area," we require a two-month notice.
 #### Travel documents
 
 We'll send every booking confirmation and ticket issue via email.
-For the low-cost companies tickets, you have to check-in via the website before the departure
-following the airline company deadlines.
+For the low-cost companies tickets, you have to do the online check-in and print or download your
+boarding pass before departure, following the airline company deadlines.
 
 #### Safe traveling
 
@@ -102,11 +106,14 @@ Before your departure, you should check the due date of your main travel identif
 [Farnesina](http://www.viaggiaresicuri.it/home.html) website, such as the practices needed to enter
 the country like visa, safety information or vaccinations and so on.
 
-#### Useful information
+#### Credit card
 
 When you travel abroad, a personal Credit Card with embossed numbers and heading to the traveler is
 required, especially in the US. Whether it is of a Hotel deposit or a rental car, a Credit Card is
 essential. The primary credit card circuits are American Express, Visa and MasterCard.
+
+#### Travel insurance
+
 When you travel outside the European Union, we'll provide medical insurance to cover possible
 injuries that require medical treatment.
 
@@ -118,7 +125,7 @@ fastest route to your point of interest considering the day of the week and the 
 - **Airline companies official App,** allows through your confirmation or ticket number to download
 an e-ticket for Wallet or Pass2U Wallet. Also, you'll have handy information about your flight.
 - **Mytaxi:** is a Taxi app available in 9 countries within the European Union, Italy included.
-
+- **[Uber](https://github.com/nebulab/playbook/blob/master/processes/travel-policy.md#uber)**
 ## Conferences
 
 ### Choosing the right conference
@@ -132,9 +139,9 @@ business;
 If you want to submit some not-listed event, you can suggest a conference in the document or the
 Slack channel #conferenze.
 Your mentor will follow you in the choice. Propose your conference schedule, respecting our yearly
-[budget limitations](https://github.com/nebulab/playbook/blob/master/processes/travel-policy.md#yearly-budget-and-days-amount), and explain why you
-are interested in those events according to your growth path and be sure to [get the most out of
-your conferences.](https://github.com/nebulab/playbook/blob/master/personal-growth/conferences.md)
+[budget limitations](https://github.com/nebulab/playbook/blob/master/processes/travel-policy.md#yearly-budget-and-days-amount),
+and explain why you are interested in those events according to your growth path and be sure to [get
+the most out of your conferences.](https://github.com/nebulab/playbook/blob/master/personal-growth/conferences.md)
 
 ### Yearly budget and days amount
 
@@ -153,10 +160,10 @@ conference from your yearly budget.
 
 Being invited as a speaker is an honor as well as, pairing with our values, a great way to spread
 your knowledge. At the same time, it will give us much visibility. Therefore, we encourage to submit
-speech proposal to sponsored, listed or even non-listed conferences. If you're invited as a speaker,
+talks proposal to sponsored, listed or even non-listed conferences. If you're invited as a speaker,
 we won't deduct the cost and the days for that conference from your yearly budget.
 
-## **Team Retreat**
+## Team Retreat
 
 We will organize one Team Retreat per year, lasting one week. We'll know each other in a better way,
 building stronger relationships and mutual trust and improving communication and cooperation.
