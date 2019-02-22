@@ -21,7 +21,7 @@ be fluctuations of 1 hour from the schedued time.
 Flight seat categories are the following:
 
 - Italy/Europe: Economy
-- Worldwide: Premium Economy (when possible, for flights over 6 hours)
+- Worldwide: Economy with comfort seat (when possible, for flights over 6 hours)
 
 Considering the frequency of our trips abroad, we advise obtaining a passport as soon as you enter
 the company, as release times can vary wildly depending on the time of the year.
