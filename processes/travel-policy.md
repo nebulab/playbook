@@ -21,7 +21,7 @@ be fluctuations of 1 hour from the schedued time.
 Flight seat categories are the following:
 
 - Italy/Europe: Economy
-- Worldwide: Premium Economy (when possible, for flights over 6 hours)
+- Worldwide: Economy with comfort seat (when possible, for flights over 6 hours)
 
 Considering the frequency of our trips abroad, we advise obtaining a passport as soon as you enter
 the company, as release times can vary wildly depending on the time of the year.
@@ -114,8 +114,11 @@ reservation!
 Every year, we publish a budget detailing the budget allowance and number of days you can use for
 conference conference. The conference list contains the number of days and cost for each event.
 
-For 2019, you can use up to **8 days** and **€3.400,00** for conferences. There are two cases where
-conference attendance doesn't count towards your budget:
+For 2019, you can use up to **8 working days** and **€3.400,00** for conferences. If you are working
+part-time, your budget is reduced proportionally so, e.g. if you're in a 50% part-time contract, you
+can use up to €1.700,00.
+
+There are two cases where conference attendance doesn't count towards your budget:
 
 - If you're in the conference marketing team, we won't deduct the conference from your yearly 
   budget.
