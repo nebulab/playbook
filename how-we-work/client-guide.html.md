@@ -1,5 +1,6 @@
-# Client guide
-
+---
+title: Client guide
+---
 Hello! Welcome to Nebulab's client guide. This guide will explain what it is like to work with us
 and how to structure our relationship for success! By the end of the guide you should have a solid
 understanding of our tools and practices but, most importantly, you will understand _why_ we work 

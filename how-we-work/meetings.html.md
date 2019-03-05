@@ -1,5 +1,6 @@
-# Meetings
-
+---
+title: Meetings
+---
 Communicating via Slack is our bread and butter, but sometimes a synchronous meeting is needed.
 Throughout the years we have built some best practices that help us make our meetings as effective
 as possible.

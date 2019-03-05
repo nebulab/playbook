@@ -1,5 +1,6 @@
-# Fridays
-
+---
+title: Fridays
+---
 Fridays are our time for personal and collective growth. On Fridays, we do not work on clients.
 Instead, we focus on initiatives that improve our skills or contribute to the community or the
 company. Here are some ideas for Friday work:

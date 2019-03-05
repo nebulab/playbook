@@ -1,5 +1,6 @@
-# Workplace health and safety
-
+---
+title: Workplace health and safety
+---
 Both of our offices comply with current Italian workplace health and safety standards.
 
 It is unproductive and certainly unhealthy to remain seated in the same position for eight hours or

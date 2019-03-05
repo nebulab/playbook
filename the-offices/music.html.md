@@ -1,5 +1,6 @@
-# Music
-
+---
+title: Music
+---
 We have two solutions for listening to the music, depending on the office: 
 
 * Pescara: a Bowers & Wilkins Z2 system supporting AirPlay. It can be used with the standard

@@ -1,5 +1,6 @@
-# Style guide
-
+---
+title: Style guide
+---
 We follow these guidelines to write clean code and reliable applications: 
 
 - Ruby: 

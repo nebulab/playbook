@@ -1,5 +1,6 @@
-# Benefits
-
+---
+title: Benefits
+---
 All members of the team are entitled to the benefits listed in this document. If you have any doubts
 regarding any of the benefits, feel free to ask! 
 

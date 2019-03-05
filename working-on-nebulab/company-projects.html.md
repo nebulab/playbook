@@ -1,5 +1,6 @@
-# Company projects
-
+---
+title: Company projects
+---
 Throughout the years, we have developed a variety of tools and libraries to help us in our daily
 work. Some of these are private, some are open source. Feel free to improve them by writing code or
 participating in the discussion.

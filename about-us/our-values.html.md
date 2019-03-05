@@ -1,8 +1,6 @@
 ---
 title: Our values
 ---
-# Our values
-
 All of us, in our work, have direct relations with colleagues and stakeholders, such as clients,
 other development teams, members of the OSS community and other professionals. The relationship
 established with them is fundamental: we must always keep in mind all the values and standards that

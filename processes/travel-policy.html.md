@@ -1,5 +1,6 @@
-# Travel policy
-
+---
+title: Travel policy
+---
 This travel policy defines travel and conference attendance guidelines for 2019. You can find
 a [Traveler profile](https://drive.google.com/file/d/1aW0GJGBOhCsYzHR2vgt-d5yh0bN5-cqg/) here -
 this should be filled out by every team member in order to guarantee a hassle-free trip.

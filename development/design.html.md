@@ -1,5 +1,6 @@
-# Design
-
+---
+title: Design
+---
 ## Presentation
 
 We use [InVision](https://www.invisionapp.com/) to share and present mock-ups to clients and team 

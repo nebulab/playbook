@@ -1,5 +1,6 @@
-# Paid time off and overtime
-
+---
+title: Paid time off and overtime
+---
 The work day for full-time contracts is comprised of 8 hours. You can decide to reduce your
 contract's work hours and opt for part-time work.
 

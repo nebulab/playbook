@@ -1,5 +1,6 @@
-# Email signature
-
+---
+title: Email signature
+---
 Use the following template for the signature in your work emails:
 
 ```

@@ -1,5 +1,6 @@
-# Blog
-
+---
+title: Blog
+---
 Everyone is free to contribute to [our blog](https://nebulab.it/blog/), which is run and managed by 
 our marketing team.
   

@@ -1,5 +1,6 @@
-# Documentation
-
+---
+title: Documentation
+---
 ## Readme
 
 A good readme is fundamental for a project's health, because it allows new developers to start 

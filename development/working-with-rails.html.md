@@ -1,5 +1,6 @@
-# Working with Rails
-
+---
+title: Working with Rails
+---
 ## Seeds
 
 In addition to the readme, the presence or absence of good seeds is another element that determines

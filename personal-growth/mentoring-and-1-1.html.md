@@ -1,5 +1,6 @@
-# Mentoring and 1:1s
-
+---
+title: Mentoring and 1:1s
+---
 Upon your arrival at Nebulab, a mentor will be assigned to you. His/her duty is to follow you and
 ensure that you are constantly improving. Your mentor is your point of reference for anything
 concerning the Nebulab world, so feel free to contact him/her at any time with any queries or

@@ -1,5 +1,6 @@
-# Playbook 
-
+---
+title: Playbook
+---
 This repository evolves continuously. We all need to contribute to it in order for it to be the
 point of reference for any doubts on Nebulab and our process.
 

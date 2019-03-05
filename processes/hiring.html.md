@@ -1,5 +1,6 @@
-# Hiring
-
+---
+title: Hiring
+---
 We are always looking for people who share our values, the desire to work in a team and the passion
 to face new challenges every day.
 

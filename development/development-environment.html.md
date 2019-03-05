@@ -1,5 +1,6 @@
-# Development environment
-
+---
+title: Development environment
+---
 The setup phase is essential for passing from a virgin machine to a computer ready to work on 
 Nebulab projects. Fundamental concepts:
   

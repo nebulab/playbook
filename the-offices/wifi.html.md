@@ -1,5 +1,6 @@
-# Wi-Fi
-
+---
+title: Wi-Fi
+---
 ## Pescara
 
 ### Network

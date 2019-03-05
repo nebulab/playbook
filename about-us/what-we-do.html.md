@@ -1,8 +1,6 @@
 ---
 title: What we do
 ---
-# What do we do
-
 We work on:
 
 * Solidus eCommerce design and development;
