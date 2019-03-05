@@ -5,3 +5,21 @@ navigation_items:
   - image_path: how-we-work.png
     caption: How we work
     link: /how-we-work
+  - image_path: personal-growth.png
+    caption: Personal growth
+    link: /personal-growth
+  - image_path: processes.png
+    caption: Processes
+    link: /processes
+  - image_path: the-offices.png
+    caption: The offices
+    link: /the-offices
+  - image_path: working-on-nebulab.png
+    caption: Working on Nebulab
+    link: /working-on-nebulab
+  - image_path: development.png
+    caption: Development
+    link: /development
+  - image_path: useful-resources.png
+    caption: Useful resources
+    link: /useful-resources

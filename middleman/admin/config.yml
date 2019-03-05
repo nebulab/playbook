@@ -73,17 +73,318 @@ collections:
               label: Topic
               name: playbook-section-topic
               widget: relation
-              collection: about-us-topics
+              collection: about-us-section-topics
               searchFields:
                 - title
               valueField: title
           - label: Body
             name: body
             widget: markdown
-  - label: "About us" section topics
+      - file: how-we-work.html.md
+        label: How we work
+        name: how-we-work
+        format: frontmatter
+        create: false
+        delete: false
+        slug: '{{title}}'
+        fields:
+          - label: Title
+            name: title
+            widget: string
+            required: true
+          - label: Topics
+            name: playbook-section-topics
+            label_singular: topic
+            widget: list
+            field:
+              label: Topic
+              name: playbook-section-topic
+              widget: relation
+              collection: how-we-work-section-topics
+              searchFields:
+                - title
+              valueField: title
+          - label: Body
+            name: body
+            widget: markdown
+      - file: personal-growth.html.md
+        label: Personal growth
+        name: personal-growth
+        format: frontmatter
+        create: false
+        delete: false
+        slug: '{{title}}'
+        fields:
+          - label: Title
+            name: title
+            widget: string
+            required: true
+          - label: Topics
+            name: playbook-section-topics
+            label_singular: topic
+            widget: list
+            field:
+              label: Topic
+              name: playbook-section-topic
+              widget: relation
+              collection: personal-growth-section-topics
+              searchFields:
+                - title
+              valueField: title
+          - label: Body
+            name: body
+            widget: markdown
+      - file: processes.html.md
+        label: Processes
+        name: processes
+        format: frontmatter
+        create: false
+        delete: false
+        slug: '{{title}}'
+        fields:
+          - label: Title
+            name: title
+            widget: string
+            required: true
+          - label: Topics
+            name: playbook-section-topics
+            label_singular: topic
+            widget: list
+            field:
+              label: Topic
+              name: playbook-section-topic
+              widget: relation
+              collection: processes-section-topics
+              searchFields:
+                - title
+              valueField: title
+          - label: Body
+            name: body
+            widget: markdown
+      - file: the-offices.html.md
+        label: The offices
+        name: the-offices
+        format: frontmatter
+        create: false
+        delete: false
+        slug: '{{title}}'
+        fields:
+          - label: Title
+            name: title
+            widget: string
+            required: true
+          - label: Topics
+            name: playbook-section-topics
+            label_singular: topic
+            widget: list
+            field:
+              label: Topic
+              name: playbook-section-topic
+              widget: relation
+              collection: the-offices-section-topics
+              searchFields:
+                - title
+              valueField: title
+          - label: Body
+            name: body
+            widget: markdown
+      - file: working-on-nebulab.html.md
+        label: Working on Nebulab
+        name: working-on-nebulab
+        format: frontmatter
+        create: false
+        delete: false
+        slug: '{{title}}'
+        fields:
+          - label: Title
+            name: title
+            widget: string
+            required: true
+          - label: Topics
+            name: playbook-section-topics
+            label_singular: topic
+            widget: list
+            field:
+              label: Topic
+              name: playbook-section-topic
+              widget: relation
+              collection: working-on-nebulab-section-topics
+              searchFields:
+                - title
+              valueField: title
+          - label: Body
+            name: body
+            widget: markdown
+      - file: development.html.md
+        label: Development
+        name: development
+        format: frontmatter
+        create: false
+        delete: false
+        slug: '{{title}}'
+        fields:
+          - label: Title
+            name: title
+            widget: string
+            required: true
+          - label: Topics
+            name: playbook-section-topics
+            label_singular: topic
+            widget: list
+            field:
+              label: Topic
+              name: playbook-section-topic
+              widget: relation
+              collection: development-section-topics
+              searchFields:
+                - title
+              valueField: title
+          - label: Body
+            name: body
+            widget: markdown
+      - file: useful-resources.html.md
+        label: Useful resources
+        name: useful-resources
+        format: frontmatter
+        create: false
+        delete: false
+        slug: '{{title}}'
+        fields:
+          - label: Title
+            name: title
+            widget: string
+            required: true
+          - label: Topics
+            name: playbook-section-topics
+            label_singular: topic
+            widget: list
+            field:
+              label: Topic
+              name: playbook-section-topic
+              widget: relation
+              collection: useful-resources-section-topics
+              searchFields:
+                - title
+              valueField: title
+          - label: Body
+            name: body
+            widget: markdown
+  - label: '"About us" section topics'
     name: about-us-section-topics
-    label_singular: "About us" section topic
+    label_singular: '"About us" section topic'
     folder: about-us/
+    extension: .html.md
+    format: frontmatter
+    create: true
+    slug: '{{title}}'
+    fields:
+      - label: Title
+        name: title
+        widget: string
+        required: true
+      - label: Body
+        name: body
+        widget: markdown
+  - label: '"How we work" section topics'
+    name: how-we-work-section-topics
+    label_singular: '"How we work" section topic'
+    folder: how-we-work/
+    extension: .html.md
+    format: frontmatter
+    create: true
+    slug: '{{title}}'
+    fields:
+      - label: Title
+        name: title
+        widget: string
+        required: true
+      - label: Body
+        name: body
+        widget: markdown
+  - label: '"Personal growth" section topics'
+    name: personal-growth-section-topics
+    label_singular: '"Personal growth" section topic'
+    folder: personal-growth/
+    extension: .html.md
+    format: frontmatter
+    create: true
+    slug: '{{title}}'
+    fields:
+      - label: Title
+        name: title
+        widget: string
+        required: true
+      - label: Body
+        name: body
+        widget: markdown
+  - label: '"Processes" section topics'
+    name: processes-section-topics
+    label_singular: '"Processes" section topic'
+    folder: processes/
+    extension: .html.md
+    format: frontmatter
+    create: true
+    slug: '{{title}}'
+    fields:
+      - label: Title
+        name: title
+        widget: string
+        required: true
+      - label: Body
+        name: body
+        widget: markdown
+  - label: '"The offices" section topics'
+    name: the-offices-section-topics
+    label_singular: '"The offices" section topic'
+    folder: the-offices/
+    extension: .html.md
+    format: frontmatter
+    create: true
+    slug: '{{title}}'
+    fields:
+      - label: Title
+        name: title
+        widget: string
+        required: true
+      - label: Body
+        name: body
+        widget: markdown
+  - label: '"Working on Nebulab" section topics'
+    name: working-on-nebulab-section-topics
+    label_singular: '"Working on Nebulab" section topic'
+    folder: working-on-nebulab/
+    extension: .html.md
+    format: frontmatter
+    create: true
+    slug: '{{title}}'
+    fields:
+      - label: Title
+        name: title
+        widget: string
+        required: true
+      - label: Body
+        name: body
+        widget: markdown
+  - label: '"Development" section topics'
+    name: development-section-topics
+    label_singular: '"Development" section topic'
+    folder: development/
+    extension: .html.md
+    format: frontmatter
+    create: true
+    slug: '{{title}}'
+    fields:
+      - label: Title
+        name: title
+        widget: string
+        required: true
+      - label: Body
+        name: body
+        widget: markdown
+  - label: '"Useful resources" section topics'
+    name: useful-resources-section-topics
+    label_singular: '"Useful resources" section topic'
+    folder: useful-resources/
     extension: .html.md
     format: frontmatter
     create: true
