@@ -1,7 +1,7 @@
 backend: # Uncomment at need
   # GitHub backend
   name: github
-  repo: mdesantis/playbook
+  repo: nebulab/playbook
   branch: middleman-subfolder-v2 # Branch to update (optional; defaults to master) repository
 
   # Local testing
