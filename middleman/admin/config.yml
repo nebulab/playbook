@@ -9,8 +9,8 @@ backend: # Uncomment at need
 
 publish_mode: editorial_workflow
 
-media_folder: middleman/assets
-public_folder: /middleman/assets
+media_folder: middleman/uploads
+public_folder: /middleman/uploads
 
 logo_url: /middleman/assets/logo.png
 
