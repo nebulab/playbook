@@ -13,7 +13,7 @@ The same applies to the quantities earned and used, displayed in the same box co
 `MAT.` and `GOD.`. The acronym `A.P.` stands for Anno Precedente (i.e. previous year) and indicates
 the amounts corresponding to the previous year, but which can still be taken.
 
-## Vacations
+## Vacation
 
 There are 22 days of vacation per year (176 hours). All members of the team must communicate the
 vacations days they wish to take via chat or verbally, with a notice of at least two weeks if
@@ -42,6 +42,20 @@ will check this for you.
 Overtime is a working time in excess of the 8 hours a day. By law it is not allowed, under any
 circumstances, to exceed the limit of 48 hours a week.
 
+### Patron Saint holiday
+
+A special mention goes to the Patron Saint holiday ("Santo Patrono"). The day of this holiday 
+depends on where you work from:
+
+- **Pescara:** October 10th;
+- **Latina:** July 6th;
+- **remote:** October 10th.
+
+On this day, our offices are **not** closed, and you can decide whether you want to work or not.
+
+Since this is considered work on a holiday, your pay will be +30% the standard pay if you choose
+to come to the office or work remotely.
+
 ### Compensation and rounding-off
 
 All overtime hours and time off in the month will be compensated at the end of the month. The
@@ -61,13 +75,13 @@ will make it available in electronic form. Based on the sick leave days granted 
 physician, the employee must  communicate to the company the days of absence together with the
 certificate's unique code.
 
-# Permit type
+## Permit type
 
 When deciding which type of permit to ask for, adopt the following rules:
 
 - `Permessi/Ferie` is used for time off hours or vacation days: therefore, you can use it for
   whole days off or by putting in the number of hours of time off; 
-- `Malattia` is used in case of sick leave, **inserting the Protocol Code in the notes issued by the
-  attending physician**;
+- `Malattia` is used in case of sick leave (make sure to **add the protocol code issued by your
+  physician to the notes**);
 - `Permesso straordinario` is used for time off granted in special cases listed in the section
   [Time off, special leave and overtime](#time-off-special-leave-and-overtime).
