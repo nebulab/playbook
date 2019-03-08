@@ -1,116 +1,110 @@
 # Tracking time
 
-A central matter for our everyday work is the ability to make good use of the
-time we spend at the office. To spend time efficiently, measuring time is
-essential.
+A paramount aspect of our work is our ability to make good use of the time we spend at the office. 
+To spend time efficiently, measuring it how we spend it is essential.
 
-During our workday we measure cumulative hours:
+There are two different measures of how we spend our time:
 
-* spent in the office;
-* worked on a project.
+* hours of _presence_ in the office;
+* hours of _work_ on client/company projects.
 
-## Hours in the office
+There are similarities and differences between these two concepts.
 
-These are the hours written on your contract. If your contract is full-time
-they'll be 8, if you agreed for a part-time, they'll be less, probably 6.
+## Hours of presence
 
-During these hours we expect you to be in the office or, if you're working
-remotely, to be available if front of your computer. These hours include short
-breaks like coffee, bathroom and relaxing but do not include long breaks (
-generally longer than 10 minutes).
+Your contract includes the number of hours you are expected to be in the office during a regular
+work day. Of course, because some of us work remotely, "hours at the office" really means "hours
+spent working." If you work full-time, you are expected to work 8 hours/day.
 
-Your actual working hours (your shift) is completely up to you, as long as you
-are "at the office" for a total of hours equal to the number of hours written on
-your contract. Some examples of time allocation could be:
+During this time we expect you to be physically in the office if you chose to work from the office,
+or in front of your computer if you chose to work remotely.
 
-* start at 10am, have lunch from 1pm to 2pm, end at 7pm;
-* start at 9am, have a break from 1pm to 2:30pm, end at 6:30pm;
-* start at 11am, leave the office from 1:30pm to 2pm, end at 7pm with a 30
-minute leave;
-* start at 10am, eat something from 1:30pm to 2pm, end working at 7pm with a 30
-minute overtime.
+With that said, you have full flexibility when it comes to _when_ you work. For instance, you could: 
 
-To sum-up: the hours written on your contract are the hours in which you should
-be "available" and active on projects. Flexibility is complete and, at the end
-of the day, if you worked more you should track the overtime, if you worked less
-you should track an early leave.
+* start at 10am, have lunch from 1pm to 2pm and stop working at 7pm, or
+* start working at 9am, have lunch 1pm to 2:30pm and stop working at 6:30pm.
 
-When you're not available (hopefully having fun on some remote beach) you should
-[read this](https://github.com/nebulab/playbook/blob/master/processes/paid-time-off-and-overtime.md)
-to know what you can do and what we expect from you.
+At the end of the day, you should calculate the number of hours you have spent at work. If you have
+a standard schedule, this can be easily done by calculating the number of hours between your start
+and end time and subtracting any major breaks, including your lunch break (going to the bathroom or
+any other short breaks do not count). Once you have this number, you should report any time off or
+overtime as needed:
 
-### Leave and overtime hours
+- if you have worked **less** than the expected hours, you should report time off;
+- if you have worked **more** than the expected hours, you should report overtime.
 
-In order to calculate the hours spent at the office, just calculate the start and end time of a
-working day, subtracting the lunch break time (or any other major break).
-This way you will know if you worked the correct number of hours or if you have
-to [mark leave or overtime hours.](https://github.com/nebulab/playbook/blob/master/how-we-work/tools.md#dipendenti-in-cloud)
+**NOTE:** You CANNOT "compensate" time off with overtime. For instance, you cannot take 30 minutes
+off today and stay 30 minutes more tomorrow _without_ reporting it, but it is perfectly acceptable
+to do it if you report 30 minutes of time off today and 30 minutes of overtime tomorrow.
+Compensation does happen, but it is done by HR rather than the individual employee.
 
-An handy tool you can use to count the number of worked hours is this
-[time sheet calculator](http://www.miraclesalad.com/webtools/timesheet.php).
+## Hours of work
 
-One very important rule of conduct is to always mark the hours of leave and overtime day by day. In
-fact, if you have to take time off during a working day, due to an emergency or any other reason,
-that leave of absence, short as it may be, you need to track it so that you remember to make up for
-the lost time over the coming days. Tracking your hours constantly and transparently helps you be
-fair towards clients and colleagues.
+These are the hours you actually spend on work tasks and are tracked via Harvest. Keep in mind that
+Harvest is NOT a tool for controlling employees. We use it in order to be 100% transparent towards
+our clients and to improve our time management skills. If you are worried about it, reach out to
+your mentor and they will be able to answer all of your questions!
 
-Examples:
+Our Harvest account is setup with various projects and each project has several subtasks. Generally
+speaking, each client project gets its own project in Harvest and has tasks for Software
+Development, Project Management and so on. All of these tasks are **billable**, meaning any time you
+track will show up in the client's invoice at the end of the month. This means we need to be extra
+careful not to bill any time we don't spend working for a client.
 
-- **NO**: "I take half an hour off today, I will make up for it tomorrow" without marking anything
-  on Dipendenti in Cloud;
-- **YES**: "I take half an hour off today, I will make up for it tomorrow" marking a half a hour of
-  time off today and half an hour of overtime the next day.
+Unfortunately, the line between billable and non-billable time is not always clear and, as each
+project is unique, there is no universal rule we can set. We trust you to make the right decisions
+in accordance with [our values](https://github.com/nebulab/playbook/blob/master/about-us/our-values.md).
+Here are some helpful hints:
 
-## Hours on a project
+We consider this time to be billable:
 
-The effort on a project is established as number of hours or days spent on a project each week. It
-is important to be aware of this and keep it in mind. If you have any doubts on the number of hours
-to be spent on a project assigned to you, do not hesitate to ask your mentor.
+- time spent working directly for the client;
+- time spent pairing with another developer on the project;
+- time spent communicating about work done for the client;
+- time spent studying resources we need to work for the client.
 
-> If I skip a day of work on a client's project, do I have to
-> [make up for it on Friday?](https://github.com/nebulab/playbook/blob/master/personal-growth/fridays.md#lavorare-sui-clienti-il-venerd%C3%AC)
+On the other hand, we do not consider this time to be billable:
 
-Then the time actually spent on a project must be calculated. We use a time tracker for various
-reasons:
+- time spent studying generic resources not specific to the client's project (e.g. if you're a
+  junior developer and are reading about MVC, we don't want the client to pay for this);
+- time spent waiting the client to reply (but, if you're constantly blocked by the client, you 
+  should reach out to your mentor).
 
-- honesty and transparency;
-- administrative efficiency;
-- ease of use;
-- data precision.
+Also remember: multi-tasking is the enemy of time management. Not only does it actually slow you
+down instead of speeding you up, it also makes it virtually impossible to track time accurately. If
+you are struggling with multi-tasking or tracking time accurately, reach out to your mentor.
 
-It is essential to keep in mind that the activity we perform is mainly creative. We do not set
-objectives in terms of working hours and we always try to give priority to work quality. The tracker
-is a simple instrument to keep track of time, not a measure of our productivity.
+### Internal projects
 
-However, we must be aware of the challenges brought by time tracking.
+In addition to the client projects, Harvest also contains several projects and tasks for internal
+use. There is a project you should use for your Friday time, a project you should use for 1:1s, a
+project you should use for studying... These tend to change over time as we add new projects and
+restructure existing ones, so if you're in doubt, contact your mentor.
 
-One of them is undoubtedly establishing which tasks need to be attributed to a project. There is no
-single interpretation in our industry. However we adopt the following solution, which is in line
-with [our values](https://github.com/nebulab/playbook/blob/master/about-us/our-values.md):
+A special mention goes to the **Time Wasting** project. This is a generic project where you can
+track any time you have spent at the office, but not actually working. For instance, this could
+be time you have spent having coffee with a colleague, time spent waiting for direction from your
+mentor/client or anything else that does not strictly qualify as work but still happened _at_ work.
 
-- time of direct service or implementation;
-- time spent pairing on the project;
-- communication time directly related to the work performed;
-- study time directly related to the work performed.
+Usage of this project is optional. When it is available, we use the data we collect from the project
+to see if there are any inefficiencies in company organization that we can streamline. However, we
+feel free not to use it if you're not too fond of it or you find it too cumbersome to start the time
+tracker in these situations.    
 
-On the other hand, the tracker should be switched to another project for:
+## Presence vs. work
 
-- time of direct service or implementation on other projects;
-- time spent pairing with another person on other projects;
-- communication time not directly related to the work performed;
-- study time not directly related to the work performed.
+You may have noticed there is some overlap between the two concepts of "hours of presence" and 
+"hours of work".
 
-> A particular case: Should I include the time spent waiting for client's responses, when I am
-> twiddling my thumbs? The answer is: never be in a situation where you have to twiddle your thumbs
-> and find something to do anyway. If you really have nothing to do, this time is NOT included in the
-> "time actually spent", but the client should be informed promptly, reporting the inefficiency.
+For instance, if you have reported 9 hours of work on Harvest, it's clear you have worked overtime,
+no matter how you have spent those hours (even if one hour was spent on Time Wasting, it's still an
+hour spent at work).
 
-There is no need to start the tracker for break times, but we leave the freedom, to those who want,
-to assign this time to the *Time wasting* project.
+Similarly, if you have reported 7 hours, you _may_ have taken some time off. However, if you have
+actually spent 8 hours at the office or your remote workspace, there's no need to report time off,
+because small breaks and other interruptions during the course of work are to be expected.
 
-Some difficulties may arise especially when faced with having to deal with multiple activities
-at the same time. We recommend you avoid multitasking. Focusing on homogeneous tasks allows you to
-work under less stress with higher productivity and makes using the tracker much easier.
+To sum up: tracked overtime must always be reported, time off may or may not have to be reported 
+depending on whether the untracked time was spent during a regular work break or outside of work.  
 
-If you have any difficulties using the tracker, contact your mentor.
+If you're in doubt, contact your mentor and they will be able to help!
