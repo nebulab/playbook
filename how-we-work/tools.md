@@ -71,7 +71,7 @@ a day (or dragging the mouse over several days).
 You can request an expense reimbursement by adding your request in the 
 [Spese e Viaggi](https://secure.dipendentincloud.it/app/expenses) tab.
 
-## Remote meeting
+## Remote meetings
 
 ### Appear.in
 
@@ -83,3 +83,8 @@ which you can use any time you want for work-related matters.
 ### Zoom.us
 
 Zoom is also available. For now, it is reserved for management meetings.
+
+### Tadum
+
+We use [Tadum](https://tadum.app) for managing the agenda, participants, notes and todos of all our
+meetings. If you don't have an account yet, ask @mettiu to invite you!
