@@ -36,6 +36,6 @@ regarding any of the benefits, feel free to ask!
 - **Internet budget.** If you work remotely, we will pay the costs of your home Internet connection.
   Having a good connection is not only in your interest, but also in the interest of your team
   members, so let us know if you need an upgrade!
-- **English lessons.** All communications with our clients happens in English, so it's paramount
-  that we all know how to read, write and speak the language. If you're not comfortable with your
-  English proficiency, we will happily pay for English lessons via [italki](https://www.italki.com/).
+- **English lessons.** If you're not comfortable with your English proficiency, we will happily pay
+  for your English lessons. We recommend [italki](https://www.italki.com/), but you can expense any
+  other platform that helps you learn the language.

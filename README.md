@@ -26,6 +26,7 @@ solidly on various projects.
 - [Mentoring and 1:1s](https://github.com/nebulab/playbook/blob/master/personal-growth/mentoring-and-1-1.md)
 - [Fridays](https://github.com/nebulab/playbook/blob/master/personal-growth/fridays.md)
 - [Benefits](https://github.com/nebulab/playbook/blob/master/personal-growth/benefits.md)
+- [Learning English](https://github.com/nebulab/playbook/blob/master/personal-growth/learning-english.md)
 - [Conferences](https://github.com/nebulab/playbook/blob/master/personal-growth/conferences.md)
 
 ## Processes
