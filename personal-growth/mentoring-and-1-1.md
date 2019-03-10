@@ -6,11 +6,9 @@ concerning the Nebulab world, so feel free to contact him/her at any time with a
 concerns you may have.
 
 One of the most important responsibilities of your mentor is the organization of one-on-one (1:1)
-meetings. Each first Friday of the month (if you are an intern, every other Friday), you will have a
-one-on-one meeting with your mentor. The 1:1 is not a standard meeting: there is no agenda, nor is
-there a set duration. If you wish, you can inform your mentor in advance about what you would like
-to discuss, but it is not required. If you do not have anything specific to discuss, it will simply
-be a friendly chat.
+meetings. Every four weeks, you will have a one-on-one meeting with your mentor. If you wish, you
+can prepare an agenda with your mentor, but it is not required. If you do not have anything specific
+to discuss, the one-on-one will simply be a friendly chat.
 
 Here are some things that the one-on-one is NOT:
 
