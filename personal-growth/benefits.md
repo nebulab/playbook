@@ -11,7 +11,7 @@ regarding any of the benefits, feel free to ask!
   - ANC headphones (to choose between [Bose QuietComfort 35 II](https://www.bose.it/it_it/products/headphones/over_ear_headphones/quietcomfort-35-wireless-ii.html) and [Sony WH-1000XM3](https://www.sony.it/electronics/cuffie-archetto/wh-1000xm3));
   - [LG 27UK850-W screen](https://www.lg.com/it/monitor/lg-27UK850-W) (IPS, 27", 4K);
   - a [BEKANT desk](https://www.ikea.com/it/it/catalog/products/S69282592/#/S19022808) (of the desired size);
-   - a [a JÄRVFJÄLLET office chair](https://www.ikea.com/it/it/catalog/products/S99275632/#/S89275623).
+  - a [a JÄRVFJÄLLET office chair](https://www.ikea.com/it/it/catalog/products/S99275632/#/S89275623).
 - **[Mentoring](https://github.com/nebulab/playbook/blob/master/personal-growth/mentoring-and-1-1.md).**
   When you become a member of our team, you will be assigned a mentor, who will support your
   personal and professional growth. For example, if you are interested in a given subject and would
@@ -36,3 +36,6 @@ regarding any of the benefits, feel free to ask!
 - **Internet budget.** If you work remotely, we will pay the costs of your home Internet connection.
   Having a good connection is not only in your interest, but also in the interest of your team
   members, so let us know if you need an upgrade!
+- **English lessons.** If you're not comfortable with your English proficiency, we will happily pay
+  for your English lessons. We recommend [italki](https://www.italki.com/), but you can expense any
+  other platform that helps you learn the language.
