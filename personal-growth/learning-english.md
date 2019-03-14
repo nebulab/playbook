@@ -20,7 +20,7 @@ A lot of folks here at Nebulab have used and strongly recommend [italki](https:/
 where you can choose your coach and interact with them remotely, but feel free to choose the online
 or offline platform that best suits you. [It's on us!](https://github.com/nebulab/playbook/blob/master/personal-growth/benefits.md)
 
-We recommend holding at least a 1-hour session your coach every Friday. However, as this varies with
+We usually recommend holding a 1-hour session with your coach every Friday. However, as this varies with
 your learning style and experience, only your mentor will be able to provide tailored guidance and
 tell you how many classes you need to take. 
 
