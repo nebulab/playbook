@@ -1,0 +1,36 @@
+a {
+  text-decoration: none;
+}
+
+img, object, embed {
+  max-width: 100%;
+  height: auto;
+}
+
+.lazy {
+  opacity: 0;
+  transition: 1s opacity .2s;
+
+  &--appear-from-below {
+    transform: translate3d(0, 50px, 0);
+    transition: 1s opacity .2s, 1s transform;
+  }
+
+  &-section {
+    background-size: cover;
+    position: relative;
+
+    &__image {
+      left: 0;
+      position: absolute;
+      top: 0;
+      visibility: hidden;
+      z-index: -1;
+    }
+  }
+}
+
+.nebu-lazy-loaded {
+  opacity: 1;
+  transform: translate3d(0, 0, 0);
+}

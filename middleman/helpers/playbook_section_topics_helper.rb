@@ -65,4 +65,8 @@ module PlaybookSectionTopicsHelper
   def section_has_many_topics_values(section_page)
     section_page.data[section_has_many_topics_key]
   end
+  
+  def nav_active(path)
+    "active" if current_page.url.start_with?(path)
+  end
 end

@@ -1,0 +1,53 @@
+.nav-button {
+  width: 45px;
+  height: 45px;
+  position: fixed;
+  top: $gutter;
+  transition: all .25s;
+  padding: 17px 0 0 13px;
+  cursor: pointer;
+  z-index: 5;
+  
+  &:hover {
+    .nav-button__line {
+      background: $primary-color;
+      &:last-child {
+        width: 20px;
+        height: 2px;
+      }
+    }
+  }
+
+  &__line {
+    transition: all .25s;
+    transition: all .25s;
+    margin: 0 0 3px 0;
+    width: 20px;
+    height: 2px;
+    background: $button-color;
+    display: block;
+    &:last-child {
+      width: 14px;
+      height: 2px;
+    }
+  }
+
+  // &.show-nav {
+  //   @include padding(12px null null 13px);
+  //   &:hover {
+  //     @include transform(rotate(0deg));
+  //   }
+  // 
+  //   .nav-button__line {
+  //     @include transform(rotate(45deg));
+  //     @include margin(4px null 0 null);
+  //     &:first-child {
+  //       @include position(relative, 6px null null null);
+  //       @include transform(rotate(-45deg));
+  //     }
+  //     &:last-child {
+  //       display: none;
+  //     }
+  //   }
+  // }
+}

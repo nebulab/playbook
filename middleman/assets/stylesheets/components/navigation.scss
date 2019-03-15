@@ -1,0 +1,46 @@
+.main-nav {
+  background-color: $white;
+  
+  @media (min-width: $device-lg) {
+    border-right: 1px solid $border-color;
+    position: fixed;
+    overflow: hidden;
+    top: 0;
+    bottom: 0;
+    width: $nav-aside-width;
+  }
+}
+
+// the overall container
+#canvas  {
+  transition: .5s cubic-bezier(.91,.06,.47,1.05) transform;
+}
+
+// show the nav if the class exists and toggle the icon
+#canvas.show-nav   {
+  transform: translateX(344px);
+}
+
+// style the side navigation
+.nav  {
+  position: absolute;
+  display: block;
+  transform: translateX(-344px);
+  color: $black;
+  background-color: $white;
+  min-height: 100%;
+  list-style: none;
+  
+  li {
+    display: block;
+  }
+  
+  a {
+    color: #EEE;
+    display: block;
+    padding: 5px 10px;
+    font-size: 0.85em;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+  }
+}

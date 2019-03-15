@@ -1,0 +1,50 @@
+//Corporate colors
+$n_cyan: #5fbffd;
+$n_yellow: #fef135;
+$n_dark-grey: #3e3e3e;
+
+//Website colors
+$white: #ffffff;
+$black: #222222;
+$light-grey: #898989;
+$light-blue: #f0f7fc;
+
+$primary-color: $n_cyan;
+$secondary-color: $n_yellow;
+$heading-color: $n_dark-grey;
+$p-color: $light-grey;
+$border-color: #e2e2e2;
+$section-title-color: $primary-color;
+$link-color: $n_dark-grey;
+$button-color: $n_dark-grey;
+$magenta: #fc4b5b;
+
+$cta-color: #44c8c3;
+
+//Font families
+$sans-ff: "Eina03", sans-serif;
+$serif-ff: "freight-display-pro", sans-serif;
+
+//Font sizes
+$body-fs: 1.125em; // 18px
+$small-fs: 0.889em; //16px
+$smaller-fs: 0.611em; // 11px
+$blog-fs: 1.111em; //20px
+
+$menu-fs: $smaller-fs; // 11px
+$buttons-fs: $smaller-fs; // 11px;
+
+//Grid
+$gutter: 1.5rem;
+//$container-width: 1480px;
+
+//Nav
+$nav-aside-width: 65px;
+
+//Chapters
+$border-radius-lg: 2rem;
+
+//Chapters colors
+$about-us:        #DBEEF8;
+$about-us-light:  #F0F8FC;
+$how-we-work:     #FFF9B3;

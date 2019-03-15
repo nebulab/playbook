@@ -2,19 +2,22 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="viewport"
-          content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
+    <meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport">
     <!-- Use the title from a page's frontmatter if it has one -->
-    <title><%= h(current_page.data.title) || 'Playbook' %></title>
-    <%= stylesheet_link_tag 'application' %>
-    <%#= javascript_include_tag "application" %>
+    <title><%= current_page.data.title || 'Playbook' %></title>
+    <%= stylesheet_link_tag 'playbook-style' %>
+    <%= stylesheet_link_tag 'home' %>
   </head>
   <body>
+    <%= partial "middleman/partials/header" %>
+    
     <%= partial 'middleman/layouts/shared/navigation' %>
-
+    
     <%= yield %>
 
     <%= partial 'middleman/layouts/home/page_boxes' %>
+
+<%= partial "middleman/partials/footer" %>
   </body>
 </html>

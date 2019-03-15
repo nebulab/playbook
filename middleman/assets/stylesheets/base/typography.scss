@@ -1,0 +1,55 @@
+body {
+  font-family: $sans-ff;
+  font-weight: normal;
+  font-size: $body-fs;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: $heading-color;
+}
+
+p {
+  color: $p-color;
+}
+
+h1 {
+  font-family: $sans-ff;
+  font-weight: 800;
+  font-size: 2.111em; // 38px
+}
+
+h2 {
+  font-family: $sans-ff;
+  font-weight: 800;
+  font-size: 1.667em; // 30px
+}
+
+h3 {
+  font-family: $sans-ff;
+  font-weight: 800;
+  font-size: 1.444em; // 26px
+}
+
+h4 {
+  font-family: $sans-ff;
+  font-weight: 800;
+  font-size: 1.222em; // 22px
+}
+
+h5 {
+  font-family: $sans-ff;
+  font-weight: 800;
+  font-size: 1.125em; // 18px
+}
+
+h6 {
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: .667em; // 12px
+  letter-spacing: 3.5px;
+}
+
+.title {
+  margin-top: 0;
+}
