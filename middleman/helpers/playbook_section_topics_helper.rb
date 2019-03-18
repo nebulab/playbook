@@ -4,7 +4,7 @@ module PlaybookSectionTopicsHelper
   def_delegator :config, :playbook_topic_belongs_to_section_key, :topic_belongs_to_section_key
   def_delegator :config, :playbook_section_has_many_topics_key, :section_has_many_topics_key
 
-  SectionTopic = Struct.new(:section, :file, :content)
+  SectionTopic = Struct.new(:section, :file, :content, :title, :title_id)
 
   def playbook_section_topics_files(section_page)
     topics_files_snapshot = topics_files(section_page)
@@ -17,13 +17,28 @@ module PlaybookSectionTopicsHelper
         topic_value == section_value
       end
 
-      memo << SectionTopic.new(section_page, topic_file, topic_content_snapshot) if topic_file
+      if topic_file
+        title = topic_content_snapshot.first[:title]
+        title_id = idify(title)
+
+        memo << SectionTopic.new(
+          section_page,
+          topic_file,
+          topic_content_snapshot,
+          title,
+          title_id
+        )
+      end
 
       memo
     end
   end
 
   private
+
+  def idify(title)
+    title.downcase.gsub(' ', '-')
+  end
 
   def topics_files(section_page)
     section_topics_dir_snapshot = section_topics_dir(section_page)

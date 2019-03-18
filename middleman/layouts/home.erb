@@ -6,7 +6,7 @@
     <meta name="viewport"
           content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Use the title from a page's frontmatter if it has one -->
-    <title><%= current_page.data.title || 'Playbook' %></title>
+    <title><%= h(current_page.data.title) || 'Playbook' %></title>
     <%= stylesheet_link_tag 'application' %>
     <%#= javascript_include_tag "application" %>
   </head>
@@ -15,8 +15,6 @@
 
     <%= yield %>
 
-    <% data.navigation.items.each do |item| %>
-      <%= partial 'middleman/layouts/home/page_box', locals: { box: item } %>
-    <% end %>
+    <%= partial 'middleman/layouts/home/page_boxes' %>
   </body>
 </html>

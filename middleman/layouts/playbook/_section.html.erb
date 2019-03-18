@@ -1,0 +1,4 @@
+<% topics = playbook_section_topics_files(current_page) %>
+
+<%= partial 'middleman/layouts/playbook/section/topics_navigation', locals: { topics: topics } %>
+<%= partial 'middleman/layouts/playbook/section/topics', locals: { topics: topics } %>

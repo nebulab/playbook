@@ -1,0 +1,5 @@
+<nav>
+  <% topics.each do |topic| %>
+    <%= link_to h(topic.title), "##{h(topic.title_id)}" %>
+  <% end %>
+</nav>
