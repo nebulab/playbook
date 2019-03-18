@@ -7,12 +7,16 @@
           content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Use the title from a page's frontmatter if it has one -->
     <title><%= current_page.data.title || 'Playbook' %></title>
-    <%= stylesheet_link_tag 'home' %>
+    <%= stylesheet_link_tag 'application' %>
+    <%#= javascript_include_tag "application" %>
   </head>
   <body>
+    <%= partial 'middleman/layouts/shared/navigation' %>
+
     <%= yield %>
-    <% data.home.navigation.navigation_items.each do |item| %>
-      <%= partial 'middleman/layouts/home/navigation_item', locals: { item: item } %>
+
+    <% data.navigation.items.each do |item| %>
+      <%= partial 'middleman/layouts/home/page_box', locals: { box: item } %>
     <% end %>
   </body>
 </html>

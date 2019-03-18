@@ -1,0 +1,5 @@
+<nav>
+  <% data.navigation.items.each do |item| %>
+    <%= partial 'middleman/layouts/shared/navigation/item', locals: { item: item } %>
+  <% end %>
+</nav>

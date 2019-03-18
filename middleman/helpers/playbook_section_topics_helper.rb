@@ -1,4 +1,4 @@
-module PlaybookHelpers
+module PlaybookSectionTopicsHelper
   extend Forwardable
 
   def_delegator :config, :playbook_topic_belongs_to_section_key, :topic_belongs_to_section_key

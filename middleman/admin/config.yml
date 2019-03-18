@@ -33,22 +33,22 @@ collections:
           - label: Body
             name: body
             widget: markdown
-      - file: middleman/data/home/navigation.yml
+      - file: middleman/data/navigation.yml
         label: Navigation
         name: navigation
         fields:
           - label: Navigation items
-            name: navigation_items
+            name: items
             widget: list
             fields:
               - label: Image
                 name: image_path
                 widget: image
-              - label: Caption
-                name: caption
+              - label: Description
+                name: description
                 widget: string
-              - label: Link
-                name: link
+              - label: URL
+                name: url
                 widget: string
   - label: Sections
     name: sections

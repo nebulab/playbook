@@ -1,0 +1,25 @@
+items:
+  - image_path: about-us.png
+    description: About us
+    url: /about-us
+  - image_path: how-we-work.png
+    description: How we work
+    url: /how-we-work
+  - image_path: personal-growth.png
+    description: Personal growth
+    url: /personal-growth
+  - image_path: processes.png
+    description: Processes
+    url: /processes
+  - image_path: the-offices.png
+    description: The offices
+    url: /the-offices
+  - image_path: working-on-nebulab.png
+    description: Working on Nebulab
+    url: /working-on-nebulab
+  - image_path: development.png
+    description: Development
+    url: /development
+  - image_path: useful-resources.png
+    description: Useful resources
+    url: /useful-resources

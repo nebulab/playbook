@@ -1,0 +1,6 @@
+nav {
+  // Current links
+  [aria-current]:not([aria-current="false"]) {
+    font-weight: bold;
+  }
+}
