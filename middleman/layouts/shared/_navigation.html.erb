@@ -1,5 +1,14 @@
-<nav>
-  <% data.navigation.items.each do |item| %>
-    <%= partial 'middleman/layouts/shared/navigation/item', locals: { item: item } %>
-  <% end %>
+<nav class="nav">
+  <div class="container">
+    <% link_to '/', :class => 'logo' do %>
+      <%= image_tag 'images/logo.svg', :width => '148px', :height => '45px' %>
+    <% end %>
+    <span class="title">_Playbook</span>
+  </div>
+  
+  <ul class="nav-list">
+    <% data.navigation.items.each do |item| %>
+      <%= partial 'middleman/layouts/shared/navigation/item', locals: { item: item } %>
+    <% end %>
+  </ul>
 </nav>

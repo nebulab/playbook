@@ -7,17 +7,28 @@
     <!-- Use the title from a page's frontmatter if it has one -->
     <title><%= current_page.data.title || 'Playbook' %></title>
     <%= stylesheet_link_tag 'playbook-style' %>
-    <%= stylesheet_link_tag 'home' %>
+    <%#= stylesheet_link_tag 'home' %>
+    <%= javascript_include_tag "offcanvas-sidebar" %>
   </head>
   <body>
     <%= partial "middleman/partials/header" %>
     
-    <%= partial 'middleman/layouts/shared/navigation' %>
+    <%= partial "middleman/partials/sidebar" %>
     
-    <%= yield %>
+    <div class="overlay"></div>
 
-    <%= partial 'middleman/layouts/home/page_boxes' %>
+    <div class="canvas">
+      <%= partial 'middleman/layouts/shared/navigation' %>
+      
+      <div class="main-container">
+        <div class="container">
+          <%= yield %>
 
-<%= partial "middleman/partials/footer" %>
+          <%= partial 'middleman/layouts/home/page_boxes' %>
+        </div>
+      </div>
+      
+      <%= partial "middleman/partials/footer" %>
+    </div>
   </body>
 </html>

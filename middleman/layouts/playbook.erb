@@ -5,16 +5,18 @@
     <meta content="IE=edge" http-equiv="X-UA-Compatible">
     <meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport">
     <!-- Use the title from a page's frontmatter if it has one -->
-(??)    <title><%= h(current_page.data.title) || 'Playbook' %></title>
-(??)    <%= stylesheet_link_tag 'playbook' %>
-(??)    <%#= javascript_include_tag "playbook" %>
+    <title><%= h(current_page.data.title) || 'Playbook' %></title>
+    <%= stylesheet_link_tag 'playbook-style' %>
+    <%= javascript_include_tag "offcanvas-sidebar" %>
   </head>
   <body>
     <%= partial "middleman/partials/header" %>
     
-    <div id="canvas">
-      <%= partial 'middleman/layouts/shared/navigation' %>
-      
+    <%= partial "middleman/partials/sidebar" %>
+
+    <div class="overlay"></div>
+
+    <div class="canvas">
       <div class="main-container">
         <div class="container">
           <%= yield %>

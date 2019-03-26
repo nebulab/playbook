@@ -38,8 +38,11 @@ $buttons-fs: $smaller-fs; // 11px;
 $gutter: 1.5rem;
 //$container-width: 1480px;
 
-//Nav
+//Navbar
 $nav-aside-width: 65px;
+
+//Nav
+$nav-width: 278px;
 
 //Chapters
 $border-radius-lg: 2rem;
@@ -48,3 +51,8 @@ $border-radius-lg: 2rem;
 $about-us:        #DBEEF8;
 $about-us-light:  #F0F8FC;
 $how-we-work:     #FFF9B3;
+
+// z-index
+$navbar-z-index:      1000;
+$nav-z-index:         999;
+$overlay-z-index:     998;

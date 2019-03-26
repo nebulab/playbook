@@ -25,10 +25,11 @@ $device-lg: 992px;
 
 .logo {
   display: inline-block;
-  padding: 0 $gutter 0 0;
+  padding: 0 ($gutter - .5) 0 0;
 }
 
-.header .title {
+.header .title,
+.nav .title {
   color: $light-grey;
   font-size: $smaller-fs;
   text-transform: uppercase;

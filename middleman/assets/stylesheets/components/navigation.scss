@@ -1,5 +1,6 @@
 .main-nav {
   background-color: $white;
+  z-index: $navbar-z-index;
   
   @media (min-width: $device-lg) {
     border-right: 1px solid $border-color;
@@ -12,35 +13,53 @@
 }
 
 // the overall container
-#canvas  {
+.canvas,
+.nav  {
   transition: .5s cubic-bezier(.91,.06,.47,1.05) transform;
 }
 
 // show the nav if the class exists and toggle the icon
-#canvas.show-nav   {
+.canvas.show-nav   {
   transform: translateX(344px);
+}
+
+.sidebar.show-nav .nav {
+  transform: translateX(0);
 }
 
 // style the side navigation
 .nav  {
-  position: absolute;
+  background: $white;
+  position: fixed;
+  top: 0;
+  bottom: 0;
   display: block;
+  padding-top: $gutter;
   transform: translateX(-344px);
-  color: $black;
-  background-color: $white;
   min-height: 100%;
-  list-style: none;
+  z-index: $nav-z-index;
+  
+  @media (min-width: $device-lg) {
+    margin-left: $nav-aside-width;
+    width: $nav-width;
+  }
   
   li {
     display: block;
   }
   
-  a {
-    color: #EEE;
+  ul a {
+    color: $black;
     display: block;
     padding: 5px 10px;
-    font-size: 0.85em;
+    font-size: $menu-fs;
+    font-weight: 600;
+    list-style: none;
     text-transform: uppercase;
     letter-spacing: 2px;
+  }
+  
+  ul a[aria-current]:not([aria-current="false"]) {
+    color: $n_cyan;
   }
 }

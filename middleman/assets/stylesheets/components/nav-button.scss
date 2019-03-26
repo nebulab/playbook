@@ -3,6 +3,7 @@
   height: 45px;
   position: fixed;
   top: $gutter;
+  left: $gutter / 2;
   transition: all .25s;
   padding: 17px 0 0 13px;
   cursor: pointer;
@@ -32,22 +33,25 @@
     }
   }
 
-  // &.show-nav {
-  //   @include padding(12px null null 13px);
-  //   &:hover {
-  //     @include transform(rotate(0deg));
-  //   }
-  // 
-  //   .nav-button__line {
-  //     @include transform(rotate(45deg));
-  //     @include margin(4px null 0 null);
-  //     &:first-child {
-  //       @include position(relative, 6px null null null);
-  //       @include transform(rotate(-45deg));
-  //     }
-  //     &:last-child {
-  //       display: none;
-  //     }
-  //   }
-  // }
+  .show-nav & {
+    padding: 12px 0 0 13px;
+    
+    &:hover {
+      transform: rotate(0deg);
+    }
+  
+    .nav-button__line {
+      transform: rotate(45deg);
+      margin: 4px 0 0 0;
+      &:first-child {
+        position: relative;
+        top: 6px;
+        transform: rotate(-45deg);
+      }
+      
+      &:last-child {
+        display: none;
+      }
+    }
+  }
 }
