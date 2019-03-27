@@ -55,40 +55,75 @@
 //   }
 // }
 
-// style the side navigation
+// Style the container of navigation
 .nav  {
   background: $white;
   position: fixed;
   top: 0;
   bottom: 0;
-  display: block;
   transform: translateX(-100%);
   min-height: 100%;
   overflow-x: hidden;
   width: 90%;
   z-index: $nav-z-index;
   
-  @media (min-width: $device-md) {
-    margin-left: $nav-aside-width;
-    width: $nav-width;
+  ul {
+    margin: 0 0 $gutter;
+    padding: 0 $gutter;
   }
   
   li {
     display: block;
   }
   
-  ul a {
-    color: $black;
-    display: block;
-    padding: 5px 10px;
-    font-size: $menu-fs;
-    font-weight: 600;
-    list-style: none;
-    text-transform: uppercase;
-    letter-spacing: 2px;
+  @media (min-width: $device-md) {
+    margin-left: $nav-aside-width;
+    width: $nav-width;
+  }
+}
+
+.nav-list li a {
+  &::before {
+    content: '';
+    background: $white;
+    border-radius: 50%;
+    border: 1px solid $n_cyan;
+    display: inline-block;
+    width: 7px;
+    height: 7px;
+    transform: translate(-1rem, 0);
   }
   
-  ul a[aria-current]:not([aria-current="false"]) {
+  &:visited {
+    &::before {
+      content: '';
+      background: $n_cyan;
+    }
+  }
+}
+
+.nav-list a {
+  color: $black;
+  display: block;
+  padding: ($gutter - .5) $gutter;
+  font-size: $menu-fs;
+  font-weight: 800;
+  list-style: none;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  
+  &:hover {
     color: $n_cyan;
   }
+  
+  &[aria-current]:not([aria-current="false"]) {
+    color: $n_cyan;
+  }
+}
+
+// Style div containers inside .nav
+.nav {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }

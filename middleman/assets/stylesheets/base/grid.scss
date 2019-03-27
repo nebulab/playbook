@@ -40,11 +40,6 @@
   align-items: center;
   padding-top: $gutter;
   padding-bottom: $gutter;
-  
-  .nav & {
-    padding-left: $gutter;
-    padding-right: $gutter;
-  }
 }
 
 .container {
@@ -52,13 +47,19 @@
   padding-right: $gutter;
   width: 100%;
   
+  .nav & {
+    padding-left: $gutter;
+    padding-right: $gutter;
+  }
+  
   @media (min-width: $device-md) {
     padding: 0 ($gutter * 2);
   }
 }
 
 .main-container,
-.header {
+.header,
+.footer {
   @media (min-width: $device-md) {
     margin-left: $nav-aside-width;
   }

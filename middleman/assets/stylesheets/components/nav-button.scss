@@ -5,13 +5,13 @@
   height: 45px;
   position: absolute;
   top: $gutter;
-  right: $gutter - .5;
+  right: .65rem;
   transition: all .25s;
-  padding: 17px 0 0 13px;
+  padding: 17px 0 0 12px;
   cursor: pointer;
   z-index: $navbar-z-index;
   
-  @media (min-width: $device-md) {
+  @media (min-width: $device-md){
     background: transparent;
     position: fixed;
     left: $gutter / 2;
@@ -60,6 +60,37 @@
       
       &:last-child {
         display: none;
+      }
+    }
+  }
+}
+
+.overview-button {
+  display: none;
+  visibility: hidden;
+  position: fixed;
+  bottom: $gutter;
+  left: .65rem;
+  width: 45px;
+  height: 45px;
+  padding: 0 0 17px 12px;
+  cursor: pointer;
+  
+  @media (min-width: $device-md) {
+    display: block;
+    visibility: visible;
+    
+    .icon-overview {
+      background: url("../images/icon-overview.svg") no-repeat;
+      background-size: 100% auto;
+      display: inline-block;
+      width: 20px;
+      height: 20px;
+    }
+    
+    &:hover {
+      .icon-overview {
+        background: url("../images/icon-overview-hover.svg") no-repeat;
       }
     }
   }
