@@ -1,13 +1,22 @@
 .nav-button {
+  background: $white;
+  border-radius: 50%;
   width: 45px;
   height: 45px;
-  position: fixed;
+  position: absolute;
   top: $gutter;
-  left: $gutter / 2;
+  right: $gutter - .5;
   transition: all .25s;
   padding: 17px 0 0 13px;
   cursor: pointer;
-  z-index: 5;
+  z-index: $navbar-z-index;
+  
+  @media (min-width: $device-md) {
+    background: transparent;
+    position: fixed;
+    left: $gutter / 2;
+    right: auto;
+  }
   
   &:hover {
     .nav-button__line {
@@ -33,7 +42,7 @@
     }
   }
 
-  .show-nav & {
+  .js-show-nav & {
     padding: 12px 0 0 13px;
     
     &:hover {

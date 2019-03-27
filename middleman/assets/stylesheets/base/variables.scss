@@ -36,6 +36,10 @@ $buttons-fs: $smaller-fs; // 11px;
 
 //Grid
 $gutter: 1.5rem;
+//
+$device-sm: 576px;
+$device-md: 768px;
+$device-lg: 992px;
 //$container-width: 1480px;
 
 //Navbar
@@ -43,6 +47,9 @@ $nav-aside-width: 65px;
 
 //Nav
 $nav-width: 278px;
+
+//header
+$header-height: 98px;
 
 //Chapters
 $border-radius-lg: 2rem;

@@ -18,18 +18,12 @@
 // $mobile-portrait: new-breakpoint(max-width 480px 4);
 // $landscape-device: new-breakpoint(max-height 375px 12);
 
-
-$device-sm: 576px;
-$device-md: 768px;
-$device-lg: 992px;
-
 .logo {
   display: inline-block;
   padding: 0 ($gutter - .5) 0 0;
 }
 
-.header .title,
-.nav .title {
+.header .title {
   color: $light-grey;
   font-size: $smaller-fs;
   text-transform: uppercase;
@@ -46,6 +40,11 @@ $device-lg: 992px;
   align-items: center;
   padding-top: $gutter;
   padding-bottom: $gutter;
+  
+  .nav & {
+    padding-left: $gutter;
+    padding-right: $gutter;
+  }
 }
 
 .container {
@@ -53,16 +52,20 @@ $device-lg: 992px;
   padding-right: $gutter;
   width: 100%;
   
-  @media (min-width: $device-lg) {
+  @media (min-width: $device-md) {
     padding: 0 ($gutter * 2);
   }
 }
 
 .main-container,
 .header {
-  @media (min-width: $device-lg) {
+  @media (min-width: $device-md) {
     margin-left: $nav-aside-width;
   }
+}
+
+.nav .header {
+  margin-left: 0; 
 }
 
 .chapter-hero {

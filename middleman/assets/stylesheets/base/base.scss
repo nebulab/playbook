@@ -1,3 +1,11 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body.js-show-nav {
+  overflow: hidden;
+}
+
 a {
   text-decoration: none;
 }

@@ -2,7 +2,7 @@
   background-color: $white;
   z-index: $navbar-z-index;
   
-  @media (min-width: $device-lg) {
+  @media (min-width: $device-md) {
     border-right: 1px solid $border-color;
     position: fixed;
     overflow: hidden;
@@ -19,13 +19,41 @@
 }
 
 // show the nav if the class exists and toggle the icon
-.canvas.show-nav   {
-  transform: translateX(344px);
+.js-show-nav .canvas {
+  transform: translateX(90%);
+
+  @media (min-width: $device-md) {
+    transform: translateX(344px);
+  }
 }
 
-.sidebar.show-nav .nav {
+.js-show-nav .nav {
   transform: translateX(0);
 }
+
+// Set fixed header on mobile devices
+// header {
+//   z-index: $navbar-z-index;
+// }
+// 
+// .js-show-nav {
+//   @media (max-width: $device-md - 1) {
+//     header {
+//       position: fixed;
+//       top: 0;
+//       width: 100%;
+//     }
+// 
+//     .nav .header {
+//       display: none;
+//       visibility: hidden;
+//     }
+// 
+//     .nav-list {
+//       margin-top: $header-height;
+//     }
+//   }
+// }
 
 // style the side navigation
 .nav  {
@@ -34,12 +62,13 @@
   top: 0;
   bottom: 0;
   display: block;
-  padding-top: $gutter;
-  transform: translateX(-344px);
+  transform: translateX(-100%);
   min-height: 100%;
+  overflow-x: hidden;
+  width: 90%;
   z-index: $nav-z-index;
   
-  @media (min-width: $device-lg) {
+  @media (min-width: $device-md) {
     margin-left: $nav-aside-width;
     width: $nav-width;
   }
