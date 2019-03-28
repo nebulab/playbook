@@ -2,6 +2,7 @@
 $about-us:        #DBEEF8;
 $about-us-light:  #F0F8FC;
 $how-we-work:     #FFF9B3;
+$development:     #DEFBFB;
 
 .chapter-hero {
   border-radius: $border-radius-lg;
@@ -12,7 +13,8 @@ $how-we-work:     #FFF9B3;
 .chapter-hero {
   $heroes: (
     about-us: $about-us,
-    how-we-work: $how-we-work
+    how-we-work: $how-we-work,
+    development: $development
   );
 
   @each $chapter, $color in $heroes {
