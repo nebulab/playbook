@@ -9,17 +9,15 @@ $black: #222222;
 $light-grey: #898989;
 $light-blue: #f0f7fc;
 
-$primary-color: $n_cyan;
-$secondary-color: $n_yellow;
-$heading-color: $n_dark-grey;
-$p-color: $n_dark-grey;
-$border-color: #e2e2e2;
+$primary-color:       $n_cyan;
+$secondary-color:     $n_yellow;
+$heading-color:       $n_dark-grey;
+$p-color:             $light-grey;
+$border-color:        #e2e2e2;
 $section-title-color: $primary-color;
-$link-color: $n_dark-grey;
-$button-color: $n_dark-grey;
-$magenta: #fc4b5b;
-
-$cta-color: #44c8c3;
+$button-color:        $n_dark-grey;
+$link-color:          $black;
+$link-hover-color:    $n_cyan;
 
 //Font families
 $sans-ff: "Eina03", sans-serif;
@@ -52,7 +50,7 @@ $nav-width: 278px;
 $header-height: 98px;
 
 //Chapters
-$border-radius-lg: 2rem;
+$border-radius-lg: 1.5rem;
 
 // z-index
 $navbar-z-index:      1000;

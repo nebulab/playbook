@@ -8,6 +8,13 @@ $development:     #DEFBFB;
   border-radius: $border-radius-lg;
   margin-bottom: ($gutter * 2);
   padding: ($gutter * 2);
+  display: flex;
+  flex-direction: column;
+  
+  @media (min-width: $device-md) {
+    flex-direction: row;
+    justify-content: space-between;
+  }
 }
 
 .chapter-hero {

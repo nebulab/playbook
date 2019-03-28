@@ -2,15 +2,26 @@ body {
   font-family: $sans-ff;
   font-weight: normal;
   font-size: $body-fs;
+  color: $p-color;
   -webkit-font-smoothing: antialiased;
+}
+
+a {
+  color: $link-color;
+  text-decoration: underline;
+  
+  &:hover {
+    color: $link-hover-color;
+  }
+}
+
+p {
+  line-height: 2rem;
+  margin: 0 0 1rem;
 }
 
 h1, h2, h3, h4, h5, h6 {
   color: $heading-color;
-}
-
-p {
-  color: $p-color;
 }
 
 h1 {
@@ -50,6 +61,41 @@ h6 {
   letter-spacing: 3.5px;
 }
 
+section {
+  h1 {
+    font-size: 1.667em;
+    margin: 3rem 0 2.5rem;
+  }
+  
+  h2 {
+    font-size: 1.444em;
+    margin: 2rem 0 1.5rem;
+  }
+  
+  h3 {
+    font-size: 1.222em;
+    margin: 2rem 0 1.5rem;
+  }
+}
+
 .title {
   margin-top: 0;
+}
+
+ul,
+ol {
+  line-height: 2.2rem;
+  
+  li {
+    padding: 0 0 0 1rem;
+  }
+}
+
+code {
+  color: darken($p-color, 20);
+  background: #F8F8F8;
+  border-radius: 3px;
+  font-size: 85%;
+  padding: .2rem .4rem;
+  word-wrap: break-word;
 }

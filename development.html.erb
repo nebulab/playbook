@@ -10,9 +10,11 @@ playbook-section-topics:
   - Design
 ---
 <div class="chapter-hero development">
-  <h1 class="title"><%= current_page.data.title %></h1>
-  
-  <% topics = playbook_section_topics_files(current_page) %>
+  <div class="topics-container">
+    <h1 class="title"><%= current_page.data.title %></h1>
+    
+    <% topics = playbook_section_topics_files(current_page) %>
 
-  <%= partial 'middleman/layouts/playbook/section/topics_navigation', locals: { topics: topics } %>
+    <%= partial 'middleman/layouts/playbook/section/topics_navigation', locals: { topics: topics } %>
+  </div>
 </div>

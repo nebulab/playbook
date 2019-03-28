@@ -6,13 +6,19 @@ body.js-show-nav {
   overflow: hidden;
 }
 
-a {
-  text-decoration: none;
-}
-
 img, object, embed {
   max-width: 100%;
   height: auto;
+}
+
+nav ul {
+  list-style: none;
+  line-height: normal;
+  padding: 0;
+  
+  li {
+    padding: 0;
+  }
 }
 
 .lazy {

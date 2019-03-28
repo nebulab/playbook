@@ -1,14 +1,15 @@
 .button {
-  border: 1px solid $n_dark-grey;
-  color: $n_dark-grey;
+  border: 1px solid $button-color;
+  color: $button-color;
   display: inline-block;
-  font-size: $smaller-fs;
+  font-size: $buttons-fs;
   font-weight: 800;
   padding: ($gutter - .5) $gutter;
   letter-spacing: 2px;
   margin-top: $gutter;
   text-align: center;
   text-transform: uppercase;
+  text-decoration: none;
   transition: all .3s;
   
   .nav & {
@@ -16,7 +17,7 @@
   }
   
   &:hover {
-    background: $n_dark-grey;
+    background: $button-color;
     color: $white;
   }
 }
