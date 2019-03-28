@@ -6,4 +6,8 @@ playbook-section-topics:
 ---
 <div class="chapter-hero about-us">
   <h1 class="title"><%= current_page.data.title %></h1>
+  
+  <% topics = playbook_section_topics_files(current_page) %>
+
+  <%= partial 'middleman/layouts/playbook/section/topics_navigation', locals: { topics: topics } %>
 </div>
