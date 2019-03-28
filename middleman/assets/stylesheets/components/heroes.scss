@@ -1,0 +1,23 @@
+//Chapters colors
+$about-us:        #DBEEF8;
+$about-us-light:  #F0F8FC;
+$how-we-work:     #FFF9B3;
+
+.chapter-hero {
+  border-radius: $border-radius-lg;
+  margin-bottom: ($gutter * 2);
+  padding: ($gutter * 2);
+}
+
+.chapter-hero {
+  $heroes: (
+    about-us: $about-us,
+    how-we-work: $how-we-work
+  );
+
+  @each $chapter, $color in $heroes {
+    &.#{$chapter} {
+      background-color: $color;
+    }
+  }
+}

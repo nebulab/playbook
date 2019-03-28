@@ -69,25 +69,6 @@
   margin-left: 0; 
 }
 
-.chapter-hero {
-  border-radius: $border-radius-lg;
-  margin-bottom: ($gutter * 2);
-  padding: ($gutter * 2);
-}
-
-.chapter-hero {
-  $heros: (
-    about-us: $about-us,
-    how-we-work: $how-we-work
-  );
-
-  @each $chapter, $color in $heros {
-    &.#{$chapter} {
-      background-color: $color;
-    }
-  }
-}
-
 *,
 *:after,
 *:before {
