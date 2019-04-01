@@ -4,6 +4,8 @@ html {
 
 body.js-show-nav {
   overflow: hidden;
+  position: fixed;
+  width: 100%;
 }
 
 img, object, embed {
