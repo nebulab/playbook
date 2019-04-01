@@ -2,7 +2,7 @@
 set :source, '..'
 set :css_dir, 'middleman/assets/stylesheets'
 set :js_dir, 'middleman/assets/javascripts'
-set :images_dir, 'middleman/assets'
+set :images_dir, 'middleman/assets/images'
 set :fonts_dir, 'middleman/assets/fonts'
 set :layouts_dir, 'middleman/layouts'
 set :data_dir, 'data'
