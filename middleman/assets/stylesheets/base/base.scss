@@ -23,30 +23,40 @@ nav ul {
   }
 }
 
-.lazy {
-  opacity: 0;
-  transition: 1s opacity .2s;
-
-  &--appear-from-below {
-    transform: translate3d(0, 50px, 0);
-    transition: 1s opacity .2s, 1s transform;
+table {
+  border-collapse: collapse;
+  border-color: $border-color;
+  border-spacing: 0;
+  overflow-x: auto;
+  width: 100%;
+  
+  th {
+    border: 1px solid $border-color;
+    font-weight: 800;
+    padding: ($gutter / 2) ($gutter - .5);
+    text-align: center;
   }
-
-  &-section {
-    background-size: cover;
-    position: relative;
-
-    &__image {
-      left: 0;
-      position: absolute;
-      top: 0;
-      visibility: hidden;
-      z-index: -1;
+  
+  tr {
+    border-top: 1px solid $border-color;
+    
+    &:nth-child(2n) {
+      background-color: #f8f8f8;
     }
+  }
+  
+  td {
+    border: 1px solid $border-color;
+    padding: ($gutter / 2) ($gutter - .5);
   }
 }
 
-.nebu-lazy-loaded {
-  opacity: 1;
-  transform: translate3d(0, 0, 0);
+code {
+  color: darken($p-color, 20);
+  background: lighten($light-grey, 42%);
+  border-radius: 3px;
+  font-size: 1em;
+  font-family: monospace;
+  padding: .2rem .4rem;
+  word-wrap: break-word;
 }
