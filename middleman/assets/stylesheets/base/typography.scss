@@ -9,6 +9,7 @@ body {
 a {
   color: $link-color;
   text-decoration: underline;
+  outline: 0;
   
   &:hover {
     color: $link-hover-color;

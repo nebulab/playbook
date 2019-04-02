@@ -1,27 +1,13 @@
 //Chapters colors
 $about-us:                 #DBEEF8;
-$about-us-light:           #F0F8FC;
-
 $how-we-work:              #FFF9B3;
-$how-we-work-light:        #FFFBCC;
-
 $development:              #DEFBFB;
-$development-light:        #F0FCFC;
-
 $personal-growth:          #D4F8EE;
-$personal-growth-light:    #D4F8EE;
-
 $processes:                #F7E9FB;
-$processes-light:          #FAF3FC;
-
 $the-offices:              #FBF3E6;
-$the-offices-light:        #FCF8F2;
-
 $useful-resources:         #FAEDD5;
-$useful-resources-light:   #FFF4E0;
-
 $working-on-nebulab:       #FDECFF;
-$working-on-nebulab-light: #FEF0FF;
+
 
 .chapter-hero {
   border-radius: $border-radius-lg;
@@ -66,57 +52,5 @@ $working-on-nebulab-light: #FEF0FF;
     visibility: visible;
     margin-bottom: calc(-25% - 3rem);
     transform: translate(0, -25%);
-  }
-}
-
-// Home cards
-.overview-list {
-  list-style-type: none;
-  padding: 0;
-  display: flex;
-  flex-direction: column;
-  
-  @media (min-width: $device-lg) {
-    flex-direction: row;
-    flex-wrap: wrap;
-    margin-left: -($gutter);
-    margin-right: -($gutter);
-  }
-}
-
-.overview-card {
-  margin-bottom: ($gutter * 2);
-  padding: 0;
-
-  @media (min-width: $device-lg) {
-    flex: 0 0 25%;
-    max-width: 25%;
-    padding: $gutter;
-  }
-}
-
-.overview-card a {
-  border-radius: $border-radius-lg;
-  padding: ($gutter * 1.1);
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  height: 318px;
-
-  $cards: (
-    about-us: $about-us-light,
-    how-we-work: $how-we-work-light,
-    development: $development-light,
-    personal-growth: $personal-growth-light,
-    processes: $processes-light,
-    the-offices: $the-offices-light,
-    useful-resources: $useful-resources-light,
-    working-on-nebulab: $working-on-nebulab-light
-  );
-
-  @each $chapter, $color in $cards {
-    &.#{$chapter} {
-      background-color: $color;
-    }
   }
 }
