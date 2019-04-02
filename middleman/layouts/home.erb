@@ -4,11 +4,15 @@
     <meta charset="utf-8">
     <meta content="IE=edge" http-equiv="X-UA-Compatible">
     <meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport">
-    <!-- Use the title from a page's frontmatter if it has one -->
+
     <title><%= current_page.data.title || 'Playbook' %></title>
+    
     <%= stylesheet_link_tag 'playbook-style' %>
-    <%#= stylesheet_link_tag 'home' %>
+    
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    
     <%= javascript_include_tag "offcanvas-sidebar" %>
+    <%= javascript_include_tag "scroll-to-top" %>
   </head>
   <body>
     <%= partial "middleman/partials/header" %>
@@ -29,7 +33,16 @@
         </div>
       </div>
       
-      <%= partial "middleman/partials/footer" %>
+      <footer class="footer">
+        <div class="container">
+          This playbook is made with 💙 by us. More about us? Head over to 
+          <% link_to 'https://nebulab.it', :target => '_blank' do %>
+            nebulab.it
+          <% end %>
+        </div>
+      </footer>
     </div>
+    
+    <a href="#" class="js-button-top"></a>
   </body>
 </html>

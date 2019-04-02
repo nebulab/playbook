@@ -24,6 +24,15 @@ nav ul {
   }
 }
 
+ul,
+ol {
+  line-height: 2.2rem;
+  
+  li {
+    padding: 0 0 0 1rem;
+  }
+}
+
 table {
   border-collapse: collapse;
   border-color: $border-color;
@@ -60,4 +69,11 @@ code {
   font-family: monospace;
   padding: .2rem .4rem;
   word-wrap: break-word;
+}
+
+blockquote {
+  border-left: 3px solid $border-color;
+  color: darken($p-color, 20%);
+  margin: ($gutter * 2) 0;
+  padding: 0 $gutter;
 }

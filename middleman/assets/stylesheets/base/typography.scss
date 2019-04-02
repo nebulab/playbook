@@ -78,11 +78,11 @@ h6 {
 
 section {
   h1 {
-    font-size: 1.667em;
+    font-size: 1.887em;
     margin: 3rem 0 2.5rem;
     
     @media (max-width: $device-sm - 1) {
-      font-size: 1.444em; // 26px
+      font-size: 1.667em;
     }
   }
   
@@ -112,14 +112,5 @@ section {
     h1 {
       font-size: 2rem; // 28px
     }
-  }
-}
-
-ul,
-ol {
-  line-height: 2.2rem;
-  
-  li {
-    padding: 0 0 0 1rem;
   }
 }
