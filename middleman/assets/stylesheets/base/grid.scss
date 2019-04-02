@@ -15,8 +15,14 @@
 }
 
 .footer {
+  color: lighten($light-grey, 18%);
+  font-size: $small-fs;
   padding: $gutter $gutter ($gutter * 1.5);
   text-align: center;
+  
+  p {
+    margin: 0;
+  }
 }
 
 .header .container {
