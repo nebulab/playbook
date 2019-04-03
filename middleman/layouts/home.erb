@@ -10,11 +10,10 @@
     <div class="overlay"></div>
 
     <div class="canvas">
-      <%= partial 'middleman/layouts/shared/navigation' %>
-      
       <div class="main-container">
         <div class="container">
           <%= yield %>
+          
           <ul class="overview-list">
             <%= partial 'middleman/layouts/home/page_boxes' %>
           </ul>
@@ -23,7 +22,7 @@
       
       <%= partial "middleman/layouts/shared/footer" %>
     </div>
-    
+    <%= partial "middleman/layouts/shared/cookies" %>
     <a href="#" class="js-button-top"></a>
   </body>
 </html>

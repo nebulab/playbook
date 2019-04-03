@@ -24,13 +24,14 @@ $sans-ff: "Eina03", sans-serif;
 $serif-ff: "freight-display-pro", sans-serif;
 
 //Font sizes
-$body-fs: 1.125em; // 18px
-$small-fs: 0.889em; //16px
-$smaller-fs: 0.611em; // 11px
-$blog-fs: 1.111em; //20px
+$body-fs:        1.125em; // 18px
+$small-fs:       0.889em; //16px
+$smaller-fs:     0.778em;
+$extra-small-fs: 0.611em;
+$blog-fs:        1.111em; //20px
 
-$menu-fs: $smaller-fs; // 11px
-$buttons-fs: $smaller-fs; // 11px;
+$menu-fs:    $extra-small-fs;
+$buttons-fs: $extra-small-fs;
 
 //Grid
 $gutter: 1.5rem;
@@ -54,6 +55,7 @@ $header-height: 98px;
 $border-radius-lg: 1.5rem;
 
 // z-index
+$cookies-z-index:     1001;
 $navbar-z-index:      1000;
 $nav-z-index:         999;
 $overlay-z-index:     998;
