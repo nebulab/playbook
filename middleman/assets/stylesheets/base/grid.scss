@@ -68,89 +68,18 @@ section.playbook {
   }
 }
 
-*,
-*:after,
-*:before {
-  box-sizing: border-box;
-}
-
-// .container {
-//   margin: 0 auto;
-//   padding: 0 $gutter;
-//   max-width: $device-lg;
-// }
-// 
-// .container:after,
-// .row:after {
-//   content: "";
-//   display: table;
-//   clear: both;
-// }
-
-.row {
+// Next chapter container
+.section-footer {
   display: flex;
-  flex-flow: row wrap;
-  margin-right: -($gutter/2);
-  margin-left: -($gutter/2);
+  justify-content: center;
   
-  &.align-middle {
-    align-items: center;
-  }
-  &.align-bottom {
-    align-items: flex-end;
-  }
-  &.align-left {
-    justify-content: flex-start;
-  }
-  &.align-center {
-    justify-content: center;
-  }
-  &.align-right {
+  @media (min-width: $device-md) {
     justify-content: flex-end;
   }
 }
 
-
-[class*="col"] {
-  width: 100%;
-  padding: 0 $gutter/2;
-}
-
-
-@mixin col-size($col) {
-  flex-basis: (100% * $col / 12);
-  max-width: (100% * $col / 12);
-}
-
-
-@each $col in (1,2,3,4,5,6,7,8,9,10,11,12) {
-  .col-xs-#{$col} {
-    @include col-size($col);
-  }
-}
-
-    
-
-@media (min-width: #{$device-sm}) {
-  @each $col in (1,2,3,4,5,6,7,8,9,10,11,12) {
-    .col-sm-#{$col} {
-      @include col-size($col);
-    }
-  }
-}
-
-@media (min-width: #{$device-md}) {
-  @each $col in (1,2,3,4,5,6,7,8,9,10,11,12) {
-    .col-md-#{$col} {
-      @include col-size($col);
-    }
-  }
-}
-
-@media (min-width: #{$device-lg}) {
-  @each $col in (1,2,3,4,5,6,7,8,9,10,11,12) {
-    .col-lg-#{$col} {
-      @include col-size($col);
-    }
-  }
+*,
+*:after,
+*:before {
+  box-sizing: border-box;
 }

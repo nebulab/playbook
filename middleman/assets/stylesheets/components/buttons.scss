@@ -22,6 +22,7 @@
   }
 }
 
+// Overview card button
 .chapter-link {
   span {
     display: block;
@@ -36,7 +37,7 @@
       position: absolute;
       right: 0;
       top: 50%;
-      transform: translateY(-8px);
+      transform: translateY(-7px);
       transition: transform ease-in-out .2s;
     }
   }
@@ -45,7 +46,28 @@
     span::after {
       background: url("../images/icon-arrow-right-hover.svg") no-repeat;
       background-size: 14px auto;
-      transform: translate(5px, -8px);
+      transform: translate(5px, -7px);
+    }
+  }
+}
+
+// Next chapter button
+.chapter-link.button {
+  position: relative;
+  padding-right: $gutter * 1.2;
+  
+  span {
+    padding-right: .5rem;
+    
+    &::after {
+      transform: translateY(-5px);
+      right: .5rem;
+    }
+  }
+  
+  &:hover {
+    span::after {
+      transform: translate(5px, -5px);
     }
   }
 }
