@@ -2,3 +2,6 @@
 
 <%= partial 'middleman/layouts/playbook/section/topics_navigation', locals: { topics: topics } %>
 <%= partial 'middleman/layouts/playbook/section/topics', locals: { topics: topics } %>
+<% if next_section = playbook_sections_next_section(current_page) %>
+  <%= partial 'middleman/layouts/playbook/section/next_section_link', locals: { next_section: next_section } %>
+<% end %>

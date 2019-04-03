@@ -15,12 +15,15 @@ module CurrentLinkHelper
     end
 
     link_options = options
-    current_path = current_page.url.to_s.chomp('/').gsub(FILE_EXTENSION, "")
 
-    if current_path == path
+    if current_path_stripped == path
       link_options.merge!("aria-current" => aria_current)
     end
 
     link_to(text, path, link_options)
+  end
+
+  def current_path_stripped
+    current_page.url.to_s.chomp('/').gsub(FILE_EXTENSION, "")
   end
 end
