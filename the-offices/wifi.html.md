@@ -25,7 +25,7 @@ title: Wi-Fi
 
 ### Router
 
-**IP**: http://192.168.1.1
+**IP**: [http://192.168.1.1](http://192.168.1.1)
 
 **Username**: admin
 

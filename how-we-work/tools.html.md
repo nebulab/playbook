@@ -19,7 +19,7 @@ information about useful contacts (clients, freelancers, etc.) and appointments.
 ## Slack
 
 We use Slack to chat and keep in touch with others. It is essential to communicate and understand
-who is doing what at all times. The main account is https://nebulab.slack.com/ and if you have a
+who is doing what at all times. The main account is [https://nebulab.slack.com/](https://nebulab.slack.com/) and if you have a
 @nebulab.it email address, you can sign up by yourself.
 
 On Slack, it is possible to find some public rooms that can be freely accessed by anyone (their

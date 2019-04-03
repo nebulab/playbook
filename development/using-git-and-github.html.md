@@ -17,9 +17,9 @@ If you need anything explained, ask your colleagues (in person or on #developmen
 
 If you want to learn more about this, here is a list of interesting links about Git:
 
-- https://mislav.net/2014/02/hidden-documentation/
-- http://who-t.blogspot.com/2009/12/on-commit-messages.html
-- https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
+- [https://mislav.net/2014/02/hidden-documentation/](https://mislav.net/2014/02/hidden-documentation/)
+- [http://who-t.blogspot.com/2009/12/on-commit-messages.html](http://who-t.blogspot.com/2009/12/on-commit-messages.html)
+- [https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html](http://who-t.blogspot.com/2009/12/on-commit-messages.html)
 
 ## Workflow
 
