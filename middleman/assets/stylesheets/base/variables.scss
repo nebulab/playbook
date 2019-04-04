@@ -12,12 +12,12 @@ $light-blue: #f0f7fc;
 $primary-color:       $n_cyan;
 $secondary-color:     $n_yellow;
 $heading-color:       $n_dark-grey;
-$p-color:             $light-grey;
+$p-color:             $n_dark-grey;
 $border-color:        #e2e2e2;
 $section-title-color: $primary-color;
 $button-color:        $n_dark-grey;
-$link-color:          $black;
-$link-hover-color:    $n_cyan;
+$link-color:          $n_cyan;
+$link-hover-color:    darken($n_cyan, 10%);
 
 //Font families
 $sans-ff: "Eina03", sans-serif;

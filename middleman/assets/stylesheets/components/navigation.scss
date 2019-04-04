@@ -83,15 +83,18 @@
 }
 
 .nav-list li a {
+  position: relative;
+  
   &::before {
     content: '';
     background: $white;
     border-radius: 50%;
     border: 1px solid $n_cyan;
-    display: inline-block;
+    display: block;
+    position: absolute;
     width: 7px;
     height: 7px;
-    transform: translate(-1rem, 0);
+    transform: translate(-1rem, .2rem);
   }
   
   &:visited {
@@ -135,19 +138,19 @@
   break-inside: avoid;
   columns: auto 1;
   column-gap: 0;
-  
+
   @media (min-width: $device-md) {
     columns: auto 3;
     column-gap: $gutter * 2;
   }
-  
+
   li {
     margin: 0 0 ($gutter - .3);
   }
-  
+
   a {
     color: $light-grey;
-    
+
     &:hover {
       color: $black;
       text-decoration: underline;

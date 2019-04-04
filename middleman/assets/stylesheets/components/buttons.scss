@@ -25,7 +25,9 @@
 // Overview card button
 .chapter-link {
   span {
+    color: $button-color;
     display: block;
+    font-weight: 800;
     line-height: normal;
     
     &::after {
