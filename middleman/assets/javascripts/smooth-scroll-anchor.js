@@ -1,10 +1,19 @@
 // Smooth anchor scroll
-var $root = $('html, body');
+$(document).ready(function(){
 
-$("a[href*='#']:not([href='#'])").click(function () {
-    $root.animate({
-        scrollTop: $( $.attr(this, 'href') ).offset().top
-    }, 500);
+  var $root = $('html, body');
 
-    return false;
+  $('a[href^="#"]').on('click', function(event) {
+    if (this.hash !== "") {
+      event.preventDefault();
+
+      var hash = this.hash;
+
+      $root.animate({
+        scrollTop: $(hash).offset().top
+      }, 800, function(){
+        window.location.hash = hash;
+      });
+    }
+  });
 });
