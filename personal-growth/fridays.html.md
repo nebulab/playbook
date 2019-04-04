@@ -5,7 +5,7 @@ Fridays are our time for personal and collective growth. On Fridays, we do not w
 Instead, we focus on initiatives that improve our skills or contribute to the community or the
 company. Here are some ideas for Friday work:
 
-- Write a post for our [blog](https://github.com/nebulab/playbook/blob/master/working-on-nebulab/blog.md)
+- Write a post for our [blog](./working-on-nebulab#blog)
 - Contribute to an open source project
 - Study a new tool/technology
 - Come up with a tweet to publish

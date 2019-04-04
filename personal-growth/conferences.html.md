@@ -1,7 +1,7 @@
 ---
 title: Conferences
 ---
-We offer full reimbursement for all industry-related conferences according to our [travel policy.](https://github.com/nebulab/playbook/blob/master/processes/travel-policy.md#conferences)
+We offer full reimbursement for all industry-related conferences according to our [travel policy.](./processes#conferences)
 
 ## Getting the most out of a conference
 

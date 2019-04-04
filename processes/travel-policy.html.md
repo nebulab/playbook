@@ -94,14 +94,12 @@ Here's our company information if you need to ask for an invoice:
 
 ```
 Nebulab srls
-
 Strada Comunale Piana, 3
 65129 Pescara (PE)
 Italia
 
 Partita IVA (VAT ID): IT02112180688
 Codice fiscale (tax ID): IT02112180688
-
 Electronic invoice code: M5UXCR1
 ```
 
@@ -140,7 +138,7 @@ Your mentor will help you choose which conferences to attend. Propose your confe
 in accordance with our [yearly allowance](#yearly-budget-and-days-amount), and explain why you are
 interested in those events.
 
-Finally, make sure to [get the most out of your conferences.](https://github.com/nebulab/playbook/blob/master/personal-growth/conferences.md)
+Finally, make sure to [get the most out of your conferences.](./personal-growth#conferences)
 
 Please note that a three-month notice is required to attend non-European conferences/events, and a
 two-month notice is required to attend European/Italian conferences/events.

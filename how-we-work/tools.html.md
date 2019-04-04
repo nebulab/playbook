@@ -58,14 +58,14 @@ To track our work hours, we use [Harvest](https://nebulab.harvestapp.com/), whic
 [native app](https://www.getharvest.com/apps) and a Web-based version.
 
 In order to get an idea of how to track time on Harvest, look at
-[Measuring time](https://github.com/nebulab/playbook/blob/master/how-we-work/tracking-time.md).
+[Measuring time](#tracking-time).
 
 ## Dipendenti in Cloud
 
 In order to keep track of vacations, leave, overtime and sick leave, we use
 [Dipendenti in cloud](https://secure.dipendentincloud.it/app/dashboard).
 
-You can track [time off](https://github.com/nebulab/playbook/blob/master/processes/paid-time-off-and-overtime.md) 
+You can track [time off](./processes#paid-time-off-and-overtime) 
 by clicking to the [Presenze](https://secure.dipendentincloud.it/app/timesheet) tab and clicking on 
 a day (or dragging the mouse over several days).
 

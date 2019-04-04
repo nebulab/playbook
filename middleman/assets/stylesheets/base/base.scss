@@ -60,8 +60,10 @@ code {
   color: darken($p-color, 20);
   background: lighten($light-grey, 42%);
   border-radius: 3px;
+  display: inline-block;
   font-size: 1em;
   font-family: monospace;
+  line-height: 1.15em;
   padding: .2rem .4rem;
   word-wrap: break-word;
 }
