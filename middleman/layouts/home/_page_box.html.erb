@@ -1,10 +1,7 @@
 <li class="overview-card">
-  <div class="overview-wrapper <%= box.title %>">
-    <% link_to box.url, :class => 'chapter-link' do %>
-      <%= image_tag box.image_path %>
-      <span class="title">
-        <%= box.description %>
-      </span>
-    <% end %>
-  </div>
+  <% link_to box.url, :class => 'chapter-link overview-wrapper', :name => box.title do %>
+    <span class="title">
+      <%= box.description %>
+    </span>
+  <% end %>
 </li>
