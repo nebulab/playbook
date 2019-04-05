@@ -1,12 +1,12 @@
 # Tracking time
 
 A paramount aspect of our work is our ability to make good use of the time we spend at the office. 
-To spend time efficiently, measuring it how we spend it is essential.
+Measuring time is essential in order to spend it efficiently.
 
 There are two different measures of how we spend our time:
 
 * hours of _presence_ in the office;
-* hours of _work_ on client/company projects.
+* hours of _activity_ on projects.
 
 There are similarities and differences between these two concepts.
 
@@ -14,7 +14,8 @@ There are similarities and differences between these two concepts.
 
 Your contract includes the number of hours you are expected to be in the office during a regular
 work day. Of course, because some of us work remotely, "hours at the office" really means "hours
-spent working." If you work full-time, you are expected to work 8 hours/day.
+spent working", including small pauses, like it would in a physical office. If you work full-time, 
+you are expected to have 8 hours/day of presence.
 
 During this time we expect you to be physically in the office if you chose to work from the office,
 or in front of your computer if you chose to work remotely.
@@ -30,12 +31,12 @@ and end time and subtracting any major breaks, including your lunch break (going
 any other short breaks do not count). Once you have this number, you should report any time off or
 overtime as needed:
 
-- if you have worked **less** than the expected hours, you should report time off;
-- if you have worked **more** than the expected hours, you should report overtime.
+- if you were present **less** than the expected hours, you should report time off;
+- if you were present **more** than the expected hours, you should report overtime.
 
-**NOTE:** You CANNOT "compensate" time off with overtime. For instance, you cannot take 30 minutes
-off today and stay 30 minutes more tomorrow _without_ reporting it, but it is perfectly acceptable
-to do it if you report 30 minutes of time off today and 30 minutes of overtime tomorrow.
+**NOTE:** You CANNOT "compensate" time off with overtime on your own. For instance, you cannot take
+30  minutes off today and stay 30 minutes more tomorrow _without_ reporting it, but it is perfectly 
+acceptable to do it if you report 30 minutes of time off today and 30 minutes of overtime tomorrow.
 Compensation does happen, but it is done by HR rather than the individual employee.
 
 ## Hours of work
@@ -91,7 +92,7 @@ to see if there are any inefficiencies in company organization that we can strea
 feel free not to use it if you're not too fond of it or you find it too cumbersome to start the time
 tracker in these situations.    
 
-## Presence vs. work
+## Presence vs. activity
 
 You may have noticed there is some overlap between the two concepts of "hours of presence" and 
 "hours of work".
