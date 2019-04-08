@@ -68,6 +68,16 @@ section.playbook {
   }
 }
 
+// Home reverse columns
+.home {
+  display: flex;
+  flex-direction: column-reverse;
+  
+  @media (min-width: $device-md) {
+    flex-direction: column;
+  }
+}
+
 // Next chapter container
 .section-footer {
   display: flex;
