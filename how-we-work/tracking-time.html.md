@@ -26,11 +26,17 @@ With that said, you have full flexibility when it comes to _when_ you work. For 
 * start at 10am, have lunch from 1pm to 2pm and stop working at 7pm, or
 * start working at 9am, have lunch 1pm to 2:30pm and stop working at 6:30pm.
 
+<<<<<<< HEAD
 At the end of the day, you should calculate the number of hours you have spent at work. If you have
 a standard schedule, this can be easily done by calculating the number of hours between your start
 and end time and subtracting any major breaks, including your lunch break (going to the bathroom or
 any other short breaks do not count). Once you have this number, you should report any time off or
 overtime as needed:
+=======
+When you're not available (hopefully having fun on some remote beach) you should
+[read this](./processes#paid-time-off-and-overtime)
+to know what you can do and what we expect from you.
+>>>>>>> Minor adjustments, set markdown options
 
 - if you were present **less** than the expected hours, you should report time off;
 - if you were present **more** than the expected hours, you should report overtime.

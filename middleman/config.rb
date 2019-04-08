@@ -9,7 +9,7 @@ set :data_dir, 'data'
 set :helpers_dir, 'helpers'
 
 set :markdown_engine, :redcarpet
-set :markdown, fenced_code_blocks: true, smartypants: true
+set :markdown, :fenced_code_blocks => true, :smartypants => true
 
 ## Playbook settings
 set :playbook_topic_belongs_to_section_key, :title
