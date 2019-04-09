@@ -26,32 +26,19 @@ With that said, you have full flexibility when it comes to _when_ you work. For 
 * start at 10am, have lunch from 1pm to 2pm and stop working at 7pm, or
 * start working at 9am, have lunch 1pm to 2:30pm and stop working at 6:30pm.
 
-<<<<<<< HEAD
 At the end of the day, you should calculate the number of hours you have spent at work. If you have
 a standard schedule, this can be easily done by calculating the number of hours between your start
 and end time and subtracting any major breaks, including your lunch break (going to the bathroom or
 any other short breaks do not count). Once you have this number, you should report any time off or
 overtime as needed:
-=======
-When you're not available (hopefully having fun on some remote beach) you should
-[read this](./processes#paid-time-off-and-overtime)
-to know what you can do and what we expect from you.
->>>>>>> Minor adjustments, set markdown options
 
 - if you were present **less** than the expected hours, you should report time off;
 - if you were present **more** than the expected hours, you should report overtime.
 
-<<<<<<< HEAD
 **NOTE:** You CANNOT "compensate" time off with overtime on your own. For instance, you cannot take
 30  minutes off today and stay 30 minutes more tomorrow _without_ reporting it, but it is perfectly
 acceptable to do it if you report 30 minutes of time off today and 30 minutes of overtime tomorrow.
 Compensation does happen, but it is done by HR rather than the individual employee.
-=======
-In order to calculate the hours spent at the office, just calculate the start and end time of a
-working day, subtracting the lunch break time (or any other major break).
-This way you will know if you worked the correct number of hours or if you have
-to [mark leave or overtime hours.](#dipendenti-in-cloud)
->>>>>>> Replace urls that links to Gh Playbook
 
 ## Hours of work
 
@@ -68,7 +55,7 @@ careful not to bill any time we don't spend working for a client.
 
 Unfortunately, the line between billable and non-billable time is not always clear and, as each
 project is unique, there is no universal rule we can set. We trust you to make the right decisions
-in accordance with [our values](https://github.com/nebulab/playbook/blob/master/about-us/our-values.md).
+in accordance with [our values](./about-us#our-values).
 Here are some helpful hints:
 
 We consider this time to be billable:
@@ -78,12 +65,7 @@ We consider this time to be billable:
 - time spent communicating about work done for the client;
 - time spent studying resources we need to work for the client.
 
-<<<<<<< HEAD
 On the other hand, we do not consider this time to be billable:
-=======
-> If I skip a day of work on a client's project, do I have to
-> [make up for it on Friday?](/personal-growth#fridays)
->>>>>>> Replace urls that links to Gh Playbook
 
 - time spent studying generic resources not specific to the client's project (e.g. if you're a
   junior developer and are reading about MVC, we don't want the client to pay for this);
@@ -101,16 +83,10 @@ use. There is a project you should use for your Friday time, a project you shoul
 project you should use for studying... These tend to change over time as we add new projects and
 restructure existing ones, so if you're in doubt, contact your mentor.
 
-<<<<<<< HEAD
 A special mention goes to the **Time Wasting** project. This is a generic project where you can
 track any time you have spent at the office, but not actually working. For instance, this could
 be time you have spent having coffee with a colleague, time spent waiting for direction from your
 mentor/client or anything else that does not strictly qualify as work but still happened _at_ work.
-=======
-One of them is undoubtedly establishing which tasks need to be attributed to a project. There is no
-single interpretation in our industry. However we adopt the following solution, which is in line
-with [our values](./about-us#our-values):
->>>>>>> Replace urls that links to Gh Playbook
 
 Usage of this project is optional. When it is available, we use the data we collect from the project
 to see if there are any inefficiencies in company organization that we can streamline. However, we

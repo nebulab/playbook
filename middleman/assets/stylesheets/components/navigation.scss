@@ -145,18 +145,18 @@
     column-gap: $gutter * 2;
     
     a {
-      min-height: 38px;
-      //min-width: 142px;
+      min-height: 44px;
     }
   }
 
   li {
-    padding: 0 0 1rem;
+    overflow: hidden;
   }
 
   a {
     color: $light-grey;
     display: inline-block;
+    margin: 0 0 .8rem;
 
     &:hover {
       color: $black;

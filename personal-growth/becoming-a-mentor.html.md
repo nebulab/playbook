@@ -1,4 +1,6 @@
-# Becoming a mentor
+---
+title: Becoming a mentor
+---
 
 Mentoring is an essential aspect of Nebulab: our focus on personal and professional growth is one of
 the main reasons people decide to join us. In turn, this focus allows us to stay relevant and to
@@ -244,8 +246,8 @@ help you handle it in the best possible way:
   gotten out of hand, you shouldn't bear this burden alone. Don't be afraid to reach out to someone
   from the leadership team to get help: that's why they're there!
 
-[fridays]: https://github.com/nebulab/playbook/blob/master/personal-growth/fridays.md
-[demo-friday]: https://github.com/nebulab/playbook/blob/master/personal-growth/fridays.md#demo-fridays
+[fridays]: #fridays
+[demo-friday]: #demo-fridays
 [whitespace]: https://en.wikipedia.org/wiki/Whitespace_(programming_language)
-[values]: https://github.com/nebulab/playbook/blob/master/about-us/our-values.md
+[values]: ./about-us#our-values
 [disagree-and-commit]: https://en.wikipedia.org/wiki/Disagree_and_commit

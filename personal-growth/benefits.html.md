@@ -12,13 +12,8 @@ regarding any of the benefits, feel free to ask!
   - ANC headphones (to choose between [Bose QuietComfort 35 II](https://www.bose.it/it_it/products/headphones/over_ear_headphones/quietcomfort-35-wireless-ii.html) and [Sony WH-1000XM3](https://www.sony.it/electronics/cuffie-archetto/wh-1000xm3));
   - [LG 27UK850-W screen](https://www.lg.com/it/monitor/lg-27UK850-W) (IPS, 27", 4K);
   - a [BEKANT desk](https://www.ikea.com/it/it/catalog/products/S69282592/#/S19022808) (of the desired size);
-<<<<<<< HEAD
   - a [a JÄRVFJÄLLET office chair](https://www.ikea.com/it/it/catalog/products/S99275632/#/S89275623).
-- **[Mentoring](https://github.com/nebulab/playbook/blob/master/personal-growth/mentoring-and-1-1.md).**
-=======
-   - a [a JÄRVFJÄLLET office chair](https://www.ikea.com/it/it/catalog/products/S99275632/#/S89275623).
-- **[Mentoring](#).**
->>>>>>> Replace urls that links to Gh Playbook
+- **[Mentoring](#mentoring-and-1:1s).**
   When you become a member of our team, you will be assigned a mentor, who will support your
   personal and professional growth. For example, if you are interested in a given subject and would
   like to study it, or if you have difficulties with a project, do not hesitate to contact your
