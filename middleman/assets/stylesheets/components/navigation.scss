@@ -136,20 +136,27 @@
 .topics-list {
   font-size: $small-fs;
   break-inside: avoid;
-  columns: auto 1;
+  column-count: 1;
+  column-width: auto;
   column-gap: 0;
 
-  @media (min-width: $device-md) {
-    columns: auto 3;
+  @media (min-width: $device-lg) {
+    column-count: 3;
     column-gap: $gutter * 2;
+    
+    a {
+      min-height: 38px;
+      //min-width: 142px;
+    }
   }
 
   li {
-    margin: 0 0 ($gutter - .3);
+    padding: 0 0 1rem;
   }
 
   a {
     color: $light-grey;
+    display: inline-block;
 
     &:hover {
       color: $black;
