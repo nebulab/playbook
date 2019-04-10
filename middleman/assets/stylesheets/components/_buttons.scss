@@ -1,0 +1,115 @@
+.button {
+  border: 1px solid $button-color;
+  color: $button-color;
+  display: inline-block;
+  font-size: $buttons-fs;
+  font-weight: 800;
+  padding: ($gutter - .5) $gutter;
+  letter-spacing: 2px;
+  margin-top: $gutter;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: none;
+  transition: all .3s;
+  
+  .nav & {
+    display: block;
+  }
+  
+  &:hover {
+    background: $button-color;
+    color: $white;
+  }
+}
+
+// Overview card button
+.chapter-link {
+  span {
+    &::after {
+      content: '';
+      background: url("../images/icon-arrow-right.svg") no-repeat;
+      background-size: 14px auto;
+      width: 20px;
+      height: 16px;
+      position: absolute;
+      right: 0;
+      top: 50%;
+      transform: translateY(-7px);
+      transition: transform ease-in-out .2s;
+    }
+  }
+  
+  &:hover {
+    span::after {
+      background: url("../images/icon-arrow-right-hover.svg") no-repeat;
+      background-size: 14px auto;
+      transform: translate(5px, -7px);
+    }
+  }
+}
+
+// Next chapter button
+.chapter-link.button {
+  position: relative;
+  padding-right: $gutter * 1.2;
+  
+  span {
+    padding-right: .5rem;
+    
+    &::after {
+      transform: translateY(-5px);
+      right: .5rem;
+    }
+  }
+  
+  &:hover {
+    span::after {
+      transform: translate(5px, -5px);
+    }
+  }
+}
+
+// Scroll to top button
+.js-button-top {
+  background-color: rgba(95, 191, 253, .75);
+  position: fixed;
+  display: none;
+  bottom: $gutter;
+  right: $gutter;
+  width: 45px;
+  height: 45px;
+  text-decoration: none;
+  border-radius: 50%;
+  
+  &::after {
+    content: '';
+    background: url("../images/icon-arrow-top.svg") no-repeat;
+    background-size: 14px auto;
+    background-position: center;
+    transform: translateY(0);
+    display: block;
+    width: 100%;
+    height: 100%;
+    transition: transform ease-in-out .2s;
+  }
+  
+  &:hover {
+    &::after {
+      transform: translateY(-2px);
+    }
+  }
+  
+  @media (min-width: $device-md) {
+    bottom: $gutter * 1.8;
+    right: $gutter * 1.8;
+  }
+}
+
+// Utilities
+.hide-md {
+  @media (min-width: $device-md) {
+    display: none;
+    visibility: hidden;
+  }
+}
+

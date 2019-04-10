@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+  <%= partial "middleman/layouts/shared/head" %>
+  
+  <body>
+    <%= partial "middleman/layouts/shared/header" %>
+    
+    <%= partial "middleman/layouts/shared/sidebar" %>
+    
+    <div class="overlay"></div>
+
+    <div class="canvas">
+      <div class="main-container">
+        <div class="container home">
+          <%= yield %>
+          
+          <ul class="overview-list">
+            <%= partial 'middleman/layouts/home/page_boxes' %>
+          </ul>
+        </div>
+      </div>
+      
+      <%= partial "middleman/layouts/shared/footer" %>
+    </div>
+    <%= partial "middleman/layouts/shared/cookies" %>
+    <a href="#" class="js-button-top"></a>
+    
+    <%= partial "middleman/layouts/shared/all_js" %>
+  </body>
+</html>

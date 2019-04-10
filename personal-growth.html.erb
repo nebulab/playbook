@@ -1,0 +1,23 @@
+---
+title: Personal growth
+playbook-section-topics:
+  - Mentoring and 1:1s
+  - Fridays
+  - Benefits
+  - Learning English
+  - Conferences
+  - Becoming a mentor
+---
+<div class="chapter-hero personal-growth">
+  <div class="topics-container">
+    <h1 class="title"><%= current_page.data.title %></h1>
+    
+    <% topics = playbook_section_topics_files(current_page) %>
+
+    <%= partial 'middleman/layouts/playbook/section/topics_navigation', locals: { topics: topics } %>
+  </div>
+  
+  <div class="chapter-img-wrapper">
+    <%= image_tag 'personal-growth.svg', :class => 'chapter-img', :width => '366', :height => 'auto' %>
+  </div>
+</div>

@@ -1,0 +1,6 @@
+.DS_Store
+
+middleman/.bundle
+middleman/.cache
+middleman/.sass-cache
+middleman/build/

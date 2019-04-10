@@ -1,0 +1,166 @@
+.main-nav {
+  background-color: $white;
+  z-index: $navbar-z-index;
+  
+  @media (min-width: $device-md) {
+    border-right: 1px solid $border-color;
+    position: fixed;
+    overflow: hidden;
+    top: 0;
+    bottom: 0;
+    width: $nav-aside-width;
+  }
+}
+
+// the overall container
+.canvas,
+.nav  {
+  transition: .5s cubic-bezier(.91,.06,.47,1.05) transform;
+}
+
+// show the nav if the class exists and toggle the icon
+.js-show-nav .canvas {
+  transform: translateX(90%);
+
+  @media (min-width: $device-md) {
+    transform: translateX(344px);
+  }
+}
+
+.js-show-nav .nav {
+  transform: translateX(0);
+}
+
+// Set fixed header on mobile devices
+// header {
+//   z-index: $navbar-z-index;
+// }
+// 
+// .js-show-nav {
+//   @media (max-width: $device-md - 1) {
+//     header {
+//       position: fixed;
+//       top: 0;
+//       width: 100%;
+//     }
+// 
+//     .nav .header {
+//       display: none;
+//       visibility: hidden;
+//     }
+// 
+//     .nav-list {
+//       margin-top: $header-height;
+//     }
+//   }
+// }
+
+// Style the container of navigation
+.nav  {
+  background: $white;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  transform: translateX(-100%);
+  min-height: 100%;
+  overflow-x: hidden;
+  width: 90%;
+  z-index: $nav-z-index;
+  
+  ul {
+    margin: 0 0 $gutter;
+    padding: 0 $gutter;
+  }
+  
+  li {
+    display: block;
+  }
+  
+  @media (min-width: $device-md) {
+    margin-left: $nav-aside-width;
+    width: $nav-width;
+  }
+}
+
+.nav-list li a {
+  position: relative;
+  
+  &::before {
+    content: '';
+    background: $white;
+    border-radius: 50%;
+    border: 1px solid $n_cyan;
+    display: block;
+    position: absolute;
+    width: 7px;
+    height: 7px;
+    transform: translate(-1rem, .2rem);
+  }
+  
+  &:visited {
+    &::before {
+      content: '';
+      background: $n_cyan;
+    }
+  }
+}
+
+.nav-list a {
+  color: $black;
+  display: block;
+  padding: ($gutter - .5) $gutter;
+  font-size: $menu-fs;
+  font-weight: 800;
+  list-style: none;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  text-decoration: none;
+  
+  &:hover {
+    color: $n_cyan;
+  }
+  
+  &[aria-current]:not([aria-current="false"]) {
+    color: $n_cyan;
+  }
+}
+
+// Style div containers inside .nav
+.nav {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+// Topics anchor links
+.topics-list {
+  font-size: $small-fs;
+  break-inside: avoid;
+  column-count: 1;
+  column-width: auto;
+  column-gap: 0;
+
+  @media (min-width: $device-lg) {
+    column-count: 3;
+    column-gap: $gutter * 2;
+    
+    a {
+      min-height: 44px;
+    }
+  }
+
+  li {
+    overflow: hidden;
+  }
+
+  a {
+    color: $light-grey;
+    display: inline-block;
+    margin: 0 0 .8rem;
+
+    &:hover {
+      color: $black;
+      text-decoration: underline;
+    }
+  }
+}

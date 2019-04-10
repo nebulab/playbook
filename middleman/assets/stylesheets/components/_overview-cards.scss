@@ -1,0 +1,101 @@
+//Chapters colors
+$about-us-light:           #F0F8FC;
+$how-we-work-light:        #FFFBCC;
+$development-light:        #F0FCFC;
+$personal-growth-light:    #D4F8EE;
+$processes-light:          #FAF3FC;
+$the-offices-light:        #FCF8F2;
+$useful-resources-light:   #FFF4E0;
+$working-on-nebulab-light: #FEF0FF;
+
+
+.overview-list {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  
+  @media (min-width: $device-lg) {
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+}
+
+.overview-card {
+  margin-bottom: $gutter * 2;
+  padding: $gutter 0;
+  
+  @media (min-width: $device-lg) {
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+    padding: $gutter;
+  }
+
+  @media (min-width: $device-xl) {
+    flex: 0 0 25%;
+    max-width: 25%;
+    padding: $gutter;
+  }
+}
+
+.overview-wrapper {
+  border-radius: $border-radius-lg;
+  background-size: auto 260px;
+  padding: ($gutter * 1.1);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  position: relative;
+  font-weight: 800;
+  height: 318px;
+  width: 100%;
+  transition: .5s cubic-bezier(.91,.06,.47,1.05) all;
+  
+  @media (min-width: $device-lg) {
+    background-size: 80% auto;
+  }
+  
+  &:hover {
+    border-radius: 0;
+    backface-visibility: hidden;
+    transform: scale(1.05);
+    
+    &.chapter-link span {
+      color: $primary-color;
+    }
+  }
+  
+  &.chapter-link span {
+    color: $button-color;
+    display: block;
+    font-weight: 800;
+    line-height: normal;
+    position: absolute;
+    bottom: -($gutter * 2);
+    left: $gutter - 1;
+    right: $gutter - 1;
+  }
+}
+
+.overview-wrapper {
+  $cards: (
+    about-us: $about-us-light,
+    how-we-work: $how-we-work-light,
+    development: $development-light,
+    personal-growth: $personal-growth-light,
+    processes: $processes-light,
+    the-offices: $the-offices-light,
+    useful-resources: $useful-resources-light,
+    working-on-nebulab: $working-on-nebulab-light
+  );
+
+  @each $chapter, $color in $cards {
+    &[name="#{$chapter}"] {
+      //background: $color url("../images/#{$chapter}.svg") no-repeat center/80% auto;
+      background-color: $color;
+      background-image: url("../images/#{$chapter}.svg");
+      background-repeat: no-repeat;
+      background-position: center;
+    }
+  }
+}

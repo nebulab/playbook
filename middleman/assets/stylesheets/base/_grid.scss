@@ -1,0 +1,95 @@
+.logo {
+  display: inline-block;
+  padding: 0 ($gutter - .5) 0 0;
+}
+
+.header .title {
+  color: $light-grey;
+  font-size: $extra-small-fs;
+  text-transform: uppercase;
+}
+
+.main-container {
+  margin: 0 auto ($gutter * 3);
+  position: relative;
+}
+
+.footer {
+  color: lighten($light-grey, 14%);
+  font-size: $smaller-fs;
+  padding: $gutter $gutter ($gutter * 2);
+  text-align: center;
+  
+  p {
+    margin: 0;
+    line-height: normal;
+  }
+}
+
+.header .container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-top: $gutter;
+  padding-bottom: $gutter;
+}
+
+.container {
+  padding-left: $gutter;
+  padding-right: $gutter;
+  width: 100%;
+  
+  .nav & {
+    padding-left: $gutter;
+    padding-right: $gutter;
+  }
+  
+  @media (min-width: $device-md) {
+    padding: 0 ($gutter * 2);
+  }
+}
+
+.main-container,
+.header,
+.footer {
+  @media (min-width: $device-md) {
+    margin-left: $nav-aside-width;
+  }
+}
+
+.nav .header {
+  margin-left: 0; 
+}
+
+section.playbook {
+  @media (min-width: $device-lg) {
+    margin: 0 auto;
+    max-width: 700px;
+  }
+}
+
+// Home reverse columns
+.home {
+  display: flex;
+  flex-direction: column-reverse;
+  
+  @media (min-width: $device-md) {
+    flex-direction: column;
+  }
+}
+
+// Next chapter container
+.section-footer {
+  display: flex;
+  justify-content: center;
+  
+  @media (min-width: $device-md) {
+    justify-content: flex-end;
+  }
+}
+
+*,
+*:after,
+*:before {
+  box-sizing: border-box;
+}

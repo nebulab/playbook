@@ -1,0 +1,38 @@
+.cookie-message {
+  background: rgba(34, 34, 34, .9);
+  padding: ($gutter / 2);
+  position: fixed;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  font-size: $smaller-fs;
+  text-align: center;
+  z-index: $cookies-z-index;
+  
+  a {
+    color: $white;
+    
+    &:hover {
+      background: transparent;
+      opacity: .5;
+    }
+  }
+  
+  p {
+    color: $light-grey;
+    margin: 0;
+    line-height: normal;
+  }
+}
+
+.close-button {
+  cursor: pointer;
+  border: 0;
+  margin: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.cookie-message[style=""] + .js-button-top {
+  bottom: 4rem;
+}

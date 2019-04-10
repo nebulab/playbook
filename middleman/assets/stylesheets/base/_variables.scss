@@ -1,0 +1,61 @@
+//Corporate colors
+$n_cyan: #5fbffd;
+$n_yellow: #fef135;
+$n_dark-grey: #3e3e3e;
+
+//Website colors
+$white: #ffffff;
+$black: #222222;
+$light-grey: #898989;
+$light-blue: #f0f7fc;
+
+$primary-color:       $n_cyan;
+$secondary-color:     $n_yellow;
+$heading-color:       $n_dark-grey;
+$p-color:             $n_dark-grey;
+$border-color:        #e2e2e2;
+$section-title-color: $primary-color;
+$button-color:        $n_dark-grey;
+$link-color:          $n_cyan;
+$link-hover-color:    darken($n_cyan, 10%);
+
+//Font families
+$sans-ff: "Eina03", sans-serif;
+$serif-ff: "freight-display-pro", sans-serif;
+
+//Font sizes
+$body-fs:        1.125em; // 18px
+$small-fs:       0.889em; //16px
+$smaller-fs:     0.778em;
+$extra-small-fs: 0.611em;
+$blog-fs:        1.111em; //20px
+
+$menu-fs:    $extra-small-fs;
+$buttons-fs: $extra-small-fs;
+
+//Grid
+$gutter: 1.5rem;
+//
+$device-sm: 576px;
+$device-md: 768px;
+$device-lg: 992px;
+$device-xl: 1200px;
+//$container-width: 1480px;
+
+//Navbar
+$nav-aside-width: 65px;
+
+//Nav
+$nav-width: 278px;
+
+//header
+$header-height: 98px;
+
+//Chapters
+$border-radius-lg: 1.5rem;
+
+// z-index
+$cookies-z-index:     1001;
+$navbar-z-index:      1000;
+$nav-z-index:         999;
+$overlay-z-index:     998;

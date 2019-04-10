@@ -1,0 +1,22 @@
+---
+title: How we work
+playbook-section-topics:
+  - Where, when and how
+  - Tools
+  - Tracking time
+  - Meetings
+  - Client guide
+---
+<div class="chapter-hero how-we-work">
+  <div class="topics-container">
+    <h1 class="title"><%= current_page.data.title %></h1>
+    
+    <% topics = playbook_section_topics_files(current_page) %>
+
+    <%= partial 'middleman/layouts/playbook/section/topics_navigation', locals: { topics: topics } %>
+  </div>
+  
+  <div class="chapter-img-wrapper">
+    <%= image_tag 'how-we-work.svg', :class => 'chapter-img', :width => '366', :height => 'auto' %>
+  </div>
+</div>

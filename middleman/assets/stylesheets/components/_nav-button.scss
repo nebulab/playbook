@@ -1,0 +1,97 @@
+.nav-button {
+  background: $white;
+  border-radius: 50%;
+  width: 45px;
+  height: 45px;
+  position: absolute;
+  top: $gutter;
+  right: 5%;
+  transition: all .25s;
+  padding: 17px 0 0 12px;
+  cursor: pointer;
+  z-index: $navbar-z-index;
+  
+  @media (min-width: $device-md){
+    background: transparent;
+    position: fixed;
+    left: $gutter / 2;
+    right: auto;
+  }
+  
+  &:hover {
+    .nav-button__line {
+      background: $primary-color;
+      &:last-child {
+        width: 20px;
+        height: 2px;
+      }
+    }
+  }
+
+  &__line {
+    transition: all .25s;
+    transition: all .25s;
+    margin: 0 0 3px 0;
+    width: 20px;
+    height: 2px;
+    background: $button-color;
+    display: block;
+    &:last-child {
+      width: 14px;
+      height: 2px;
+    }
+  }
+
+  .js-show-nav & {
+    padding: 12px 0 0 13px;
+    
+    &:hover {
+      transform: rotate(0deg);
+    }
+  
+    .nav-button__line {
+      transform: rotate(45deg);
+      margin: 4px 0 0 0;
+      &:first-child {
+        position: relative;
+        top: 6px;
+        transform: rotate(-45deg);
+      }
+      
+      &:last-child {
+        display: none;
+      }
+    }
+  }
+}
+
+.overview-button {
+  display: none;
+  visibility: hidden;
+  position: fixed;
+  bottom: $gutter;
+  left: .65rem;
+  width: 45px;
+  height: 45px;
+  padding: 0 0 17px 12px;
+  cursor: pointer;
+  
+  @media (min-width: $device-md) {
+    display: block;
+    visibility: visible;
+    
+    .icon-overview {
+      background: url("../images/icon-overview.svg") no-repeat;
+      background-size: 100% auto;
+      display: inline-block;
+      width: 20px;
+      height: 20px;
+    }
+    
+    &:hover {
+      .icon-overview {
+        background: url("../images/icon-overview-hover.svg") no-repeat;
+      }
+    }
+  }
+}

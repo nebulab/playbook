@@ -1,0 +1,33 @@
+items:
+  - image_path: about-us.svg
+    title: about-us
+    description: About us
+    url: /about-us
+  - image_path: how-we-work.svg
+    title: how-we-work
+    description: How we work
+    url: /how-we-work
+  - image_path: personal-growth.svg
+    title: personal-growth
+    description: Personal growth
+    url: /personal-growth
+  - image_path: processes.svg
+    title: processes
+    description: Processes
+    url: /processes
+  - image_path: the-offices.svg
+    title: the-offices
+    description: The offices
+    url: /the-offices
+  - image_path: working-on-nebulab.svg
+    title: working-on-nebulab
+    description: Working on Nebulab
+    url: /working-on-nebulab
+  - image_path: development.svg
+    title: development
+    description: Development
+    url: /development
+  - image_path: useful-resources.svg
+    title: useful-resources
+    description: Useful resources
+    url: /useful-resources

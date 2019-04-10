@@ -1,0 +1,19 @@
+---
+title: The offices
+playbook-section-topics:
+  - Wi-Fi
+  - Music
+---
+<div class="chapter-hero the-offices">
+  <div class="topics-container">
+    <h1 class="title"><%= current_page.data.title %></h1>
+    
+    <% topics = playbook_section_topics_files(current_page) %>
+
+    <%= partial 'middleman/layouts/playbook/section/topics_navigation', locals: { topics: topics } %>
+  </div>
+  
+  <div class="chapter-img-wrapper">
+    <%= image_tag 'the-offices.svg', :class => 'chapter-img', :width => '440', :height => 'auto' %>
+  </div>
+</div>

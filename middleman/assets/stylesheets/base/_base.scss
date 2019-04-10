@@ -1,0 +1,76 @@
+body.js-show-nav {
+  overflow: hidden;
+}
+
+img, object, embed {
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+}
+
+nav ul {
+  list-style: none;
+  line-height: normal;
+  padding: 0;
+  
+  li {
+    padding: 0;
+  }
+}
+
+ul,
+ol {
+  line-height: 2.2rem;
+  
+  li {
+    padding: 0 0 0 1rem;
+  }
+}
+
+table {
+  border-collapse: collapse;
+  border-color: $border-color;
+  border-spacing: 0;
+  display: block;
+  overflow-x: auto;
+  width: 100%;
+  
+  th {
+    border: 1px solid $border-color;
+    font-weight: 800;
+    padding: ($gutter / 2) ($gutter - .5);
+    text-align: center;
+  }
+  
+  tr {
+    border-top: 1px solid $border-color;
+    
+    &:nth-child(2n) {
+      background-color: #f8f8f8;
+    }
+  }
+  
+  td {
+    border: 1px solid $border-color;
+    padding: ($gutter / 2) ($gutter - .5);
+  }
+}
+
+code {
+  color: darken($p-color, 20);
+  background: lighten($light-grey, 42%);
+  border-radius: 3px;
+  display: inline-block;
+  font-size: 1em;
+  font-family: monospace;
+  line-height: 1.15em;
+  padding: .2rem .4rem;
+  word-wrap: break-word;
+}
+
+blockquote {
+  border-left: 3px solid $border-color;
+  color: darken($p-color, 20%);
+  margin: ($gutter * 2) 0;
+  padding: 0 $gutter;
+}

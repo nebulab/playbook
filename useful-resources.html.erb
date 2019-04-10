@@ -1,0 +1,21 @@
+---
+title: Useful resources
+playbook-section-topics:
+  - Privacy policy
+  - Email signature
+  - Profile picture
+  - Press kit
+---
+<div class="chapter-hero useful-resources">
+  <div class="topics-container">
+    <h1 class="title"><%= current_page.data.title %></h1>
+    
+    <% topics = playbook_section_topics_files(current_page) %>
+
+    <%= partial 'middleman/layouts/playbook/section/topics_navigation', locals: { topics: topics } %>
+  </div>
+  
+  <div class="chapter-img-wrapper">
+    <%= image_tag 'useful-resources.svg', :class => 'chapter-img', :width => '440', :height => 'auto' %>
+  </div>
+</div>
