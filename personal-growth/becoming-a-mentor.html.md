@@ -249,5 +249,5 @@ help you handle it in the best possible way:
 [fridays]: #fridays
 [demo-friday]: #demo-fridays
 [whitespace]: https://en.wikipedia.org/wiki/Whitespace_(programming_language)
-[values]: about-us#our-values
+[values]: /about-us#our-values
 [disagree-and-commit]: https://en.wikipedia.org/wiki/Disagree_and_commit

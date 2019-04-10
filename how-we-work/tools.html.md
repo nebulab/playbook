@@ -65,7 +65,7 @@ In order to get an idea of how to track time on Harvest, look at
 In order to keep track of vacations, leave, overtime and sick leave, we use
 [Dipendenti in cloud](https://secure.dipendentincloud.it/app/dashboard).
 
-You can track [time off](processes#paid-time-off-and-overtime) 
+You can track [time off](/processes#paid-time-off-and-overtime) 
 by clicking to the [Presenze](https://secure.dipendentincloud.it/app/timesheet) tab and clicking on 
 a day (or dragging the mouse over several days).
 

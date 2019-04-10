@@ -140,7 +140,7 @@ Your mentor will help you choose which conferences to attend. Propose your confe
 in accordance with our [yearly allowance](#yearly-budget-and-days-amount), and explain why you are
 interested in those events.
 
-Finally, make sure to [get the most out of your conferences.](personal-growth#conferences)
+Finally, make sure to [get the most out of your conferences.](/personal-growth#conferences)
 
 Please note that a three-month notice is required to attend non-European conferences/events, and a
 two-month notice is required to attend European/Italian conferences/events.

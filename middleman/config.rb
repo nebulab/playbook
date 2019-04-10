@@ -8,9 +8,6 @@ set :layouts_dir, 'middleman/layouts'
 set :data_dir, 'data'
 set :helpers_dir, 'helpers'
 
-set :markdown_engine, :redcarpet
-set :markdown, :fenced_code_blocks => true, :smartypants => true
-
 ## Playbook settings
 set :playbook_topic_belongs_to_section_key, :title
 set :playbook_section_has_many_topics_key, 'playbook-section-topics'
@@ -18,7 +15,7 @@ set :playbook_section_has_many_topics_key, 'playbook-section-topics'
 # Ignored paths
 ignore '**/.keep'
 ignore '.github/**'
-ignore /^middleman(?!\/assets)(?!\/admin).*/
+ignore /^middleman(?!\/assets)(?!\/admin)(?!\/uploads).*/
 ignore /^(?!middleman\/).+\/.*/
 
 # Activate and configure extensions
