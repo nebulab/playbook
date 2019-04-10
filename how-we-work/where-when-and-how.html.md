@@ -2,7 +2,7 @@
 title: Where, when and how
 ---
 Our working day consists of four days devoted to work for external clients (not necessarily always 
-with the same client) and one day, [Friday](./personal-growth#fridays), 
+with the same client) and one day, [Friday](personal-growth#fridays), 
 dedicated exclusively to learning, internal projects or open source contributions.
 
 We work an 8-hour day, though these are reasonably flexible. In any case, legally, you cannot exceed

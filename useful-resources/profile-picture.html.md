@@ -7,13 +7,13 @@ You will be included in the list once you have yours.
 
 This is a picture of the photo set that we usually use to take the photos.
 
-![Photo Set](./middleman/assets/images/set.jpg)
+![Photo Set](middleman/assets/images/set.jpg)
 
 There is no need to create an exact reproduction of this set. It is only provided as an example. All
 we require is for your photo to be consistent with the others. Here is the result of the photo:
 
-![Pre Production](./middleman/assets/images/pre-production.jpg)
+![Pre Production](middleman/assets/images/pre-production.jpg)
 
 These assets must be provided to Davide (@davidedistefano), who is in charge of post-production to finalize the photo:
 
-![Post Production](./middleman/assets/images/post-production.jpg)
+![Post Production](middleman/assets/images/post-production.jpg)
