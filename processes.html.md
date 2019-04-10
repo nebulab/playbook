@@ -1,5 +1,9 @@
 ---
 title: Processes
+slug: processes
+image:
+  filename: processes.svg
+  width: 440
 playbook-section-topics:
   - Hiring
   - Travel policy

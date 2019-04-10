@@ -1,5 +1,9 @@
 ---
 title: Personal growth
+slug: personal-growth
+image:
+  filename: personal-growth.svg
+  width: 366
 playbook-section-topics:
   - Mentoring and 1:1s
   - Fridays

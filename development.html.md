@@ -1,5 +1,9 @@
 ---
 title: Development
+slug: development
+image:
+  filename: development.svg
+  width: 383
 playbook-section-topics:
   - Development environment
   - Style guide

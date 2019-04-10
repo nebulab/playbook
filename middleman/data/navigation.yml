@@ -1,33 +1,25 @@
 items:
-  - image_path: about-us.svg
-    title: about-us
-    description: About us
+  - slug: about-us
+    title: About us
     url: /about-us
-  - image_path: how-we-work.svg
-    title: how-we-work
-    description: How we work
+  - slug: how-we-work
+    title: How we work
     url: /how-we-work
-  - image_path: personal-growth.svg
-    title: personal-growth
-    description: Personal growth
+  - slug: personal-growth
+    title: Personal growth
     url: /personal-growth
-  - image_path: processes.svg
-    title: processes
-    description: Processes
+  - slug: processes
+    title: Processes
     url: /processes
-  - image_path: the-offices.svg
-    title: the-offices
-    description: The offices
+  - slug: the-offices
+    title: The offices
     url: /the-offices
-  - image_path: working-on-nebulab.svg
-    title: working-on-nebulab
-    description: Working on Nebulab
+  - slug: working-on-nebulab
+    title: Working on Nebulab
     url: /working-on-nebulab
-  - image_path: development.svg
-    title: development
-    description: Development
+  - slug: development
+    title: Development
     url: /development
-  - image_path: useful-resources.svg
-    title: useful-resources
-    description: Useful resources
+  - slug: useful-resources
+    title: Useful resources
     url: /useful-resources
