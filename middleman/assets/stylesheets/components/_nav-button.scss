@@ -6,7 +6,7 @@
   position: absolute;
   top: $gutter;
   right: 5%;
-  transition: all .25s;
+  transition: all .1s;
   padding: 17px 0 0 12px;
   cursor: pointer;
   z-index: $navbar-z-index;
@@ -29,8 +29,8 @@
   }
 
   &__line {
-    transition: all .25s;
-    transition: all .25s;
+    transition: all .1s;
+    transition: all .1s;
     margin: 0 0 3px 0;
     width: 20px;
     height: 2px;

@@ -12,18 +12,60 @@
   }
 }
 
+// the overall container
+.canvas,
+.nav  {
+  transition: .5s cubic-bezier(.91,.06,.47,1.05) transform;
+}
+
+// show the nav if the class exists and toggle the icon
+.js-show-nav .canvas {
+  transform: translateX(90%);
+
+  @media (min-width: $device-md) {
+    transform: translateX(344px);
+  }
+}
+
+.js-show-nav .nav {
+  transform: translateX(0);
+}
+
+// Set fixed header on mobile devices
+// header {
+//   z-index: $navbar-z-index;
+// }
+// 
+// .js-show-nav {
+//   @media (max-width: $device-md - 1) {
+//     header {
+//       position: fixed;
+//       top: 0;
+//       width: 100%;
+//     }
+// 
+//     .nav .header {
+//       display: none;
+//       visibility: hidden;
+//     }
+// 
+//     .nav-list {
+//       margin-top: $header-height;
+//     }
+//   }
+// }
+
 // Style the container of navigation
 .nav  {
   background: $white;
   position: fixed;
   top: 0;
   bottom: 0;
+  transform: translateX(-100%);
   min-height: 100%;
   overflow-x: hidden;
   width: 90%;
   z-index: $nav-z-index;
-  // enables momentum scrolling in iOS overflow elements
-  -webkit-overflow-scrolling: touch;
   
   ul {
     margin: 0 0 $gutter;
@@ -84,49 +126,10 @@
 }
 
 // Style div containers inside .nav
-.offcanvas-content {
+.nav {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  min-height: 100%;
-  //
-  visibility: hidden;
-}
-
-// Menu Movement
-.offcanvas-left {
-  transform: translate3d(-100%, 0, 0);
-  
-  @media (min-width: $device-md) {
-    transform: translate3d( unquote('-' + $nav-width) , 0, 0);
-  }
-}
-
-.js-show-nav {
-  .canvas {
-    transform: translate3d(90%, 0, 0);
-    
-    @media (min-width: $device-md) {
-      transform: translate3d($nav-width, 0, 0);
-    }
-  }
-  
-  .offcanvas-content {
-    visibility: visible;
-  }
-  
-  .offcanvas-left {
-    transform: translate3d(0,0,0);
-  }
-}
-
-.canvas,
-.nav {
-  transition: transform .2s cubic-bezier(.16, .68, .43, .99);
-}
-
-.offcanvas-content {
-  transition: visibility .2s cubic-bezier(.16, .68, .43, .99);
 }
 
 // Topics anchor links
@@ -161,27 +164,3 @@
     }
   }
 }
-
-// Set fixed header on mobile devices
-// header {
-//   z-index: $navbar-z-index;
-// }
-// 
-// .js-show-nav {
-//   @media (max-width: $device-md - 1) {
-//     header {
-//       position: fixed;
-//       top: 0;
-//       width: 100%;
-//     }
-// 
-//     .nav .header {
-//       display: none;
-//       visibility: hidden;
-//     }
-// 
-//     .nav-list {
-//       margin-top: $header-height;
-//     }
-//   }
-// }
