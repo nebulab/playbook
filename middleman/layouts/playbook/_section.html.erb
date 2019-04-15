@@ -1,3 +1,17 @@
+<div class="chapter-hero <%= current_page.data.slug %>">
+  <div class="topics-container">
+    <h1 class="title"><%= current_page.data.title %></h1>
+    
+    <% topics = playbook_section_topics_files(current_page) %>
+
+    <%= partial 'middleman/layouts/playbook/section/topics_navigation', locals: { topics: topics } %>
+  </div>
+  
+  <div class="chapter-img-wrapper">
+    <%= image_tag current_page.data.image.filename, :class => 'chapter-img', :width => current_page.data.image.width, :height => 'auto' %>
+  </div>
+</div>
+
 <section class="playbook">
   <h6 class="title"><%= current_page.data.title %></h6>
   <% topics = playbook_section_topics_files(current_page) %>

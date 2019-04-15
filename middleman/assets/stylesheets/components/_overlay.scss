@@ -11,10 +11,21 @@
   bottom: 0;
   background-color: rgba(0, 0, 0, .2);
   z-index: $overlay-z-index;
+  animation: fade 500ms;
   
   .js-show-nav & {
     display: block;
     opacity: 1;
     visibility: visible;
   }
+}
+
+@keyframes fade{
+    0%   { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+@-webkit-keyframes fade{
+    0%   { opacity: 0; }
+    100% { opacity: 1; }
 }

@@ -17,12 +17,12 @@ The onboarding process consists of six different steps:
    that might help us understand whether your project is a good fit for us. These might be 
    functional specifications, a project management tool, or your existing codebase. We're happy to
    sign an NDA if needed. We can provide
-   [a sample NDA](./middleman/assets/documents/nda-draft.pdf) - if you
+   [a sample NDA](/middleman/uploads/nda-draft.pdf) - if you
    need any adjustments to it just let us know.
 3. **Negotiation and contract:** If we determine that we can provide value to your project, we'll
    send you an overview of the resources we expect will be needed to accomplish the required goals,
    along with their cost. If everything looks alright to you, we'll send you a contract to sign.
-   [Here's a sample contract](./middleman/assets/documents/contract-draft.pdf).
+   [Here's a sample contract](/middleman/uploads/contract-draft.pdf).
 4. **Tool onboarding:** Once the contract is signed, we will ask you to provide access to all the
    tools we will need to use to work on your project. Typically, these include your preferred
    communication tool (we prefer Slack, but other tools work too), your current project management 
