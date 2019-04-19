@@ -12,10 +12,18 @@ flight tickets and so on.
 
 ## Travel
 
+Regardless of how much time you spend traveling, we consider travel days (Mon-Fry) as full 8-hour
+workdays. Travel during the weekend (Sat-Sun) is not considered work time, but we always try to book
+trips during the workweek.
+
+We choose comfortable seats and arrangements to allow people to work during the journey and make up
+for the lost time, but working is not mandatory since not everyone is comfortable working while on
+the move.
+
 ### Trains
 
 We'll reserve first-class seats at the time preferred by the team member, if possible. There might
-be fluctuations of 1 hour from the schedued time.
+be fluctuations of 1 hour from the scheduled time.
 
 ### Flights
 
