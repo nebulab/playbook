@@ -10,5 +10,5 @@ We have two solutions for listening to the music, depending on the office:
   manage the system by installing the app for your own devices (desktop/mobile) directly from
   [Sonos site](https://www.sonos.com/redir/controller_software_mac).
 
-Out of respect for others, please avoid extreme musical genres at all costs, such as Norwegian death
-metal, rap, trap or pop trash such as Nicki Minaj.
+Out of respect for others, please make sure the music you put on is okay with everyone and is not
+preventing them from doing their job.
