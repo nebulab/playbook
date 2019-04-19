@@ -55,7 +55,7 @@ behaviors.
   adapting them to our teaching style.
 - We operate with high standards and politely expect others to do the same.
 
-## Problem owning
+## Ownership
 
 - We pay the necessary attention to problems, finding a compromise between technical perfection and
   the value that our solution brings to the project.
