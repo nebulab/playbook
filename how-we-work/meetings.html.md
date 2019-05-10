@@ -65,6 +65,37 @@ Additionally, if you are the organizer:
   responsibility to remind everyone what the current point on the agenda is, and it's in everyone's
   interest that the meeting stays on track and all the points are addressed in the allotted time.
 
+### Tracking decisions
+
+As the organizer, it is your responsibility to ensure that people follow-up and execute on any
+decisions taken during the meeting, and your strategy for doing this will be different depending on
+what kind of decision you have taken.
+
+At Nebulab, we consider decisions taken during a meeting to be one of three possible types:
+
+- **Short-term actionables**: these are quick tasks that a specific person commits to execute right
+  away. Example: Jane will reply to the new sales lead. If the task is very quick, it can be
+  executed during the meeting. Otherwise, you should create a todo in the meeting management tool
+  and assigned to the right person. You should keep the corresponding item in the agenda open until
+  the task is executed.
+- **Long-term actionables**: these are tasks that are too complex to be executed immediately or are
+  lacking important information which is needed for execution. They may be assigned to one or
+  multiple persons. Example: Dave and Mary will write the marketing content for the upcoming
+  conference. You should create a todo/issue in whatever project management tool (e.g. Trello, Jira)
+  the team is using for that project and assign it to the right person(s). You should summarize and
+  close the corresponding item in the agenda, to avoid having lingering agenda items.
+- **Strategic decisions**: these are high-level decisions that either involve multiple tasks (i.e.
+  projects) or describe a behavior/trait the company/team wants to adopt. They are almost always a
+  team-concerted effort. Example: The leadership team has decided to increase the conference budget
+  to 15 days/year per team member. These decisions should be written down in whatever document is
+  being used to track the relevant policy (e.g. company playbook, sales team handbook). You should
+  summarize and close the corresponding item in the agenda.
+
+This framework allows us to maintain our bias for action while also ensuring we never execute on
+tasks without the necessary context. It also ensures that we only execute on decisions that have
+been properly documented and explained: if a decision was taken but not written down anywhere, it
+effectively does not exist and shouldn't be executed.
+
 ## After the meeting
 
 - **Think about the meeting.** Take five minutes to reorganize the notes and reflect on what has
