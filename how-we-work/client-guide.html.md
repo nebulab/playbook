@@ -11,7 +11,7 @@ the way we do.
 The onboarding process consists of six different steps:
 
 1. **Kick-off call:** During this call we'll get to know each other. We'll introduce ourselves, our
-   tools and our processes. We will also ask you to explain your project's goals and current work
+   tools and our practices. We will also ask you to explain your project's goals and current work
    methodology (if any) and what you expect from us.
 2. **Project evaluation:** After the kick-off call, we'll ask for access to any existing materials
    that might help us understand whether your project is a good fit for us. These might be 

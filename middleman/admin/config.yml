@@ -134,9 +134,9 @@ collections:
           - label: Body
             name: body
             widget: markdown
-      - file: processes.html.md
-        label: Processes
-        name: processes
+      - file: people-ops.html.md
+        label: People operations
+        name: people-ops
         format: frontmatter
         create: false
         delete: false
@@ -154,7 +154,7 @@ collections:
               label: Topic
               name: playbook-section-topic
               widget: relation
-              collection: processes-section-topics
+              collection: people-ops-section-topics
               searchFields:
                 - title
               valueField: title
@@ -317,10 +317,10 @@ collections:
       - label: Body
         name: body
         widget: markdown
-  - label: '"Processes" section topics'
-    name: processes-section-topics
-    label_singular: '"Processes" section topic'
-    folder: processes/
+  - label: '"People operations" section topics'
+    name: people-ops-section-topics
+    label_singular: '"People operations" section topic'
+    folder: people-ops/
     extension: .html.md
     format: frontmatter
     create: true

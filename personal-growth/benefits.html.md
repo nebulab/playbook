@@ -28,11 +28,11 @@ regarding any of the benefits, feel free to ask!
 - **[Remote work](/how-we-work#remote-work).** 
   Despite having two offices, our culture is absolutely _remote-first_. It is possible at any time
   to work remotely, whether you want to do it for a day, a year or indefinitely.
-- **[Team retreats.](/processes#team-retreats)**
+- **[Team retreats.](/people-ops#team-retreats)**
   Each year we organize a team retreat where we work and have fun together. The purpose of these
   meetings is to let members of the team who work in different offices or remotely socialize; your
   are encouraged to take part!
-- **[Paid conferences](/processes#conferences).** 
+- **[Paid conferences](/personal-growth#conferences).** 
   The cost of taking part in industry conferences are fully paid by us.
 - **Internet budget.** If you work remotely, we will pay the costs of your home Internet connection.
   Having a good connection is not only in your interest, but also in the interest of your team

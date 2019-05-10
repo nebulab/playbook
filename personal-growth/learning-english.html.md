@@ -84,5 +84,5 @@ occasions, so you should hop along whenever you have the chance if you want to i
 We also encourage you to travel in your free time as much as you can, it's a really great experience
 for so many reasons.
 
-Make sure to check out our [Conferences](#conferences) 
-and [Travel](/processes#travel-policy) policies!
+Make sure to check out our [Conferences](#people-ops) and [Travel](/people-ops#travel-policy)
+policies!
