@@ -1,8 +1,8 @@
 ---
-title: Processes
-slug: processes
+title: People operations
+slug: people-ops
 image:
-  filename: processes.svg
+  filename: people-ops.svg
   width: 440
 playbook-section-topics:
   - Hiring

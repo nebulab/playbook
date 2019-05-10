@@ -2,7 +2,7 @@
 title: Resignation
 ---
 The employment contract provides the worker with the option of withdrawing unilaterally from the
-contract by submitting his/her resignation. The [resignation processes](https://www.cliclavoro.gov.it/Cittadini/Pagine/Adempimenti.aspx)
+contract by submitting his/her resignation. The [resignation process](https://www.cliclavoro.gov.it/Cittadini/Pagine/Adempimenti.aspx)
 is remote and can be sent in various ways:
 
 - Autonomously, on the [clicklavoro.gov.it website](http://clicklavoro.gov.it) for all those who 
