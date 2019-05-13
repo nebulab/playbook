@@ -5,7 +5,7 @@
   font-size: $buttons-fs;
   font-weight: 800;
   padding: ($gutter - .5) $gutter;
-  margin-top: $gutter;
+  margin-top: ($gutter - .5);
   text-align: center;
   text-transform: uppercase;
   text-decoration: none;
@@ -37,6 +37,9 @@
   }
   
   &:hover {
+    background-color: transparent;
+    color: $primary-color;
+    
     &::before {
       background: url("../images/icon-overview-hover.svg") no-repeat;
     }

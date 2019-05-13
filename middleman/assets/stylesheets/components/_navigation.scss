@@ -1,26 +1,13 @@
-.main-nav {
-  background-color: $white;
-  border-right: 1px solid $border-color;
-  position: fixed;
-  overflow: hidden;
-  top: 0;
-  bottom: 0;
-  z-index: $navbar-z-index;
-  
-  @media (min-width: $device-md) {
-    display: none;
-  }
-}
-
 // Style the container of navigation
 .sidebar  {
   background: $white;
   bottom: 0;
+  top: 0;
+  display: none;
   position: fixed;
   min-height: 100%;
   overflow-x: hidden;
   width: 100%;
-  visibility: hidden;
   z-index: $nav-z-index;
   // enables momentum scrolling in iOS overflow elements
   -webkit-overflow-scrolling: touch;
@@ -31,11 +18,12 @@
   }
   
   li {
+    cursor: pointer;
     display: block;
   }
   
   @media (min-width: $device-md) {
-    visibility: visible;
+    display: block !important;
     border-right: 1px solid $border-color;
     top: $header-height;
     width: $nav-width;
@@ -47,9 +35,11 @@
   flex-direction: column;
   justify-content: space-between;
   min-height: 100%;
+  padding-right: 80px;
   
   @media (min-width: $device-md) {
     padding-bottom: $header-height;
+    padding-right: 0;
   }
 }
 
@@ -70,19 +60,6 @@
       color: $black;
     }
     
-    &:hover::after,
-    &[aria-current]:not([aria-current="false"])::after {
-      content: '';
-      background: url("../images/icon-chevron-down.svg") no-repeat;
-      background-size: 10px auto;
-      width: 10px;
-      height: 6px;
-      position: absolute;
-      right: 0;
-      top: 50%;
-      transform: translateY(-3px);
-    }
-    
     &[aria-current]:not([aria-current="false"]) {
       color: $black;
     }
@@ -90,6 +67,7 @@
   
   // Submenu
   .submenu {
+    display: none;
     padding-left: ($gutter - .5);
     margin: 0;
     
@@ -100,39 +78,76 @@
       &:hover {
         color: $primary-color;
       }
+      
+      &[aria-current]:not([aria-current="false"]) {
+        color: $primary-color;
+        
+        @media (min-width: $device-md) {
+          &::after {
+            content: '';
+            border-right: 2px solid $primary-color;
+            height: 30px;
+            position: absolute;
+            right: -($gutter);
+            top: -.5rem;
+          }
+        }
+      }
     }
   }
 }
 
-// Topics anchor links
-// .topics-list {
-//   font-size: $small-fs;
-//   break-inside: avoid;
-//   column-count: 1;
-//   column-width: auto;
-//   column-gap: 0;
-// 
-//   @media (min-width: $device-lg) {
-//     column-count: 3;
-//     column-gap: $gutter * 2;
-// 
-//     a {
-//       min-height: 44px;
-//     }
-//   }
-// 
-//   li {
-//     overflow: hidden;
-//   }
-// 
-//   a {
-//     color: $light-grey;
-//     display: inline-block;
-//     margin: 0 0 .8rem;
-// 
-//     &:hover {
-//       color: $black;
-//       text-decoration: underline;
-//     }
-//   }
-// }
+// Chevron down
+.nav-list > li > a,
+.nav-list > li > a[aria-current]:not([aria-current="false"]),
+.nav-list > li.opened > a {
+  color: $black;
+  
+  &::after {
+    content: '';
+    background-size: 10px auto;
+    width: 10px;
+    height: 6px;
+    position: absolute;
+    right: 0;
+    top: 25%;
+  }
+}
+
+// Display chevron on hover on large devices
+// display ever on small devices
+.nav-list-item {
+  > a,
+  &.opened > a,
+  > a [aria-current]:not([aria-current="false"]) {
+    &::after {
+      background: url("../images/icon-chevron-down.svg") no-repeat;
+    }
+  }
+  
+  > a {
+    @media (min-width: $device-md) {
+      &::after {
+        background: none;
+      }
+      
+      &:hover {
+        &::after {
+          background: url("../images/icon-chevron-down.svg") no-repeat;
+        }
+      }
+    }
+  }
+}
+
+.nav-list-item {
+  > a::after {
+    transition: all .3s ease-in-out;
+  }
+  
+  &.opened > a {
+    &::after {
+      transform: rotate(180deg);
+    }
+  }
+}
