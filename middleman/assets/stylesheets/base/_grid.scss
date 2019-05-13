@@ -1,17 +1,40 @@
 .logo {
   display: inline-block;
-  padding: 0 ($gutter - .5) 0 0;
+  margin: $gutter;
+  text-decoration: none;
+  outline: 0;
 }
 
 .header .title {
   color: $light-grey;
+  display: block;
   font-size: $extra-small-fs;
   text-transform: uppercase;
+  text-align: right;
+}
+
+.header {
+  border-bottom: 1px solid $border-color;
+  height: $header-height;
+  position: relative;
+  width: 100%;
+  
+  @media (min-width: $device-md) {
+    border-right: 1px solid $border-color;
+    width: $nav-width;
+    position: fixed;
+    left: 0;
+    top: 0;
+  }
 }
 
 .main-container {
-  margin: 0 auto ($gutter * 3);
+  //margin: 0 auto ($gutter * 3);
   position: relative;
+  
+  @media (min-width: $device-md) {
+    margin-top: $header-height;
+  }
 }
 
 .footer {
@@ -26,39 +49,20 @@
   }
 }
 
-.header .container {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  padding-top: $gutter;
-  padding-bottom: $gutter;
-}
-
 .container {
   padding-left: $gutter;
   padding-right: $gutter;
-  width: 100%;
-  
-  .nav & {
-    padding-left: $gutter;
-    padding-right: $gutter;
-  }
   
   @media (min-width: $device-md) {
     padding: 0 ($gutter * 2);
   }
 }
 
-.main-container,
-.header,
-.footer {
+.container.home,
+.container.page {
   @media (min-width: $device-md) {
-    margin-left: $nav-aside-width;
+    margin-left: $nav-width;
   }
-}
-
-.nav .header {
-  margin-left: 0; 
 }
 
 section.playbook {

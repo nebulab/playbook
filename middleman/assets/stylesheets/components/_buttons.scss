@@ -5,7 +5,6 @@
   font-size: $buttons-fs;
   font-weight: 800;
   padding: ($gutter - .5) $gutter;
-  letter-spacing: 2px;
   margin-top: $gutter;
   text-align: center;
   text-transform: uppercase;
@@ -19,6 +18,28 @@
   &:hover {
     background: $button-color;
     color: $white;
+  }
+}
+
+.button.overview {
+  border: 0;
+  padding: ($gutter - .5);
+  
+  &::before {
+    content: '';
+    background: url("../images/icon-overview.svg") no-repeat;
+    background-size: 100% auto;
+    display: inline-block;
+    margin-right: .5rem;
+    vertical-align: middle;
+    width: 16px;
+    height: 16px;
+  }
+  
+  &:hover {
+    &::before {
+      background: url("../images/icon-overview-hover.svg") no-repeat;
+    }
   }
 }
 
@@ -104,12 +125,3 @@
     right: $gutter * 1.8;
   }
 }
-
-// Utilities
-.hide-md {
-  @media (min-width: $device-md) {
-    display: none;
-    visibility: hidden;
-  }
-}
-

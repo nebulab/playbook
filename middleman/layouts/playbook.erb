@@ -4,22 +4,19 @@
   
   <body>
     <%= partial "middleman/layouts/shared/header" %>
-    
-    <%= partial "middleman/layouts/shared/sidebar" %>
 
-    <div class="overlay"></div>
+    <div class="main-container">
+      <%= partial "middleman/layouts/shared/sidebar" %>
 
-    <div class="canvas">
-      <div class="main-container">
-        <div class="container">
-          <%= yield %>
+      <div class="container page">
+        <%= yield %>
 
-          <%= partial 'middleman/layouts/playbook/section' %>
-        </div>
+        <%= partial 'middleman/layouts/playbook/section' %>
+        
+        <%= partial "middleman/layouts/shared/footer" %>
       </div>
-      
-      <%= partial "middleman/layouts/shared/footer" %>
     </div>
+    
     <%= partial "middleman/layouts/shared/cookies" %>
     <a href="#" class="js-button-top"></a>
     
