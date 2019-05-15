@@ -4,19 +4,18 @@
     
     <% topics = playbook_section_topics_files(current_page) %>
 
-    <%= partial 'middleman/layouts/playbook/section/topics_navigation', locals: { topics: topics } %>
+    <%#= partial 'middleman/layouts/playbook/section/topics_navigation', locals: { topics: topics } %>
   </div>
   
   <div class="chapter-img-wrapper">
-    <%= image_tag current_page.data.image.filename, :class => 'chapter-img', :width => current_page.data.image.width, :height => 'auto' %>
+    <%#= image_tag current_page.data.image.filename, :class => 'chapter-img', :width => current_page.data.image.width, :height => 'auto' %>
+    <%= image_tag current_page.data.image.filename, :class => 'chapter-img' %>
   </div>
 </div>
 
 <section class="playbook">
-  <h6 class="title"><%= current_page.data.title %></h6>
   <% topics = playbook_section_topics_files(current_page) %>
 
-  <%#= partial 'middleman/layouts/playbook/section/topics_navigation', locals: { topics: topics } %>
   <%= partial 'middleman/layouts/playbook/section/topics', locals: { topics: topics } %>
   <% if next_section = playbook_sections_next_section(current_page) %>
     <%= partial 'middleman/layouts/playbook/section/next_section_link', locals: { next_section: next_section } %>

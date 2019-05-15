@@ -18,23 +18,21 @@
   height: $header-height;
   position: relative;
   width: 100%;
+  text-align: center;
   
   @media (min-width: $device-md) {
     border-right: 1px solid $border-color;
     width: $nav-width;
     position: fixed;
+    text-align: left;
     left: 0;
     top: 0;
   }
 }
 
 .main-container {
-  //margin: 0 auto ($gutter * 3);
   position: relative;
-  
-  @media (min-width: $device-md) {
-    margin-top: $header-height;
-  }
+  margin-top: $gutter * 2;
 }
 
 .footer {
