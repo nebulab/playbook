@@ -38,7 +38,7 @@
 .footer {
   color: lighten($light-grey, 14%);
   font-size: $smaller-fs;
-  padding: $gutter $gutter ($gutter * 2);
+  padding: ($gutter * 2) 0;
   text-align: center;
   
   p {
@@ -70,14 +70,73 @@ section.playbook {
   }
 }
 
-// Home reverse columns
-.home {
-  background: #E4F0F9;
-  display: flex;
-  flex-direction: column-reverse;
+// Home Page
+
+.home-img {
+  background: url("../images/home-page.svg") no-repeat;
+  background-size: auto 100%;
+  background-position: top right;
+  width: 100%;
+  min-height: 300px;
+  z-index: -1;
   
   @media (min-width: $device-md) {
-    flex-direction: column;
+    background-size: 100% auto;
+    min-height: 450px;
+  }
+  
+  @media (min-width: $device-lg) {
+    background-size: 480px auto;
+    position: absolute;
+    top: -($gutter * 3);
+    right: 0;
+    min-height: 680px;
+  }
+
+  @media (min-width: $device-xl) {
+    background-size: 680px auto;
+  }
+}
+
+.home {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+
+  h1 {
+    @media (min-width: $device-lg) {
+      font-size: 300%;
+    }
+    
+    @media (min-width: $device-xl) {
+      font-size: 500%;
+    }
+  }
+  
+  .content-wrapper {
+    @media (min-width: $device-lg) {
+      flex: 1;
+      //flex-wrap: wrap;
+      align-content: center;
+      display: flex;
+      
+      > div:first-of-type {
+        max-width: 50%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+    }
+    
+    @media (min-width: $device-xl) {
+      > div:first-of-type {
+        max-width: 40%;
+      }
+    }
+  }
+  
+  @media (min-width: $device-lg) {
+    min-height: 95vh;
   }
 }
 

@@ -2,23 +2,29 @@
 <html>
   <%= partial "middleman/layouts/shared/head" %>
   
-  <body>
+  <body class="home-page">
     <%= partial "middleman/layouts/shared/header" %>
 
     <div class="main-container">
       <%= partial "middleman/layouts/shared/sidebar" %>
 
       <div class="container home">
-        <%= yield %>
+        <div class="content-wrapper">
+          <div>
+            <%= yield %>
+          </div>
+          <div class="home-img-wrapper">
+            <div class="home-img"></div>
+          </div>
+        </div>
         
-        <img src="middleman/assets/images/home-illustration.svg" alt="">
-        
-          
         <%= partial "middleman/layouts/shared/footer" %>
+          
       </div>
-
-      
     </div>
+    
+    
+    
     <%= partial "middleman/layouts/shared/cookies" %>
     <a href="#" class="js-button-top"></a>
     

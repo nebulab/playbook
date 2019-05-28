@@ -1,9 +1,7 @@
 <footer class="footer">
-  <div class="container">
-    <% data.company_info[:contacts] do |contact| %>
-      <p>
-        © <%= contact[:company_name] %> • VAT Number: <%= contact[:vat_number] %> • <%= contact[:address] %>
-      </p>
-    <% end %>
-  </div>
+  <% data.company_info[:contacts] do |contact| %>
+    <p>
+      © <%= contact[:company_name] %> • VAT Number: <%= contact[:vat_number] %> • <%= contact[:address] %>
+    </p>
+  <% end %>
 </footer>
