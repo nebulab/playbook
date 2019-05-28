@@ -9,6 +9,7 @@ playbook-section-chapters:
   - Travel policy
   - Paid time off and overtime
   - Payroll
-  - Workplace health and safety
+  - Performance plans
   - Resignation
+  - Workplace health and safety
 ---
