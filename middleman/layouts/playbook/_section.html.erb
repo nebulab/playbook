@@ -1,10 +1,9 @@
 <div class="chapter-hero <%= current_page.data.slug %>">
   <div class="topics-container">
-    <h1 class="title"><%= current_page.data.title %></h1>
+    <h1 class="title">Topic title (e.g. Our values)<%#= current_page.data.title %></h1>
     
     <% topics = playbook_section_topics_files(current_page) %>
 
-    <%#= partial 'middleman/layouts/playbook/section/topics_navigation', locals: { topics: topics } %>
   </div>
   
   <div class="chapter-img-wrapper">
@@ -14,6 +13,8 @@
 </div>
 
 <section class="playbook">
+  <%= partial 'middleman/layouts/playbook/section/topics_navigation', locals: { topics: topics } %>
+
   <% topics = playbook_section_topics_files(current_page) %>
 
   <%= partial 'middleman/layouts/playbook/section/topics', locals: { topics: topics } %>
