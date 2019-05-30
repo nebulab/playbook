@@ -28,6 +28,9 @@ end
 # Pretty urls
 activate :directory_indexes
 
+# Use Pry as the Middleman console
+activate :pry
+
 # Layouts
 # https://middlemanapp.com/basics/layouts/
 
