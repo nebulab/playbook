@@ -42,8 +42,17 @@
   text-align: center;
   
   p {
-    margin: 0;
     line-height: normal;
+  }
+  
+  p:last-of-type {
+    color: $black;
+    margin: 0;
+  }
+  
+  a {
+    font-weight: 800;
+    color: $black;
   }
 }
 
