@@ -21,8 +21,10 @@
     </div>
 
     <%= partial "middleman/layouts/shared/cookies" %>
-    <a href="#" class="js-button-top"></a>
 
     <%= partial "middleman/layouts/shared/all_js" %>
+    
+    <%= javascript_include_tag "jquery.nice-select.min.js" %>
+    <%= javascript_include_tag "custom-select.js" %>
   </body>
 </html>

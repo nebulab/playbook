@@ -1,14 +1,79 @@
-.chapters-list {
-  margin-bottom: $gutter * 2;
+.custom-select-wrapper {
   display: none;
-  visibility: collapse;
-
-  @media (max-width: $device-sm) {
+  visibility: hidden;
+  
+  @media (max-width: $device-md) {
     display: block;
     visibility: visible;
   }
+}
 
-  // option[value="about-us"]::after {
-  //   content: '';
-  // }
+.custom-select-wrapper {
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  background-color: $white;
+  border-radius: 5px;
+  border: 1px solid $border-color;
+  box-shadow: 0 0 2px 0 rgba(34, 34, 34, .15);
+  padding: ($gutter / 2) ($gutter / 1.5);
+  margin-bottom: $gutter * 1.5;
+  position: relative;
+  min-height: 72px;
+
+  > p {
+    color: $light-grey;
+    font-size: 0.678em;
+    font-weight: 800;
+    margin-bottom: 0;
+  }
+  
+  .nice-select {
+    padding-top: $gutter * 1.5;
+    
+    .option {
+      padding-top: .6rem;
+      padding-bottom: .6rem;
+      
+      &.seleted,
+      &.focus {
+        color: $primary-color;
+      }
+    }
+  }
+}
+
+// Override vendor styles
+.custom-select-wrapper {
+  .nice-select {
+    float: none;
+    border-radius: 5px;
+    border: 0;
+    background-color: transparent;
+    padding-left: ($gutter / 1.5);
+    padding-right: ($gutter / 1.5);
+    line-height: normal;
+    font-weight: 800;
+    font-size: $smaller-fs;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    white-space: normal;
+    
+    &::after {
+      border-bottom: 2px solid $black;
+      border-right: 2px solid $black;
+      width: 10px;
+      height: 10px;
+      right: $gutter - .5;
+    }
+    
+    .option {
+      line-height: normal;
+      min-height: auto;
+    }
+  }
+
+  .nice-select .option.disabled {
+    display: none;
+  }
 }

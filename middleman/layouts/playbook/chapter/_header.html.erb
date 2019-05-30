@@ -11,6 +11,10 @@
 </div>
 
 <div class="custom-select-wrapper">
+  <p>
+    <%= current_chapter.section.page_id %>
+  </p>
+  
   <select class="chapters-list wide">
     <% current_chapter.section.chapters.each do |chapter| %>
       <option value="<%= url_for chapter %>"><%= chapter.data.title %></option>
