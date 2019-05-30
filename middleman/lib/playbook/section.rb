@@ -11,8 +11,8 @@ class Playbook::Section < SimpleDelegator
       sections_files(app).map { |file| new(app.sitemap.find_resource_by_path(app.sitemap.file_to_path(file))) }
     end
 
-    def find_by_topic(topic)
-      all(topic.app).find { |section| section.topics_dir == topic.file_descriptor.relative_path.dirname.to_s }
+    def find_by_chapter(chapter)
+      all(chapter.app).find { |section| section.chapters_dir == chapter.file_descriptor.relative_path.dirname.to_s }
     end
 
     private
@@ -41,29 +41,29 @@ class Playbook::Section < SimpleDelegator
     @resource.instance_variable_get :@app
   end
 
-  def topics
-    Playbook::Topic.all_by_section(self)
+  def chapters
+    Playbook::Chapter.all_by_section(self)
   end
 
-  def topics_files
+  def chapters_files
     app
       .extensions[:file_watcher]
       .sources
       .by_type(:source)
       .files
-      .select { |file| file.relative_path.dirname.to_s == topics_dir }
+      .select { |file| file.relative_path.dirname.to_s == chapters_dir }
   end
 
-  def topics_resources
-    topics_files.map { |file| app.sitemap.find_resource_by_path(app.sitemap.file_to_path(file)) }
+  def chapters_resources
+    chapters_files.map { |file| app.sitemap.find_resource_by_path(app.sitemap.file_to_path(file)) }
   end
 
-  def topics_dir
+  def chapters_dir
     File.basename path, File.extname(path)
   end
 
-  def has_many_topics_values
-    data[app.config.playbook_section_has_many_topics_key]
+  def has_many_chapters_values
+    data[app.config.playbook_section_has_many_chapters_key]
   end
 
   def next

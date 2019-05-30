@@ -4,7 +4,7 @@ image:
   filename: development.svg
   width: 383
 position: 7
-playbook-section-topics:
+playbook-section-chapters:
   - Development environment
   - Style guide
   - Using Git and GitHub

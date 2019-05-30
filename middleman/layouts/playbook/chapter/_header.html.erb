@@ -1,0 +1,19 @@
+<div class="chapter-hero <%= current_chapter.section.page_id %>">
+  <div class="chapters-container">
+    <h1 class="title"><%= current_chapter.data.title %></h1>
+  </div>
+  <div class="chapter-img-wrapper">
+    <%= image_tag current_chapter.section.data.image.filename,
+                  class: 'chapter-img',
+                  width: current_chapter.section.data.image.width,
+                  height: 'auto' %>
+  </div>
+</div>
+
+<div class="custom-select-wrapper">
+  <select class="chapters-list wide">
+    <% current_chapter.section.chapters.each do |chapter| %>
+      <option value="<%= url_for chapter %>"><%= chapter.data.title %></option>
+    <% end %>
+  </select>
+</div>

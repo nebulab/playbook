@@ -5,8 +5,8 @@
         <li class="nav-list-item">
           <a href="javascript:void(0)"><%= section.data.title %></a>
           <ul class="submenu">
-            <% section.topics.each do |topic| %>
-              <li><%= current_link_to topic.data.title, topic %></li>
+            <% section.chapters.each do |chapter| %>
+              <li><%= current_link_to chapter.data.title, chapter %></li>
             <% end %>
           </ul>
         </li>

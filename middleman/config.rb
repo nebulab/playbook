@@ -9,8 +9,8 @@ set :data_dir, 'data'
 set :helpers_dir, 'helpers'
 
 ## Playbook settings
-set :playbook_topic_belongs_to_section_key, :title
-set :playbook_section_has_many_topics_key, :'playbook-section-topics'
+set :playbook_chapter_belongs_to_section_key, :title
+set :playbook_section_has_many_chapters_key, :'playbook-section-chapters'
 
 # Ignored paths
 ignore '**/.keep'
@@ -42,7 +42,7 @@ page '/*.txt', layout: false
 # With alternative layout
 # page '/path/to/file.html', layout: 'other_layout'
 page '/', layout: 'home'
-page /.+\.html$/, layout: 'playbook/topic'
+page /.+\.html$/, layout: 'playbook/chapter'
 page '/middleman/admin/*', layout: false
 
 # Proxy pages

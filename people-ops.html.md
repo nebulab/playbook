@@ -4,7 +4,7 @@ image:
   filename: people-ops.svg
   width: 440
 position: 4
-playbook-section-topics:
+playbook-section-chapters:
   - Hiring
   - Travel policy
   - Paid time off and overtime

@@ -1,0 +1,5 @@
+<% if next_chapter = current_chapter.next %>
+  <%= link_to 'Next', next_chapter %>
+<% elsif next_section = current_chapter.section.next %>
+  <%= link_to 'Next Chapter', next_section.chapters.first %>
+<% end %>

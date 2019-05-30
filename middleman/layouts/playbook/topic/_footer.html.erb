@@ -1,5 +1,0 @@
-<% if next_topic = current_topic.next %>
-  <%= link_to 'Next', next_topic %>
-<% elsif next_section = current_topic.section.next %>
-  <%= link_to 'Next Chapter', next_section.topics.first %>
-<% end %>

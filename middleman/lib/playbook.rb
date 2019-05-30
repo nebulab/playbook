@@ -4,8 +4,8 @@ class Playbook < Middleman::Extension
   end
 
   helpers do
-    def current_topic
-      Playbook::Topic.new(current_resource)
+    def current_chapter
+      Playbook::Chapter.new(current_resource)
     end
   end
 end

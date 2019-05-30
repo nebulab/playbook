@@ -4,7 +4,7 @@ image:
   filename: personal-growth.svg
   width: 366
 position: 3
-playbook-section-topics:
+playbook-section-chapters:
   - Mentoring and 1:1s
   - Fridays
   - Benefits

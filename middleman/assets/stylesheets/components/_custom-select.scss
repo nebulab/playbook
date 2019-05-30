@@ -1,13 +1,13 @@
-.topics-list {
+.chapters-list {
   margin-bottom: $gutter * 2;
   display: none;
   visibility: collapse;
-  
+
   @media (max-width: $device-sm) {
     display: block;
     visibility: visible;
   }
-  
+
   // option[value="about-us"]::after {
   //   content: '';
   // }

@@ -54,15 +54,15 @@ collections:
             required: true
             valueType: int
             min: 1
-          - label: Topics
-            name: playbook-section-topics
-            label_singular: topic
+          - label: Chapters
+            name: playbook-section-chapters
+            label_singular: chapter
             widget: list
             field:
-              label: Topic
-              name: playbook-section-topic
+              label: Chapter
+              name: playbook-section-chapter
               widget: relation
-              collection: about-us-section-topics
+              collection: about-us-section-chapters
               searchFields:
                 - title
               valueField: title
@@ -87,15 +87,15 @@ collections:
             required: true
             valueType: int
             min: 1
-          - label: Topics
-            name: playbook-section-topics
-            label_singular: topic
+          - label: Chapters
+            name: playbook-section-chapters
+            label_singular: chapter
             widget: list
             field:
-              label: Topic
-              name: playbook-section-topic
+              label: Chapter
+              name: playbook-section-chapter
               widget: relation
-              collection: how-we-work-section-topics
+              collection: how-we-work-section-chapters
               searchFields:
                 - title
               valueField: title
@@ -120,15 +120,15 @@ collections:
             required: true
             valueType: int
             min: 1
-          - label: Topics
-            name: playbook-section-topics
-            label_singular: topic
+          - label: Chapters
+            name: playbook-section-chapters
+            label_singular: chapter
             widget: list
             field:
-              label: Topic
-              name: playbook-section-topic
+              label: Chapter
+              name: playbook-section-chapter
               widget: relation
-              collection: personal-growth-section-topics
+              collection: personal-growth-section-chapters
               searchFields:
                 - title
               valueField: title
@@ -153,15 +153,15 @@ collections:
             required: true
             valueType: int
             min: 1
-          - label: Topics
-            name: playbook-section-topics
-            label_singular: topic
+          - label: Chapters
+            name: playbook-section-chapters
+            label_singular: chapter
             widget: list
             field:
-              label: Topic
-              name: playbook-section-topic
+              label: Chapter
+              name: playbook-section-chapter
               widget: relation
-              collection: people-ops-section-topics
+              collection: people-ops-section-chapters
               searchFields:
                 - title
               valueField: title
@@ -186,15 +186,15 @@ collections:
             required: true
             valueType: int
             min: 1
-          - label: Topics
-            name: playbook-section-topics
-            label_singular: topic
+          - label: Chapters
+            name: playbook-section-chapters
+            label_singular: chapter
             widget: list
             field:
-              label: Topic
-              name: playbook-section-topic
+              label: Chapter
+              name: playbook-section-chapter
               widget: relation
-              collection: the-offices-section-topics
+              collection: the-offices-section-chapters
               searchFields:
                 - title
               valueField: title
@@ -213,15 +213,15 @@ collections:
             name: title
             widget: string
             required: true
-          - label: Topics
-            name: playbook-section-topics
-            label_singular: topic
+          - label: Chapters
+            name: playbook-section-chapters
+            label_singular: chapter
             widget: list
             field:
-              label: Topic
-              name: playbook-section-topic
+              label: Chapter
+              name: playbook-section-chapter
               widget: relation
-              collection: working-on-nebulab-section-topics
+              collection: working-on-nebulab-section-chapters
               searchFields:
                 - title
               valueField: title
@@ -246,15 +246,15 @@ collections:
             required: true
             valueType: int
             min: 1
-          - label: Topics
-            name: playbook-section-topics
-            label_singular: topic
+          - label: Chapters
+            name: playbook-section-chapters
+            label_singular: chapter
             widget: list
             field:
-              label: Topic
-              name: playbook-section-topic
+              label: Chapter
+              name: playbook-section-chapter
               widget: relation
-              collection: development-section-topics
+              collection: development-section-chapters
               searchFields:
                 - title
               valueField: title
@@ -279,24 +279,24 @@ collections:
             required: true
             valueType: int
             min: 1
-          - label: Topics
-            name: playbook-section-topics
-            label_singular: topic
+          - label: Chapters
+            name: playbook-section-chapters
+            label_singular: chapter
             widget: list
             field:
-              label: Topic
-              name: playbook-section-topic
+              label: Chapter
+              name: playbook-section-chapter
               widget: relation
-              collection: useful-resources-section-topics
+              collection: useful-resources-section-chapters
               searchFields:
                 - title
               valueField: title
           - label: Body
             name: body
             widget: markdown
-  - label: '"About us" section topics'
-    name: about-us-section-topics
-    label_singular: '"About us" section topic'
+  - label: '"About us" section chapters'
+    name: about-us-section-chapters
+    label_singular: '"About us" section chapter'
     folder: about-us/
     extension: .html.md
     format: frontmatter
@@ -310,9 +310,9 @@ collections:
       - label: Body
         name: body
         widget: markdown
-  - label: '"How we work" section topics'
-    name: how-we-work-section-topics
-    label_singular: '"How we work" section topic'
+  - label: '"How we work" section chapters'
+    name: how-we-work-section-chapters
+    label_singular: '"How we work" section chapter'
     folder: how-we-work/
     extension: .html.md
     format: frontmatter
@@ -326,9 +326,9 @@ collections:
       - label: Body
         name: body
         widget: markdown
-  - label: '"Personal growth" section topics'
-    name: personal-growth-section-topics
-    label_singular: '"Personal growth" section topic'
+  - label: '"Personal growth" section chapters'
+    name: personal-growth-section-chapters
+    label_singular: '"Personal growth" section chapter'
     folder: personal-growth/
     extension: .html.md
     format: frontmatter
@@ -342,9 +342,9 @@ collections:
       - label: Body
         name: body
         widget: markdown
-  - label: '"People operations" section topics'
-    name: people-ops-section-topics
-    label_singular: '"People operations" section topic'
+  - label: '"People operations" section chapters'
+    name: people-ops-section-chapters
+    label_singular: '"People operations" section chapter'
     folder: people-ops/
     extension: .html.md
     format: frontmatter
@@ -358,9 +358,9 @@ collections:
       - label: Body
         name: body
         widget: markdown
-  - label: '"The offices" section topics'
-    name: the-offices-section-topics
-    label_singular: '"The offices" section topic'
+  - label: '"The offices" section chapters'
+    name: the-offices-section-chapters
+    label_singular: '"The offices" section chapter'
     folder: the-offices/
     extension: .html.md
     format: frontmatter
@@ -374,9 +374,9 @@ collections:
       - label: Body
         name: body
         widget: markdown
-  - label: '"Working on Nebulab" section topics'
-    name: working-on-nebulab-section-topics
-    label_singular: '"Working on Nebulab" section topic'
+  - label: '"Working on Nebulab" section chapters'
+    name: working-on-nebulab-section-chapters
+    label_singular: '"Working on Nebulab" section chapter'
     folder: working-on-nebulab/
     extension: .html.md
     format: frontmatter
@@ -390,9 +390,9 @@ collections:
       - label: Body
         name: body
         widget: markdown
-  - label: '"Development" section topics'
-    name: development-section-topics
-    label_singular: '"Development" section topic'
+  - label: '"Development" section chapters'
+    name: development-section-chapters
+    label_singular: '"Development" section chapter'
     folder: development/
     extension: .html.md
     format: frontmatter
@@ -406,9 +406,9 @@ collections:
       - label: Body
         name: body
         widget: markdown
-  - label: '"Useful resources" section topics'
-    name: useful-resources-section-topics
-    label_singular: '"Useful resources" section topic'
+  - label: '"Useful resources" section chapters'
+    name: useful-resources-section-chapters
+    label_singular: '"Useful resources" section chapter'
     folder: useful-resources/
     extension: .html.md
     format: frontmatter

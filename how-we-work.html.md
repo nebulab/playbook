@@ -4,7 +4,7 @@ image:
   filename: how-we-work.svg
   width: 366
 position: 2
-playbook-section-topics:
+playbook-section-chapters:
   - Where, when and how
   - Tools
   - Tracking time
