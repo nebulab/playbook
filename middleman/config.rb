@@ -10,13 +10,13 @@ set :helpers_dir, 'helpers'
 
 ## Playbook settings
 set :playbook_topic_belongs_to_section_key, :title
-set :playbook_section_has_many_topics_key, 'playbook-section-topics'
+set :playbook_section_has_many_topics_key, :'playbook-section-topics'
 
 # Ignored paths
 ignore '**/.keep'
 ignore '.github/**'
 ignore /^middleman(?!\/assets)(?!\/admin)(?!\/uploads).*/
-ignore /^(?!middleman\/).+\/.*/
+ignore /^(?!.*\/.*)(?!index\.html).*/
 
 # Activate and configure extensions
 # https://middlemanapp.com/advanced/configuration/#configuring-extensions
@@ -42,7 +42,7 @@ page '/*.txt', layout: false
 # With alternative layout
 # page '/path/to/file.html', layout: 'other_layout'
 page '/', layout: 'home'
-page /.+\.html$/, layout: 'playbook'
+page /.+\.html$/, layout: 'playbook/topic'
 page '/middleman/admin/*', layout: false
 
 # Proxy pages
@@ -69,7 +69,13 @@ page '/middleman/admin/*', layout: false
 # Middleman fails to reload helpers, although it notices their modification
 # This force-reloads them. See
 # https://github.com/middleman/middleman/issues/1105#issuecomment-305715209
-Dir['helpers/*'].each(&method(:load))
+Dir['helpers/*.rb'].each(&method(:load))
+
+# Code that doesn't belong to helpers
+# lib/**/*.rb is avoided in order to ensure namespaced files to be loaded before the namespace definition
+Dir['lib/*.rb', 'lib/*/*.rb'].each(&method(:load))
+
+activate :playbook
 
 # Build-specific configuration
 # https://middlemanapp.com/advanced/configuration/#environment-specific-settings

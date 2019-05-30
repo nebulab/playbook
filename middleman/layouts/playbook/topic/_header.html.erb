@@ -1,0 +1,19 @@
+<div class="chapter-hero <%= current_topic.section.page_id %>">
+  <div class="topics-container">
+    <h1 class="title"><%= current_topic.data.title %></h1>
+  </div>
+  <div class="chapter-img-wrapper">
+    <%= image_tag current_topic.section.data.image.filename,
+                  class: 'chapter-img',
+                  width: current_topic.section.data.image.width,
+                  height: 'auto' %>
+  </div>
+</div>
+
+<div class="custom-select-wrapper">
+  <select class="topics-list wide">
+    <% current_topic.section.topics.each do |topic| %>
+      <option value="<%= url_for topic %>"><%= topic.data.title %></option>
+    <% end %>
+  </select>
+</div>

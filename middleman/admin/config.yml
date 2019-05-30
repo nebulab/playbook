@@ -33,23 +33,6 @@ collections:
           - label: Body
             name: body
             widget: markdown
-      - file: middleman/data/navigation.yml
-        label: Navigation
-        name: navigation
-        fields:
-          - label: Navigation items
-            name: items
-            widget: list
-            fields:
-              - label: Image
-                name: image_path
-                widget: image
-              - label: Description
-                name: description
-                widget: string
-              - label: URL
-                name: url
-                widget: string
   - label: Sections
     name: sections
     files:
@@ -65,6 +48,12 @@ collections:
             name: title
             widget: string
             required: true
+          - label: Position
+            name: position
+            widget: number
+            required: true
+            valueType: int
+            min: 1
           - label: Topics
             name: playbook-section-topics
             label_singular: topic
@@ -92,6 +81,12 @@ collections:
             name: title
             widget: string
             required: true
+          - label: Position
+            name: position
+            widget: number
+            required: true
+            valueType: int
+            min: 1
           - label: Topics
             name: playbook-section-topics
             label_singular: topic
@@ -119,6 +114,12 @@ collections:
             name: title
             widget: string
             required: true
+          - label: Position
+            name: position
+            widget: number
+            required: true
+            valueType: int
+            min: 1
           - label: Topics
             name: playbook-section-topics
             label_singular: topic
@@ -146,6 +147,12 @@ collections:
             name: title
             widget: string
             required: true
+          - label: Position
+            name: position
+            widget: number
+            required: true
+            valueType: int
+            min: 1
           - label: Topics
             name: playbook-section-topics
             label_singular: topic
@@ -173,6 +180,12 @@ collections:
             name: title
             widget: string
             required: true
+          - label: Position
+            name: position
+            widget: number
+            required: true
+            valueType: int
+            min: 1
           - label: Topics
             name: playbook-section-topics
             label_singular: topic
@@ -227,6 +240,12 @@ collections:
             name: title
             widget: string
             required: true
+          - label: Position
+            name: position
+            widget: number
+            required: true
+            valueType: int
+            min: 1
           - label: Topics
             name: playbook-section-topics
             label_singular: topic
@@ -254,6 +273,12 @@ collections:
             name: title
             widget: string
             required: true
+          - label: Position
+            name: position
+            widget: number
+            required: true
+            valueType: int
+            min: 1
           - label: Topics
             name: playbook-section-topics
             label_singular: topic

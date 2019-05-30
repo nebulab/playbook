@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
   <%= partial "middleman/layouts/shared/head" %>
-  
+
   <body>
     <%= partial "middleman/layouts/shared/header" %>
 
@@ -9,17 +9,20 @@
       <%= partial "middleman/layouts/shared/sidebar" %>
 
       <div class="container page">
+        <%= partial 'middleman/layouts/playbook/topic/header' %>
+
         <%= yield %>
 
-        <%= partial 'middleman/layouts/playbook/section' %>
-        
+        <%#= partial 'middleman/layouts/playbook/section' %>
+        <%= partial 'middleman/layouts/playbook/topic/footer' %>
+
         <%= partial "middleman/layouts/shared/footer" %>
       </div>
     </div>
-    
+
     <%= partial "middleman/layouts/shared/cookies" %>
     <a href="#" class="js-button-top"></a>
-    
+
     <%= partial "middleman/layouts/shared/all_js" %>
   </body>
 </html>

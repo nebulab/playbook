@@ -1,8 +1,15 @@
 <nav class="nav">
   <div>
     <ul class="nav-list">
-      <% data.navigation.items.each do |item| %>
-        <%= partial 'middleman/layouts/shared/navigation/item', locals: { item: item } %>
+      <% Playbook::Section.all(app).sort_by { |section| section.data.position }.each do |section| %>
+        <li class="nav-list-item">
+          <a href="javascript:void(0)"><%= section.data.title %></a>
+          <ul class="submenu">
+            <% section.topics.each do |topic| %>
+              <li><%= current_link_to topic.data.title, topic %></li>
+            <% end %>
+          </ul>
+        </li>
       <% end %>
     </ul>
   </div>

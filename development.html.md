@@ -1,9 +1,9 @@
 ---
 title: Development
-slug: development
 image:
   filename: development.svg
   width: 383
+position: 7
 playbook-section-topics:
   - Development environment
   - Style guide
@@ -13,4 +13,3 @@ playbook-section-topics:
   - Working with Rails
   - Design
 ---
-
