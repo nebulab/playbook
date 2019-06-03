@@ -15,17 +15,22 @@ module CurrentLinkHelper
       path = arguments[1]
     end
 
-    path = url_for(path)
     link_options = options
 
-    current_path_stripped = strip_path(current_page.url)
-    path_stripped = strip_path(path)
-
-    if current_path_stripped == path_stripped
+    if current_path?(path)
       link_options.merge!("aria-current" => aria_current)
     end
 
     link_to(text, path, link_options)
+  end
+
+  def current_path?(path)
+    path = url_for(path)
+
+    current_path_stripped = strip_path(current_page.url)
+    path_stripped = strip_path(path)
+
+    current_path_stripped == path_stripped
   end
 
   def strip_path(path)

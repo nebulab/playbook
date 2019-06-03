@@ -7,6 +7,10 @@ class Playbook < Middleman::Extension
     def current_chapter
       Playbook::Chapter.new(current_resource)
     end
+
+    def current_section
+      current_chapter.try :section
+    end
   end
 end
 

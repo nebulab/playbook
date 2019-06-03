@@ -2,9 +2,9 @@
   <div>
     <ul class="nav-list">
       <% Playbook::Section.all(app).sort_by { |section| section.data.position }.each do |section| %>
-        <li class="nav-list-item">
+        <li class="nav-list-item <%= current_section && current_section.page_id == section.page_id ? 'opened' : nil %>">
           <a href="javascript:void(0)"><%= section.data.title %></a>
-          <ul class="submenu">
+          <ul class="submenu" <%= current_section && current_section.page_id == section.page_id ? 'style="display: block"' : nil %>>
             <% section.chapters.each do |chapter| %>
               <li><%= current_link_to chapter.data.title, chapter %></li>
             <% end %>

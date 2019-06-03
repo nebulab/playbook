@@ -1,3 +1,7 @@
 $(document).ready(function() {
-  $('select').niceSelect();
+  $('select')
+    .niceSelect()
+    .on('change', function(event, value) {
+    window.location = $(this).val()
+  })
 });

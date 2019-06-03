@@ -14,10 +14,13 @@
   <p>
     <%= current_chapter.section.data.title %>
   </p>
-  
+
   <select class="chapters-list wide">
     <% current_chapter.section.chapters.each do |chapter| %>
-      <option value="<%= url_for chapter %>"><%= chapter.data.title %></option>
+      <% selected = current_path?(chapter) ? { selected: 'selected' } : {} %>
+      <% content_tag(:option, { value: url_for(chapter) }.merge(selected)) do %>
+        <%= chapter.data.title %>
+      <% end %>
     <% end %>
   </select>
 </div>
