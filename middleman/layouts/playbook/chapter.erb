@@ -9,14 +9,15 @@
       <%= partial "middleman/layouts/shared/sidebar" %>
 
       <div class="container page">
-        <%= partial 'middleman/layouts/playbook/chapter/header' %>
+        <section class="playbook">
+          <%= partial 'middleman/layouts/playbook/chapter/header' %>
 
-        <%= yield %>
+          <%= yield %>
 
-        <%#= partial 'middleman/layouts/playbook/section' %>
-        <%= partial 'middleman/layouts/playbook/chapter/footer' %>
+          <%= partial 'middleman/layouts/playbook/chapter/footer' %>
 
-        <%= partial "middleman/layouts/shared/footer" %>
+          <%= partial "middleman/layouts/shared/footer" %>
+        </section>
       </div>
     </div>
 

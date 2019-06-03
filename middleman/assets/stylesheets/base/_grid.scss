@@ -38,7 +38,7 @@
 .footer {
   color: lighten($light-grey, 14%);
   font-size: $smaller-fs;
-  padding: ($gutter * 2) 0;
+  padding: ($gutter * 2) 0 $gutter;
   text-align: center;
   
   p {
@@ -97,7 +97,7 @@ section.playbook {
   @media (min-width: $device-lg) {
     background-size: 480px auto;
     position: absolute;
-    top: -($gutter * 3);
+    top: -($gutter * 4);
     right: 0;
     min-height: 680px;
   }
@@ -153,10 +153,7 @@ section.playbook {
 .section-footer {
   display: flex;
   justify-content: center;
-  
-  @media (min-width: $device-md) {
-    justify-content: flex-end;
-  }
+  margin-top: $gutter;
 }
 
 *,

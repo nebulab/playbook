@@ -1,5 +1,7 @@
-<% if next_chapter = current_chapter.next %>
-  <%= link_to 'Next', next_chapter %>
-<% elsif next_section = current_chapter.section.next %>
-  <%= link_to 'Next Chapter', next_section.chapters.first %>
-<% end %>
+<div class="section-footer">
+  <% if next_chapter = current_chapter.next %>
+    <%= link_to '<span>Next</span>', next_chapter, class: 'button chapter-link' %>
+  <% elsif next_section = current_chapter.section.next %>
+    <%= link_to '<span>Next Chapter</span>', next_section.chapters.first, class: 'button chapter-link' %>
+  <% end %>
+</div>
