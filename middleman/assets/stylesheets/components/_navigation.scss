@@ -113,8 +113,6 @@
 .nav-list > li > a,
 .nav-list > li > a[aria-current]:not([aria-current="false"]),
 .nav-list > li.opened > a {
-  color: $black;
-  
   &::after {
     content: '';
     background-size: 10px auto;
@@ -124,6 +122,11 @@
     right: 0;
     top: 25%;
   }
+}
+
+.nav-list > li > a[aria-current]:not([aria-current="false"]),
+.nav-list > li.opened > a {
+  color: $black;
 }
 
 // Display chevron on hover on large devices
