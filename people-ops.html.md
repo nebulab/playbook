@@ -1,10 +1,10 @@
 ---
 title: People operations
-slug: people-ops
 image:
   filename: people-ops.svg
   width: 440
-playbook-section-topics:
+position: 4
+playbook-section-chapters:
   - Hiring
   - Travel policy
   - Paid time off and overtime
@@ -12,4 +12,3 @@ playbook-section-topics:
   - Workplace health and safety
   - Resignation
 ---
-

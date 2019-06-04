@@ -1,187 +1,177 @@
-.main-nav {
-  background-color: $white;
-  z-index: $navbar-z-index;
-  
-  @media (min-width: $device-md) {
-    border-right: 1px solid $border-color;
-    position: fixed;
-    overflow: hidden;
-    top: 0;
-    bottom: 0;
-    width: $nav-aside-width;
-  }
-}
-
 // Style the container of navigation
-.nav  {
+.sidebar  {
   background: $white;
-  position: fixed;
-  top: 0;
   bottom: 0;
+  top: 0;
+  display: none;
+  position: fixed;
   min-height: 100%;
   overflow-x: hidden;
-  width: 90%;
+  width: 100%;
   z-index: $nav-z-index;
   // enables momentum scrolling in iOS overflow elements
   -webkit-overflow-scrolling: touch;
   
   ul {
-    margin: 0 0 $gutter;
-    padding: 0 $gutter;
+    margin: $gutter;
+    padding: 0;
   }
   
   li {
+    cursor: pointer;
     display: block;
   }
   
+  @media (max-width: $device-md - 1) {
+    .nav {
+      .js-show-nav & {
+        animation: fadeAndTranslate .6s;
+      }
+    }
+  }
+  
   @media (min-width: $device-md) {
-    margin-left: $nav-aside-width;
+    display: block !important;
+    border-right: 1px solid $border-color;
+    top: $header-height;
     width: $nav-width;
   }
 }
 
-.nav-list li a {
-  position: relative;
-  
-  &::before {
-    content: '';
-    background: $white;
-    border-radius: 50%;
-    border: 1px solid $n_cyan;
-    display: block;
-    position: absolute;
-    width: 7px;
-    height: 7px;
-    transform: translate(-1rem, .2rem);
-  }
-  
-  &:visited {
-    &::before {
-      content: '';
-      background: $n_cyan;
-    }
-  }
-}
-
-.nav-list a {
-  color: $black;
-  display: block;
-  padding: ($gutter - .5) $gutter;
-  font-size: $menu-fs;
-  font-weight: 800;
-  list-style: none;
-  text-transform: uppercase;
-  letter-spacing: 2px;
-  text-decoration: none;
-  
-  &:hover {
-    color: $n_cyan;
-  }
-  
-  &[aria-current]:not([aria-current="false"]) {
-    color: $n_cyan;
-  }
-}
-
-// Style div containers inside .nav
-.offcanvas-content {
+.nav {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   min-height: 100%;
-  //
-  visibility: hidden;
-}
-
-// Menu Movement
-.offcanvas-left {
-  transform: translate3d(-100%, 0, 0);
+  padding-right: 80px;
   
   @media (min-width: $device-md) {
-    transform: translate3d( unquote('-' + $nav-width) , 0, 0);
+    padding-bottom: $header-height;
+    padding-right: 0;
   }
 }
 
-.js-show-nav {
-  .canvas {
-    transform: translate3d(90%, 0, 0);
-    
-    @media (min-width: $device-md) {
-      transform: translate3d($nav-width, 0, 0);
-    }
-  }
-  
-  .offcanvas-content {
-    visibility: visible;
-  }
-  
-  .offcanvas-left {
-    transform: translate3d(0,0,0);
-  }
-}
-
-.canvas,
-.nav {
-  transition: transform .2s cubic-bezier(.16, .68, .43, .99);
-}
-
-.offcanvas-content {
-  transition: visibility .2s cubic-bezier(.16, .68, .43, .99);
-}
-
-// Topics anchor links
-.topics-list {
-  font-size: $small-fs;
-  break-inside: avoid;
-  column-count: 1;
-  column-width: auto;
-  column-gap: 0;
-
-  @media (min-width: $device-lg) {
-    column-count: 3;
-    column-gap: $gutter * 2;
-    
-    a {
-      min-height: 44px;
-    }
-  }
-
-  li {
-    overflow: hidden;
-  }
-
+.nav-list {
   a {
     color: $light-grey;
-    display: inline-block;
-    margin: 0 0 .8rem;
-
+    display: block;
+    font-size: $menu-fs;
+    font-weight: 800;
+    list-style: none;
+    margin: ($gutter + .5) 0;
+    position: relative;
+    text-decoration: none;
+  }
+  
+  > li > a {
     &:hover {
       color: $black;
-      text-decoration: underline;
+    }
+    
+    &[aria-current]:not([aria-current="false"]) {
+      color: $black;
+    }
+  }
+  
+  // Submenu
+  .submenu {
+    display: none;
+    padding-left: ($gutter - .5);
+    margin: 0;
+    
+    a {
+      color: $black;
+      font-size: $submenu-fs;
+      
+      &:hover {
+        color: $primary-color;
+      }
+      
+      &[aria-current]:not([aria-current="false"]) {
+        color: $primary-color;
+        
+        @media (min-width: $device-md) {
+          &::after {
+            content: '';
+            border-right: 2px solid $primary-color;
+            height: 30px;
+            position: absolute;
+            right: -($gutter);
+            top: -.5rem;
+          }
+        }
+      }
+    }
+  }
+  
+  .opened .submenu {
+    display: block;
+  }
+}
+
+// Chevron down
+.nav-list > li > a,
+.nav-list > li > a[aria-current]:not([aria-current="false"]),
+.nav-list > li.opened > a {
+  color: $black;
+  
+  &::after {
+    content: '';
+    background-size: 10px auto;
+    width: 10px;
+    height: 6px;
+    position: absolute;
+    right: 0;
+    top: 25%;
+  }
+}
+
+// Display chevron on hover on large devices
+// display ever on small devices
+.nav-list-item {
+  > a,
+  &.opened > a,
+  > a [aria-current]:not([aria-current="false"]) {
+    &::after {
+      background: url("../images/icon-chevron-down.svg") no-repeat;
+    }
+  }
+  
+  > a {
+    @media (min-width: $device-md) {
+      &::after {
+        background: none;
+      }
+      
+      &:hover {
+        &::after {
+          background: url("../images/icon-chevron-down.svg") no-repeat;
+        }
+      }
     }
   }
 }
 
-// Set fixed header on mobile devices
-// header {
-//   z-index: $navbar-z-index;
-// }
-// 
-// .js-show-nav {
-//   @media (max-width: $device-md - 1) {
-//     header {
-//       position: fixed;
-//       top: 0;
-//       width: 100%;
-//     }
-// 
-//     .nav .header {
-//       display: none;
-//       visibility: hidden;
-//     }
-// 
-//     .nav-list {
-//       margin-top: $header-height;
-//     }
-//   }
-// }
+.nav-list-item {
+  > a::after {
+    transition: all .3s ease-in-out;
+  }
+  
+  &.opened > a {
+    &::after {
+      transform: rotate(180deg);
+    }
+  }
+}
+
+@keyframes fadeAndTranslate {
+    0% {
+        opacity: 0;
+        transform: translate(0, 40px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translate(0, 0);
+    }
+}

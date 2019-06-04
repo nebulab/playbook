@@ -1,10 +1,10 @@
 ---
 title: How we work
-slug: how-we-work
 image:
   filename: how-we-work.svg
   width: 366
-playbook-section-topics:
+position: 2
+playbook-section-chapters:
   - Where, when and how
   - Tools
   - Tracking time
@@ -12,4 +12,3 @@ playbook-section-topics:
   - All Hands meeting
   - Client guide
 ---
-

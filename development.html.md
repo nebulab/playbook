@@ -1,10 +1,10 @@
 ---
 title: Development
-slug: development
 image:
   filename: development.svg
   width: 383
-playbook-section-topics:
+position: 7
+playbook-section-chapters:
   - Development environment
   - Style guide
   - Using Git and GitHub
@@ -13,4 +13,3 @@ playbook-section-topics:
   - Working with Rails
   - Design
 ---
-

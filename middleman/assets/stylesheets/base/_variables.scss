@@ -13,7 +13,7 @@ $primary-color:       $n_cyan;
 $secondary-color:     $n_yellow;
 $heading-color:       $n_dark-grey;
 $p-color:             $n_dark-grey;
-$border-color:        #e2e2e2;
+$border-color:        #F2F2F2;
 $section-title-color: $primary-color;
 $button-color:        $n_dark-grey;
 $link-color:          $n_cyan;
@@ -30,7 +30,8 @@ $smaller-fs:     0.778em;
 $extra-small-fs: 0.611em;
 $blog-fs:        1.111em; //20px
 
-$menu-fs:    $extra-small-fs;
+$menu-fs:    $smaller-fs;
+$submenu-fs: 0.678em;
 $buttons-fs: $extra-small-fs;
 
 //Grid
@@ -40,16 +41,12 @@ $device-sm: 576px;
 $device-md: 768px;
 $device-lg: 992px;
 $device-xl: 1200px;
-//$container-width: 1480px;
-
-//Navbar
-$nav-aside-width: 65px;
 
 //Nav
-$nav-width: 278px;
+$nav-width: 234px;
 
 //header
-$header-height: 98px;
+$header-height: 110px;
 
 //Chapters
 $border-radius-lg: 1.5rem;
@@ -58,4 +55,3 @@ $border-radius-lg: 1.5rem;
 $cookies-z-index:     1001;
 $navbar-z-index:      1000;
 $nav-z-index:         999;
-$overlay-z-index:     998;

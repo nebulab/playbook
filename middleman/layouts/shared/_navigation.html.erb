@@ -1,35 +1,18 @@
-<nav class="nav offcanvas-left">
-  <div class="offcanvas-content">
-    <div>
-      <div class="header">
-        <div class="container">
-          <% link_to '/', :class => 'logo' do %>
-            <%= image_tag 'logo.svg', :width => '148px', :height => '45px' %>
-          <% end %>
-          <span class="title">_Playbook</span>
-        </div>
-      </div>
-      
-      <ul class="nav-list">
-        <% data.navigation.items.each do |item| %>
-          <%= partial 'middleman/layouts/shared/navigation/item', locals: { item: item } %>
-        <% end %>
-      </ul>
-    </div>
-    
-    <ul>
-      <li>
-        <% link_to '/', :class => 'button hide-md' do %>
-          Back to overview
-        <% end %>
-      </li>
-      <li>
-        <% link_to 'https://nebulab.it', :class => 'button', :target => '_blank' do %>
-          Nebulab website
-        <% end %>
-      </li>
+<nav class="nav">
+  <div>
+    <ul class="nav-list">
+      <% Playbook::Section.all(app).sort_by { |section| section.data.position }.each do |section| %>
+        <li class="nav-list-item <%= current_section && current_section.page_id == section.page_id ? 'opened' : nil %>">
+          <a href="javascript:void(0)"><%= section.data.title %></a>
+
+          <ul class="submenu" <%#= current_section && current_section.page_id == section.page_id ? 'style="display: block"' : nil %>>
+
+            <% section.chapters.each do |chapter| %>
+              <li><%= current_link_to chapter.data.title, chapter %></li>
+            <% end %>
+          </ul>
+        </li>
+      <% end %>
     </ul>
-
   </div>
-
 </nav>

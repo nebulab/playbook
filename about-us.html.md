@@ -1,10 +1,10 @@
 ---
 title: About us
-slug: about-us
 image:
   filename: about-us.svg
   width: 374
-playbook-section-topics:
+position: 1
+playbook-section-chapters:
   - Our values
   - What we do
 ---

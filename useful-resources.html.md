@@ -1,10 +1,10 @@
 ---
 title: Useful resources
-slug: useful-resources
 image:
   filename: useful-resources.svg
   width: 440
-playbook-section-topics:
+position: 8
+playbook-section-chapters:
   - Privacy policy
   - Email signature
   - Profile picture

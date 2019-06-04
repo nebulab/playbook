@@ -1,11 +1,10 @@
 ---
 title: The offices
-slug: the-offices
 image:
   filename: the-offices.svg
   width: 440
-playbook-section-topics:
+position: 5
+playbook-section-chapters:
   - Wi-Fi
   - Music
 ---
-

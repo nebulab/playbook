@@ -1,10 +1,10 @@
 ---
 title: Personal growth
-slug: personal-growth
 image:
   filename: personal-growth.svg
   width: 366
-playbook-section-topics:
+position: 3
+playbook-section-chapters:
   - Mentoring and 1:1s
   - Fridays
   - Benefits
@@ -12,4 +12,3 @@ playbook-section-topics:
   - Conferences
   - Becoming a mentor
 ---
-

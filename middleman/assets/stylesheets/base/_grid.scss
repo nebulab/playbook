@@ -1,64 +1,75 @@
 .logo {
   display: inline-block;
-  padding: 0 ($gutter - .5) 0 0;
+  padding: $gutter;
+  text-decoration: none;
+  outline: 0;
 }
 
 .header .title {
   color: $light-grey;
+  display: block;
   font-size: $extra-small-fs;
   text-transform: uppercase;
+  text-align: right;
+}
+
+.header {
+  border-bottom: 1px solid $border-color;
+  height: $header-height;
+  position: relative;
+  width: 100%;
+  text-align: center;
+  
+  @media (min-width: $device-md) {
+    border-right: 1px solid $border-color;
+    width: $nav-width;
+    position: fixed;
+    text-align: left;
+    left: 0;
+    top: 0;
+  }
 }
 
 .main-container {
-  margin: 0 auto ($gutter * 3);
   position: relative;
+  margin-top: $gutter * 2;
 }
 
 .footer {
   color: lighten($light-grey, 14%);
   font-size: $smaller-fs;
-  padding: $gutter $gutter ($gutter * 2);
+  padding: ($gutter * 2) 0 $gutter;
   text-align: center;
   
   p {
-    margin: 0;
     line-height: normal;
   }
-}
-
-.header .container {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  padding-top: $gutter;
-  padding-bottom: $gutter;
+  
+  p:last-of-type {
+    color: $black;
+    margin: 0;
+  }
+  
+  a {
+    font-weight: 800;
+    color: $black;
+  }
 }
 
 .container {
   padding-left: $gutter;
   padding-right: $gutter;
-  width: 100%;
-  
-  .nav & {
-    padding-left: $gutter;
-    padding-right: $gutter;
-  }
   
   @media (min-width: $device-md) {
     padding: 0 ($gutter * 2);
   }
 }
 
-.main-container,
-.header,
-.footer {
+.container.home,
+.container.page {
   @media (min-width: $device-md) {
-    margin-left: $nav-aside-width;
+    margin-left: $nav-width;
   }
-}
-
-.nav .header {
-  margin-left: 0; 
 }
 
 section.playbook {
@@ -68,13 +79,73 @@ section.playbook {
   }
 }
 
-// Home reverse columns
-.home {
-  display: flex;
-  flex-direction: column-reverse;
+// Home Page
+
+.home-img {
+  background: url("../images/home-page.svg") no-repeat;
+  background-size: auto 100%;
+  background-position: top right;
+  width: 100%;
+  min-height: 300px;
+  z-index: -1;
   
   @media (min-width: $device-md) {
-    flex-direction: column;
+    background-size: 100% auto;
+    min-height: 450px;
+  }
+  
+  @media (min-width: $device-lg) {
+    background-size: 480px auto;
+    position: absolute;
+    top: -($gutter * 4);
+    right: 0;
+    min-height: 680px;
+  }
+
+  @media (min-width: $device-xl) {
+    background-size: 680px auto;
+  }
+}
+
+.home {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+
+  h1 {
+    @media (min-width: $device-lg) {
+      font-size: 300%;
+    }
+    
+    @media (min-width: $device-xl) {
+      font-size: 500%;
+    }
+  }
+  
+  .content-wrapper {
+    @media (min-width: $device-lg) {
+      flex: 1;
+      //flex-wrap: wrap;
+      align-content: center;
+      display: flex;
+      
+      > div:first-of-type {
+        max-width: 50%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+    }
+    
+    @media (min-width: $device-xl) {
+      > div:first-of-type {
+        max-width: 40%;
+      }
+    }
+  }
+  
+  @media (min-width: $device-lg) {
+    min-height: 95vh;
   }
 }
 
@@ -82,10 +153,7 @@ section.playbook {
 .section-footer {
   display: flex;
   justify-content: center;
-  
-  @media (min-width: $device-md) {
-    justify-content: flex-end;
-  }
+  margin-top: $gutter;
 }
 
 *,

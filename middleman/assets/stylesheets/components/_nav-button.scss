@@ -1,21 +1,19 @@
 .nav-button {
-  background: $white;
+  background: $black;
   border-radius: 50%;
-  width: 45px;
-  height: 45px;
-  position: absolute;
-  top: $gutter;
+  width: 60px;
+  height: 60px;
+  bottom: 5%;
   right: 5%;
   transition: all .1s;
-  padding: 17px 0 0 12px;
+  padding: 24px 20px;
+  position: fixed;
   cursor: pointer;
   z-index: $navbar-z-index;
   
-  @media (min-width: $device-md){
-    background: transparent;
-    position: fixed;
-    left: $gutter / 2;
-    right: auto;
+  @media (min-width: $device-md) {
+    display: none;
+    visibility: hidden;
   }
   
   &:hover {
@@ -34,7 +32,7 @@
     margin: 0 0 3px 0;
     width: 20px;
     height: 2px;
-    background: $button-color;
+    background: $white;
     display: block;
     &:last-child {
       width: 14px;
@@ -43,7 +41,7 @@
   }
 
   .js-show-nav & {
-    padding: 12px 0 0 13px;
+    padding: 20px 20px;
     
     &:hover {
       transform: rotate(0deg);
@@ -60,37 +58,6 @@
       
       &:last-child {
         display: none;
-      }
-    }
-  }
-}
-
-.overview-button {
-  display: none;
-  visibility: hidden;
-  position: fixed;
-  bottom: $gutter;
-  left: .65rem;
-  width: 45px;
-  height: 45px;
-  padding: 0 0 17px 12px;
-  cursor: pointer;
-  
-  @media (min-width: $device-md) {
-    display: block;
-    visibility: visible;
-    
-    .icon-overview {
-      background: url("../images/icon-overview.svg") no-repeat;
-      background-size: 100% auto;
-      display: inline-block;
-      width: 20px;
-      height: 20px;
-    }
-    
-    &:hover {
-      .icon-overview {
-        background: url("../images/icon-overview-hover.svg") no-repeat;
       }
     }
   }
