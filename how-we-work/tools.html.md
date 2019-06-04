@@ -1,13 +1,14 @@
 ---
 title: Tools
 ---
-## Google App
 
-We use the business version of Google services:
+## Google Apps
 
-- email ([Gmail](https://mail.google.com))
-- calendars ([Google Calendar](https://www.google.com/calendar/))
-- contacts ([Google Contacts](https://www.google.com/contacts/))
+We use the business version of the following Google services:
+
+- email ([Gmail](https://mail.google.com));
+- calendars ([Google Calendar](https://www.google.com/calendar/));
+- contacts ([Google Contacts](https://www.google.com/contacts/));
 - files ([Drive](https://drive.google.com)).
 
 You can install and use these services locally on your Mac (after being provided with a @nebulab.it
