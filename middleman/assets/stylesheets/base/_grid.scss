@@ -19,6 +19,7 @@
   position: relative;
   width: 100%;
   text-align: center;
+  z-index: $header-z-index;
   
   @media (min-width: $device-md) {
     border-right: 1px solid $border-color;
