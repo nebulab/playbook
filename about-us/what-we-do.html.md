@@ -12,7 +12,7 @@ Rails and Solidus. As part of our eCommerce work, we provide the following servi
 * creative front-end development.
 
 At the moment, we do not work on projects outside of the eCommerce/Solidus space, as we believe
-there is still a lot of space to provide value to this industry.
+we can still provide a lot of value to that industry.
 
 In the future, we may work on generic Rails projects and/or the design and development of mobile
-applications.
+applications, when the time is right and we feel ready.
