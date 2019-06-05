@@ -1,12 +1,9 @@
 # The Nebulab playbook
 
-Nebulab is a consulting agency founded in 2012. We specialize in the design and development of Web
+Nebulab is a consulting agency specialized in the design and development of custom eCommerce 
 applications for clients of all sizes.
 
-We are a constantly growing company thanks to a team of professionals who love their work and share
-the same set of values.
-
-This playbook sets out the guidelines we follow in our day-to-day work and operations and is a great
-resource for both new and existing employees.
+This playbook is a living document and outlines the practices we follow in our day-to-day work on 
+our company and client projects.
 
 The playbook is live at https://playbook.nebulab.it.
