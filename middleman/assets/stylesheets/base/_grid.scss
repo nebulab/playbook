@@ -102,9 +102,14 @@ section.playbook {
     right: 0;
     min-height: 680px;
   }
-
+  
   @media (min-width: $device-xl) {
     background-size: 680px auto;
+  }
+
+  @media (min-width: $device-xxl) {
+    background-size: 780px auto;
+    min-height: 780px;
   }
 }
 
