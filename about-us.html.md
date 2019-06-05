@@ -5,6 +5,8 @@ image:
   width: 374
 position: 1
 playbook-section-chapters:
-  - Our values
   - What we do
+  - Mission
+  - Vision
+  - Values
 ---

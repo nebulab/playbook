@@ -89,3 +89,5 @@ configure :build do
 
   # activate :asset_host, :host => '//YOURDOMAIN.cloudfront.net'
 end
+
+import_file File.expand_path('../_redirects', root), '/_redirects'

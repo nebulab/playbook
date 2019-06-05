@@ -1,6 +1,5 @@
 class Playbook::Section < SimpleDelegator
   ROOT_FILES_EXCLUDED_BY_PLAYBOOK_SECTIONS = %w[
-    README.md
     index.html.md
   ]
 
@@ -28,7 +27,8 @@ class Playbook::Section < SimpleDelegator
 
     def section_file?(file)
       file.relative_path.dirname.to_s == '.' &&
-        !ROOT_FILES_EXCLUDED_BY_PLAYBOOK_SECTIONS.include?(file.relative_path.to_s)
+        !ROOT_FILES_EXCLUDED_BY_PLAYBOOK_SECTIONS.include?(file.relative_path.to_s) &&
+        file.relative_path.to_s.end_with?('.html.md')
     end
   end
 
