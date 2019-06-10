@@ -5,8 +5,8 @@ image:
   width: 366
 position: 9
 playbook-section-chapters:
-  - Our practices
   - Onboarding
+  - Our practices
   - Estimates and deadlines
   - FAQs
 ---
