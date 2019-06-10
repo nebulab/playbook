@@ -7,5 +7,6 @@ position: 9
 playbook-section-chapters:
   - Our practices
   - Onboarding
+  - Estimates and deadlines
   - FAQs
 ---
