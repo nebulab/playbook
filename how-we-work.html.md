@@ -1,5 +1,5 @@
 ---
-title: Our practices
+title: How we work
 image:
   filename: how-we-work.svg
   width: 366
