@@ -6,6 +6,7 @@ image:
 position: 9
 playbook-section-chapters:
   - Onboarding
+  - Work schedule
   - Our practices
   - Estimates and deadlines
   - FAQs

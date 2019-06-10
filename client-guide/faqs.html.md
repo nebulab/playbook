@@ -2,15 +2,6 @@
 title: FAQs
 ---
 
-## What if I need 40 hours/week?
-
-If you need 40 hours/week or more, you always have the option of adding a developer to your project.
-In fact, we usually recommend at least two developers per project, so that they can discuss issues 
-and solutions and provide feedback to each other.
-
-With that said, many clients who initially thought they needed 5 full days of work per week were 
-surprised to find out that 4 days were more than enough to maintain a good development velocity.
-
 ## What is your minimum engagement?
 
 Our minimum engagement for a developer is 2 days/week with a strong preference for 4 days/week in
