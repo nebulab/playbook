@@ -9,5 +9,4 @@ playbook-section-chapters:
   - Work schedule
   - Our practices
   - Estimates and deadlines
-  - FAQs
 ---
