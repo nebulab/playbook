@@ -55,7 +55,7 @@ careful not to bill any time we don't spend working for a client.
 
 Unfortunately, the line between billable and non-billable time is not always clear and, as each
 project is unique, there is no universal rule we can set. We trust you to make the right decisions
-in accordance with [our values](/about-us#our-values).
+in accordance with [our values](about-us/values).
 Here are some helpful hints:
 
 We consider this time to be billable:
