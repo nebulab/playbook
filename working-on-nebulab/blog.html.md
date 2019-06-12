@@ -25,7 +25,7 @@ project. Maybe there's someone else who can bring your idea to life.
 
 You don't need approval to write a blog post, just follow these simple steps. 
 
-1. Open a PR using the dedicated blogpost template and add it to the Blogposts project's backlog on
+1. Open a PR using the dedicated blogpost template and add it to the Blog project's backlog on
    GitHub. The template is filled with all the instructions you need to take your blogpost from
    idea to publication.
 2. Write the article following the [guidelines][template] in the repository. If you feel you need
@@ -33,9 +33,9 @@ You don't need approval to write a blog post, just follow these simple steps.
    Slack and someone will be happy to give you some advice.
 3. When a draft of your post is ready, ping your teammates on the #blog channel to request feedback
    on the content you created and review it to correct any errors and typos.
-4. After the article has been reviewed and adjusted, ping @shana.remigio in the #blog channel. She
-   runs the blog and provides a final review to ensure the article is in line with our SEO strategy.
-   She will also ask our designers to whip up an artsy cover.
+4. After the article has been reviewed (you need at least 2 reviews) and adjusted, ping @shana.remigio
+   in the #blog channel. She runs the blog and provides a final review to ensure the article is in line 
+   with our SEO strategy. She will also ask our designers to whip up an artsy cover.
 5. Once the cover image and the latest SEO refinements have been implemented, your blog post is
    ready to be merged and scheduled for publication. Shana will communicate the date your article
    will come out.
