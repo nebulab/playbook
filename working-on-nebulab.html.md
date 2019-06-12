@@ -2,7 +2,7 @@
 title: Working on Nebulab
 image:
   filename: working-on-nebulab.svg
-  width: 374
+  width: 280
 position: 6
 playbook-section-chapters:
   - Blog

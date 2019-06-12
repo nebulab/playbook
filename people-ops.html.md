@@ -2,7 +2,7 @@
 title: People operations
 image:
   filename: people-ops.svg
-  width: 440
+  width: 280
 position: 4
 playbook-section-chapters:
   - Hiring
