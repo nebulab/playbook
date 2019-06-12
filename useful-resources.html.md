@@ -2,7 +2,7 @@
 title: Useful resources
 image:
   filename: useful-resources.svg
-  width: 440
+  width: 280
 position: 8
 playbook-section-chapters:
   - Privacy policy

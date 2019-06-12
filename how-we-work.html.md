@@ -2,7 +2,7 @@
 title: How we work
 image:
   filename: how-we-work.svg
-  width: 366
+  width: 280
 position: 2
 playbook-section-chapters:
   - Where, when and how

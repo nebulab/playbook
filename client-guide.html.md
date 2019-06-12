@@ -1,7 +1,7 @@
 ---
 title: Client guide
 image:
-  filename: how-we-work.svg
+  filename: client-guide.svg
   width: 366
 position: 9
 playbook-section-chapters:
