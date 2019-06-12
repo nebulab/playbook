@@ -152,7 +152,7 @@ different ways:
   in the learning process and put their new skills to use immediately!
 
 If both you and your mentee are out of ideas, perhaps you can take some inspiration from the latest
-[demo Friday][demo-fridays] or take a look at what other people in the team are doing.
+[demo Friday][demo-friday] or take a look at what other people in the team are doing.
 
 ### Tackling the right project
 
@@ -246,8 +246,8 @@ help you handle it in the best possible way:
   gotten out of hand, you shouldn't bear this burden alone. Don't be afraid to reach out to someone
   from the leadership team to get help: that's why they're there!
 
-[fridays]: #fridays
-[demo-friday]: #demo-fridays
+[fridays]: /personal-growth/fridays
+[demo-friday]: /personal-growth/fridays/#demo-fridays
 [whitespace]: https://en.wikipedia.org/wiki/Whitespace_(programming_language)
-[values]: /about-us#our-values
+[values]: /about-us/values
 [disagree-and-commit]: https://en.wikipedia.org/wiki/Disagree_and_commit

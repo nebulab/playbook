@@ -1,7 +1,7 @@
 ---
 title: Conferences
 ---
-We offer full reimbursement for all industry-related conferences according to our [travel policy.](/personal-growth#conferences)
+We offer full reimbursement for all industry-related conferences according to our [travel policy.](people-ops/travel-policy)
 
 ## Getting the most out of a conference
 
