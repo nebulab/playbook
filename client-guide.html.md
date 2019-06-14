@@ -11,4 +11,5 @@ playbook-section-chapters:
   - Agile workflows
   - Estimates and deadlines
   - Testing and automation
+  - Delivery and deployment
 ---
