@@ -4,24 +4,18 @@ title: Agile workflows
 
 The single biggest problem we have seen in development teams is the lack of an established
 philosophy and process for managing the day-to-day work of the developers and ensuring they are
-delivering value to the business without requiring a constant back and forth. Bureaucracy is
-sacrificed in the name of speed. However, the confusion that stems from the lack of a defined
-process ends up hurting the team's performance and making stakeholders unhappy about development
-velocity. The balance between speed and process is a fine one: going too far in either direction
-will cause you to underperform.
+delivering business value. The confusion that stems from the lack of process ends up hurting the
+team's performance and making stakeholders.
 
 We also see a lot of teams designing their own informal processes, not stopping to consider more
 established Agile methodologies because they are often deemed too complicated or "heavy". Workflows
 such as Scrum and Kanban, however, have been battle-tested by hundreds of thousands of development
-teams all over the world. We know they work because they have been delivering value both to
-developers and businesses for years.
+teams all over the world - they have been working in the wild for years.
 
 At Nebulab, we believe in adopting a well established practice, trying to follow it to the letter,
-and only deviating from it and tweaking it when experience suggests that's the better option. This
-approach to process design incorporates the best of both worlds: the end result will be a workflow
-that leans on the shoulders of giants, but also works for your organization's unique needs and
-challenges. It will not only save you time, but also improve the quality and quantity of your team's
-output dramatically.
+and only tweaking it after experience. The end result of this approach is a workflow that leans on
+the shoulders of giants, but also works for your unique needs and challenges. It will not only save
+you time, but also improve the quality and quantity of your team's output dramatically.
 
 When it comes to Agile development, the two most popular choices are Scrum and Kanban, so let's take
 a look at the structure, pros and cons of each methodology.
@@ -31,28 +25,25 @@ a look at the structure, pros and cons of each methodology.
 In Scrum, the most important concept is the sprint, a fixed-length iteration during which the team
 commits to delivering a certain amount of work. The content of the sprint is defined upfront along
 with business stakeholders (represented by a Product Owner), the Scrum Master and the development
-team, and it cannot be changed unless for emergencies, in which case the sprint is stopped and a new
-sprint is planned.
+team.
 
-Estimation is also central to Scrum: the development team estimates the effort required to complete
-each item in the sprint. The team's velocity is then judged at the end of the sprint, and the
-following sprint is adjusted accordingly. Scrum does not mandate an estimation technique, but a
-popular choice is [planning poker](https://en.wikipedia.org/wiki/Planning_poker), where each team
-member provides a blind estimate on the item at hand and any discrepancies are then reconciled by
-the Scrum master.
+Estimation is central to Scrum: the development team estimates the effort required to complete each
+item in the sprint. The team's velocity is then judged at the end of the sprint, and the following
+sprint is adjusted accordingly. Scrum does not mandate an estimation technique, but a popular choice
+is [planning poker](https://en.wikipedia.org/wiki/Planning_poker), where every feature is estimated
+by the entire team.
 
 The focus on velocity and the separation of responsibilities provide transparency to business
-stakeholders, while at the same time protecting the development team from scope creep and
-unreasonable expectations. This makes Scrum an excellent choice in large teams with lots of
-stakeholders, as the process ensures business goals are respected, but executed in a way that is
-sustainable for the developers in the long term.
+stakeholders and protect the development team from scope creep and unreasonable expectations. This
+makes Scrum an excellent choice in large projects, as the process ensures business goals are
+respected but executed in a way that is sustainable for the developers in the long term.
 
-On the other hand, Scrum creates a lot of overhead, requiring you to designate both a Product Owner
-(who represents the business requirements) and a Scrum Master (who ensures Scrum practices are
-respected) and to plan for all the Scrum ceremonies. This can be very taxing for small companies,
-where resources are limited and there is an absolute focus on delivering business value with the
-smallest possible cost. Scrum also makes it harder to work in environments where priorities are
-constantly changing, such as a startup that needs to quickly incorporate and validate assumptions.
+On the other hand, Scrum creates a lot of overhead, requiring you to designate a Product Owner
+and a Scrum Master, and to plan for all the Scrum ceremonies. This can be very taxing for small
+companies, where resources are limited and there is an absolute focus on delivering business value
+with the smallest possible cost. Scrum also makes it harder to work in environments where priorities
+are constantly changing, such as a startup that needs to quickly incorporate and validate
+assumptions.
 
 [Learn more about Scrum on the official Scrum Guide!](https://scrumguides.org/scrum-guide.html)
 
@@ -77,23 +68,20 @@ not directly help achieve the end result.
 However, Kanban also provides less transparency into team velocity and delivery dates than Scrum.
 This can be hard to digest for business stakeholders, especially in large and established
 organizations where a high level of planning and estimation is required for coordination and
-budgeting. This can also backfire and lead stakeholders to constantly bother the development team
-with estimate requests and deadlines, with negative effects on their productivity.
+budgeting.
 
 [Learn more about Kanban in the Atlassian Agile guides!](https://www.atlassian.com/agile/kanban)
 
 ## How we do Agile
 
-If you are already using an Agile methodology, we will use that as a starting point.
+If you are already using an Agile methodology, we will use that as a starting point. If not, we will
+coach you and your team on Agile principles and practices and the value Agile can create for your
+business. We will go over your current process or lack thereof, identifying issues and lost
+opportunities, and choose the best methodology for your organization.
 
-If not, we will coach you and your team on Agile principles and practices, as well as on the value
-Agile can create for your developers and your business. We will go over your current process or lack
-thereof, identifying the issues and lost opportunities, and choose the best methodology for your
-organization.
-
-We will follow the process for a defined trial period, then we will discuss what went well and what
-pain points are still in place with developers and business. The output of this discussion is a list
-of improvements that can be applied to the process. At this point, the trial begins again.
+We will follow the process for a defined trial period, then we'll discuss what went well, what
+didn't and how we can do better moving forward. The output of this discussion is a list of
+improvements that can be applied to the process. At this point, the trial begins again.
 
 This tight feedback loop ensures that no inefficiency goes unnoticed. In the end, you will have a
 development process that works for you and supercharges your productivity!
