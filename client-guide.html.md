@@ -8,5 +8,6 @@ playbook-section-chapters:
   - Onboarding
   - Work schedule
   - Our practices
+  - Agile workflows
   - Estimates and deadlines
 ---
