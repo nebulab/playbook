@@ -10,4 +10,5 @@ playbook-section-chapters:
   - Our practices
   - Agile workflows
   - Estimates and deadlines
+  - Testing and automation
 ---
