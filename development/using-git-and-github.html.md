@@ -1,6 +1,7 @@
 ---
 title: Using Git and GitHub
 ---
+
 Git is used to manage all the projects we work on. Learning to use Git is very important because, in
 addition to preserving the code, it serves as a source of documentation and makes it easier to share
 design and implementation decisions with the team.
