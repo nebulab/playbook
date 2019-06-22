@@ -3,7 +3,7 @@ title: Client guide
 image:
   filename: client-guide.svg
   width: 366
-position: 9
+position: 10
 playbook-section-chapters:
   - Onboarding
   - Work schedule
