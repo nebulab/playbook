@@ -1,8 +1,8 @@
 ---
 title: Becoming a mentor
 image:
-  filename: personal-growth.svg
-  width: 330
+  filename: becoming-a-mentor.svg
+  width: 366
 position: 4
 playbook-section-chapters:
   - What mentors do
