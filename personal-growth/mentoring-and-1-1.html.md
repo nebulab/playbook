@@ -1,6 +1,7 @@
 ---
 title: Mentoring and 1:1s
 ---
+
 Upon your arrival at Nebulab, a mentor will be assigned to you. His/her duty is to follow you and
 ensure that you are constantly improving. Your mentor is your point of reference for anything
 concerning the Nebulab world, so feel free to contact him/her at any time with any queries or
@@ -31,3 +32,14 @@ next meeting.
 
 The 1:1 is also a time to discuss your [personal growth projects](personal-growth/fridays)
 and the goals you set for yourself.
+
+## Preparing for a 1:1
+
+Here are some of the questions you can ask yourself to prepare for a 1:1 with your mentor:
+
+- Do you understand what goals/challenges/strategy your mentor wants the team working towards and
+  how you fit in?
+- What is the best way to educate your mentor on what you are working on?
+- Do you need any guidance on solving an issue?
+- Do you need your mentor to escalate an issue or to remove a blocker?
+- Are there any specific areas where you'd like to receive more feedback?
