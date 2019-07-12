@@ -37,6 +37,8 @@ collections:
             widget: markdown
   - label: Sections
     name: sections
+    editor:
+      preview: false
     files:
       - file: about-us.html.md
         label: About us
