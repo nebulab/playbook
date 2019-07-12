@@ -2,7 +2,7 @@ backend: # Uncomment at need
   # GitHub backend
   name: github
   repo: nebulab/playbook
-  branch: middleman-subfolder-v2 # Branch to update (optional; defaults to master) repository
+  # branch: netlify-cms-test # Branch to update (optional; defaults to master) repository
 
   # Local testing
   # name: test-repo
