@@ -12,6 +12,8 @@ publish_mode: editorial_workflow
 media_folder: middleman/uploads
 public_folder: /middleman/uploads
 
+site_url: https://playbook.nebulab.it
+
 logo_url: /middleman/assets/not-hashed/images/logo.png
 
 collections:
