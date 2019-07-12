@@ -66,9 +66,6 @@ collections:
               searchFields:
                 - title
               valueField: title
-          - label: Body
-            name: body
-            widget: markdown
       - file: becoming-a-mentor.html.md
         label: Becoming a mentor
         name: becoming-a-mentor
@@ -99,9 +96,6 @@ collections:
               searchFields:
                 - title
               valueField: title
-          - label: Body
-            name: body
-            widget: markdown
       - file: client-guide.html.md
         label: Client guide
         name: client-guide
@@ -132,9 +126,6 @@ collections:
               searchFields:
                 - title
               valueField: title
-          - label: Body
-            name: body
-            widget: markdown
       - file: development.html.md
         label: Development
         name: development
@@ -165,9 +156,6 @@ collections:
               searchFields:
                 - title
               valueField: title
-          - label: Body
-            name: body
-            widget: markdown
       - file: how-we-work.html.md
         label: How we work
         name: how-we-work
@@ -198,9 +186,6 @@ collections:
               searchFields:
                 - title
               valueField: title
-          - label: Body
-            name: body
-            widget: markdown
       - file: people-ops.html.md
         label: People operations
         name: people-ops
@@ -231,9 +216,6 @@ collections:
               searchFields:
                 - title
               valueField: title
-          - label: Body
-            name: body
-            widget: markdown
       - file: personal-growth.html.md
         label: Personal growth
         name: personal-growth
@@ -264,9 +246,6 @@ collections:
               searchFields:
                 - title
               valueField: title
-          - label: Body
-            name: body
-            widget: markdown
       - file: the-offices.html.md
         label: The offices
         name: the-offices
@@ -297,9 +276,6 @@ collections:
               searchFields:
                 - title
               valueField: title
-          - label: Body
-            name: body
-            widget: markdown
       - file: useful-resources.html.md
         label: Useful resources
         name: useful-resources
@@ -330,9 +306,6 @@ collections:
               searchFields:
                 - title
               valueField: title
-          - label: Body
-            name: body
-            widget: markdown
       - file: working-on-nebulab.html.md
         label: Working on Nebulab
         name: working-on-nebulab
@@ -357,9 +330,6 @@ collections:
               searchFields:
                 - title
               valueField: title
-          - label: Body
-            name: body
-            widget: markdown
   - label: '"About us" section chapters'
     name: about-us-section-chapters
     label_singular: '"About us" section chapter'
