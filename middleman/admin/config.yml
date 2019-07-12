@@ -69,6 +69,72 @@ collections:
           - label: Body
             name: body
             widget: markdown
+      - file: becoming-a-mentor.html.md
+        label: Becoming a mentor
+        name: becoming-a-mentor
+        format: frontmatter
+        create: false
+        delete: false
+        slug: '{{title}}'
+        fields:
+          - label: Title
+            name: title
+            widget: string
+            required: true
+          - label: Position
+            name: position
+            widget: number
+            required: true
+            valueType: int
+            min: 1
+          - label: Chapters
+            name: playbook-section-chapters
+            label_singular: chapter
+            widget: list
+            field:
+              label: Chapter
+              name: playbook-section-chapter
+              widget: relation
+              collection: becoming-a-mentor-section-chapters
+              searchFields:
+                - title
+              valueField: title
+          - label: Body
+            name: body
+            widget: markdown
+      - file: client-guide.html.md
+        label: Client guide
+        name: client-guide
+        format: frontmatter
+        create: false
+        delete: false
+        slug: '{{title}}'
+        fields:
+          - label: Title
+            name: title
+            widget: string
+            required: true
+          - label: Position
+            name: position
+            widget: number
+            required: true
+            valueType: int
+            min: 1
+          - label: Chapters
+            name: playbook-section-chapters
+            label_singular: chapter
+            widget: list
+            field:
+              label: Chapter
+              name: playbook-section-chapter
+              widget: relation
+              collection: client-guide-section-chapters
+              searchFields:
+                - title
+              valueField: title
+          - label: Body
+            name: body
+            widget: markdown
       - file: development.html.md
         label: Development
         name: development
@@ -298,6 +364,38 @@ collections:
     name: about-us-section-chapters
     label_singular: '"About us" section chapter'
     folder: about-us/
+    extension: .html.md
+    format: frontmatter
+    create: true
+    slug: '{{title}}'
+    fields:
+      - label: Title
+        name: title
+        widget: string
+        required: true
+      - label: Body
+        name: body
+        widget: markdown
+  - label: '"Becoming a mentor" section chapters'
+    name: becoming-a-mentor-section-chapters
+    label_singular: '"Becoming a mentor" section chapter'
+    folder: becoming-a-mentor/
+    extension: .html.md
+    format: frontmatter
+    create: true
+    slug: '{{title}}'
+    fields:
+      - label: Title
+        name: title
+        widget: string
+        required: true
+      - label: Body
+        name: body
+        widget: markdown
+  - label: '"Client guide" section chapters'
+    name: client-guide-section-chapters
+    label_singular: '"Client guide" section chapter'
+    folder: client-guide/
     extension: .html.md
     format: frontmatter
     create: true
