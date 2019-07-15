@@ -1,5 +1,7 @@
 <!doctype html>
 <html>
+  <% self.current_chapter_title_tag_content = current_chapter.title_tag_content %>
+
   <%= partial "middleman/layouts/shared/head" %>
 
   <body>
@@ -24,7 +26,7 @@
     <%= partial "middleman/layouts/shared/cookies" %>
 
     <%= partial "middleman/layouts/shared/all_js" %>
-    
+
     <%= javascript_include_tag "jquery.nice-select.min.js" %>
     <%= javascript_include_tag "custom-select.js" %>
   </body>

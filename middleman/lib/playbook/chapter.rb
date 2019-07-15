@@ -39,4 +39,8 @@ class Playbook::Chapter < SimpleDelegator
   def next
     section.chapters[section.chapters.find_index { |chapter| page_id == chapter.page_id }.next]
   end
+
+  def title_tag_content
+    "#{section.data.title} - #{data.title}"
+  end
 end
