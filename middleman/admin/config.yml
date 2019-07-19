@@ -48,10 +48,6 @@ collections:
         delete: false
         slug: '{{title}}'
         fields:
-          - label: Title
-            name: title
-            widget: string
-            required: true
           - label: Position
             name: position
             widget: number
