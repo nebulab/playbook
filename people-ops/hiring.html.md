@@ -109,9 +109,6 @@ tips to help you excel:
 - Pay attention to documentation and Git history.
 - Follow the conventions established on the project.
 - If in doubt, feel free to ask! You have our full support.
- 
-If we don't hire you, we will pay for your work at our standard rate for external consultants, which
-will be shared when the task is assigned to you.
 
 ### Offer
 
