@@ -5,11 +5,11 @@ We follow these guidelines to write clean code and reliable applications:
 
 - Ruby: 
   - [https://github.com/bbatsov/ruby-style-guide](https://github.com/bbatsov/ruby-style-guide)
-  - [https://github.com/uohzxela/clean-code-ruby](https://github.com/bbatsov/ruby-style-guide)
-- Rails: [https://github.com/bbatsov/rails-style-guide](https://github.com/bbatsov/ruby-style-guide)
-- CSS: [https://frontend.18f.gov/css/architecture/](https://github.com/bbatsov/ruby-style-guide)
-- RSpec: [http://betterspecs.org/](https://github.com/bbatsov/ruby-style-guide)
-- Javascript: [https://github.com/airbnb/javascript](https://github.com/bbatsov/ruby-style-guide)
+  - [https://github.com/uohzxela/clean-code-ruby](https://github.com/uohzxela/clean-code-ruby)
+- Rails: [https://github.com/bbatsov/rails-style-guide](https://github.com/bbatsov/rails-style-guide)
+- CSS: [https://frontend.18f.gov/css/architecture/](https://frontend.18f.gov/css/architecture/)
+- RSpec: [http://betterspecs.org/](http://www.betterspecs.org)
+- Javascript: [https://github.com/airbnb/javascript](https://github.com/airbnb/javascript)
 
 **Note:** When reading this section, always keep in mind that, when working on projects, it is 
 important to adapt to the client's style if they have a development team. Otherwise, it is acceptable 
