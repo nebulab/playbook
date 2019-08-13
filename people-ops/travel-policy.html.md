@@ -12,7 +12,7 @@ flight tickets and so on.
 
 ## Travel
 
-Regardless of how much time you spend traveling, we consider travel days (Mon-Fry) as full 8-hour
+Regardless of how much time you spend traveling, we consider travel days (Mon-Fri) as full 8-hour
 workdays. Travel during the weekend (Sat-Sun) is not considered work time, but we always try to book
 trips during the workweek.
 
