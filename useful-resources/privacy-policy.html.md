@@ -2,7 +2,7 @@
 title: Privacy policy
 ---
 La presente politica sulla privacy descrive i dati personali raccolti o elaborati durante le
-ordinarie operazioni amministrative dentro Nebulab.. La stessa spiega inoltre come i dati personali
+ordinarie operazioni amministrative dentro Nebulab. La stessa spiega inoltre come i dati personali
 vengono da noi raccolti, trattati, condivisi e protetti nell'ambito della gestione della nostra
 attività, quali sono le scelte a vostra disposizione in tema di dati personali ed infine come
 contattarci. La nostra intenzione nella stesura della presente è di rispettare i principi cardine di
@@ -20,29 +20,29 @@ raccolti nel porcesso di onboarding di ogni nuovo team member.
 
 ### Gestione dipendenti e paghe
 
-- Nome
-- Cognome
-- Data di nascita
-- Codice fiscale
-- Numero di telefono
-- Residenza/Domicilio
-- Dati reddituali
-- IBAN
+* Nome
+* Cognome
+* Data di nascita
+* Codice fiscale
+* Numero di telefono
+* Residenza/Domicilio
+* Dati reddituali
+* IBAN
 
 ### Sicurezza sui luoghi di lavoro
 
-- Nome
-- Cognome
-- Data di nascita
-- Codice fiscale
-- Numero di telefono
-- Residenza/Domicilio
+* Nome
+* Cognome
+* Data di nascita
+* Codice fiscale
+* Numero di telefono
+* Residenza/Domicilio
 
 ### Software di gestione amministrativa
 
-- Nome
-- Cognome
-- Email con dominio @nebulab.it
+* Nome
+* Cognome
+* Email con dominio @nebulab.it
 
 ## Condivisione dei dati personali
 
@@ -56,9 +56,9 @@ svolge attività di  consulenza contabile e fiscale e tiene i registri previsti 
 vigente. Oltre all'accesso ai dati personali citati ha accesso ai dati reddituali nell'ambito
 esclusivo dell'attività lavorativa del team member con Nebulab.
 
-| Nome               | Ruolo           | Scopo                                    |    
-|--------------------|-----------------|------------------------------------------|    
-| Valentina Taricani | Commercialista  | Gestione contabile e adempimenti fiscali |
+| Nome               | Ruolo          | Scopo                                    |
+| ------------------ | -------------- | ---------------------------------------- |
+| Valentina Taricani | Commercialista | Gestione contabile e adempimenti fiscali |
 
 ### Consulente del lavoro
 
@@ -68,9 +68,9 @@ lavoro e predispone tutta la documentazione contrattuale riguardante il rapporto
 cedolini per le paghe mensili. Oltre all'accesso ai dati personali citati ha accesso ai dati
 reddituali nell'ambito esclusivo dell'attività lavorativa del team member con Nebulab.
 
-| Nome             | Ruolo                  | Scopo                                |    
-|------------------|------------------------|--------------------------------------|    
-| Loredana Catabbi | Consulente del lavoro  | Predisposizione di documenti e paghe |
+| Nome             | Ruolo                 | Scopo                                |
+| ---------------- | --------------------- | ------------------------------------ |
+| Loredana Catabbi | Consulente del lavoro | Predisposizione di documenti e paghe |
 
 ### Medico del lavoro
 
@@ -79,9 +79,9 @@ medicina del lavoro, S.S. 17 est 12 F loc. S.Elia 67100 L'Aquila, P.IVA 01589150
 RBNSFN73H04F839L, ai fini di effettuare la visita medica per la concessione dell'idoneità allo
 svolgimento della mansione lavorativa.
 
-| Nome                 | Ruolo                  | Scopo                                     |    
-|----------------------|------------------------|-------------------------------------------|    
-| Stefano Maria Rubino | Medico competente      | Visita e rilascio idoneità alla mansione  |
+| Nome                 | Ruolo             | Scopo                                    |
+| -------------------- | ----------------- | ---------------------------------------- |
+| Stefano Maria Rubino | Medico competente | Visita e rilascio idoneità alla mansione |
 
 ### Responsabile per la sicurezza
 
@@ -89,9 +89,9 @@ Matteo Novelli è Il responsabile del servizio di prevenzione e protezione azien
 dati personali dei dipendenti ai fini della predisposizione di tutta la documentazione relativa alla
 sicurezza nei luoghi di lavoro.
 
-| Nome             | Ruolo                  | Scopo                                                    |    
-|------------------|------------------------|----------------------------------------------------------|    
-| Matteo Novelli   | RSPP                   | Predisposizione di documenti relativi alla sicurezza sui luoghi di lavoro |
+| Nome           | Ruolo | Scopo                                                                     |
+| -------------- | ----- | ------------------------------------------------------------------------- |
+| Matteo Novelli | RSPP  | Predisposizione di documenti relativi alla sicurezza sui luoghi di lavoro |
 
 ### Dipendenti in Cloud
 
@@ -100,8 +100,8 @@ sicurezza nei luoghi di lavoro.
 Software di gestione generica dei dipendenti, sul quali viene tenuto il registro presenze le
 presenze, conservata la documentazione contrattuale e inserite mensilmente le buste paga.
 
-| Nome                  | Ruolo                | Scopo                   |    
-|-----------------------|----------------------|-------------------------|    
+| Nome                  | Ruolo                | Scopo                   |
+| --------------------- | -------------------- | ----------------------- |
 | Andrea Cesare Iurisci | Resp. amministrativo | Gestione amministrativa |
 | Alberto Vena          | Co-founder           | Gestione amministrativa |
 | Davide Di Stefano     | Co-founder           | Gestione amministrativa |
@@ -114,8 +114,8 @@ presenze, conservata la documentazione contrattuale e inserite mensilmente le bu
 
 Software per l'archiviazione in cartelle cloud di documenti, fatture e buste paga.
 
-| Nome                  | Ruolo                | Scopo                   |    
-|-----------------------|----------------------|-------------------------|    
+| Nome                  | Ruolo                | Scopo                   |
+| --------------------- | -------------------- | ----------------------- |
 | Andrea Cesare Iurisci | Resp. amministrativo | Gestione amministrativa |
 | Alberto Vena          | Co-founder           | Gestione amministrativa |
 | Davide Di Stefano     | Co-founder           | Gestione amministrativa |
@@ -128,11 +128,11 @@ Software per l'archiviazione in cartelle cloud di documenti, fatture e buste pag
 
 Hosting dell'applicativo Bridge a uso interno dei dipendenti.
 
-| Nome                  | Ruolo                | Scopo            |    
-|-----------------------|----------------------|------------------|    
-| Alberto Vena          | Co-founder           | Gestione tecnica |
-| Davide Di Stefano     | Co-founder           | Gestione tecnica |
-| Matteo Latini         | Co-founder           | Gestione tecnica |
+| Nome              | Ruolo      | Scopo            |
+| ----------------- | ---------- | ---------------- |
+| Alberto Vena      | Co-founder | Gestione tecnica |
+| Davide Di Stefano | Co-founder | Gestione tecnica |
+| Matteo Latini     | Co-founder | Gestione tecnica |
 
 ### Harvest
 
@@ -140,9 +140,8 @@ Hosting dell'applicativo Bridge a uso interno dei dipendenti.
 
 Software per la gestione dello schedule e la consuntivazione delle ore.
 
-
-| Nome                  | Ruolo                | Scopo                   |    
-|-----------------------|----------------------|-------------------------|    
+| Nome                  | Ruolo                | Scopo                   |
+| --------------------- | -------------------- | ----------------------- |
 | Andrea Cesare Iurisci | Resp. amministrativo | Gestione amministrativa |
 | Alberto Vena          | Co-founder           | Gestione amministrativa |
 | Davide Di Stefano     | Co-founder           | Gestione amministrativa |
@@ -155,11 +154,11 @@ Software per la gestione dello schedule e la consuntivazione delle ore.
 
 Il trattamento dei dati sopra elencati segue le seguenti finalità:
 
-- Finalità statistiche
-– Predisposizione contratti di lavoro
-- Organizzazione del lavoro
-- Gestione paghe
-- Sicurezza sui luoghi di lavoro
+* Finalità statistiche
+  – Predisposizione contratti di lavoro
+* Organizzazione del lavoro
+* Gestione paghe
+* Sicurezza sui luoghi di lavoro
 
 La durata del trattamento dei dati è variabile a seconda delle finalità. In generale, i dati vengono
 conservati strettamente peril tempo necessario al raggiungimento dello scopo del trattamento stesso.
@@ -181,10 +180,10 @@ intraprendere per la tutela dei propri diritti.
 Si ha il diritto di richiedere in qualsiasi momento, in determinate circostanze previste dalla legge
 applicabile:
 
-- quali sono i dati in nostro possesso ed eventualmente la correzione in caso di dati incompleti o
+* quali sono i dati in nostro possesso ed eventualmente la correzione in caso di dati incompleti o
   imprecisi;
-- una copia elettronica dei propri dati personali (Portabilità);
-- la cancellazione o limitazione dei dati personali (Oblio).
+* una copia elettronica dei propri dati personali (Portabilità);
+* la cancellazione o limitazione dei dati personali (Oblio).
 
 Qualora abbiamo ottenuto il consenso per il trattamento dei dati personali, si ha il diritto di
 revocare il consenso in qualsiasi momento, scrivendo una email a
