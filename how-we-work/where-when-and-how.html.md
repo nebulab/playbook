@@ -57,7 +57,8 @@ possible.
 Here is a list of essential things for working remotely:
 
 - **Your productive space.** A space dedicated exclusively to work. When you are there, you are at
-  the office. This space must be specific, quiet, free of distraction and other people.
+  the office. This space must allow you to do your work without disrupting your or your coworkers'
+  productivity (e.g. if you need to hop on a call, you can't work from a coffee shop!).
 - **A good Internet connection.** It is frustrating to be in a meeting with someone you can't
   understand or who disconnects continuously. If you intend to work remotely, invest in a good
   Internet connection. If you need help, we can find a solution together.
