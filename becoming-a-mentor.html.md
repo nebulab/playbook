@@ -9,6 +9,5 @@ playbook-section-chapters:
   - Running one-on-ones
   - Giving feedback
   - Promoting growth
-  - Managing projects
   - Handling conflict
 ---

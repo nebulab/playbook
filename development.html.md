@@ -3,7 +3,7 @@ title: Development
 image:
   filename: development.svg
   width: 280
-position: 8
+position: 9
 playbook-section-chapters:
   - Development environment
   - Style guide
