@@ -66,9 +66,9 @@ collections:
               searchFields:
                 - title
               valueField: title
-      - file: becoming-a-mentor.html.md
-        label: Becoming a mentor
-        name: becoming-a-mentor
+      - file: mentoring-people.html.md
+        label: Mentoring people
+        name: mentoring-people
         format: frontmatter
         create: false
         delete: false
@@ -92,7 +92,37 @@ collections:
               label: Chapter
               name: playbook-section-chapter
               widget: relation
-              collection: becoming-a-mentor-section-chapters
+              collection: mentoring-people-section-chapters
+              searchFields:
+                - title
+              valueField: title
+      - file: leading-teams.html.md
+        label: Leading teams
+        name: leading-teams
+        format: frontmatter
+        create: false
+        delete: false
+        slug: '{{title}}'
+        fields:
+          - label: Title
+            name: title
+            widget: string
+            required: true
+          - label: Position
+            name: position
+            widget: number
+            required: true
+            valueType: int
+            min: 1
+          - label: Chapters
+            name: playbook-section-chapters
+            label_singular: chapter
+            widget: list
+            field:
+              label: Chapter
+              name: playbook-section-chapter
+              widget: relation
+              collection: leading-teams-section-chapters
               searchFields:
                 - title
               valueField: title
@@ -349,10 +379,26 @@ collections:
       - label: Body
         name: body
         widget: markdown
-  - label: '"Becoming a mentor" section chapters'
-    name: becoming-a-mentor-section-chapters
-    label_singular: '"Becoming a mentor" section chapter'
-    folder: becoming-a-mentor/
+  - label: '"Leading teams" section chapters'
+    name: leading-teams-section-chapters
+    label_singular: '"Leading teams" section chapter'
+    folder: leading-teams/
+    extension: .html.md
+    format: frontmatter
+    create: true
+    slug: '{{title}}'
+    fields:
+      - label: Title
+        name: title
+        widget: string
+        required: true
+      - label: Body
+        name: body
+        widget: markdown
+  - label: '"Mentoring people" section chapters'
+    name: mentoring-people-section-chapters
+    label_singular: '"Mentoring people" section chapter'
+    folder: mentoring-people/
     extension: .html.md
     format: frontmatter
     create: true

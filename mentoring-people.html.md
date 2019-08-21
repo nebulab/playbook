@@ -1,7 +1,7 @@
 ---
-title: Becoming a mentor
+title: Mentoring people
 image:
-  filename: becoming-a-mentor.svg
+  filename: mentoring-people.svg
   width: 366
 position: 4
 playbook-section-chapters:

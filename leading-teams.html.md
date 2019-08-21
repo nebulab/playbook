@@ -1,7 +1,7 @@
 ---
 title: Leading teams
 image:
-  filename: becoming-a-mentor.svg
+  filename: mentoring-people.svg
   width: 366
 position: 5
 playbook-section-chapters:
