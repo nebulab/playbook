@@ -31,7 +31,7 @@ To implement a new feature:
 1. create an issue (use the language chosen for the project);
 2. create a new branch named `developer-name/123-feature-name`, where `123` is the issue number in
    the project management tool (e.g. `aldesantis/123-login`);
-3. add a certain number of commits (in English :gb:);
+3. add commits to your new branch (in English);
 4. open a pull request for the `master` branch (use the language chosen for the project);
 5. have the pull request reviewed accepted by another team member;
 6. rebase on master and merge after the pull request is approved and required
