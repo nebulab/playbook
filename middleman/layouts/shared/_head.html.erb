@@ -2,8 +2,11 @@
   <meta charset="utf-8">
   <meta content="IE=edge" http-equiv="X-UA-Compatible">
   <meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport">
+  <% if @meta_description_tag_content %>
+    <meta name="description" content="<%= h @meta_description_tag_content %>">
+  <% end %>
 
-  <title><%= title_tag_content %></title>
+  <title><%= h title_tag_content %></title>
 
   <%= favicon_tag 'favicon.ico' %>
   <link rel="apple-touch-icon" href="<%= image_path "apple-touch-icon.png" %>" />
