@@ -1,7 +1,7 @@
 ---
 title: Playbook
+meta-description: Meta description
 ---
-
 This playbook evolves continuously. We all need to contribute to it in order for it to be the point
 of reference for any doubts on Nebulab and our process.
 
@@ -19,21 +19,19 @@ manually.
 
 ### Usage
 
-Visit [https://playbook.nebulab.it/middleman/admin/](https://playbook.nebulab.it/middleman/admin/)
+Visit <https://playbook.nebulab.it/middleman/admin/>
 and login with your GitHub account. After successful authentication, you should see a list of
 collections. Collections are the way Netlify CMS divides pages by type. You can click on them in
 order to get access to the desired collection. There are three kinds of collections:
 
-   1. Home: it includes the homepage. It can be used to edit the homepage contents.
-
-   2. Sections: it includes the Playbook sections displayed as menu voices in the navigation menu.
+1. Home: it includes the homepage. It can be used to edit the homepage contents.
+2. Sections: it includes the Playbook sections displayed as menu voices in the navigation menu.
    It's allowed to change the section position (it affects the menu order), and to add, remove, and
    reorder chapters from the section chapters list. Be aware that removing a section chapter doesn't
    remove it from the repository, it just removes it from the section chapters list. Currently it's
    not possible to edit the section title, to add a new section, change the section image or
    edit the image properties. Such actions should be performed manually.
-
-   3. Section chapters: section chapters are a series of collections, one for each section, which
+3. Section chapters: section chapters are a series of collections, one for each section, which
    include the related section chapters. within a section chapter you can edit the chapter title
    and the chapter content. Be aware that editing the section chapter title via Netlify CMS
    requires to update the title within the related section chapters list, since it is duplicated
@@ -41,4 +39,4 @@ order to get access to the desired collection. There are three kinds of collecti
 
 After made the desired changes, click on the `Save` button located in the header on the top of the
 edit page. It will open a pull request that will be listed on
-https://github.com/nebulab/playbook/pulls.
+<https://github.com/nebulab/playbook/pulls>.
