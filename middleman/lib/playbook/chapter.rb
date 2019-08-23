@@ -43,4 +43,8 @@ class Playbook::Chapter < SimpleDelegator
   def title_tag_content
     "#{section.data.title} - #{data.title}"
   end
+
+  def meta_description_tag_content
+    data.meta_description
+  end
 end
