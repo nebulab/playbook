@@ -4,7 +4,7 @@ $how-we-work:              #FFF9B3;
 $development:              #DEFBFB;
 $personal-growth:          #D4F8EE;
 $people-ops:               #F7E9FB;
-$the-offices:              #FBF3E6;
+$our-offices:              #FBF3E6;
 $useful-resources:         #FAEDD5;
 $working-on-nebulab:       #FDECFF;
 $client-guide:             #F6F5FF;
@@ -12,11 +12,11 @@ $becoming-a-mentor:        #DAF2BF;
 
 .chapter-hero {
   text-align: center;
-  
+
   .title {
     display: inline-block;
     position: relative;
-    
+
     &::after {
       content: '';
       position: absolute;
@@ -36,7 +36,7 @@ $becoming-a-mentor:        #DAF2BF;
     development: $development,
     personal-growth: $personal-growth,
     people-ops: $people-ops,
-    the-offices: $the-offices,
+    our-offices: $our-offices,
     useful-resources: $useful-resources,
     working-on-nebulab: $working-on-nebulab,
     client-guide: $client-guide,

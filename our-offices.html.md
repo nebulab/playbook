@@ -1,7 +1,7 @@
 ---
-title: The offices
+title: Our offices
 image:
-  filename: the-offices.svg
+  filename: our-offices.svg
   width: 330
 position: 6
 playbook-section-chapters:

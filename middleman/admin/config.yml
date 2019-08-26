@@ -246,9 +246,9 @@ collections:
               searchFields:
                 - title
               valueField: title
-      - file: the-offices.html.md
-        label: The offices
-        name: the-offices
+      - file: our-offices.html.md
+        label: Our offices
+        name: our-offices
         format: frontmatter
         create: false
         delete: false
@@ -272,7 +272,7 @@ collections:
               label: Chapter
               name: playbook-section-chapter
               widget: relation
-              collection: the-offices-section-chapters
+              collection: our-offices-section-chapters
               searchFields:
                 - title
               valueField: title
@@ -463,10 +463,10 @@ collections:
       - label: Body
         name: body
         widget: markdown
-  - label: '"The offices" section chapters'
-    name: the-offices-section-chapters
-    label_singular: '"The offices" section chapter'
-    folder: the-offices/
+  - label: '"Our offices" section chapters'
+    name: our-offices-section-chapters
+    label_singular: '"Our offices" section chapter'
+    folder: our-offices/
     extension: .html.md
     format: frontmatter
     create: true
