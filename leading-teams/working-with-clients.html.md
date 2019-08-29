@@ -1,10 +1,9 @@
 ---
-title: Managing projects
+title: Working with clients
 ---
 
-In addition to following the growth of their mentees, mentors are also assigned to client projects
-where they act as informal project managers. Your main responsibility towards clients is to ensure
-that the team embodies the [Nebulab values][values] in all interactions with the client.
+Team leads effectively act as project managers. Your main responsibility towards clients is to
+ensure that the team embodies the [Nebulab values][values] in all interactions.
 
 It is important that you are proactive rather than reactive: do not wait for problems to arise on
 the project before dealing with them, but rather use your experience and gut to tell when something

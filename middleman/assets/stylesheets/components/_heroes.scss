@@ -8,7 +8,7 @@ $our-offices:              #FBF3E6;
 $useful-resources:         #FAEDD5;
 $working-on-nebulab:       #FDECFF;
 $client-guide:             #F6F5FF;
-$becoming-a-mentor:        #DAF2BF;
+$mentoring-people:         #DAF2BF;
 
 .chapter-hero {
   text-align: center;
@@ -40,7 +40,7 @@ $becoming-a-mentor:        #DAF2BF;
     useful-resources: $useful-resources,
     working-on-nebulab: $working-on-nebulab,
     client-guide: $client-guide,
-    becoming-a-mentor: $becoming-a-mentor
+    mentoring-people: $mentoring-people
   );
 
   @each $chapter, $color in $heroes {

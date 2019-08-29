@@ -10,5 +10,4 @@ playbook-section-chapters:
   - Benefits
   - Learning English
   - Conferences
-  - Becoming a mentor
 ---

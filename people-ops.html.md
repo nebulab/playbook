@@ -3,7 +3,7 @@ title: People operations
 image:
   filename: people-ops.svg
   width: 280
-position: 5
+position: 6
 playbook-section-chapters:
   - Hiring
   - Travel policy

@@ -1,7 +1,7 @@
 ---
-title: Becoming a mentor
+title: Mentoring people
 image:
-  filename: becoming-a-mentor.svg
+  filename: mentoring-people.svg
   width: 366
 position: 4
 playbook-section-chapters:
@@ -9,6 +9,5 @@ playbook-section-chapters:
   - Running one-on-ones
   - Giving feedback
   - Promoting growth
-  - Managing projects
   - Handling conflict
 ---
