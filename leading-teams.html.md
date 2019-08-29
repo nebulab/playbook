@@ -1,8 +1,8 @@
 ---
 title: Leading teams
 image:
-  filename: mentoring-people.svg
-  width: 366
+  filename: leading-teams.svg
+  width: 250
 position: 5
 playbook-section-chapters:
   - What team leads do
