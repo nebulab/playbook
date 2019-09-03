@@ -100,18 +100,14 @@ We provide adequate medical insurance for any trips outside the EU.
 
 Here's our company information if you need to ask for an invoice:
 
-```
-Nebulab srls
-Strada Comunale Piana, 3
-65129 Pescara (PE)
-Italia
-```
-
-```
-Partita IVA (VAT ID): IT02112180688
-Codice fiscale (tax ID): IT02112180688
-Electronic invoice code: M5UXCR1
-```
+    Nebulab Srls
+    Strada Comunale Piana, 3
+    65129 Pescara (PE)
+    Italia
+    
+    Partita IVA (VAT ID): IT02112180688
+    Codice fiscale (Tax ID): IT02112180688
+    Electronic invoice code: M5UXCR1
 
 Make sure to request an invoice when checking out at a hotel, if you're in charge of the
 reservation!
