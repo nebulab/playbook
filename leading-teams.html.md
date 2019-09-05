@@ -7,4 +7,5 @@ position: 5
 playbook-section-chapters:
   - Interacting with mentors
   - Working with clients
+  - Visiting clients
 ---
