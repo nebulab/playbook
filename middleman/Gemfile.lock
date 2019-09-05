@@ -105,6 +105,7 @@ GEM
 
 PLATFORMS
   ruby
+  x86_64-darwin-18
 
 DEPENDENCIES
   middleman (~> 4.2)

@@ -1,6 +1,5 @@
 <nav class="nav">
   <div>
-    <input type="search" name="playbook-search" placeholder="Search in the playbook" id="js-search">
     <ul class="nav-list">
       <% Playbook::Section.all(app).sort_by { |section| section.data.position }.each do |section| %>
         <li class="nav-list-item <%= current_section && current_section.page_id == section.page_id ? 'opened' : nil %>">

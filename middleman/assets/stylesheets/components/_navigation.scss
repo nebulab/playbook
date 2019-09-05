@@ -33,7 +33,7 @@
   @media (min-width: $device-md) {
     display: block !important;
     border-right: 1px solid $border-color;
-    top: $header-height;
+    top: $header-height + 70px;
     width: $nav-width;
   }
 }

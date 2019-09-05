@@ -1,0 +1,81 @@
+.playbook-search {
+  padding: 0 $gutter;
+  margin-bottom: $gutter * 2;
+  width: 100%;
+  z-index: $cookies-z-index;
+
+  @media (min-width: $device-md) {
+    top: $header-height;
+    left: 0;
+    padding: $gutter;
+    margin: 0;
+    position: fixed;
+    width: auto;
+    border-right: 1px solid $border-color;
+    width: $nav-width;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  .algolia-autocomplete {
+    width: 100%;
+
+    @media (min-width: $device-md) {
+      width: auto;
+    }
+  
+    &::before {
+      position: absolute;
+      top: 12px;
+      left: 13px;
+      content: '';
+      width: 14px;
+      height: 14px;
+      z-index: 1;
+      background: url("../images/search.svg") no-repeat;
+    }
+  
+    input[type=search]{
+      width: 100%;
+      padding: 10px 15px 10px 37px;
+      font-size: $smaller-fs;
+      border: 1px solid darken($border-color, 5%);
+      border-radius: 3px;
+      box-shadow: 0px 3px 6px 0px rgba(0, 0, 0, 0.05);
+      outline: 0;
+      font-family: inherit;
+  
+      &::placeholder {
+        color: lighten($light-grey, 14%);
+      }
+  
+      &:focus {
+        border-color: $primary-color;
+      }
+    }
+
+    .algolia-docsearch-suggestion {
+      &--subcategory-column {
+        font-size: $smaller-fs;
+        color: $light-grey;
+      }
+
+      &--category-header {
+        font-weight: 800;
+        font-size: 1.125em; 
+        border-bottom: 1px solid $border-color;
+      }
+
+      &--highlight {
+        color: $primary-color;
+      }
+
+      &--title {
+        font-size: $menu-fs;
+        font-weight: 800;
+      }
+    }
+  }
+}
