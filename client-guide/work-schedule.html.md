@@ -1,5 +1,8 @@
 ---
 title: Work schedule
+meta_description: >
+  If approached with the right mindset, having a distributed development team can augment your
+  capabilities. Read our tips for a successful remote collaboration!
 ---
 
 Our typical working hours are 9am-6pm CET, with one hour dedicated to lunch.

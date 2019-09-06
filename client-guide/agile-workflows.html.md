@@ -1,5 +1,8 @@
 ---
 title: Agile workflows
+meta_description: >
+  At Nebulab, we have experience both with Scrum and Kanban and we use them to increase the speed
+  and quality of our work. Learn how we do it in our Playbook!
 ---
 
 The single biggest problem we have seen in development teams is the lack of an established

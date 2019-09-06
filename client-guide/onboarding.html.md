@@ -1,5 +1,8 @@
 ---
 title: Onboarding
+meta_description: >
+  Over the years, we have established a set of principles that supercharge our development process.
+  Read on to find what they are and how we implement them!
 ---
 
 The onboarding process consists of six different steps:

@@ -1,5 +1,8 @@
 ---
 title: Estimates and deadlines
+meta_description: >
+  Estimates and deadlines have a place, but it's not what people usually think. At Nebulab, we have
+  a different approach to these tools. Learn more about it
 ---
 
 We feel very strongly about estimates and deadlines in software projects. In general, we think they
