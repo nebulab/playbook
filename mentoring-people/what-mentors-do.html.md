@@ -1,5 +1,8 @@
 ---
 title: What mentors do
+meta_description: >
+  Mentoring is an art that requires you to develop many skills. In our Playbook, we explain what
+  makes a mentor effective and how to drive your people to success.
 ---
 
 Mentoring is an essential aspect of Nebulab: our focus on personal and professional growth is one of

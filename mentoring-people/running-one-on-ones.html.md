@@ -1,5 +1,8 @@
 ---
 title: Running one-on-ones
+meta_description: >
+  Running useful 1:1s is not easy, but they can truly make a difference in the happiness of your
+  team. Here are our tips on how to run a productive 1:1!
 ---
 
 As a mentor, one of your main responsibilities is to have recurring 1:1 (one-on-one) meetings with
