@@ -1,5 +1,8 @@
 ---
 title: Giving feedback
+meta_description: >
+  When and how do you provide feedback that is both useful and empathetic? Here are some actionable
+  tips that you'll can easily implement immediately.
 ---
 
 One of your jobs as a mentor is to constantly provide feedback about your mentee's performance, both

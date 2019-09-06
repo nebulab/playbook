@@ -1,5 +1,8 @@
 ---
 title: Interacting with mentors
+meta_description: >
+  As a team lead, you should constantly be in touch with your team's mentors. Learn how to structure
+  this relationship properly in our Playbook!
 ---
 
 While mentors are responsible for the success of the individual team member, team leads are

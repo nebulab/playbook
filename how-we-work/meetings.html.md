@@ -1,6 +1,10 @@
 ---
 title: Meetings
+meta_description: >
+  Meetings don't have to be a waste of time: with a few tips and some upfront work, they can become
+  extremely productive. Learn more about our recommendations!
 ---
+
 Communicating via Slack is our bread and butter, but sometimes a synchronous meeting is needed.
 Throughout the years we have built some best practices that help us make our meetings as effective
 as possible.

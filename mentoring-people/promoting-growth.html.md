@@ -1,5 +1,8 @@
 ---
 title: Promoting growth
+meta_description: >
+  Promoting the growth of a team member is about getting to know them and identifying challenging
+  opportunities. Learn more about how we do it at Nebulab!
 ---
 
 Nebulab is all about growth: we want to grow as a company but, more importantly, we want to grow as

@@ -1,6 +1,10 @@
 ---
 title: Hiring
+meta_description: >
+  We set up a hiring pipeline that allows us to consistently hire the right people for our team. In
+  our Playbook, we share our process and more tips!
 ---
+
 We are always looking for people who share our values, the desire to work in a team and the passion
 to face new challenges every day.
 

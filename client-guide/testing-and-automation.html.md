@@ -1,5 +1,8 @@
 ---
 title: Testing and automation
+meta_description: >
+  It can be hard to sell non-technical people on the value of testing... unless you do it by
+  speaking their language. Find out how we do it at Nebulab!
 ---
 
 When working on a Web application, the development team usually runs two types of tests on the code

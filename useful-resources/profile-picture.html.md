@@ -1,6 +1,10 @@
 ---
 title: Profile picture
+meta_description: >
+  A coherent image is important for a brand. Find out our standards at Nebulab for creating a
+  profile picture that is consistent with the others.
 ---
+
 As you may have noticed on Slack or GitHub, we all have similar profile pictures. The pictures are
 also used on our site in the Team section of the page [About Us](https://nebulab.it/about-us/). 
 You will be included in the list once you have yours.

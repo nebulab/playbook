@@ -1,5 +1,8 @@
 ---
 title: Performance plans
+meta_description: >
+  Sometimes, a team member's performance drops so much it requires to be corrected. When this
+  happens, a performance plan can help them get back on track.
 ---
 
 > Note: This process has been taken almost verbatim from [Basecamp's handbook](https://github.com/basecamp/handbook/blob/master/performance-plans.md),

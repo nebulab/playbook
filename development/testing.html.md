@@ -1,6 +1,10 @@
 ---
 title: Testing
+meta_description: >
+  Automated testing allows developers to quickly iterate on your product with confidence, but what
+  should you test and how much? Find more in Nebulab's Playbook!
 ---
+
 At Nebulab, we strongly believe in the value of automated testing. All the code we write is tested, 
 and when we happen to work on a project without tests, we try to test it one piece at a time, as we 
 work on it, until it reaches a satisfactory state. The tests allow for a project to be modified 

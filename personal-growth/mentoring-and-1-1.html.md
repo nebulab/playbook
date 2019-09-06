@@ -1,5 +1,8 @@
 ---
 title: Mentoring and 1:1s
+meta_description: >
+  Ensuring the personal and professional growth of all team members is one of our key objectives at
+  Nebulab. Read more on how our mentoring program works!
 ---
 
 Upon your arrival at Nebulab, a mentor will be assigned to you. His/her duty is to follow you and

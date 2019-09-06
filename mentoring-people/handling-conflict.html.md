@@ -1,5 +1,8 @@
 ---
 title: Handling conflict
+meta_description: >
+  Conflict is an inevitable part of human interaction, but with some training we can manage conflict
+  constructively. Learn how to do it in our Playbook!
 ---
 
 When you interact with so many people, conflict is inevitable. What matters is the way you handle

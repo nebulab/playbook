@@ -1,6 +1,10 @@
 ---
 title: Documentation
+meta_description: >
+  Having helpful documentation can dramatically increase your team's onboarding and development
+  velocity. Here's what we usually document and where at Nebulab!
 ---
+
 ## Readme
 
 A good readme is fundamental for a project's health, because it allows new developers to start 

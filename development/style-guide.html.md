@@ -1,6 +1,10 @@
 ---
 title: Style guide
+meta_description: >
+  Having a shared, standardized style guide can help your team more easily jump between projects as
+  needed. See what works for us at Nebulab!
 ---
+
 We follow these guidelines to write clean code and reliable applications: 
 
 - Ruby: 

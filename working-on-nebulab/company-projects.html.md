@@ -1,6 +1,10 @@
 ---
 title: Company projects
+meta_description: >
+  In addition to client work, we maintain a number of internal and open-source company projects and
+  encourage everyone to help. Here's the list!
 ---
+
 Throughout the years, we have developed a variety of tools and libraries to help us in our daily
 work. Some of these are private, some are open source. Feel free to improve them by writing code or
 participating in the discussion.

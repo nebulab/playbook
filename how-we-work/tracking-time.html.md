@@ -1,6 +1,10 @@
 ---
 title: Tracking time
+meta_description: >
+  Transparency is one of our core values at Nebulab. This is why we track billable hours with
+  extreme accuracy for our clients. Curious how we do it? Read more!
 ---
+
 A paramount aspect of our work is our ability to make good use of the time we spend at the office.
 Measuring time is essential in order to spend it efficiently.
 

@@ -1,5 +1,8 @@
 ---
 title: Visiting clients
+meta_description: >
+  Nebulab teams visit their clients in-person after a year of work with them. Read our Playbook to
+  learn how we schedule these trips and what we do during them!
 ---
 
 When we have been with a client for more than a year, we should consider scheduling a trip to visit

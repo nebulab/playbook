@@ -1,5 +1,8 @@
 ---
 title: Blog
+meta_description: >
+  All team members are free to contribute to our blog, where we share our journey with the rest of
+  the tech community. Read on to learn about our writing process!
 ---
 
 Everyone is free to contribute to our blog, which is run and managed by our marketing team.

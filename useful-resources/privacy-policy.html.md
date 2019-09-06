@@ -1,6 +1,9 @@
 ---
 title: Privacy policy
+meta_description: >
+  Learn more about the Nebulab's Privacy Policy by visiting this page of our Playbook.
 ---
+
 La presente politica sulla privacy descrive i dati personali raccolti o elaborati durante le
 ordinarie operazioni amministrative dentro Nebulab. La stessa spiega inoltre come i dati personali
 vengono da noi raccolti, trattati, condivisi e protetti nell'ambito della gestione della nostra

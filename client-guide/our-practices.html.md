@@ -1,5 +1,8 @@
 ---
 title: Our practices
+meta_description: >
+  Over the years, we have established a set of principles that supercharge our development process.
+  Read on to find what they are and how we implement them!
 ---
 
 Over the years, we have worked with teams of all shapes and sizes. This has allowed us to distill

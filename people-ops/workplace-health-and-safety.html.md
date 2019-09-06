@@ -1,6 +1,10 @@
 ---
 title: Workplace health and safety
+meta_description: >
+  It's no news that sitting all day is not healthy. Read our suggestions to all team members to
+  ensure their health and safety in the workplace!
 ---
+
 Both of our offices comply with current Italian workplace health and safety standards.
 
 It is unproductive and certainly unhealthy to remain seated in the same position for eight hours or

@@ -1,5 +1,8 @@
 ---
 title: Delivery and deployment
+meta_description: >
+  With the right mindset and setup, the delivery and deployment of your product can be a hassle-free
+  experience. See what our workflow looks like!
 ---
 
 Because we put a lot of stress on [automated testing](/client-guide/testing-and-automation/), we
