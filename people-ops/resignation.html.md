@@ -1,6 +1,10 @@
 ---
 title: Resignation
+meta_description: >
+  Parting ways are always sad, but it can happen sometimes. Should that be the case, we have a
+  process to ensure a smooth offboarding for our team members.
 ---
+
 The employment contract provides the worker with the option of withdrawing unilaterally from the
 contract by submitting his/her resignation. The [resignation process](https://www.cliclavoro.gov.it/Cittadini/Pagine/Adempimenti.aspx)
 is remote and can be sent in various ways:

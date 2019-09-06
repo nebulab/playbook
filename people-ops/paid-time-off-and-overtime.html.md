@@ -1,6 +1,10 @@
 ---
 title: Paid time off and overtime
+meta_description: >
+  The concept of office hours has a different meaning for a remote team such as Nebulab's. Learn how
+  we handle time off and overtime in our distributed agency!
 ---
+
 The work day for full-time contracts is comprised of 8 hours. You can decide to reduce your
 contract's work hours and opt for part-time work.
 
