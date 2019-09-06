@@ -1,6 +1,10 @@
 ---
 title: Music
+meta_description: >
+  What hardware and software is best to listen to music in the office, and how do you reconcile
+  different musical tastes? See what we're doing at Nebulab!
 ---
+
 We have two solutions for listening to the music, depending on the office: 
 
 * Pescara: a Bowers & Wilkins Z2 system supporting AirPlay. It can be used with the standard

@@ -1,6 +1,9 @@
 ---
 title: Wi-Fi
+meta_description: >
+  Our offices provide unlimited high-speed Wi-Fi access. Check here our networks!
 ---
+
 ## Pescara
 
 ### Network
