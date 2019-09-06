@@ -1,6 +1,10 @@
 ---
 title: Conferences
+meta_description: >
+  Attending conferences is an opportunity for growth and enrichment, but how can you make the most
+  out of them? Here are some tips from Nebulab's Playbook!
 ---
+
 We offer full reimbursement for all industry-related conferences according to our [travel policy.](people-ops/travel-policy)
 
 ## Getting the most out of a conference

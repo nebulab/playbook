@@ -1,6 +1,10 @@
 ---
 title: Benefits
+meta_description: >
+  Nebulab aims to be the best workplace for the best developers. Our benefits are meant to increase
+  happiness and promote growth. Find out what we offer!
 ---
+
 All members of the team are entitled to the benefits listed in this document. If you have any doubts
 regarding any of the benefits, feel free to ask! 
 

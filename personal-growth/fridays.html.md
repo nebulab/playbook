@@ -1,6 +1,9 @@
 ---
 title: Fridays
+meta_description: >
+  At Nebulab, Friday is dedicated to personal and company projects. Sounds interesting? Read on!
 ---
+
 Fridays are our time for personal and collective growth. On Fridays, we do not work on clients.
 Instead, we focus on initiatives that improve our skills or contribute to the community or the
 company. Here are some ideas for Friday work:
