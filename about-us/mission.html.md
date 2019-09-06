@@ -1,5 +1,6 @@
 ---
 title: Mission
+meta-description: prova
 ---
 
 Nebulab was founded by two developers and one designer with a shared desire: to create a company 
