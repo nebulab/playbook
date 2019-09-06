@@ -1,5 +1,8 @@
 ---
 title: Tools
+meta_description: >
+  At Nebulab, we rely on battle-tested software to help us run a distributed consulting firm with 
+  international clients. Find out what tools we have adopted!
 ---
 
 ## Google Apps

@@ -1,6 +1,10 @@
 ---
 title: Where, when and how
+meta_description: >
+  Being a distributed company, having battle-tested work practices allows us to ship top-notch
+  products without giving up flexibility. Here's how we do it!
 ---
+
 Our working week consists of four days devoted to work for external clients (not necessarily always 
 with the same client) and one day, [Friday](personal-growth/fridays), 
 dedicated exclusively to learning, internal projects or open source contributions.
