@@ -1,5 +1,8 @@
 ---
 title: Working with clients
+meta_description: >
+  At Nebulab, team leads interact with clients on a daily basis to run the project. Let's see how we
+  communicate effectively and ensure our project's success!
 ---
 
 Team leads effectively act as project managers. Your main responsibility towards clients is to
