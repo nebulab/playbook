@@ -1,6 +1,10 @@
 ---
 title: Design
+meta_description: >
+  Our library of design resources contains inspirational material as well as useful tools we use in
+  our day-to-day work. Feel free to consult it and use it!
 ---
+
 ## Presentation
 
 We use [InVision](https://www.invisionapp.com/) to share and present mock-ups to clients and team 

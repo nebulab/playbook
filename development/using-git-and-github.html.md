@@ -1,5 +1,8 @@
 ---
 title: Using Git and GitHub
+meta_description: >
+  Good version control practices allow us to produce self-documenting work for our clients and team.
+  Learn more about the Git workflow we follow at Nebulab!
 ---
 
 Git is used to manage all the projects we work on. Learning to use Git is very important because, in

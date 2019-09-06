@@ -1,6 +1,10 @@
 ---
 title: Development environment
+meta_description: >
+  Our goal at Nebulab is to standardize the development process for our team members and our
+  clients. Here's our typical development setup!
 ---
+
 The setup phase is essential for passing from a virgin machine to a computer ready to work on 
 Nebulab projects. Fundamental concepts:
   
