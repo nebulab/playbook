@@ -66,3 +66,13 @@ issues you might be having!
 
 A fundamental aspect of maintaining the blog is to ensure new content is published on a regular
 basis. We currently try to publish an article every two weeks and any surplus articles are queued.
+
+## Useful resources
+
+Here are some useful articles on writing compelling technical blog posts:
+
+- [How to write a great technical blog post](https://www.freecodecamp.org/news/how-to-write-a-great-technical-blog-post-414c414b67f6/)
+- [7 Tips to Write a Blog Post That Converts](https://optinmonster.com/7-tips-to-write-a-blog-post-that-converts/)
+- [How to Write an Awesome Blog Post in 5 Steps](https://www.wordstream.com/blog/ws/2015/02/09/how-to-write-a-blog-post)
+
+If you need more guidance on a specific aspect of blogging, feel free to ping #blog!
