@@ -20,12 +20,12 @@
   }
 
   .algolia-autocomplete {
-    width: 100%;
+    min-width: 100%;
 
     @media (min-width: $device-md) {
       width: auto;
     }
-  
+
     &::before {
       position: absolute;
       top: 12px;
@@ -36,7 +36,7 @@
       z-index: 1;
       background: url("../images/search.svg") no-repeat;
     }
-  
+
     input[type=search]{
       width: 100%;
       padding: 10px 15px 10px 37px;
@@ -46,35 +46,56 @@
       box-shadow: 0px 3px 6px 0px rgba(0, 0, 0, 0.05);
       outline: 0;
       font-family: inherit;
-  
+
       &::placeholder {
         color: lighten($light-grey, 14%);
       }
-  
+
       &:focus {
         border-color: $primary-color;
       }
     }
 
+    .ds-dropdown-menu {
+      width: 100% !important;
+      min-width: auto;
+      max-width: unset;
+
+      @media (min-width: $device-md) {
+        width: auto;
+        min-width: 500px;
+        max-width: 600px
+      }
+    }
+
     .algolia-docsearch-suggestion {
-      &--subcategory-column {
-        font-size: $smaller-fs;
-        color: $light-grey;
-      }
+      .algolia-docsearch-suggestion {
+        &--subcategory-column {
+          font-size: $smaller-fs;
+          color: $light-grey;
+        }
 
-      &--category-header {
-        font-weight: 800;
-        font-size: 1.125em; 
-        border-bottom: 1px solid $border-color;
-      }
+        &--subcategory-column {
+          display: none;
+          @media (min-width: $device-md) {
+            display: inline-block
+          }
+        }
 
-      &--highlight {
-        color: $primary-color;
-      }
+        &--category-header {
+          font-weight: 800;
+          font-size: 1.125em;
+          border-bottom: 1px solid $border-color;
+        }
 
-      &--title {
-        font-size: $menu-fs;
-        font-weight: 800;
+        &--highlight {
+          color: $primary-color;
+        }
+
+        &--title {
+          font-size: $menu-fs;
+          font-weight: 800;
+        }
       }
     }
   }
