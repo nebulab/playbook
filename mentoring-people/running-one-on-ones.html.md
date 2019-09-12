@@ -1,5 +1,5 @@
 ---
-title: Running one-on-ones
+title: Running 1:1s
 meta_description: >
   Running useful 1:1s is not easy, but they can truly make a difference in the happiness of your
   team. Here are our tips on how to run a productive 1:1!
