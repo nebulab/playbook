@@ -12,7 +12,9 @@
         <section class="playbook">
           <%= partial 'middleman/layouts/playbook/chapter/header' %>
 
-          <%= yield %>
+          <div class="chapter-contents">
+            <%= yield %>
+          </div>
 
           <%= partial 'middleman/layouts/playbook/chapter/footer' %>
 
@@ -27,5 +29,6 @@
 
     <%= javascript_include_tag "jquery.nice-select.min.js" %>
     <%= javascript_include_tag "custom-select.js" %>
+    <%= javascript_include_tag "chapter.js" %>
   </body>
 </html>
