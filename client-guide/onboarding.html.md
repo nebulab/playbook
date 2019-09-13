@@ -21,7 +21,10 @@ The onboarding process consists of six different steps:
    tools we will use to work on your project. Typically, these include tools such as Slack, GitHub
    and anything else you use to organize your work.
 5. **Team meeting:** At this point, we will set up a meeting with your new team and ask you to bring
-   any members of your team that will interact frequently with the developers. You will get to know
+   any members of your team that will frequently interact with the developers. You will get to know
    your new team will get to know each other and make sure there are no blockers to starting the
    work.
 6. **Development kick-off:** Once we are all set, we will start working on your project!
+7. **Heartbeat meeting:** We always want to be prepared to answer to your needs, and make sure you 
+   have the right team on the project. We'll set up together a recurring meeting to ensure
+   everything is running smoothly.
