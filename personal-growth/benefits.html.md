@@ -17,7 +17,7 @@ regarding any of the benefits, feel free to ask!
   - [LG 27UK850-W screen](https://www.lg.com/it/monitor/lg-27UK850-W) (IPS, 27", 4K);
   - a [BEKANT desk](https://www.ikea.com/it/it/catalog/products/S69282592/#/S19022808) (of the desired size);
   - a [a JÄRVFJÄLLET office chair](https://www.ikea.com/it/it/catalog/products/S99275632/#/S89275623).
-- **[Mentoring](/personal-growth/mentoring-and-1-1).**
+- **[Mentoring](/personal-growth/mentoring-and-one-on-ones).**
   When you become a member of our team, you will be assigned a mentor, who will support your
   personal and professional growth. For example, if you are interested in a given subject and would
   like to study it, or if you have difficulties with a project, do not hesitate to contact your

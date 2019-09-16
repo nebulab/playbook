@@ -6,7 +6,7 @@ image:
 position: 4
 playbook-section-chapters:
   - What mentors do
-  - Running one-on-ones
+  - Running 1:1s
   - Giving feedback
   - Promoting growth
   - Handling conflict
