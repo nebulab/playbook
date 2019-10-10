@@ -1,5 +1,5 @@
 ---
-title: Fridays
+title: Investment Fridays
 meta_description: >
   At Nebulab, Friday is dedicated to personal and company projects. Sounds interesting? Read on!
 ---
@@ -10,10 +10,14 @@ company. Here are some ideas for Friday work:
 
 - Write a post for our [blog](working-on-nebulab/blog)
 - Contribute to an open source project
-- Study a new tool/technology
-- Come up with a tweet to publish
-- Follow an online course
+- Study a new tool related to our work
 - Mentor a teammate and teach them a skill
+
+These are "investment Fridays", because we expect the work done during this time to have a tangible
+return on our clients or Nebulab. Investment Fridays are not the time to work on personal open
+source projects or "relax time" you can use to chill. On the other hand, we also don't expect
+investments to have an immediate return and we understand some projects might take longer than
+others to complete, so we trust you to use your judgment.
 
 If you come up with an idea and you're not sure whether it's a good candidate for Friday time, your
 mentor will be able to help you.
@@ -22,7 +26,7 @@ mentor will be able to help you.
 
 Every three months, we host a Demo Friday. We all get on a video call and present our work to the 
 company in a series of 5-minute lightning talks. If needed, your mentor will help you prepare for 
-this demo, but as a rule of thumb keep it simple and you'll be fine!
+this demo, but you'll be fine as long as you keep it simple!
 
 Demo Fridays are recorded in case anyone was not able to attend but still wants to know what the
 rest of the team is up to. 
@@ -41,7 +45,7 @@ national holidays, conferences, retreats or paid time off.
 
 When one or multiple of these events occur, you should skip up to and not more than two study 
 Fridays to make up for the lost time. If you're in doubt or dealing with some special event, ask
-your mentor how many study Fridays you should skip.
+your mentor how many investment Fridays you should skip.
 
 There might also be sensitive periods of the year (e.g. the days immediately before and after Black
 Friday and Cyber Monday) during which clients might need more support than usual, in which case we

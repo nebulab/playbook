@@ -6,7 +6,7 @@ image:
 position: 3
 playbook-section-chapters:
   - Mentoring and 1:1s
-  - Fridays
+  - Investment Fridays
   - Benefits
   - Learning English
   - Conferences

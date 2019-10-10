@@ -81,6 +81,6 @@ a mentor is not to know it all, but rather to support their mentees in any possi
 journey and to set an example, and showing them that you're not afraid to admit when you need help
 is the best example you can set.
 
-[fridays]: /personal-growth/fridays
-[demo-friday]: /personal-growth/fridays/#demo-fridays
-[whitespace]: https://en.wikipedia.org/wiki/Whitespace_(programming_language)~~~~
+[fridays]: /personal-growth/investment-fridays
+[demo-friday]: /personal-growth/investment-fridays#demo-fridays
+[whitespace]: https://en.wikipedia.org/wiki/Whitespace_(programming_language)
