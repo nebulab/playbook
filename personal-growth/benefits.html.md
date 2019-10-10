@@ -22,7 +22,7 @@ regarding any of the benefits, feel free to ask!
   personal and professional growth. For example, if you are interested in a given subject and would
   like to study it, or if you have difficulties with a project, do not hesitate to contact your
   mentor who will be happy to help you!
-- **[Study Friday](/personal-growth/fridays).** 
+- **[Investment Fridays](/personal-growth/investment-fridays).** 
   Friday is the time focus on study or personal (or company) growth projects. If you don't know what
   to work on, ask your mentor to help you find a project appropriate for your growth.
 - **[Flexible time](/how-we-work/where-when-and-how).** 
