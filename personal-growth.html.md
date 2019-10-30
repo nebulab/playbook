@@ -10,4 +10,5 @@ playbook-section-chapters:
   - Benefits
   - Learning English
   - Conferences
+  - Competency matrix
 ---
