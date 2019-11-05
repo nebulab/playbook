@@ -7,8 +7,7 @@ position: 3
 playbook-section-chapters:
   - Mentoring and 1:1s
   - Investment Fridays
-  - Benefits
+  - Competency matrix
   - Learning English
   - Conferences
-  - Competency matrix
 ---
