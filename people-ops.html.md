@@ -6,6 +6,7 @@ image:
 position: 6
 playbook-section-chapters:
   - Hiring
+  - Onboarding
   - Travel policy
   - Paid time off and overtime
   - Payroll
