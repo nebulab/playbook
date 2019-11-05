@@ -13,5 +13,4 @@ playbook-section-chapters:
   - Payroll
   - Performance plans
   - Resignation
-  - Workplace health and safety
 ---
