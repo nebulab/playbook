@@ -13,4 +13,5 @@ playbook-section-chapters:
   - Estimates and deadlines
   - Testing and automation
   - Delivery and deployment
+  - What's in a rate?
 ---
