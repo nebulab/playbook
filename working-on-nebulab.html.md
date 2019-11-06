@@ -7,7 +7,5 @@ position: 8
 playbook-section-chapters:
   - Management Scrum
   - Blog
-  - Company projects
   - Playbook
-  - Website
 ---
