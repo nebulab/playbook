@@ -27,46 +27,7 @@ Our work is split by epics. We don’t use epics in the traditional way, but rat
 categorize and identify the goal each task is aimed at. In fact, each epic is a business goal for 
 Nebulab.
 
-Currently, we have the following epics:
-
-* **INTERVIEW - Reliability:** to improve the consistency, accuracy and reliability of our hiring 
-  process.
-* **APPLICANT - Seniority:** to increase the average seniority of our applicants by making Nebulab
-  an ever more appealing workplace for senior professionals.
-* **HEALTH - Team:** to increase the happiness of our team via thoughtful initiatives that focus on 
-  their well-being.
-* **HEALTH - Benefits:** to increase the benefits we provide to our team.
-* **HEALTH - Growth:** to fast-track the growth of our team by devising new ways to challenge and 
-  mentor them on a personal and professional level.
-* **HEALTH - Salary:** to increase and/or improve the consistency of our team’s salaries.
-* **HEALTH - Onboarding:** to streamline and improve our onboarding flow for new team members.
-* **SOLIDUS - Appeal:** to make Solidus a more appealing product by improving it on a technical 
-  level (features, stability, scalability etc.)
-* **SOLIDUS - Promotion:** to promote Solidus to a wider audience via marketing and branding 
-  initiatives.
-* **LEADS - Generation:** to increase the number of leads we receive via marketing, promotional and 
-  sales initiatives.
-* **BRAND - Communication:** to improve Nebulab’s brand awareness via thoughtful marketing and 
-  communication initiatives.
-* **CONTRIB - Clients:** to increase the number of OSS contributions that stem from the work we do 
-  for our clients’, mostly by educating them on the value of open-source.
-* **CONTRIB - Nebulab:** to increase the number of OSS contributions that stem directly from
-  Nebulab, by freeing up more time and finding new ways for our team to contribute.
-* **RUBYIT - Community:** to improve the Italian Ruby community via events, sponsorships and other 
-  initiatives.
-* **WORKFLOW - Ownership:** to increase our ownership of client projects by educating clients on our
-   workflow and its benefits.
-* **SERVICE - Team Fit**: to increase our ability to provide developers with the proper seniority
-  and skill sets to our clients.
-* **SERVICE - English:** to improve the English skills of our team members via education and 
-  constant work challenges.
-* **SERVICE - Matrix:** to improve and refine the reliability of our competency matrix and the 
-  processes that surround it.
-* **CLIENT - Health:** to improve the health of our relationships with clients by devising new ways 
-  to help them, gather feedback and retain them.
-* **CLIENT - Trips:** to improve our processes around client trips.
-
-Tasks that don’t fit into any of these epics probably don’t bring us closer to our goals, and should 
+Tasks that don’t fit into any of our epics probably don’t bring us closer to our goals, and should 
 be either executed outside of the sprints or dropped entirely.
 
 ## Ceremonies
