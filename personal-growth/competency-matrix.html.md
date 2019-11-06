@@ -73,30 +73,19 @@ evaluation and your mentor can provide advice on how to best grow in a particula
 mentor job to provide you with the tools and opportunities to continuously improve yourself, so
 don't be afraid to ask if you think they can help you in any way!
 
-### Promotions and 360 reviews
+### Promotion process
 
 Our promotions are descriptive, not prescriptive: in order to be promoted, you need to consistently
 exhibit all skills and traits from the higher level for a significant period of time. This is to
 prevent people from [rising to the level of their incompetence][peter-principle].
 
 When your mentor evaluates you and realizes you're now at the next level, they will begin the
-promotion process. They will conduct a 360 review comprised of:
+promotion process. They will assemble a promotion package comprised of your latest matrix evaluation
+and a comment explaining why they think you should be promoted.
 
-- Their matrix evaluation
-- A short comment on why they think you deserve a promotion
-- Feedback from your direct manager (if applicable)
-- Feedback from two peers, two direct reports, or a peer and a direct report
-
-So, for instance, if you are a Software Engineer, the promotion package will contain feedback from
-your team lead, and two other software engineers. If you are a Team Lead, the feedback will come
-from your mentor, another team lead and one of your software engineers.
-
-The goal of the 360 review is to gather feedback from as many different sources as possible, so that
-all voices are represented.
-
-This promotion package will then be submitted to the other mentors, who will vote on the promotion
-by majority. The mentors' decision is final, although your mentor can present a new promotion
-package for evaluation if they think some information was missed in the initial discussion.
+This promotion package will then be submitted to the directors group, who will vote on the promotion
+by majority. The group's decision is final, although your mentor can present a new promotion package
+for evaluation if they think some information was missed in the initial discussion.
 
 ### Switching disciplines
 
