@@ -35,26 +35,5 @@ direction, successes, failures and next challenges. The meeting covers sevaral t
   here is to give everyone the chance to ask questions about the company or the topics
   discussed during the meeting.
 
-The agenda of these meetings is in Tadum, where we will also leave links to any useful resources
+The agenda of these meetings is in SoapBox, where we will also leave links to any useful resources
 you can reference (such as any playbook pages that might have changed).
-
-## Organizing an All Hands
-
-All Hands events need some work from the meeting organizer both to prepare the meeting content and
-to be sure everyone is aware of the meeting and what to expect from it. If you are in charge of
-organizing the All Hands, simply follow these tips to make it a success!
-
-- **Check the calendar event.** We have a shared Nebulab calendar that everyone joins during
-  their onboarding. This calendar already contains all company-wide events. Just make sure
-  the information in the calendar event is accurate.
-- **Prepare the agenda.** Prepare the agenda in Tadum, listing any topics that will be discussed
-  during the event. This is important so everyone is allowed to take a look and ask for
-  clarifications about topics or propose additional topics.
-- **Notify the team.** Once the agenda is ready, send a message into the #all-hands Slack channel to
-  let everyone know when we'll have the meeting and that they can read the agenda in advance. It's
-  also a good practice to remind people about the event a few hours before it starts. This is also
-  a good moment to remind people of important things like why attending (and being on time) is important,
-  how to join the meeting and how to ask questions.
-- **Close the agenda.** Once the meeting is over, make sure to close the Tadum agenda. This way a new
-  meeting agenda will be created and we can start populating it with topics to discuss in the next
-  meeting.
