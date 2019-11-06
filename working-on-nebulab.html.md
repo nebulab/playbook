@@ -5,6 +5,7 @@ image:
   width: 280
 position: 8
 playbook-section-chapters:
+  - Management Scrum
   - Blog
   - Company projects
   - Playbook
