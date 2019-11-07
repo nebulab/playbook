@@ -1,5 +1,5 @@
 ---
-title: Paid time off and overtime
+title: Time off and overtime
 meta_description: >
   The concept of office hours has a different meaning for a remote team such as Nebulab's. Learn how
   we handle time off and overtime in our distributed agency!
