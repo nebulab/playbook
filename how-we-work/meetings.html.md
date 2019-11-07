@@ -9,11 +9,10 @@ Communicating via Slack is our bread and butter, but sometimes a synchronous mee
 Throughout the years we have built some best practices that help us make our meetings as effective
 as possible.
 
-For our meetings, we use [Tadum](https://tadum.app), a very handy tool from the folks at 
-[Code and Effect](https://codeandeffect.com/). Tadum gives us all the tools we need to run effective
-meetings: it manages the agenda, the notes and any todos that arise from the meeting. Everyone in
-the company has an account - if you don't have one already, ping @mettiu to get invited! While
-Tadum is best used for recurring meetings, it also works really well for one-offs. 
+For our meetings, we use [SoapBox](https://soapboxhq.com/), an app that gives us all the tools we
+need to run effective meetings: it manages the agenda, the notes and any todos that arise from the
+meeting. Everyone in the company has an account - if you don't have one already, ping @mettiu to get
+invited! While SoapBox is best used for recurring meetings, it also works well for one-offs. 
 
 ## Organization of the meeting
 

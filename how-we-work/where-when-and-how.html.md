@@ -82,5 +82,5 @@ and then. Perhaps someone in your family is sick and nobody can take care of the
 want to take a whole day off. **Communication** is the key in such situations. Inform others that
 you will be working remotely but may not be accessible at all times; nobody will object.
 
-In any case, if situations of this type happen often, talk to us and we will find a solution  
+In any case, if situations of this type happen often, talk to us and we will find a solution
 together.

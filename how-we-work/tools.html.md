@@ -86,18 +86,14 @@ You can request an expense reimbursement by adding your request in the
 
 ## Remote meetings
 
-### Appear.in
+### Whereby
 
-We use [Appear.in](https://appear.in/) for meetings with clients and other team members.
+We use [Whereby](https://whereby.com/) for meetings with clients and other team members.
 
-Appear.in is based on the concept of rooms. The main room is [/nebulab](https://appear.in/nebulab),
+Whereby is based on the concept of rooms. Our main room is [/nebulab](https://appear.in/nebulab),
 which you can use any time you want for work-related matters.
 
-### Zoom.us
+### SoapBox
 
-Zoom is also available. For now, it is reserved for management meetings.
-
-### Tadum
-
-We use [Tadum](https://tadum.app) for managing the agenda, participants, notes and todos of all our
-meetings. If you don't have an account yet, ask @mettiu to invite you!
+We use [SoapBox](https://soapboxhq.com/) for managing the agenda, participants, notes and todos of
+all our meetings. If you don't have an account yet, ask @mettiu to invite you!
