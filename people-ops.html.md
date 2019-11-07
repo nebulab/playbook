@@ -12,5 +12,5 @@ playbook-section-chapters:
   - Payroll
   - Travel policy
   - Performance plans
-  - Resignation
+  - Parting ways
 ---
