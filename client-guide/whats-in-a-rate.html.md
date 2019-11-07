@@ -28,7 +28,7 @@ idea of what goes into them.
 | Item | Percentage of rate |
 | ---- | ------------------ |
 | Team salaries | 86.56% |
-| Management | 6.03% |
+| [Management Scrum](/working-on-nebulab/management-scrum/) | 6.03% |
 | Structural costs | 7.41% |
 
 By adding up these costs, we calculate our _break-even rate_, which is what we need in order to keep
