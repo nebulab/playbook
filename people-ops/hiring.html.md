@@ -8,29 +8,31 @@ meta_description: >
 We are always looking for people who share our values, the desire to work in a team and the passion
 to face new challenges every day.
 
-For Nebulab, hiring means, on one hand, contributing to the success of our mission, by increasing
-our capacity to:
+For Nebulab, hiring means contributing to the success of our mission by increasing our capacity to:
 
-- satisfy the clients in terms of work volume and quality; 
+- satisfy our clients in terms of work volume and quality;
 - attract new developers;
 - create high-quality software;
 - produce content that contributes to our personal growth and the growth of Nebulab as a company.
 
-On the other hand, each time we hire, we commit to making the individual grow in an environment that
-contributes to their personal and professional success, making them happy and fulfilled.
+On the other hand, each time we hire, we commit to making our new teammate grow in an environment
+that contributes to their personal and professional success, making them happy and fulfilled.
 
 We have a responsibility towards all those involved in this project to create a cohesive and
 functional team, so we put a lot of effort into selecting new members of the team. This is why we
 created a hiring process that must be adhered to as closely as possible, in order to avoid bias and
 subjective choices.
 
-## Selection phases
+## Hiring process
 
-### Initial contact
+Usually the whole hiring process takes one month, but it could take longer depending on the number
+of candidates in our pipeline and other commitments of the team working on your assessment.
 
-Hi! 
+### Application
 
-This first contact gives us an idea if there is a cultural and technical fit that will allow us 
+Hi!
+
+This first contact gives us an idea if there is a cultural and technical fit that will allow us
 to start to get to know each other. Usually, we find candidates in one of the following ways:
 
 - by referral (for example, your former colleague who now works for us);
@@ -123,7 +125,56 @@ level and the offer formulated.
 Feel free to let us know if you disagree, and we will try to find some middle ground. We are ready
 to adjust our offer if we have set objectives that are either too low or overly ambitious.
 
-## Process duration
+## Hiring manager guidelines
 
-Usually the whole hiring process takes one month, but it could take longer depending on the number
-of candidates in our pipeline and other commitments of the team working on your assessment.
+Each candidate is assigned two hiring managers, whose approval is required for the candidate to
+proceed to the next step (i.e. either hiring manager can stop the process and reject the candidate
+at any point).
+
+With such a great responsibility on their shoulders, it is extremely important for hiring managers
+to be aligned on the practices and principles of our hiring process.
+
+### When to hire?
+
+We only hire people when it hurts (<https://m.signalvnoise.com/hire-when-it-hurts/>). If you're not
+going crazy because of all the different projects and initiatives you need to look after, it's
+probably not the time to hire someone yet.
+
+This is mainly because Nebulab is still a somewhat small company: every hire matters, both from a
+cultural and a financial perspective. We need to make absolutely sure we can support each and every
+one of our employees in the same way, so we'd rather pass on a good candidate if we don't feel
+completely ready to onboard them yet.
+
+One exception to this is that we try to always have a backend and a frontend developer who are not
+assigned on a client project, but are ready to start on a new one when needed. This is because we
+cannot ask clients to wait while we source developers for them.
+
+### Conducting an interview
+
+During the interview, one hiring manager is in charge of following the scorecard and asking the 
+relevant questions, while the other observes and listens to catch any particularly positive 
+answers/traits or red flags.
+
+With that said, both hiring managers should be able to ask questions, so if you're conducting the 
+interview make sure to bring your colleague into the conversation at least two or three times to 
+make sure they can also talk to the candidate.
+
+When following the scorecard, try to be as informal as possible so that the candidate is comfortable 
+and authentic, but keep the conversation on point if it goes off topic.
+
+### The Golden Rule
+
+If it's not a hell yes, it's a no.
+
+We're a small company. Making a bad hire costs us far more, in terms of lost time, money and
+opportunities, than not making an immediate hire.
+
+In retrospect, every bad hire we have made in the past has raised some kind of red flag. Maybe we
+were not sure the candidate was a good cultural fit, or we felt like they were only good at
+executing tasks and not self-starters. Whatever the reason, we thought we could overlook or fix the
+candidate's shortcomings, but this is almost never the case.
+
+This doesn't mean we should only hire superstars: it's okay for someone to not be in the 1% from a
+technical perspective. They will grow and learn over time. In fact, some of our best past hires were
+junior or mid-level engineers that strongly resonated with our culture. It is NOT okay to accept a
+candidate who is possibly not a good fit for the way we work.
