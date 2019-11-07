@@ -5,7 +5,8 @@ image:
   width: 366
 position: 5
 playbook-section-chapters:
-  - Interacting with mentors
+  - What team leads do
   - Working with clients
+  - Interacting with mentors
   - Visiting clients
 ---
