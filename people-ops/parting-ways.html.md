@@ -43,3 +43,6 @@ expect from us:
   circumstances around your termination.
 * We will only discuss our general practices for handling performance problems, to reassure team
   members that there is a fair process in place.
+
+Of course, you're more than welcome to say goodbye and/or discuss any details of your termination
+with your colleagues.
