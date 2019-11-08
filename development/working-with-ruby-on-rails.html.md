@@ -1,5 +1,5 @@
 ---
-title: Working with Rails
+title: Working with Ruby on Rails
 meta_description: >
   When working with Ruby on Rails, having best practices in place can help you move more quickly and
   with more confidence. Here are some of our best tips!

@@ -10,6 +10,6 @@ playbook-section-chapters:
   - Using Git and GitHub
   - Documentation
   - Testing
-  - Working with Rails
+  - Working with Ruby on Rails
   - Design
 ---
