@@ -3,3 +3,4 @@
 ## Checklist
 
 - [ ] This change moves content around and I have configured the appropriate [Netlify redirects](https://www.netlify.com/docs/redirects/)._
+- [ ] This change adds a new page and I have asked @ShanaRem to write a meta description.
