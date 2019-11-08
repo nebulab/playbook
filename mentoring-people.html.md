@@ -10,4 +10,5 @@ playbook-section-chapters:
   - Giving feedback
   - Promoting growth
   - Handling conflict
+  - Mentors roundtable
 ---
