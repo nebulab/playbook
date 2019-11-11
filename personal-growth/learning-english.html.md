@@ -23,7 +23,7 @@ the best ways to expedite your learning.
 
 A lot of folks here at Nebulab have used and strongly recommend [italki](https://www.italki.com/),
 where you can choose your coach and interact with them remotely, but feel free to choose the online
-or offline platform that best suits you. [It's on us!](personal-growth/benefits)
+or offline platform that best suits you. [It's on us!](/people-ops/benefits)
 
 We usually recommend holding a 1-hour session with your coach every Friday. However, as this varies with
 your learning style and experience, only your mentor will be able to provide tailored guidance and
