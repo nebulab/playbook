@@ -1,5 +1,5 @@
 ---
-title: Workplace health and safety
+title: Health and safety
 meta_description: >
   It's no news that sitting all day is not healthy. Read our suggestions to all team members to
   ensure their health and safety in the workplace!
