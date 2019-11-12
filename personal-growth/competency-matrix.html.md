@@ -1,8 +1,8 @@
 ---
 title: Competency matrix
 meta_description: >
-  Nebulab has a structured growth framework to ensure our team members always know what the next
-  step is for their career. Read about this process in our Playbook!
+  Nebulab has a growth framework to ensure our team members always know what the next step is for
+  their career. Read about this process in our Playbook!
 ---
 
 In 2018, Nebulab doubled in size, growing from 10 to 20 engineers. This created a unique set of
