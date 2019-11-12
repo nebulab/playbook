@@ -1,8 +1,8 @@
 ---
 title: What team leads do
 meta_description: >
-  Team leads act as project managers at Nebulab, helping with the definition and prioritization of
-  issues and coordinating their team's work. You can learn more about their role in our Playbook! 
+  We don't have official project managers at Nebulab - instead, we have Team Leads! Curious about
+  the difference? Learn more about their role in our Playbook!
 ---
 
 At Nebulab, we don't have official project managers. Because we often provide team augmentation

@@ -1,8 +1,8 @@
 ---
 title: Onboarding
 meta_description: >
-  Having a well-structured onboarding process is key to making joining your company an amazing
-  experience. Learn about Nebulab's onboarding process in our playbook! 
+  Having a structured onboarding process is key to making joining your company an amazing
+  experience. Learn about Nebulab's onboarding process in our Playbook! 
 ---
 
 Congratulations on joining Nebulab! We're glad to have you aboard, and we can't wait to see what
