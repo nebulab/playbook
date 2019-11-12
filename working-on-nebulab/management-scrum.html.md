@@ -1,8 +1,8 @@
 ---
 title: Management Scrum
 meta_description: >
-  The Directors run Nebulab as a Scrum product, organizing the work on company policies and
-  initiatives in sprints and iterating constantly. Learn about our approach by reading our Playbook!
+  Did you know that Nebulab, the company, is managed as if it were a Scrum product? If you want to
+  experiment with this approach, find out more in our Playbook!
 ---
 
 Nebulab, the company, is run by a group of 4 directors who handle all aspects of it: strategy, team
