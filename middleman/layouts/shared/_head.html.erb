@@ -5,7 +5,7 @@
   <% if @meta_description_tag_content %>
     <meta name="description" content="<%= h @meta_description_tag_content %>">
   <% end %>
-  <meta name="og:image" asset="<%= asset_path(:images, 'social-cover.png') %>">
+  <meta name="og:image" asset="https://playbook.nebulab.it<%= asset_path(:images, 'social-cover.png') %>">
   <link rel="canonical" href="https://playbook.nebulab.it<%= current_page.url %>">
 
   <title><%= h title_tag_content %></title>
