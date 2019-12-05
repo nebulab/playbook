@@ -2,13 +2,17 @@
   <meta charset="utf-8">
   <meta content="IE=edge" http-equiv="X-UA-Compatible">
   <meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport">
-  <% if @meta_description_tag_content %>
-    <meta name="description" content="<%= h @meta_description_tag_content %>">
-  <% end %>
-  <meta name="og:image" asset="https://playbook.nebulab.it<%= asset_path(:images, 'social-cover.png') %>">
-  <link rel="canonical" href="https://playbook.nebulab.it<%= current_page.url %>">
 
-  <title><%= h title_tag_content %></title>
+  <title><%= meta[:title] %></title>
+  <meta name="og:title" content="<%= meta[:title] %>">
+
+  <meta name="description" content="<%= meta[:description] %>">
+  <meta property="og:description" content="<%= meta[:description] %>">
+
+  <meta property="og:image" content="<%= meta[:image] %>">
+
+  <link rel="canonical" href="<%= meta[:url] %>">
+  <meta property="og:url" content="<%= meta[:url] %>">
 
   <%= favicon_tag 'favicon.ico' %>
   <link rel="apple-touch-icon" href="<%= image_path "apple-touch-icon.png" %>" />

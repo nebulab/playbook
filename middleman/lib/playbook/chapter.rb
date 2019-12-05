@@ -41,6 +41,7 @@ class Playbook::Chapter < SimpleDelegator
   end
 
   def title_tag_content
+    return unless section
     "#{section.data.title} - #{data.title}"
   end
 
