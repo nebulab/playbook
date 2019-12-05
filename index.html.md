@@ -1,5 +1,5 @@
 ---
-title: The Nebulab playbook
+title: The Nebulab Playbook
 ---
 
 # The Nebulab Playbook
