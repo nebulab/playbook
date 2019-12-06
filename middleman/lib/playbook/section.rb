@@ -66,6 +66,10 @@ class Playbook::Section < SimpleDelegator
     data[app.config.playbook_section_has_many_chapters_key]
   end
 
+  def social_cover
+    data.social_cover
+  end
+
   def next
     self.class.all(app).find { |section| section.data.position == data.position.next }
   end

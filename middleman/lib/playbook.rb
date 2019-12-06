@@ -5,6 +5,7 @@ class Playbook < Middleman::Extension
     client projects. Explore it to learn more or get inspiration!
   META
   HOST = 'https://playbook.nebulab.it'
+  DEFAULT_IMAGE = 'default.png'
 
   def initialize(app, options_hash = {}, &block)
     super
@@ -16,14 +17,18 @@ class Playbook < Middleman::Extension
     end
 
     def current_section
-      current_chapter.try :section
+      current_chapter.section
+    end
+
+    def social_cover_path
+      asset_path(:images, "social-covers/#{current_chapter.section&.social_cover || DEFAULT_IMAGE}")
     end
 
     def meta
       {
         title: [current_chapter&.title_tag_content.presence, DEFAULT_TITLE_TAG_CONTENT].compact.join(' | '),
         description: current_chapter&.meta_description_tag_content.presence || DEFAULT_DESCRIPTION,
-        image: "#{HOST}#{asset_path(:images, 'social-cover.png')}",
+        image: "#{HOST}#{social_cover_path}",
         url: "#{HOST}#{current_page.url}",
       }
     end
