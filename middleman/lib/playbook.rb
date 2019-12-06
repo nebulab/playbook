@@ -1,7 +1,11 @@
 class Playbook < Middleman::Extension
   DEFAULT_TITLE_TAG_CONTENT = 'The Nebulab Playbook'
-  DEFAULT_DESCRIPTION = "All of Nebulab's practices and processes are documented in our Playbook. Feel free to browse around!"
+  DEFAULT_DESCRIPTION = <<~META.gsub("\n", ' ').strip
+    The Nebulab Playbook outlines the practices we follow in our day-to-day work on our company and
+    client projects. Explore it to learn more or get inspiration!
+  META
   HOST = 'https://playbook.nebulab.it'
+  DEFAULT_IMAGE = 'default.png'
 
   def initialize(app, options_hash = {}, &block)
     super
@@ -13,14 +17,18 @@ class Playbook < Middleman::Extension
     end
 
     def current_section
-      current_chapter.try :section
+      current_chapter.section
+    end
+
+    def social_cover_path
+      asset_path(:images, "social-covers/#{current_chapter.section&.social_cover || DEFAULT_IMAGE}")
     end
 
     def meta
       {
         title: [current_chapter&.title_tag_content.presence, DEFAULT_TITLE_TAG_CONTENT].compact.join(' | '),
         description: current_chapter&.meta_description_tag_content.presence || DEFAULT_DESCRIPTION,
-        image: "#{HOST}#{asset_path(:images, 'social-cover.png')}",
+        image: "#{HOST}#{social_cover_path}",
         url: "#{HOST}#{current_page.url}",
       }
     end

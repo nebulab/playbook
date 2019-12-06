@@ -3,6 +3,7 @@ title: Client guide
 image:
   filename: client-guide.svg
   width: 366
+social_cover: client-guide.png
 position: 11
 playbook-section-chapters:
   - Onboarding
