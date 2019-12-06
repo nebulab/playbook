@@ -1,6 +1,9 @@
 class Playbook < Middleman::Extension
   DEFAULT_TITLE_TAG_CONTENT = 'The Nebulab Playbook'
-  DEFAULT_DESCRIPTION = "All of Nebulab's practices and processes are documented in our Playbook. Feel free to browse around!"
+  DEFAULT_DESCRIPTION = <<~META.gsub("\n", ' ').strip
+    The Nebulab Playbook outlines the practices we follow in our day-to-day work on our company and
+    client projects. Explore it to learn more or get inspiration!
+  META
   HOST = 'https://playbook.nebulab.it'
 
   def initialize(app, options_hash = {}, &block)
