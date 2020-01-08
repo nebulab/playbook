@@ -34,19 +34,12 @@ rest of the team is up to.
 To know when the next Demo Friday will be hosted, please take a look at your Nebulab calendar. You 
 should find a recurring event shared with everyone in the company. 
 
-## Reconciling client work and Friday time
+## Client work and investment Fridays
 
-Our first responsibility is towards our amazing clients, who have been kind enough to give up 20%
-of the workweek so that we could focus on our growth.
+In general, Fridays are reserved for investment time. If you took time off a client project during
+the week, you should still work on your investment project on Friday.
 
-If, for any reason, you were not able to provide the allotted amount of hours, you will need to make
-up for the lost time on Friday. This rule usually includes any work time that is lost because of
-national holidays, conferences, retreats or paid time off.
-
-When one or multiple of these events occur, you should skip up to and not more than two study 
-Fridays to make up for the lost time. If you're in doubt or dealing with some special event, ask
-your mentor how many investment Fridays you should skip.
-
-There might also be sensitive periods of the year (e.g. the days immediately before and after Black
-Friday and Cyber Monday) during which clients might need more support than usual, in which case we
-will temporarily give up our Friday time to ensure they have all the help they need.
+However, there may be situations (e.g. critical issues that require urgent attention, product 
+launches, marketing campaigns) that require us to work on a Friday or to use our Friday to make up
+for time lost during the week. You're encouraged to use your own judgment and manage your schedule
+accordingly. If in doubt, ask your team lead!  
