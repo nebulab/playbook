@@ -21,27 +21,24 @@ challenging, but it is definitely gratifying! And as we said, you can always cou
 help.
 
 If you have a blog post idea, but you can't write it yourself because you don't have the time, just
-put it up on the #blog channel and create a note in the Backlog column of the Blogposts GitHub
+put it up on the #blog channel and create a note in the Backlog column of the Blog posts GitHub
 project. Maybe there's someone else who can bring your idea to life.
 
 ## Writing & Publishing Process
 
 You don't need approval to write a blog post, just follow these simple steps. 
 
-1. Open a PR using the dedicated blogpost template and add it to the Blog project's backlog on
-   GitHub. The template is filled with all the instructions you need to take your blogpost from
+1. Open a PR using the dedicated blog post template and add it to the Blog project's backlog on
+   GitHub. The template is filled with all the instructions you need to take your blog post from
    idea to publication.
 2. Write the article following the [guidelines][template] in the repository. If you feel you need
    some help to get over writer's block, reach out to your teammates using the #blog channel on
    Slack and someone will be happy to give you some advice.
 3. When a draft of your post is ready, ping your teammates on the #blog channel to request feedback
    on the content you created and review it to correct any errors and typos.
-4. After the article has been reviewed (you need at least 2 reviews) and adjusted, ping @shana.remigio
-   in the #blog channel. She runs the blog and provides a final review to ensure the article is in line 
-   with our SEO strategy. She will also ask our designers to whip up an artsy cover.
+4. After the article has been reviewed  and adjusted, ping #blog again for the marketing tasks.
 5. Once the cover image and the latest SEO refinements have been implemented, your blog post is
-   ready to be merged and scheduled for publication. Shana will communicate the date your article
-   will come out.
+   ready to be merged and scheduled for publication.
 
 Remember that you, the author of the article, are responsible for the entire publication process, so 
 don't forget to follow your post's progress until its publication, even in phases that do not 
