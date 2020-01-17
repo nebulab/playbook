@@ -5,7 +5,42 @@ meta_description: >
   out of them? Here are some tips from Nebulab's Playbook!
 ---
 
-We offer full reimbursement for all industry-related conferences according to our [travel policy.](people-ops/travel-policy)
+## Choosing conferences
+
+[This document](https://docs.google.com/document/d/1QX6YhV3GMPwE9sQ8x52wDhUzyhKRfXxG2jqAFrt3tsQ)
+contains a list of interesting conferences:
+
+- self-improvement conferences recommended for topics that are related to our work and business;
+- marketing conferences, which are attractive for our marketing initiatives.
+
+These are just suggestions: you can ask us to add other conferences to the document by pinging the
+\#conferenze Slack channel.
+
+Your mentor will help you choose which conferences to attend. Propose your conference schedule,
+in accordance with our [allowance](#conference-budget), and explain why you are interested in those
+events.
+
+Finally, make sure to [get the most out of your conferences.](#getting-the-most-out-of-a-conference)
+
+Please note that a three-month notice is required to attend non-European conferences/events, and a
+two-month notice is required to attend European/Italian conferences/events.
+
+## Conference budget
+
+For 2020, you can use up to **4 work days** and **€2.000** for conferences. If you are working
+part-time, your budget is reduced proportionally so, e.g. if you're in a 50% part-time contract, you
+can use up to €1.000 and 2 work days.
+
+The [conference list](#choosing-conferences) contains the number of days and cost for each event.
+
+There are a couple of exceptions to this rule:
+
+- If you're in the marketing team for a conference and going there as a Nebulab representative, the
+  conference won't be deducted from your budget.
+- In general, speaking engagements also count towards your budget (unless the conference offers
+  a reimbursement for their speakers). However, if you have been invited to speak at a conference
+  that is particularly interesting to Nebulab, reach out to your mentor and they may be able to
+  work something out.
 
 ## Getting the most out of a conference
 

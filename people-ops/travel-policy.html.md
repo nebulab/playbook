@@ -115,43 +115,6 @@ Here's our company information if you need to ask for an invoice:
 
 Make sure to request an invoice when checking out at a hotel, if you're in charge of the
 reservation!
-  
-## Conferences
-
-### Conference budget
-
-Every year, we publish a budget detailing the budget allowance and number of days you can use for
-conference conference. The conference list contains the number of days and cost for each event.
-
-For 2019, you can use up to **8 working days** and **€3.400,00** for conferences. If you are working
-part-time, your budget is reduced proportionally so, e.g. if you're in a 50% part-time contract, you
-can use up to €1.700,00.
-
-There are two cases where conference attendance doesn't count towards your budget:
-
-- If you're in the conference marketing team, we won't deduct the conference from your yearly 
-  budget.
-- If you're invited as a speaker, we won't deduct the conference from your yearly budget.
-
-### Choosing conferences
-
-[This document](https://docs.google.com/document/d/1QX6YhV3GMPwE9sQ8x52wDhUzyhKRfXxG2jqAFrt3tsQ)
-contains a list of interesting conferences:
-
-- self-improvement conferences recommended for topics that are related to our work and business;
-- marketing conferences, which are attractive for our marketing initiatives.
-
-These are just suggestions: you can ask us to add other conferences to the document by pinging the
-\#conferenze Slack channel.
-
-Your mentor will help you choose which conferences to attend. Propose your conference schedule,
-in accordance with our [yearly allowance](#conference-budget), and explain why you are
-interested in those events.
-
-Finally, make sure to [get the most out of your conferences.](personal-growth/conferences)
-
-Please note that a three-month notice is required to attend non-European conferences/events, and a
-two-month notice is required to attend European/Italian conferences/events.
 
 ## Team retreats
 
