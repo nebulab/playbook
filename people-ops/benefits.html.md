@@ -42,3 +42,6 @@ regarding any of the benefits, feel free to ask!
 - **English lessons.** If you're not comfortable with your English proficiency, we will happily pay
   for your English lessons. We recommend [italki](https://www.italki.com/), but you can expense any
   other platform that helps you learn the language.
+- **Learning stipend.** We provide full reimbursement for industry-related books, up to
+  €50/year/person. Additional expenses (workshops, courses or even _more_ books!) may also be
+  covered and will be evaluated on a case-by-case basis.
