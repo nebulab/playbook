@@ -8,6 +8,8 @@ position: 5
 playbook-section-chapters:
   - What team leads do
   - Working with clients
+  - Handling conflict
+  - Giving feedback
   - Interacting with mentors
   - Visiting clients
   - Fulfillment meeting
