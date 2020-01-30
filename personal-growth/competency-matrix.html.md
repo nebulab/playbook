@@ -34,12 +34,10 @@ but more may be added in the future:
 
 - **Software Engineer:** this is our bread and butter. The majority of our team members are hands-on
   software engineers, tasked with solving a client's problems through the code they write.
-- **Team Lead:** a team lead is a software engineer who has chosen to take a managerial path. They
-  communicate with clients to understand their priorities and coordinate their team accordingly.
-- **Web Marketer:** as the name suggests, this role specializes in marketing. We don't do any
-  client-facing marketing work anymore; this is work done for our company or projects we sponsor.
 - **Product Designer:** product designers deal with all UX and creative work at Nebulab, both for
   clients and internal projects such as the Nebulab brand, our website and so on.
+- **Team Lead:** a team lead is a contributor who has chosen to take a managerial path. They
+  communicate with clients to understand their priorities and coordinate their team accordingly.
 - **Operations:** these are the people who keep things running smoothly and handle all the
   bureaucracy and processes for us. They're like office managers on steroids!
 - **Director:** directors set Nebulab's high-level goals and strategy, define company policies and
@@ -65,13 +63,13 @@ requirements of levels 1 and 2.
 
 As we mentioned, the matrix will be used by your mentor to monitor your progress and figure out what
 areas you need to work on to increase your impact at Nebulab. Your mentor will commit to evaluating
-you at least once a year, but you may ask for a re-evaluation at any time (within reason) if you
-feel like you've been making progress in one or more skills.
+you at least once a year with the help of your team lead, but you may ask for a re-evaluation at any
+time (within reason) if you feel like you've been making progress in one or more skills.
 
 Each evaluation will be shared and discussed with you, so that you can share your feedback on the
 evaluation and your mentor can provide advice on how to best grow in a particular skill. It is your
-mentor job to provide you with the tools and opportunities to continuously improve yourself, so
-don't be afraid to ask if you think they can help you in any way!
+mentor's job to provide you with the tools and opportunities to continuously improve yourself, so
+don't be afraid to ask, if you think they can help you in any way!
 
 ### Promotion process
 
@@ -89,9 +87,9 @@ for evaluation if they think some information was missed in the initial discussi
 
 ### Switching disciplines
 
-Certain disciplines provide you with the ability to switch roles. The only case right now is for
-Software Engineers, who can switch to a management career track and become Team Leads once they
-reach L3. It is important to note that this is not a promotion, but a step sideways.
+Certain disciplines provide you with the ability to switch roles. For instance, if you are an L3
+Software Engineer, you may decide to take the managerial path and become an L3 Team Lead. It is
+important to note that this is not a promotion, but a step sideways.
 
 If you're interested in switching disciplines, you can do it by talking to your mentor, who will
 evaluate you and decide if you're already a good fit for the new discipline or if you need to align

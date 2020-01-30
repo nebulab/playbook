@@ -5,11 +5,6 @@ meta_description: >
   Nebulab. Read more on how our mentoring program works!
 ---
 
-Upon your arrival at Nebulab, a mentor will be assigned to you. His/her duty is to follow you and
-ensure that you are constantly improving. Your mentor is your point of reference for anything
-concerning the Nebulab world, so feel free to contact him/her at any time with any queries or
-concerns you may have.
-
 One of the most important responsibilities of your mentor is the organization of one-on-one (1:1)
 meetings. Every four weeks, you will have a one-on-one meeting with your mentor. If you wish, you
 can prepare an agenda with your mentor, but it is not required. If you do not have anything specific

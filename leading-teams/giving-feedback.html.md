@@ -2,11 +2,12 @@
 title: Giving feedback
 meta_description: >
   When and how do you provide feedback that is both useful and empathetic? Here are some actionable
-  tips that you'll can easily implement immediately.
+  tips that you can easily implement immediately.
 ---
 
-One of your jobs as a mentor is to constantly provide feedback about your mentee's performance, both
-about the work they do for clients and their interactions with other team members here at Nebulab.
+One of your jobs as a team lead is to constantly provide feedback about your team member's
+performance, both about the work they do for clients and their interactions with other team members
+here at Nebulab.
 
 While we all love giving out compliments and telling people what a good job they're doing, it's far
 less fun to tell them when they're not doing so well. However, communicating constructive criticism
