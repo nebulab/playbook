@@ -5,9 +5,7 @@ meta_description: >
   good Travel Policy in place. Here's what we use at Nebulab.
 ---
 
-This travel policy defines travel and conference attendance guidelines for 2019. You can find
-a [Traveler profile](https://drive.google.com/file/d/1aW0GJGBOhCsYzHR2vgt-d5yh0bN5-cqg/) here -
-this should be filled out by every team member in order to guarantee a hassle-free trip.
+This travel policy defines travel and conference attendance guidelines for 2020.
 
 ## Communication
 
@@ -23,6 +21,9 @@ trips during the workweek.
 We choose comfortable seats and arrangements to allow people to work during the journey and make up
 for the lost time, but working is not mandatory since not everyone is comfortable working while on
 the move.
+
+If you miss your because of reasons not caused by Nebulab or the carrier, you will have to reach the
+destination at your expense, if possible.
 
 ### Trains
 
@@ -46,8 +47,8 @@ Make sure to check-in online 24-48 hours in advance and print your boarding pass
 We prefer to travel by public transport, but if you have to travel by car, the following policies 
 apply:
 
-- if you use your vehicle between main offices (Pescara/Latina - Latina/Pescara) there's a flat-rate
-reimbursement of €150.00 per round-trip;
+- if you use your vehicle between the main offices (Pescara/Latina - Latina/Pescara) there's a
+  flat-rate reimbursement of €150.00 per round-trip;
 - if you use your car in Italy, we'll refer to the ViaMichelin cost estimation;
 - total reimbursement for group B rental cars, including fuel and highway fees.
 
@@ -75,22 +76,28 @@ Where possible, we'll prefer rooms with two single beds or two queen beds.
 
 ## Reimbursements
 
-To obtain a reimbursement, every team member has to submit a complete travel expense report,
-attaching every expense receipt (for both meals and travel) within seven days of their return
-date from the trip.
+To obtain reimbursement, you'll have to use your American Express corporate credit card.
+Transactions made through the company credit card don't require an expense report. For all expenses
+where the company credit card cannot be used, or if you refused to have a corporate credit card,
+you'll have to submit an expense report, attaching your receipts (for both meals and travel) within
+seven days of your return.
+
+You can also download the “Dipendenti in Cloud” native mobile application to enter expenses from
+your phone.
 
 ### Reimbursement for travel in Italy
 
-We offer full reimbursement for the following expenses: train tickets, flight tickets, car rental,
-bus tickets, hotel stay with breakfast and possible event ticket. Meals are on the Team member.
-Moreover, we offer full reimbursement for Taxi/Bus rides from/to the train station, bus station or
-airport to/from the hotel and for the journey hotel/venue/hotel.
+We offer full reimbursement for the following expenses: train tickets, flight tickets, car rentals,
+bus tickets, hotel stay with breakfast and event ticket. Meals are on the team member. Moreover, we
+offer full reimbursement for Taxi/Bus rides from/to the train station, bus station or airport
+to/from the hotel and for the journey hotel/venue/hotel.
 
 ### Reimbursement for international travel
 
 We offer full reimbursement for the following expenses: train tickets, flight tickets, car rentals,
-bus tickets, travel insurance, hotel stays and a daily refund of up to €60,00/day for meals and
-possible event ticket.
+bus tickets, travel insurance, hotel stays, event ticket and a daily refund of up to €60,00/day for
+meals including tips. This daily allowance is cumulative for all days spent abroad. Alcoholic and
+soft drinks are included with meals but must not exceed €15 per day.
 
 We also fully reimburse any [Uber](#uber), cab or public transport rides from/to your train station,
 bus station, airport, hotel or venue.
@@ -140,9 +147,9 @@ Wallet or Pass2U Wallet. Also, it will provide handy information about your flig
 
 - Always watch your passport's expiration date. Make sure it expires in at least 6 months.
 - Also ensure you always have at least two blank pages for visas in your passport.  
-- If you are travelling to the US or plan on renting a car/staying at a hotel, you will need a 
-  credit card. If you don't have one, get one from your bank or from 
-  [American Express](https://www.americanexpress.com/it/).
+- If you are traveling to the US or plan on renting a car/staying in a hotel, you will need a credit
+  card. If you don't have one, get one from your bank or use the American Express corporate credit
+  card.
 - You can find useful information for the country you are visiting, such as any practices needed to
   enter the country (visa, vaccinations etc), on the [Farnesina](http://www.viaggiaresicuri.it/home.html)
   website.
