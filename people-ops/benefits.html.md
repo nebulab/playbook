@@ -15,6 +15,7 @@ regarding any of the benefits, feel free to ask!
   - mouse (to choose between [Apple Magic Mouse](https://www.apple.com/it/shop/product/MRME2Z/A/magic-mouse-2-grigio-siderale) and [Logitech MX Master 2S](https://www.logitech.com/it-it/product/mx-master-2s-flow));
   - ANC headphones (to choose between [Bose QuietComfort 35 II](https://www.bose.it/it_it/products/headphones/over_ear_headphones/quietcomfort-35-wireless-ii.html) and [Sony WH-1000XM3](https://www.sony.it/electronics/cuffie-archetto/wh-1000xm3));
   - [LG 27UK850-W screen](https://www.lg.com/it/monitor/lg-27UK850-W) (IPS, 27", 4K).
+  - American Express Gold corporate credit card to be used for business trips.
 - **[Mentoring](/personal-growth/mentoring-and-one-on-ones).**
   When you become a member of our team, you will be assigned a mentor, who will support your
   personal and professional growth. For example, if you are interested in a given subject and would
