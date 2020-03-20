@@ -37,9 +37,6 @@ regarding any of the benefits, feel free to ask!
   are encouraged to take part!
 - **[Paid conferences](/personal-growth/conferences).** 
   The cost of taking part in industry conferences are fully paid by us.
-- **Internet budget.** If you work remotely, we will pay the costs of your home Internet connection.
-  Having a good connection is not only in your interest, but also in the interest of your team
-  members, so let us know if you need an upgrade!
 - **English lessons.** If you're not comfortable with your English proficiency, we will happily pay
   for your English lessons. We recommend [italki](https://www.italki.com/), but you can expense any
   other platform that helps you learn the language.
