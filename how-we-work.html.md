@@ -11,5 +11,5 @@ playbook-section-chapters:
   - Tracking time
   - Meetings
   - All Hands meeting
-  - Client guide
+  - Donut
 ---
