@@ -7,6 +7,7 @@ social_cover: leading-teams.png
 position: 5
 playbook-section-chapters:
   - What team leads do
+  - Leadership principles
   - Working with clients
   - Handling conflict
   - Giving feedback
