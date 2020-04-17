@@ -9,10 +9,10 @@ Communicating via Slack is our bread and butter, but sometimes a synchronous mee
 Throughout the years we have built some best practices that help us make our meetings as effective
 as possible.
 
-For our meetings, we use [SoapBox](https://soapboxhq.com/), an app that gives us all the tools we
+For our meetings, we use [Fellow](http://fellow.app), an app that gives us all the tools we
 need to run effective meetings: it manages the agenda, the notes and any todos that arise from the
 meeting. Everyone in the company has an account - if you don't have one already, ping @mettiu to get
-invited! While SoapBox is best used for recurring meetings, it also works well for one-offs. 
+invited! While Fellow is best used for recurring meetings, it also works well for one-offs.
 
 ## Organization of the meeting
 
@@ -23,8 +23,8 @@ invited! While SoapBox is best used for recurring meetings, it also works well f
 
 Moreover, if you are the organizer of the meeting:
 
-- **Establish an agenda and objectives.** Ensure that the agenda and the objectives of the meeting 
-  are clear and everyone is familiar with them. If you are unable to set the agenda or the 
+- **Establish an agenda and objectives.** Ensure that the agenda and the objectives of the meeting
+  are clear and everyone is familiar with them. If you are unable to set the agenda or the
   objectives, ask yourself if a meeting is needed and if it would be productive.
 - **Choose the participants carefully.** Do not invite people who cannot contribute or benefit from
   the meeting. Everyone's time is precious and must be used wisely.
@@ -37,7 +37,7 @@ Moreover, if you are the organizer of the meeting:
   to get organized. When the time comes, just enter the meeting without waiting for someone to nudge
   you.
 - **Come prepared.** Since each meeting must have an agenda and objectives, it should be easy to use
-  the ten minutes of preparation time to think what you want to say. This practice helps you 
+  the ten minutes of preparation time to think what you want to say. This practice helps you
   structure your thoughts and saves all participants' time.
 
 Additionally, if you are the organizer:
@@ -48,7 +48,7 @@ Additionally, if you are the organizer:
 
 ## During the meeting
 
-- **Use a headset.** There is nothing worse than speaking without anyone understanding what you are 
+- **Use a headset.** There is nothing worse than speaking without anyone understanding what you are
   saying. Get a good headset and use it for the meetings. DO NOT use a laptop microphone: even if it
   seems to work well, in reality it does not.
 - **Start your camera (if needed).** If others have their camera on, use yours too. Non-verbal
@@ -108,8 +108,8 @@ In addition, if you are the organizer:
 
 - **Record the actionable elements.** Write down all actionable elements that emerged during the
   discussion and who is in charge of each initiative, so that participants know what they are
-  expected to do. (This also applies to initiatives for which you are responsible.) 
-- **Share a summary.** Share the summary from the meeting with other participants, so that 
+  expected to do. (This also applies to initiatives for which you are responsible.)
+- **Share a summary.** Share the summary from the meeting with other participants, so that
   everyone can complete their notes.
 
 Additionally, if you are the organizer and the meeting is recurring:
