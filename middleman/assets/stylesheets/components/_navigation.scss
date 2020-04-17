@@ -46,7 +46,7 @@
   padding-right: 80px;
   
   @media (min-width: $device-md) {
-    padding-bottom: $header-height;
+    padding-bottom: $header-height + 70px;
     padding-right: 0;
   }
 }
