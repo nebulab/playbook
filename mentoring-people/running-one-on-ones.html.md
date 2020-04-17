@@ -18,7 +18,7 @@ We believe in 1:1s as an invaluable tool to:
 
 ## What makes a great 1:1
 
-The tricky thing about one-on-ones is there is no right way to do them: every mentor has their 
+The tricky thing about one-on-ones is there is no right way to do them: every mentor has their
 style, which means two one-on-ones can be different even when they're done in the same company. As a
 mentor, you are encouraged to find your unique style and voice.
 
@@ -33,7 +33,7 @@ one-one-ones where people say what they want to say rather than what the manager
   exhaustively. Don't forget non-verbal clues!
 - **Do not reschedule.** You should avoid rescheduling a one-on-one like the plague. Of course,
   we're humans and things happen, so if you absolutely need to, go ahead and reschedule the meeting
-  as close as possible to the original date. 
+  as close as possible to the original date.
 - **Create accountability.** It is extremely important for every one-on-one where problems have been
   raised to create an action plan. Make sure both you and your mentee are accountable for that plan,
   and monitor its progress closely.
@@ -66,6 +66,10 @@ attention to the same one-on-one.
   the meeting, you're probably going to need it!
 - **Action plan:** make an action plan that will hold both of you accountable for what you need to
   do until the next 1:1. This is _extremely important_: don't leave any stone unturned.
+
+Just like with other meetings, you can use [Fellow](https://fellow.app) to run the agendas for your
+one on ones. There are even a couple of templates you can use with the above points so that you can
+get started faster.
 
 ### Useful questions
 

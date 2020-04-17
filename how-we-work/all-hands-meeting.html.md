@@ -7,7 +7,7 @@ meta_description: >
 
 Every month, we hold an All Hands meeting. We use this session to provide useful
 information to all team members, with the intent of increasing transparency on Nebulab's
-direction, successes, failures and next challenges. The meeting covers sevaral topics:
+direction, successes, failures and next challenges. The meeting covers several topics:
 
 - **Welcome.** we welcome new team members. Often, there is a presentation of new
   hires in front of the rest of team so everyone knows some information about them.
@@ -35,5 +35,5 @@ direction, successes, failures and next challenges. The meeting covers sevaral t
   here is to give everyone the chance to ask questions about the company or the topics
   discussed during the meeting.
 
-The agenda of these meetings is in SoapBox, where we will also leave links to any useful resources
-you can reference (such as any playbook pages that might have changed).
+Make sure to join the channel [#all-hands](https://nebulab.slack.com/archives/CHLDKV560) to receive
+the link to the meeting, the meeting notes, updates, agendas and useful links for each All Hands meeting.

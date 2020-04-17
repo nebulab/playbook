@@ -1,7 +1,7 @@
 ---
 title: Tools
 meta_description: >
-  At Nebulab, we rely on battle-tested software to help us run a distributed consulting firm with 
+  At Nebulab, we rely on battle-tested software to help us run a distributed consulting firm with
   international clients. Find out what tools we have adopted!
 ---
 ## Google Apps
@@ -86,14 +86,13 @@ You can request an expense reimbursement by adding your request in the
 
 ## Remote meetings
 
-### Whereby
+### Google Meet
 
-We use [Whereby](https://whereby.com/) for meetings with clients and other team members.
+We use [Google Meet](https://meet.google.com) for meetings with clients and other team members.
 
-Whereby is based on the concept of rooms. Our main room is [/nebulab](https://appear.in/nebulab),
-which you can use any time you want for work-related matters.
+Calendar events should auto-assign you with a conference room you can use for your meeting.
 
-### SoapBox
+### Fellow
 
-We use [SoapBox](https://soapboxhq.com/) for managing the agenda, participants, notes and todos of
+We use [Fellow](https://fellow.app) for managing the agenda, participants, notes and todos of
 all our meetings. If you don't have an account yet, ask @mettiu to invite you!
