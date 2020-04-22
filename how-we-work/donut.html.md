@@ -5,14 +5,14 @@ meta_description: >
   teammates. Learn how we use a Slack bot to help with that!
 ---
 
-Periodically during the week, [Donut](https://donut.com) will pair people in the #caffe channel. It
+Periodically during the week, [Donut](https://donut.com) will pair people in the #coffee channel. It
 will kick off the conversation with a fun icebreaker and then encourage you to take a remote coffee
 or donut together.
 
-This can take any form you want, but usually it's a 10-minute video call where you can talk about
-whatever's on your mind — it doesn't have to be work, and in fact most people use it to catch up
-about their hobbies, families and personal lives, and get to know colleagues with whom they usually
-don't have a lot of interaction.
+This can take any form you want, but usually it's a 10-20 minutes video call where you can talk
+about whatever's on your mind — it doesn't have to be work, and in fact most people use it to catch
+up about their hobbies, families and personal lives, and get to know colleagues with whom they
+usually don't have a lot of interaction. Donut is just like any break, and should not be tracked.
 
 If you're a remote worker, Donut is a nice way to socialize with the rest of the team. If you work
 from an office, it's still great to get to know the rest of the team — in this case you can "ban"
