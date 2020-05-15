@@ -19,4 +19,4 @@ from an office, it's still great to get to know the rest of the team — in this
 your co-located colleagues so that Donut only pairs you with people you don't know as well.
 
 If you haven't tried Donut yet and would like to participate in the next round of pairings, feel
-free to join the #caffe channel on Slack!
+free to join the #coffee channel on Slack!
