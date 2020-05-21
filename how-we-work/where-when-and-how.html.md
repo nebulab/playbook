@@ -69,7 +69,7 @@ Here is a list of essential things for working remotely:
 
 ### Communication channels
 
-We use the Slack channel #calendario for all communications regarding working time and place. If you
+We use the Slack channel #time-off for all communications regarding working time and place. If you
 intend to work remotely, communicate this as early as possible.
  
 **Important: DO NOT use private messages or unofficial channels for this type of communication!**
