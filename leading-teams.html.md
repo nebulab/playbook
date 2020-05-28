@@ -13,4 +13,5 @@ playbook-section-chapters:
   - Giving feedback
   - Interacting with mentors
   - Visiting clients
+  - Peer-level meeting
 ---
