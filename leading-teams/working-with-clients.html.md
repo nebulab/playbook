@@ -29,5 +29,12 @@ the team, but at the end of the day, you must go with the option that _you_ feel
 it's your job to make the right decisions based on your personal experience. To be able to do this,
 you need to foster the kind of culture where people can [disagree and commit][disagree-and-commit].
 
+As part of this, a team lead will always make sure we are fulfilling both our clients' expectations
+and the needs of our team members. This is accomplished by:
+
+* ensuring the relationship between clients and Nebulab is in good health;
+* identifying potential business opportunities for both Nebulab and our clients;
+* determining and planning ahead the need for hirings or rotation of team members.
+
 [values]: /about-us/values
 [disagree-and-commit]: https://en.wikipedia.org/wiki/Disagree_and_commit
