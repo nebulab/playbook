@@ -8,7 +8,6 @@ position: 11
 playbook-section-chapters:
   - Onboarding
   - Work schedule
-  - Heartbeat meeting
   - Our practices
   - Agile workflows
   - Estimates and deadlines

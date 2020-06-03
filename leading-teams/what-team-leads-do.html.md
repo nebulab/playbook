@@ -15,9 +15,9 @@ However, they are still very much hands-on and write code every day along with t
 team. We feel like this is the perfect amount of structure for the time being.
 
 Being a team lead is as much a privilege as it is a chore:
- 
-- Team leads do not get nearly as much time for technical work as individual contributors - 
-  realistically, a team lead can expect to spend half their time writing code and the other half 
+
+- Team leads do not get nearly as much time for technical work as individual contributors -
+  realistically, a team lead can expect to spend half their time writing code and the other half
   managing the project and the team.
 - Team leads are rarely able to work on their own Friday projects, because their Fridays are
   usually occupied by company-level initiatives.

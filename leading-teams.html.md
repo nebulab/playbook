@@ -13,5 +13,5 @@ playbook-section-chapters:
   - Giving feedback
   - Interacting with mentors
   - Visiting clients
-  - Fulfillment meeting
+  - Peer-level meeting
 ---

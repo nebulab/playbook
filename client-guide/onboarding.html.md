@@ -25,6 +25,3 @@ The onboarding process consists of six different steps:
    your new team will get to know each other and make sure there are no blockers to starting the
    work.
 6. **Development kick-off:** Once we are all set, we will start working on your project!
-7. **Heartbeat meeting:** We always want to be prepared to answer to your needs, and make sure you 
-   have the right team on the project. We'll set up together a recurring meeting to ensure
-   everything is running smoothly.
