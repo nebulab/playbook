@@ -28,6 +28,14 @@ subjective choices.
 Usually the whole hiring process takes one month, but it could take longer depending on the number
 of candidates in our pipeline and other commitments of the team working on your assessment.
 
+Hiring at Nebulab is a 5-step process:
+
+1. [application](#application)
+2. [aptitude questionnaire](#aptitude-questionnaire)
+3. [informal chat](#informal-chat)
+4. [technical assessment](#technical-assessment)
+5. [offer](#offer)
+
 ### Application
 
 Hi!
@@ -44,23 +52,43 @@ experience with software development and with [the tools we use](https://nebulab
 approach to work and why you are interested in Nebulab.
 
 Someone from our team will read your letter and, if they think you might be a good candidate, they
-will write to you to find the best time for an [informal chat](#informal-chat).
+will send you a link to the [aptitude questionnaire](#aptitude-questionnaire) which is the first
+step in the hiring process.
+
+### Aptitude questionnaire
+
+The aptitude questionnaire is a way for us to get to know you better and to understand how you think,
+act and communicate. The test will be mainly focused on your soft skills but there are some basic
+technical questions as well. The questionnaire will be sent to you as a Google form, which you can
+complete at your own pace. The only thing we ask is that you tell us when we can expect your answers,
+so we can do a better job of coordinating our hiring efforts.
+
+The fundamental requirement in answering the questionnaire is sincerity: write in accordance with
+your values and the way you work, not what you think we would like to hear from you. The purpose of
+the questionnaire is to understand whether you're a good cultural and technical fit, so it is in
+everyone's interest that the answers reflect the way you really work and handle problems.
+
+Don't hesitate to ask clarifications on questions or technical issues in case anything is not clear
+to you, and don't be afraid to hit a wrong note: in the past, some of the most striking answers
+were completely out of tune, perhaps mentioning aspects outside of the work context, but they
+allowed us to perfectly understand the person on the other end of the screen.
 
 ### Informal chat
 
-This is a phone call or video call where we will explain the Nebulab values, our needs and the way 
-we work. We will also ask you to explain what are you looking for in your ideal work environment and
-why you think that Nebulab would be a good choice.
+This is a video call where we will explain the Nebulab values, our needs and the way we work. We
+will also ask you to explain what are you looking for in your ideal work environment and why you
+think that Nebulab would be a good choice.
 
 This chat should help us understand whether we would like to work together and meet daily in a work
 context.
 
-In this phase there are no specific questions: we avoid formalities, we talk about a bit of 
-everything and see how we feel about each other.
+In this phase there are no specific questions: we avoid formalities, we talk about a bit of
+everything and see how we feel about each other. We will also discuss some of the answers you gave
+in the [aptitude questionnaire](#aptitude-questionnaire).
 
 Some advice for the chat:
 
-* **Be on time.** This is extremely important and is an indicator of your professionalism: just 
+* **Be on time.** This is extremely important and is an indicator of your professionalism: just
   being on time will give you an advantage on many candidates.
 * **Be equipped.** Make sure you have a good Internet connection, a good headset and a good camera.
   And please, find a quiet place to call from!
@@ -70,24 +98,6 @@ Some advice for the chat:
   and how you can fit in the company. We cannot do that if you pretend to be someone else.
 * **Relax.** We are humans. None of us is an HR manager or has a psychology degree. Think, behave
   and talk as you would do normally.
-
-### Aptitude questionnaire
-
-After the chat, we will send you an aptitude questionnaire, which we will use to assess how you work
-and some basic technical skills. The questionnaire will be sent to you as a Google document, which
-you can complete at your own pace. The only thing we ask is that you tell us when we can expect your
-answers, so we can do a better job of coordinating our hiring efforts.
-
-The fundamental requirement in answering the questionnaire is sincerity: write in accordance with
-your values and the way you work, not what you think we would like to hear from you. The purpose of
-the questionnaire is to understand whether you're a good cultural and technical fit, so it is in
-everyone's interest that the answers reflect the way you really work and handle problems as much as
-possible.
-
-Don't hesitate to ask clarifications on questions or technical issues in case anything is not clear
-to you, and don't be afraid to hit a wrong note: in the past, some of the most striking answers
-were completely out of tune, perhaps mentioning aspects outside of the work context, but they 
-allowed us to perfectly understand the person on the other end of the screen.
 
 ### Technical assessment
 
@@ -105,7 +115,7 @@ will also help us to understand your attitudes and future potential.
 
 Don't think of the technical interview as the classic interview where you are asked embarrassing
 questions on algorithms you should know by heart or to program in front of us. Instead, we just want
-to be sure that your level of experience is coherent with our expectations, so feel at ease: nobody 
+to be sure that your level of experience is coherent with our expectations, so feel at ease: nobody
 here manages to solve major problems without checking manuals, articles and Stack Overflow.
 
 The technical assessment will usually consist of a feature, enhancement or bugfix on a real project
@@ -151,15 +161,15 @@ cannot ask clients to wait while we source developers for them.
 
 ### Conducting an interview
 
-During the interview, one hiring manager is in charge of following the scorecard and asking the 
-relevant questions, while the other observes and listens to catch any particularly positive 
+During the interview, one hiring manager is in charge of following the scorecard and asking the
+relevant questions, while the other observes and listens to catch any particularly positive
 answers/traits or red flags.
 
-With that said, both hiring managers should be able to ask questions, so if you're conducting the 
-interview make sure to bring your colleague into the conversation at least two or three times to 
+With that said, both hiring managers should be able to ask questions, so if you're conducting the
+interview make sure to bring your colleague into the conversation at least two or three times to
 make sure they can also talk to the candidate.
 
-When following the scorecard, try to be as informal as possible so that the candidate is comfortable 
+When following the scorecard, try to be as informal as possible so that the candidate is comfortable
 and authentic, but keep the conversation on point if it goes off topic.
 
 ### The Golden Rule
