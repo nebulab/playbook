@@ -85,17 +85,7 @@ you are struggling with multi-tasking or tracking time accurately, reach out to 
 In addition to the client projects, Harvest also contains several projects and tasks for internal
 use. There is a project you should use for your Friday time, a project you should use for 1:1s, a
 project you should use for studying... These tend to change over time as we add new projects and
-restructure existing ones, so if you're in doubt, contact your mentor.
-
-A special mention goes to the **Time Wasting** project. This is a generic project where you can
-track any time you have spent at the office, but not actually working. For instance, this could
-be time you have spent having coffee with a colleague, time spent waiting for direction from your
-mentor/client or anything else that does not strictly qualify as work but still happened _at_ work.
-
-Usage of this project is optional. When it is available, we use the data we collect from the project
-to see if there are any inefficiencies in company organization that we can streamline. However, we
-feel free not to use it if you're not too fond of it or you find it too cumbersome to start the time
-tracker in these situations.    
+restructure existing ones, so if you're in doubt, contact your mentor.    
 
 ## Presence vs. activity
 
