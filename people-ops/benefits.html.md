@@ -9,7 +9,7 @@ All members of the team are entitled to the benefits listed in this document. If
 regarding any of the benefits, feel free to ask! 
 
 - **Hire kit.** All members of the team receive a hardware hire kit that includes:
-  - [13" MacBook Pro](https://www.apple.com/it/shop/buy-mac/macbook-pro/13%22-grigio-siderale-dual%E2%80%91core-a-2,3ghz-128gb#) (16 GB of RAM, SSD of 256 GB, US or IT keyboard);
+  - [16" MacBook Pro](https://www.apple.com/it/shop/buy-mac/macbook-pro/16-pollici-grigio-siderale-processore-6%E2%80%91core-a-2,6ghz-512gb#) (32 GB of RAM, US or IT keyboard);
   - [Tucano Second Skin Elements sleeve](https://www.amazon.it/dp/B009F8ARNS/ref=pe_3310731_189395851_TE_dp_1); 
   - [Apple Magic Keyboard](https://www.apple.com/it/shop/product/MLA22T/A/magic-keyboard-italiano) (with the layout choice of US or IT);
   - mouse (to choose between [Apple Magic Mouse](https://www.apple.com/it/shop/product/MRME2Z/A/magic-mouse-2-grigio-siderale) and [Logitech MX Master 2S](https://www.logitech.com/it-it/product/mx-master-2s-flow));
