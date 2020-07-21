@@ -9,11 +9,13 @@ Because all of our communication with clients happens in English, it is extremel
 can all read, write and speak the language fluently. Being able to communicate in a clear and
 concise way is a sign of professionalism and has a tangible impact on the quality of our work.
 
+## Improving your English
+
 If you feel like you're still not entirely comfortable with the language, don't worry! We've all
 been there and everyone else at the company is also constantly improving their English. There are
 several ways to improve your skills - here are some of them!
 
-## Professional coaches
+### Professional coaches
 
 There is no replacement for good, old fashioned coaching. A professional coach will not only follow
 your studies and always be there to answer any questions, but they will also be able to create a
@@ -29,7 +31,7 @@ We usually recommend holding a 1-hour session with your coach every Friday. Howe
 your learning style and experience, only your mentor will be able to provide tailored guidance and
 tell you how many classes you need to take. 
 
-## Work interactions
+### Work interactions
 
 This one is quite straightforward: as most of our clients are based in the US, you probably already
 have access to some native speakers you can interact with and learn from. Even if you're not
@@ -47,7 +49,7 @@ you may find yourself a bit lost at times. When this happens, don't be afraid to
 It's much better (and cheaper) to have a client say something twice than have a developer re-write a
 feature that was misunderstood.
 
-## Articles and books
+### Articles and books
 
 Reading articles and books can be very helpful, because they give you all the time you need to
 research the meaning of a foreign word or sentence. It doesn't matter whether the content is
@@ -58,7 +60,7 @@ A good way to start is to ask your mentor to suggest some English content. Menti
 and any challenges you have faced in the past, and they will be able to offer something you will
 like! You can also try to go back and re-read any books from your past in their original language.
 
-## Podcasts
+### Podcasts
 
 Podcasts became a big thing in the last few years. Now, you can find a podcast on nearly any topic:
 science, finance, world news, technology... you name it.
@@ -69,7 +71,7 @@ increase the speed until it's just outside of your comfort zone.
 
 You can easily find good podcasts online or through your mentor - don't be afraid to ask!
 
-## Movies and TV shows
+### Movies and TV shows
 
 Movies and TV shows are also great, because you get to experience a variety of different accents and
 language registers. Also, you can use subtitles, either in English or your language, until you're
@@ -77,7 +79,7 @@ comfortable enough to turn them off.
 
 You're probably not going to need any recommendations, but just in case, we're here for you!
 
-## Travel
+### Travel
 
 This can be a bit hard to do constantly, but travelling is one of the best ways to learn a new
 language - visiting a new country is a full-immersion experience and can be very helpful.
@@ -89,3 +91,13 @@ for so many reasons.
 
 Make sure to check out our [Conferences](personal-growth/conferences) and [Travel](people-ops/travel-policy)
 policies!
+
+## Testing your English
+
+In order to ensure that we all have a good command of the language and to aid with [matrix
+evaluations](personal-growth/competency-matrix), we all test our English levels regularly.
+
+You’ll take the test at least once per year, but the frequency is variable and tailored to your
+learning pace and needs.
+
+The test consists of a 50-minute listening, reading, writing, and speaking assessment.
