@@ -39,10 +39,17 @@ You don't need approval to write a blog post, just follow these simple steps.
 4. After the article has been reviewed  and adjusted, ping #blog again for the marketing tasks.
 5. Once the cover image and the latest SEO refinements have been implemented, your blog post is
    ready to be merged and scheduled for publication.
+6. After the post has been scheduled for publication, access the
+   [Social Media Editorial Plan Board][social-media-board] and create a new card from the existing
+   `[Blog Post]` template. Write in the card a description of up to 200 characters and move it to
+   the `Waiting for approval` column. Board editors will be notified, will review the content and
+   schedule it for publication on social media.
 
 Remember that you, the author of the article, are responsible for the entire publication process, so 
 don't forget to follow your post's progress until its publication, even in phases that do not 
 concern you directly.
+
+[social-media-board]: https://trello.com/b/ocREIETO/nebulab-social-media-editorial-plan
 
 ## Guidelines for writing
 
