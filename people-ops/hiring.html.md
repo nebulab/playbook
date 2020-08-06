@@ -108,7 +108,7 @@ You will not be asked to do any live coding or solve absurd challenges. Instead,
 make sure that your technical skills are coherent with our expectations, so feel at ease: nobody
 here manages to solve business problems without looking up documentation and/or Stack Overflow.
 
-The technical assessment consists of a feature, enhancement or bugfix on to implement on an
+The technical assessment consists of a feature, enhancement or bugfix to implement on an
 open-source project, which will be selected according to your role and experience. You'll work at
 your own pace and simply open a PR on the project when you're done. The PR will then be reviewed by
 the hiring managers assigned to your application, who will almost certainly ask to adjust certain
