@@ -101,26 +101,20 @@ Some advice for the chat:
 
 ### Technical assessment
 
-If you have reached this stage, it means we think you may be a good candidate for our selection
-process. We are sure that working with you would be a pleasure.
+If you have reached this stage, it means we think you may be a good candidate and that working with
+you would be a pleasure. At this point, we want to get an idea of your technical skills.
 
-Usually this meeting takes place via a video call or in person, depending on how far you are from
-our offices. If we meet in person, please note that there is no dress code to respect and a t-shirt
-or a hoodie will not make you lose any points, given that we will probably wear one too!
+You will not be asked to do any live coding or solve absurd challenges. Instead, we just want to
+make sure that your technical skills are coherent with our expectations, so feel at ease: nobody
+here manages to solve business problems without looking up documentation and/or Stack Overflow.
 
-The objective of this step is to understand your level in relation to other members of our team.
-Understanding this will help us formulate an offer corresponding to your abilities, so if we haven't
-talked about this yet, feel free to tell us about your possible compensation expectations. This step
-will also help us to understand your attitudes and future potential.
+The technical assessment consists of a feature, enhancement or bugfix on to implement on an
+open-source project, which will be selected according to your role and experience. You'll work at
+your own pace and simply open a PR on the project when you're done. The PR will then be reviewed by
+the hiring managers assigned to your application, who will almost certainly ask to adjust certain
+aspects of it and explain the rationale behind your choices.
 
-Don't think of the technical interview as the classic interview where you are asked embarrassing
-questions on algorithms you should know by heart or to program in front of us. Instead, we just want
-to be sure that your level of experience is coherent with our expectations, so feel at ease: nobody
-here manages to solve major problems without checking manuals, articles and Stack Overflow.
-
-The technical assessment will usually consist of a feature, enhancement or bugfix on a real project
-from one of our clients, which will be selected according to your role and experience. Here are some
-tips to help you excel:
+Here are some tips to help you excel:
 
 - Pay attention to documentation and Git history.
 - Follow the conventions established on the project.
