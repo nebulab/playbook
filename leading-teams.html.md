@@ -8,6 +8,7 @@ position: 5
 playbook-section-chapters:
   - What team leads do
   - Leadership principles
+  - Discovery and estimation
   - Working with clients
   - Handling conflict
   - Giving feedback
