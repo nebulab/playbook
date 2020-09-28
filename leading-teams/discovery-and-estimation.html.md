@@ -61,7 +61,7 @@ happens in the background when they do?
 
 Finally, don't make the mistake of merely collecting a list of technical requirements, skipping the
 context. Strive to understand the client's market, their target customer and their rationale for
-building this product. This will help you create rapport witht eh client and give you a better
+building this product. This will help you create rapport with the client and give you a better
 understanding of the environment in which your team will be operating.
 
 ## Estimating effort with Estimation Sessions
