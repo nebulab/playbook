@@ -1,7 +1,7 @@
 ---
 title: International Compensation
 meta_description: >
-  Nebulab aims to hire the best fit-talents both in culture and skill-set.
+  Nebulab strives to hire the best fit-talents both in culture and skill-set.
   Our international compensation policy aims to pay the right salary for them.
   Find out how we handle this!
 ---
