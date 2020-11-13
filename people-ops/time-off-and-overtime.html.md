@@ -5,18 +5,8 @@ meta_description: >
   we handle time off and overtime in our distributed agency!
 ---
 
-The work day for full-time contracts is comprised of 8 hours. You can decide to reduce your
+The workday for full-time contracts is comprised of 8 hours. You can decide to reduce your
 contract's work hours and opt for part-time work.
-
-Vacation and residual leave hours can be viewed in your payroll slip:
-
-- vacation days, in the box `FERIE RES.`;
-- holiday hours (or former Public Holidays), in the box `FEST. RES.`;
-- work time reduction hours (or ROL), in the box `ROL RES.`
-
-The same applies to the quantities earned and used, displayed in the same box corresponding to 
-`MAT.` and `GOD.`. The acronym `A.P.` stands for Anno Precedente (i.e. previous year) and indicates
-the amounts corresponding to the previous year, but which can still be taken.
 
 ## Vacation
 
@@ -26,6 +16,27 @@ possible.
 
 Holidays accrued in a year must be used within 18 months: e.g., the remaining days on 31/12/2019
 must be used by 1/06/2021.
+
+## Holidays
+
+You don't have to follow a specific calendar for Holidays. You have 11 days, use them at your
+discretion. Just let the team know in advance of your plans.
+
+### Italian employees
+
+The national contract strictly defines the Italian Holidays, and you have 11 Holidays too.
+
+A special mention goes to the Patron Saint holiday ("Santo Patrono"). The day of this holiday
+depends on where you work from:
+
+- **Pescara:** October 10th;
+- **Latina:** July 6th;
+- **remote:** October 10th.
+
+On this day, our offices are **not** closed, and you can decide whether you want to work or not.
+
+Since this is considered work on a holiday, your pay will be +30% the standard pay if you choose
+to come to the office or work remotely.
 
 ## Time off, special leave and overtime
 
@@ -44,25 +55,11 @@ Another type of paid leave is when it is granted in special cases. Below is a no
 - death of relatives up to the second level;
 - blood donation.
 
-If you think you have the right to paid leave, write to the administrative manager (@mettiu), who
+If you think you have the right to paid leave, write to the administrative manager (@endriu), who
 will check this for you.
 
-Overtime is a working time in excess of the 8 hours a day. By law it is not allowed, under any
+Overtime is a working time in excess of the 8 hours a day. We don't recommend, under any
 circumstances, to exceed the limit of 48 hours a week.
-
-### Patron Saint holiday
-
-A special mention goes to the Patron Saint holiday ("Santo Patrono"). The day of this holiday 
-depends on where you work from:
-
-- **Pescara:** October 10th;
-- **Latina:** July 6th;
-- **remote:** October 10th.
-
-On this day, our offices are **not** closed, and you can decide whether you want to work or not.
-
-Since this is considered work on a holiday, your pay will be +30% the standard pay if you choose
-to come to the office or work remotely.
 
 ### Compensation and rounding-off
 
@@ -77,19 +74,42 @@ and so on.
 
 ## Sick leave
 
-For communications regarding sick leave, employees must contact their physician to request a sick 
-leave certificate. The physician will send the certificate electronically to INPS, which, in turn, 
-will make it available in electronic form. Based on the sick leave days granted by the attending 
-physician, the employee must  communicate to the company the days of absence together with the
+We support you in the unfortunate case of sick leave. We pay for sick days a different percentage of
+the daily pay, depending on the event number from the year beginning and the number of days.
+Rates are shown in this table:
+
+| % Pay | Days 1-3 | Days 4-20 | Days 21+ |
+| Event 1 | 100% | 25% | 33% |
+| Event 2 | 100% | 25% | 33% |
+| Event 3 | 100% | 25% | 33% |
+| Event 4 | 100% | 25% | 33% |
+| Event 5+ | 0% | 25% | 33% |
+
+The event counter resets when a new year arrives.
+
+### International employees
+
+To grant your sick leave, we need a medical certificate or medical care proof.
+
+We highly recommend covering the earning loss risk with appropriate insurance coverage.
+
+### Italian employees
+
+For communications regarding sick leave, employees must contact their physician to request a sick
+leave certificate. The physician will send the certificate electronically to INPS, which, in turn,
+will make it available in electronic form. Based on the sick leave days granted by the attending
+physician, the employee must communicate to the company the days of absence together with the
 certificate's unique code.
 
 ## Permit type
 
-When deciding which type of permit to ask for, adopt the following rules:
+When deciding which type of permit to choose between, adopt the following rules:
 
-- `Permessi/Ferie` is used for time off hours or vacation days: therefore, you can use it for
-  whole days off or by putting in the number of hours of time off; 
+- `Ferie` is used for vacation days: you can use it for whole days off;
+- `ROL` is used for time off hours: you can use it by putting in the number of hours of time off;
 - `Malattia` is used in case of sick leave (make sure to **add the protocol code issued by your
   physician to the notes**);
-- `Permesso straordinario` is used for time off granted in special cases listed in the section
+- `Straordinario` is used for overtime hours: you can use it by putting in the number of hours in
+  excess of the 8 hours a day;
+- `Permessi Retribuiti` is used for time off granted in special cases listed in the section
   [Time off, special leave and overtime](#time-off-special-leave-and-overtime).
