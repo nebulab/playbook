@@ -14,8 +14,8 @@ There are 22 days of vacation per year (176 hours). All members of the team must
 vacation days they wish to take via chat or verbally, with a notice of at least two weeks if
 possible.
 
-Holidays accrued in a year must be used within 18 months: e.g., the remaining days on 31/12/2019
-must be used by 1/06/2021.
+Vacation days accrued in a year must be used within 18 months: e.g., the remaining days on
+31/12/2019 must be used by 1/06/2021.
 
 ## Holidays
 
