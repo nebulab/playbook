@@ -9,13 +9,13 @@ meta_description: >
 > which we believed to be a good starting point.
 
 We hire people in different regions and countries. Every market is different, and it can be
-challenging to be competitive and fair towards other team members in making an offer for the same
-role but in a different region. The best way to deal with that is by introducing a Location factor.
+challenging to be competitive and fair in making an offer for the same role but in a different
+region. The best way to deal with that is by introducing a Location factor.
 
 ### Why we pay local salaries
 
-The key argumentations on why we value this policy as a critical success factor, both in hiring
-talented people and being fair and profitable as a company, are:
+The reasons why we value this policy as a critical success factor, both in hiring talented people
+and being fair and profitable as a company, are:
 
 - having a strict salary structure will bring low competitiveness in high salary regions – this
 mainly means that we can't hire people in that area;
@@ -40,26 +40,21 @@ It goes without saying that the latter can be far higher than the first one; in 
 result in paying someone far more than what he's going to obtain from his local market just because
 he lives in an expensive area.
 
-To determine the Location factor, we select the area the candidate lives in first, using a couple of
-convenient rules.  
-
-### International hires
-
-For candidates who live outside of Italy, if they live within a commutable one hour and thirty
-minutes (1:30) of a city listed, we may use that as their location.
-
-### Italian hires
-
-Because of the peculiar characteristic of the territory, for candidates who live in Italy, if they
-live within a commutable twenty minutes (0:20) of an Italian city listed, we may use that as their
-location.
+E.g., taking Atlanta, GA, as the home base (100%), the cost of labor and the cost of living in
+Manhattan, New York are respectively 123% and 217%. This means that the cost of living increase in
+Manhattan is more than proportional than the cost of labor one (ref. [ERI Blog](https://www.erieri.com/blog/post/cost-of-labor-vs-cost-of-living)).
 
 ### Get the indexed salary
 
-Once we get the area the candidate lives in, the math is easy as pie:
+Once we get the candidate's area, we pick the corresponding Location factor within a list of
+worldwide locations.
+
+The calculation basis is the Average Italian Salary matrix for that role. The Location factors are
+modulated on the Italian location factor that represents the unit basis. So we obtain the indexed
+salary by multiplying the matrix and the Location factor of interest.
 
 ```
-(Average Italian salary for that role)/(Italy's Location factor)*(Candidate's Location factor)
+(Average Italian salary)*(Candidate's Location factor)
 ```
 
 We don't feel ready to share our compensation packages publicly yet, although they are readily
