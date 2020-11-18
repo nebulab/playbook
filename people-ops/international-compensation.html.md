@@ -49,9 +49,9 @@ Manhattan is more than proportional than the cost of labor one (ref. [ERI Blog](
 Once we get the candidate's area, we pick the corresponding Location factor within a list of
 worldwide locations.
 
-The calculation basis is the Average Italian Salary matrix for that role. The Location factors are
+The calculation basis is the average Italian salary matrix for that role. The Location factors are
 modulated on the Italian location factor that represents the unit basis. So we obtain the indexed
-salary by multiplying the matrix and the Location factor of interest.
+salary by multiplying the average Italian revenue for that role and the Location factor of interest:
 
 ```
 (Average Italian salary)*(Candidate's Location factor)
