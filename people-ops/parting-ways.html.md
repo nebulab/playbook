@@ -17,7 +17,7 @@ contract by submitting his/her resignation.
 ### International employees
 
 The contract carries a Term and Termination clause. The term varies depending on the deal, it's
-usually 60 days, but please check your case.
+usually 60 days, but please check your contract.
 
 ### Italian employees
 The [resignation process](https://www.cliclavoro.gov.it/Cittadini/Pagine/Adempimenti.aspx) is remote
