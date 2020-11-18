@@ -74,8 +74,8 @@ and so on.
 
 ## Sick leave
 
-We support you in the unfortunate case of sick leave. We pay for sick days a different percentage of
-the daily pay, depending on the event number from the year beginning and the number of days.
+We support you in the unfortunate case of sick leave. We pay a different percentage of the daily pay
+for sick days, depending on the event number from the year beginning and the number of days.
 Rates are shown in this table:
 
 | % Pay | Days 1-3 | Days 4-20 | Days 21+ |
