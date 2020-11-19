@@ -21,10 +21,10 @@ and being fair and profitable as a company, are:
 mainly means that we can't hire people in that area;
 - having a strict salary structure will bring high competitiveness in low salary regions – this will
 bring a geographical concentration of team members, instead of a distributed team which represents
-our main goal. Besides, people who are unhappy with their job are less likely to leave if their
-compensation is higher than the average market one;
-- it's fair for anyone having the same wage for the same role, as far as discretional – team members
-are treated equally by the company, which brings a sense of fairness to the team.
+our main goal. Besides, we don’t want unhappy employees keeping their job at Nebulab simply because
+they have a competitive salary;
+- it's fair for anyone having the same relative wage for the same role – team members are treated
+equally by the company, which brings a sense of fairness to the team.
 
 ## The Location factor
 
