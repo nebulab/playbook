@@ -6,7 +6,6 @@ image:
 social_cover: working-on-nebulab.png
 position: 8
 playbook-section-chapters:
-  - Management Scrum
   - Blog
   - Playbook
 ---
