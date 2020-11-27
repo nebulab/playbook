@@ -9,5 +9,4 @@ playbook-section-chapters:
   - What mentors do
   - Running 1:1s
   - Promoting growth
-  - Mentors roundtable
 ---
