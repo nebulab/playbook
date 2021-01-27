@@ -34,14 +34,13 @@ but more may be added in the future:
 
 - **Software Engineer:** this is our bread and butter. The majority of our team members are hands-on
   software engineers, tasked with solving a client's problems through the code they write.
+- **Engineering Manager:** an engineering manager (or team lead) is a contributor who has chosen to
+  take a managerial path. They communicate with clients to understand their priorities and
+  coordinate their team accordingly.
 - **Product Designer:** product designers deal with all UX and creative work at Nebulab, both for
   clients and internal projects such as the Nebulab brand, our website and so on.
-- **Team Lead:** a team lead is a contributor who has chosen to take a managerial path. They
-  communicate with clients to understand their priorities and coordinate their team accordingly.
-- **Operations:** these are the people who keep things running smoothly and handle all the
+- **Operations Manager:** these are the people who keep things running smoothly and handle all the
   bureaucracy and processes for us. They're like office managers on steroids!
-- **Director:** directors set Nebulab's high-level goals and strategy, define company policies and
-  find new business opportunities. They also mentor all other team members.
 
 Each discipline is split by levels and areas, with each area having many skills. Areas are
 currently the same for all disciplines:
@@ -62,14 +61,37 @@ requirements of levels 1 and 2.
 ## Using the matrix to grow
 
 As we mentioned, the matrix will be used by your mentor to monitor your progress and figure out what
-areas you need to work on to increase your impact at Nebulab. Your mentor will commit to evaluating
-you at least once a year with the help of your team lead, but you may ask for a re-evaluation at any
-time (within reason) if you feel like you've been making progress in one or more skills.
+areas you need to work on to increase your impact at Nebulab. We use [Progression][progression], for
+evaluating team members, and the process is the following:
 
-Each evaluation will be shared and discussed with you, so that you can share your feedback on the
-evaluation and your mentor can provide advice on how to best grow in a particular skill. It is your
-mentor's job to provide you with the tools and opportunities to continuously improve yourself, so
-don't be afraid to ask, if you think they can help you in any way!
+1. You will log into Progression and start a check-in.
+2. For each skill in the matrix, you will need to select whether you are *working towards* the
+   expectations, *meeting* the expectations or *exceeding* the expectations for that level. Although
+   it is not required, you're strongly encouraged to also provide examples of situations where you
+   performed at that level.
+3. Once you've completed your side of the check-in, your mentor will be notified and will follow
+   the same exact steps.
+4. When your mentor has also completed the check-in, you will both be notified and should schedule
+   a meeting to finalize the evaluation.
+5. To finalize the evaluation, you will look at both your check-in and your mentor's and reconcile
+   any differences. 
+
+The result of the evaluation will tell you whether you're *working towards*, *meeting* or
+*exceeding* the overall expectations for your position at Nebulab:
+
+- If you are working towards the expectations, your mentor will work with you to get up to speed.
+- If you are meeting expectations, your mentor will work with you to determine which area to grow 
+  in next.
+- If you are exceeding the expectations, good job! Continue working with your mentor to grow.
+
+Note that, while most check-ins will be requested against your _current_ position at Nebulab, you
+are also welcome to request check-ins against the next level of your career path, or even an
+entirely separate position (e.g., you're a Software Engineer and want to check in against
+Engineering Manager). This is extremely useful if you want to get a sense of how you would perform
+in another position at the company, and is the basis for all career path transitions.
+
+As a general rule, all team members are required to check in against their current position _at
+least_ once a year.
 
 ### Promotion process
 
@@ -77,9 +99,10 @@ Our promotions are descriptive, not prescriptive: in order to be promoted, you n
 exhibit all skills and traits from the higher level for a significant period of time. This is to
 prevent people from [rising to the level of their incompetence][peter-principle].
 
-When your mentor evaluates you and realizes you're now at the next level, they will begin the
-promotion process. They will assemble a promotion package comprised of your latest matrix evaluation
-and a comment explaining why they think you should be promoted.
+When you check in with your mentor and the conclusion is that you're meeting your next level in the
+competency matrix, your mentor will begin the  promotion process. They will assemble a promotion
+package comprised of your latest matrix evaluation and a comment explaining why they think you
+should be promoted.
 
 This promotion package will then be submitted to the directors group, who will vote on the promotion
 by majority. The group's decision is final, although your mentor can present a new promotion package
@@ -92,8 +115,9 @@ Software Engineer, you may decide to take the managerial path and become an L3 T
 important to note that this is not a promotion, but a step sideways.
 
 If you're interested in switching disciplines, you can do it by talking to your mentor, who will
-evaluate you and decide if you're already a good fit for the new discipline or if you need to align
-with the new requirements first.
+ask you to request a check in against the new discipline. This will help you understand whether
+you already have all the skills you would need, or if you need to work towards meeting some of the
+expectations for your new role.
 
 Once you're ready to take on your new role, you will officially be switched over. Your compensation
 and any other aspects related to your discipline will be adjusted accordingly.
@@ -108,5 +132,6 @@ We don't feel ready to share our compensation packages publicly yet, although th
 available for employees to consult, so it's easy to understand how their discipline and level
 compare to others and where they fit in the company.
 
-[ncm]: https://docs.google.com/spreadsheets/d/1XFtr7iQ10-YCjx5At47X8hWGGw_G3sKpiEecVP3VSus/edit#gid=136967034
+[ncm]: https://nebulab.progressionapp.com/engineering
 [peter-principle]: https://en.wikipedia.org/wiki/Peter_principle
+[progression]: https://progressionapp.com
