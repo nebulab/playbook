@@ -59,8 +59,8 @@ In order to get the most out of a conference, we follow a few basic rules:
 - At the conference, we follow all the talks we want to follow and try not to get distracted.
   Sometimes, we don't like the talk and prefer to leave early, but if this happens repeatedly,
   perhaps we did a poor job of evaluating the conference when we decided to take part.
-- We always show the utmost respect towards the speakers. It takes a lot of courage to in front of
-  an audience and your ideas.
+- We always show the utmost respect towards the speakers. It takes a lot of courage to talk in 
+  front of an audience and present your ideas.
 
 ## After the conference
 
