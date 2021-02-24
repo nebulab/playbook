@@ -43,3 +43,4 @@ regarding any of the benefits, feel free to ask!
 - **Learning stipend.** We provide full reimbursement for industry-related books, up to
   €50/year/person. Additional expenses (workshops, courses or even _more_ books!) may also be
   covered and will be evaluated on a case-by-case basis.
+- **Software of choice.** We provide full reimbursement for any software, up to €150/year/person.
