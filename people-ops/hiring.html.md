@@ -94,7 +94,7 @@ Some advice for the chat:
   And please, find a quiet place to call from!
 * **Turn up prepared.** You already know that we will talk about Nebulab and about you, so prepare
   some questions about us and some answers about yourself!
-* **Be yourself.** The get-to-know meeting is meant to help understand what type pf person you are
+* **Be yourself.** The get-to-know meeting is meant to help understand what type of person you are
   and how you can fit in the company. We cannot do that if you pretend to be someone else.
 * **Relax.** We are humans. None of us is an HR manager or has a psychology degree. Think, behave
   and talk as you would do normally.
