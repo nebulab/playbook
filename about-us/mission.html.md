@@ -13,7 +13,7 @@ developing, and maintaining high-quality eCommerce websites built with Solidus a
 applications.
 
 We strive to produce high-quality work basing our processes and company life on lean principles and 
-respect for people we work with: our teammates, the Open Source community, and our clients.
+respect for the people we work with: our teammates, the Open Source community, and our clients.
 
 ## Teammates
 

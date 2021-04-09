@@ -6,18 +6,18 @@ meta_description: >
 ---
 
 Communicating via Slack is our bread and butter, but sometimes a synchronous meeting is needed.
-Throughout the years we have built some best practices that help us make our meetings as effective
+We have built some best practices throughout the years that help us make our meetings as effective
 as possible.
 
 For our meetings, we use [Fellow](http://fellow.app), an app that gives us all the tools we
-need to run effective meetings: it manages the agenda, the notes and any todos that arise from the
+need to run effective meetings: it manages the agenda, the notes, and any todos that arise from the
 meeting. Everyone in the company has an account - if you don't have one already, ping @mettiu to get
 invited! While Fellow is best used for recurring meetings, it also works well for one-offs.
 
 ## Organization of the meeting
 
 - **Don't be afraid to say no.** We are all afraid of missing out on important things. However, if
-  you are invited to a meeting but you think that there is no reason for you to be there, don't be
+  you are invited to a meeting but think that there is no reason for you to be there, don't be
   afraid to ask what contribution you could make or what benefit you could get from it. If nobody
   can answer you, your presence is probably not required.
 
@@ -37,26 +37,26 @@ Moreover, if you are the organizer of the meeting:
   to get organized. When the time comes, just enter the meeting without waiting for someone to nudge
   you.
 - **Come prepared.** Since each meeting must have an agenda and objectives, it should be easy to use
-  the ten minutes of preparation time to think what you want to say. This practice helps you
-  structure your thoughts and saves all participants' time.
+  the ten minutes of preparation time to think about what you want to say. This practice helps you
+  structure your thoughts and saves all participants time.
 
 Additionally, if you are the organizer:
 
 - **Send the agenda.** Review the agenda one more time, make sure every point on it has a title and
   a description that covers what the point is about and how to reach a conclusion, and share the
-  agenda with everyone so they have time to read it.
+  agenda with everyone, so they have time to read it.
 
 ## During the meeting
 
 - **Use a headset.** There is nothing worse than speaking without anyone understanding what you are
   saying. Get a good headset and use it for the meetings. DO NOT use a laptop microphone: even if it
-  seems to work well, in reality it does not.
+  seems to work well, in reality, it does not.
 - **Start your camera (if needed).** If others have their camera on, use yours too. Non-verbal
-  communication is important and seeing the face of the person you are talking to helps build trust.
+  communication is important, and seeing the face of the person you are talking to helps build trust.
 - **Take notes.** Taking notes at a meeting is an excellent way to stay focused and allows those who
   did not participate to know what was said and decided. If you cannot take notes, make sure that
   someone is.
-- **Don't veer off topic.** It might be tempting to propose an unrelated idea right when it comes to
+- **Don't veer off-topic.** It might be tempting to propose an unrelated idea right when it comes to
   you, but be respectful of everyone's time and make sure any unrelated points are added to the
   bottom of the current meeting's agenda or to another meeting's agenda.
 
@@ -70,8 +70,8 @@ Additionally, if you are the organizer:
 
 ### Tracking decisions
 
-As the organizer, it is your responsibility to ensure that people follow-up and execute on any
-decisions taken during the meeting, and your strategy for doing this will be different depending on
+As the organizer, it is your responsibility to ensure that people follow up and execute on any
+decisions that were taken during the meeting, and your strategy for doing this will be different depending on
 what kind of decision you have taken.
 
 At Nebulab, we consider decisions taken during a meeting to be one of three possible types:
