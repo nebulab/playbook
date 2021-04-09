@@ -13,7 +13,7 @@ Nebulab is kind of a big deal!
 A mentor has many different responsibilities towards the company and their mentees, among them:
 
 - Mentors ensure their mentees are always happy and growing, both as people and professionals.
-- Mentors are the bridge between their mentees and Nebulab, relying information back and forth.
+- Mentors are the bridge between their mentees and Nebulab, relaying information back and forth.
 - Mentors run regular 1:1s with their mentees to provide feedback and answer questions.
 - Mentors evaluate their mentees with the [competency matrix](/personal-growth/competency-matrix/)
   and propose promotions.

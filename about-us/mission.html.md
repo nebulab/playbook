@@ -31,5 +31,5 @@ Source to do the same.
 
 We collaborate with companies that share our mindset and working values such as professionalism, 
 transparency, and a sense of mutual respect and cooperation. Our team of trusted, engaged, and 
-motivated individuals understands our clients' real needs and drives them to success throughout a 
+motivated individuals understand our clients' real needs and drive them to success through a 
 high level of empathy, autonomy, and technical skills.
