@@ -18,7 +18,7 @@ The first step is communicating the trip to the client and determining when the 
 would be. Communication with the client will be different depending on the client's style, size and
 structure, so it's the team lead's responsibility, but you should follow these tips:
 
-- Make sure this is a good time to visit the client, i.e. they're not swamped with work and can take 
+- Make sure this is a good time to visit the client, i.e. they're not swamped with work and can take
   the time to see us. We want them to be genuinely happy to see us.
 - Explain why we are visiting them: we want to get to know them and their business better by seeing
   how they operate on a day-to-day business.
@@ -39,8 +39,6 @@ should keep in mind:
   things both in terms of entering/leaving the office and number of hours worked.
 - You can skip using harvest if you're going to be focused 100% on the client. Just remember to
   report 7 hours on Harvest at the end of the day.
-- You will do client work on Friday. If you want, feel free to do an extra-day of self-improvement
-  when you're back at the office.
 - You're not there for vacation. Even if the city is so cool... try to maximize the work
   face-to-face with the client. This means you cannot take a day off because you want to visit the
   Colosseum.

@@ -8,7 +8,7 @@ position: 3
 playbook-section-chapters:
   - Mentors and team leads
   - Mentoring and 1:1s
-  - Investment Fridays
+  - Investment Time
   - Competency matrix
   - Learning English
   - Conferences

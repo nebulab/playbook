@@ -5,17 +5,17 @@ meta_description: >
   products without giving up flexibility. Here's how we do it!
 ---
 
-Our working week consists of four days devoted to work for external clients (not necessarily always 
-with the same client) and one day, [Friday](personal-growth/investment-fridays), 
-dedicated exclusively to learning, internal projects or open source contributions.
+Our working week consists of five days devoted to work for external clients (not necessarily always
+with the same client) and 10% of that time, [Investment Time](personal-growth/investment-time),
+dedicated exclusively to learning, other projects or open source contributions.
 
 We work an 8-hour day, though these are reasonably flexible. In any case, legally, you cannot exceed
-13 hours a day or 48 hours a week. The hours adopted by most of us is between 9:30 AM and 6:30 PM, 
-considering about an hour for lunch. Work organization must, in any case, be a team effort: those 
+13 hours a day or 48 hours a week. The hours adopted by most of us is between 9:30 AM and 6:30 PM,
+considering about an hour for lunch. Work organization must, in any case, be a team effort: those
 who choose to work at different hours must be careful not to prevent others from performing their
 work.
 
-In terms of place, the flexibility is even higher. Nebulab currently has two operative offices, one 
+In terms of place, the flexibility is even higher. Nebulab currently has two operative offices, one
 in Pescara and one in Latina, but you are free to work from anywhere you want (including your home).
 
 This flexibility in terms of time and place is possible thanks to the discipline of our team and
@@ -47,14 +47,14 @@ First of all, we must always remember some basic principles when we work remotel
 - If you are working remotely, you are at the office. If you need to do anything else, inform the
   team and ask for permission. Working while you are doing something else is _not_ acceptable,
   because it affects not only your productivity, but also the productivity of those you work with.
-- Adopt transparency by default. Ensure that all communication takes place in public channels, 
+- Adopt transparency by default. Ensure that all communication takes place in public channels,
   unless it is strictly necessary to keep it private, so that everyone is informed on what is
   happening.
 
 ### Work space
 
 Our work space is our temple. This applies both to co-located and remote work. The difference is
-that, while the office is a space where we all create a comfortable work environment, when you work 
+that, while the office is a space where we all create a comfortable work environment, when you work
 remotely, it is up to you to ensure you have the tools and the environment to be as productive as
 possible.
 
@@ -71,7 +71,7 @@ Here is a list of essential things for working remotely:
 
 We use the Slack channel #time-off for all communications regarding working time and place. If you
 intend to work remotely, communicate this as early as possible.
- 
+
 **Important: DO NOT use private messages or unofficial channels for this type of communication!**
 It is important to keep them centralized and accessible.
 

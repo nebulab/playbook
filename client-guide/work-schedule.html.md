@@ -11,33 +11,20 @@ Because we also use a time tracker to keep track of how many hours we _actually_
 projects, you can expect an average of 7 billed hours/day, with the remaining hour being consumed by
 breaks and other interruptions.
 
-## Investment time
+## Investment Time
 
-We also only work four days/week, from Monday to Thursday. Our Fridays are dedicated to study and
+We work five days/week, from Monday to Friday. 10% of that time (up to 165 hours) is dedicated to study and
 self-improvement: developers experiment with new tools and practices, work on open-source projects,
-write new posts for our blog... Whatever makes them better professionals or makes Nebulab a better
+write blog posts... Whatever makes them better professionals or makes Nebulab a better
 company is fair game!
 
-We know giving up 20% of the week is a huge undertaking for our clients, and we are extremely
+We know giving up 10% of the week is a big undertaking for our clients, and we are extremely
 thankful for this opportunity. With that said, spending some time to improve our craft every week
 allows us to stay on top of our game and deliver more and more value every day. In other words,
 these experiments have a tangible impact on the quality of the work we do for you!
 
-Our investment time policy also makes Nebulab an attractive workplace for the top professionals in
+Our Investment Time policy also makes Nebulab an attractive workplace for the top professionals in
 our industry, which allows us to offer you an ever-expanding range of services.
-
-As a rule of thumb, our developers will skip their investment time for up to two weeks in case of
-emergencies, personal vacation, holidays or any other events that would reduce the number of work
-hours in the week.
-
-### What if I need more hours?
-
-If you are afraid that 32 hours/week are not enough to accomplish what is needed, you always have
-the option of scaling up the team.
-
-However, most clients find that, even with only four days/week, their team maintains a velocity that
-allows them to accomplish all the scheduled tasks. We suggest, at the very least, trying it out and
-seeing what works for you.
 
 ## Timezones and remote work
 

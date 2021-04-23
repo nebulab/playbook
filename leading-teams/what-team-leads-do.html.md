@@ -19,8 +19,6 @@ Being a team lead is as much a privilege as it is a chore:
 - Team leads do not get nearly as much time for technical work as individual contributors -
   realistically, a team lead can expect to spend half their time writing code and the other half
   managing the project and the team.
-- Team leads are rarely able to work on their own Friday projects, because their Fridays are
-  usually occupied by company-level initiatives.
 - All this management work is not as visible as technical contributions, so if you're someone who
   needs a very tight feedback loop (i.e. you need to immediately see the results of your work), you
   might find this role to be frustrating.
