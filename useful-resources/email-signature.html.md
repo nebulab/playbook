@@ -1,13 +1,12 @@
 ---
 title: Email signature
 meta_description: >
-  Here's the template every team member of Nebulab has to use for their work mail signature.
+  Here's the template every team member of Nebulab could use for their work mail signature.
 ---
 
-Use the following template for the signature in your work emails:
+You could use the following template for the signature in your work emails:
 
     —
-    Rupert Sciamenna
-    +39 3331234567
-    Nebulab
+    Jane Appleseed
+    +1 123 456 7
     https://nebulab.it
