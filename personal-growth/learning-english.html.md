@@ -27,9 +27,9 @@ A lot of folks here at Nebulab have used and strongly recommend [italki](https:/
 where you can choose your coach and interact with them remotely, but feel free to choose the online
 or offline platform that best suits you. [It's on us!](/people-ops/benefits)
 
-We usually recommend holding a 1-hour session with your coach every Friday. However, as this varies with
+We usually recommend holding a 1-hour session with your coach every week. However, as this varies with
 your learning style and experience, only your mentor will be able to provide tailored guidance and
-tell you how many classes you need to take. 
+tell you how many classes you need to take.
 
 ### Work interactions
 
@@ -84,7 +84,7 @@ You're probably not going to need any recommendations, but just in case, we're h
 This can be a bit hard to do constantly, but travelling is one of the best ways to learn a new
 language - visiting a new country is a full-immersion experience and can be very helpful.
 
-As a company, we frequently organize trips abroad for conferences, client visits and other 
+As a company, we frequently organize trips abroad for conferences, client visits and other
 occasions, so you should hop along whenever you have the chance if you want to improve your English.
 We also encourage you to travel in your free time as much as you can, it's a really great experience
 for so many reasons.

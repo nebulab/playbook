@@ -45,7 +45,7 @@ one-one-ones where people say what they want to say rather than what the manager
   express their feelings. Adjust your communication style accordingly.
 
 One more tip on scheduling the calls: when you have many mentees, it can be tempting to schedule all
-of the one-on-ones on Friday, so that the rest of your week is free to do other work. However, as
+of the one-on-ones on a single day, so that the rest of your week is free to do other work. However, as
 these meetings are very demanding, it is hard to really focus on more than one or two in the same
 day. Instead, try to spread them out throughout the week, so that you can give the same level of
 attention to the same one-on-one.

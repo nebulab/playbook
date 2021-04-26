@@ -9,7 +9,7 @@ Everyone is free to contribute to our blog, which is run and managed by our mark
 
 The blog is our way of contributing to the software industry as well as a way of making ourselves
 known to potential clients. Moreover, writing is also an excellent way to deeply understand topics
-we are studying and to have clarity on problems we are facing (for example, Friday time projects
+we are studying and to have clarity on problems we are facing (for example, Investment Time projects
 make for excellent articles!).
 
 If you want to write an article, but you're struggling to find the right inspiration or idea, note
@@ -26,7 +26,7 @@ project. Maybe there's someone else who can bring your idea to life.
 
 ## Writing & Publishing Process
 
-You don't need approval to write a blog post, just follow these simple steps. 
+You don't need approval to write a blog post, just follow these simple steps.
 
 1. Open a PR using the dedicated blog post template and add it to the Blog project's backlog on
    GitHub. The template is filled with all the instructions you need to take your blog post from
@@ -45,8 +45,8 @@ You don't need approval to write a blog post, just follow these simple steps.
    the `Waiting for approval` column. Board editors will be notified, will review the content and
    schedule it for publication on social media.
 
-Remember that you, the author of the article, are responsible for the entire publication process, so 
-don't forget to follow your post's progress until its publication, even in phases that do not 
+Remember that you, the author of the article, are responsible for the entire publication process, so
+don't forget to follow your post's progress until its publication, even in phases that do not
 concern you directly.
 
 [social-media-board]: https://trello.com/b/ocREIETO/nebulab-social-media-editorial-plan
@@ -55,9 +55,9 @@ concern you directly.
 
 Here are some tips for writing good articles:
 
-- **Keep it short.** The ideal article is 400-600 words long. Longer articles are beautiful but they 
+- **Keep it short.** The ideal article is 400-600 words long. Longer articles are beautiful but they
   are time and effort intensive - they should be the exception, not the rule.
-- **Stay practical.** There's no need to overdo it and get philosophical. Write about an issue you 
+- **Stay practical.** There's no need to overdo it and get philosophical. Write about an issue you
   have faced recently or a new tool you're experimenting with. If it helps others, it's fair game.
 - **Get it done.** It's easy to obsess over small details if you're not used to writing. Even if you
   hate what you wrote, finish it and get someone to review it.
@@ -67,7 +67,7 @@ If you follow these rules, you should be able to produce an article in 8 hours. 
 longer than 8 hours, you should probably reach out to your mentor, who will help you figure out any
 issues you might be having!
 
-[template]: https://github.com/nebulab/nebulab/blob/master/source/blog/posts/2050-01-01-blogpost-template.html.markdown 
+[template]: https://github.com/nebulab/nebulab/blob/master/source/blog/posts/2050-01-01-blogpost-template.html.markdown
 
 ## Publishing frequency
 

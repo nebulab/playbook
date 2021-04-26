@@ -30,8 +30,8 @@ different ways:
 
 - **Proposed by the mentee.** Very often, your mentee will propose something they are excited about
   and want to learn. This can be a new technology or maybe a different development workflow. Mentees
-  should be granted a lot of freedom in what they can study on Fridays, but beware of exotic choices
-  (we don't have any room for [Whitespace][whitespace] developers).
+  should be granted complete freedom in what they can study during their Investment Time, even exotic choices
+  are fine (it's their own time and they decide what's best, even if it means learning [Whitespace][whitespace]!).
 - **Proposed by the mentor.** The mentor should also ensure that the mentee is comfortable with the
   fundamentals of our daily work, which is especially important for junior developers: English,
   version control, test automation, good communication and priority management should be mastered by
@@ -40,17 +40,14 @@ different ways:
   something new. This is great, as it means the team member will be able to fully immerse themselves
   in the learning process and put their new skills to use immediately!
 
-If both you and your mentee are out of ideas, perhaps you can take some inspiration from the latest
-[demo Friday][demo-friday] or take a look at what other people in the team are doing.
-
 ## Tackling the right project
 
 In the real world, we all have a responsibility towards our clients to do our best work and to
 always assign the right person to the right job, so you can't have a junior developer work on a
 strategic, time-sensitive project just because it will help them grow.
 
-This is why we have [Fridays][fridays], a safe space to learn and experiment with new tools,
-technologies and workflows. These should be the first option when it comes to growth. Talk to your
+This is why we have [Investment Time][investment-time], a safe space to learn and experiment with new tools,
+technologies and workflows. Investment Time should be the first option when it comes to growth. Talk to your
 mentee and find or create a project they are passionate about that will help them grow, then get to
 work!
 
@@ -81,6 +78,5 @@ a mentor is not to know it all, but rather to support their mentees in any possi
 journey and to set an example, and showing them that you're not afraid to admit when you need help
 is the best example you can set.
 
-[fridays]: /personal-growth/investment-fridays
-[demo-friday]: /personal-growth/investment-fridays#demo-fridays
+[investment-time]: /personal-growth/investment-time
 [whitespace]: https://en.wikipedia.org/wiki/Whitespace_(programming_language)
