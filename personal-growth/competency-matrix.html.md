@@ -27,9 +27,13 @@ Today, the matrix permeates all aspects of Nebulab, and we use it as a tool to p
 and measure a team member's impact. The matrix will be used by your mentor continuously to help you
 grow and evaluate you, so it's paramount you understand how it works!
 
+Be aware that [Progression][progression], the tool that we're using for the matrix, refers to the
+competency matrix as "Framework" so there isn't a real difference between the two and using either term
+is fine.
+
 ## How the matrix is structured
 
-The competency matrix is organized by disciplines. Currently, we have the following disciplines, 
+The competency matrix is organized by disciplines. Currently, we have the following disciplines,
 but more may be added in the future:
 
 - **Software Engineer:** this is our bread and butter. The majority of our team members are hands-on
@@ -45,17 +49,17 @@ but more may be added in the future:
 Each discipline is split by levels and areas, with each area having many skills. Areas are
 currently the same for all disciplines:
 
-- **Work:** technical skills that are required for the employee to work in that discipline.
-- **Drive:** skills that relate to the employee’s ambition and desire for growth.
-- **Fit:** skills that relate to the employee’s relationship with Nebulab and their teammates.
+- **Craft:** technical skills that are required for the employee to work in that discipline.
+- **Human:** skills that relate to the employee’s ambition and desire for growth.
+- **Leadership:** skills that relate to the employee’s relationship with Nebulab and their teammates.
 
-Levels are comparable across disciplines. In other words, an L3 Software Engineer and an L3 Product
+Levels are comparable across disciplines. In other words, an SE3 Software Engineer and an PD3 Product
 Designer have comparable responsibilities and impact in the company.
 
 Each level provides a description of the abilities and traits exhibited by an employee at that
 level, as well as practical examples to help managers in the evaluation process.
 
-Furthermore, each level comprises previous levels, so an employee at level 3 also possesses all the 
+Furthermore, each level comprises previous levels, so an employee at level 3 also possesses all the
 requirements of levels 1 and 2.
 
 ## Using the matrix to grow
@@ -64,7 +68,7 @@ As we mentioned, the matrix will be used by your mentor to monitor your progress
 areas you need to work on to increase your impact at Nebulab. We use [Progression][progression], for
 evaluating team members, and the process is the following:
 
-1. You will log into Progression and start a check-in.
+1. You will log into Progression with Nebulab's Google account and start a check-in.
 2. For each skill in the matrix, you will need to select whether you are *working towards* the
    expectations, *meeting* the expectations or *exceeding* the expectations for that level. Although
    it is not required, you're strongly encouraged to also provide examples of situations where you
@@ -74,13 +78,13 @@ evaluating team members, and the process is the following:
 4. When your mentor has also completed the check-in, you will both be notified and should schedule
    a meeting to finalize the evaluation.
 5. To finalize the evaluation, you will look at both your check-in and your mentor's and reconcile
-   any differences. 
+   any differences.
 
 The result of the evaluation will tell you whether you're *working towards*, *meeting* or
 *exceeding* the overall expectations for your position at Nebulab:
 
 - If you are working towards the expectations, your mentor will work with you to get up to speed.
-- If you are meeting expectations, your mentor will work with you to determine which area to grow 
+- If you are meeting expectations, your mentor will work with you to determine which area to grow
   in next.
 - If you are exceeding the expectations, good job! Continue working with your mentor to grow.
 
@@ -110,8 +114,8 @@ for evaluation if they think some information was missed in the initial discussi
 
 ### Switching disciplines
 
-Certain disciplines provide you with the ability to switch roles. For instance, if you are an L3
-Software Engineer, you may decide to take the managerial path and become an L3 Team Lead. It is
+Certain disciplines provide you with the ability to switch roles. For instance, if you are an SE3
+Software Engineer, you may decide to take the managerial path and become an EM3 Team Lead. It is
 important to note that this is not a promotion, but a step sideways.
 
 If you're interested in switching disciplines, you can do it by talking to your mentor, who will
@@ -132,6 +136,6 @@ We don't feel ready to share our compensation packages publicly yet, although th
 available for employees to consult, so it's easy to understand how their discipline and level
 compare to others and where they fit in the company.
 
-[ncm]: https://nebulab.progressionapp.com/engineering
+[ncm]: https://nebulab.progressionapp.com
 [peter-principle]: https://en.wikipedia.org/wiki/Peter_principle
 [progression]: https://progressionapp.com
