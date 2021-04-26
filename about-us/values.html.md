@@ -26,7 +26,7 @@ other team members.
 * We communicate with simplicity, clarity, and precision.
 * We make all the information at our disposal available.
 * We respond to questions and concerns in a timely fashion.
-* We keep track of our output in agreed upon tools.
+* We keep track of our output in agreed-upon tools.
 
 ## Enjoy both life and work.
 

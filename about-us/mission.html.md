@@ -13,7 +13,7 @@ developing, and maintaining high-quality eCommerce websites built with Solidus a
 applications.
 
 We strive to produce high-quality work basing our processes and company life on lean principles and 
-respect for people we work with: our teammates, the Open Source community, and our clients.
+respect for the people we work with: our teammates, the Open Source community, and our clients.
 
 ## Teammates
 
@@ -31,5 +31,5 @@ Source to do the same.
 
 We collaborate with companies that share our mindset and working values such as professionalism, 
 transparency, and a sense of mutual respect and cooperation. Our team of trusted, engaged, and 
-motivated individuals understands our clients' real needs and drives them to success throughout a 
+motivated individuals understand our clients' real needs and drive them to success through a 
 high level of empathy, autonomy, and technical skills.

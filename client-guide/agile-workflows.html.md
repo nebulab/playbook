@@ -16,7 +16,7 @@ such as Scrum and Kanban, however, have been battle-tested by hundreds of thousa
 teams all over the world - they have been working in the wild for years.
 
 At Nebulab, we believe in adopting a well established practice, trying to follow it to the letter,
-and only tweaking it after experience. The end result of this approach is a workflow that leans on
+and only tweaking it after some experience. The end result of this approach is a workflow that leans on
 the shoulders of giants, but also works for your unique needs and challenges. It will not only save
 you time, but also improve the quality and quantity of your team's output dramatically.
 
