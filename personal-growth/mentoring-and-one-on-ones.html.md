@@ -6,9 +6,9 @@ meta_description: >
 ---
 
 One of the most important responsibilities of your mentor is the organization of one-on-one (1:1)
-meetings. Every four weeks, you will have a one-on-one meeting with your mentor. If you wish, you
-can prepare an agenda with your mentor, but it is not required. If you do not have anything specific
-to discuss, the one-on-one will simply be a friendly chat.
+meetings. Your mentor will arrange recurring one-on-one meetings, with the frequency and duration being an agreement
+between you and your mentor. If you wish, you can prepare an agenda with your mentor, but it is not required.
+If you do not have anything specific to discuss, the one-on-one will simply be a friendly chat.
 
 Here are some things that the one-on-one is NOT:
 
