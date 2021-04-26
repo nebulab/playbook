@@ -82,10 +82,11 @@ you are struggling with multi-tasking or tracking time accurately, reach out to 
 
 ### Internal projects
 
-In addition to the client projects, Harvest also contains several projects and tasks for internal
-use. There is a project you should use for your Friday time, a project you should use for 1:1s, a
-project you should use for studying... These tend to change over time as we add new projects and
-restructure existing ones, so if you're in doubt, contact your mentor.    
+In addition to client projects, Harvest also has two more for internal purposes, that are:
+
+* Solidus - give the size and complexity of the Solidus ecosystem, we track time just like any other client project.
+* Investment Time - this includes everything growth and learning related. The main reason for tracking this is to keep
+track of the yearly [Investment Time](personal-growth/investment-time) budget.
 
 ## Presence vs. activity
 
