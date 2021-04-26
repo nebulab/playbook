@@ -60,7 +60,8 @@ Each level provides a description of the abilities and traits exhibited by an em
 level, as well as practical examples to help managers in the evaluation process.
 
 Furthermore, each level comprises previous levels, so an employee at level 3 also possesses all the
-requirements of levels 1 and 2.
+requirements of levels 1 and 2. It's also interesting to note that certain skills do not go further
+as the levels progress, so once that skill is learnt no further work is required there.
 
 ## Using the matrix to grow
 
