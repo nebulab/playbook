@@ -38,7 +38,7 @@ case.
 ## Termination
 
 Sometimes, we're also forced to let an employee go. This can happen for a number of reasons, but
-usually it's the result of a failed [performance plan](/people-ops/performance-plans/) or a critical
+usually it's the result of not being able to work productively in any of our projects or a critical
 lack of alignment between Nebulab and the employee.
 
 If you are being let go, we want you to know how the situation will be handled and what you can
