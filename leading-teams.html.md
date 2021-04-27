@@ -13,6 +13,5 @@ playbook-section-chapters:
   - Handling conflict
   - Giving feedback
   - Interacting with mentors
-  - Visiting clients
   - Peer-level meeting
 ---
