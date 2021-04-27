@@ -13,6 +13,5 @@ playbook-section-chapters:
   - Time off and overtime
   - Payroll
   - Travel policy
-  - Performance plans
   - Parting ways
 ---
