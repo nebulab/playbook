@@ -5,7 +5,7 @@ meta_description: >
   the tech community. Read on to learn about our writing process!
 ---
 
-Everyone is free to contribute to our blog, which is run and managed by our marketing team.
+Everyone is free to contribute to our blog, a self-organized initiative for people that like writing.
 
 The blog is our way of contributing to the software industry as well as a way of making ourselves
 known to potential clients. Moreover, writing is also an excellent way to deeply understand topics
@@ -21,16 +21,14 @@ challenging, but it is definitely gratifying! And as we said, you can always cou
 help.
 
 If you have a blog post idea, but you can't write it yourself because you don't have the time, just
-put it up on the #blog channel and create a note in the Backlog column of the Blog posts GitHub
-project. Maybe there's someone else who can bring your idea to life.
+put it up on the #blog channel. Maybe there's someone else who can bring your idea to life.
 
 ## Writing & Publishing Process
 
 You don't need approval to write a blog post, just follow these simple steps.
 
-1. Open a PR using the dedicated blog post template and add it to the Blog project's backlog on
-   GitHub. The template is filled with all the instructions you need to take your blog post from
-   idea to publication.
+1. Open a PR using the dedicated blog post template. The template is filled with all the
+   instructions you need to take your blog post from idea to publication.
 2. Write the article following the [guidelines][template] in the repository. If you feel you need
    some help to get over writer's block, reach out to your teammates using the #blog channel on
    Slack and someone will be happy to give you some advice.
@@ -67,12 +65,7 @@ If you follow these rules, you should be able to produce an article in 8 hours. 
 longer than 8 hours, you should probably reach out to your mentor, who will help you figure out any
 issues you might be having!
 
-[template]: https://github.com/nebulab/nebulab/blob/master/source/blog/posts/2050-01-01-blogpost-template.html.markdown
-
-## Publishing frequency
-
-A fundamental aspect of maintaining the blog is to ensure new content is published on a regular
-basis. We currently try to publish an article every two weeks and any surplus articles are queued.
+[template]: https://github.com/nebulab/nebulab-website/blob/master/blog/_drafts/blogpost-template.markdown
 
 ## Useful resources
 
