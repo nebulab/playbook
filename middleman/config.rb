@@ -15,7 +15,7 @@ set :playbook_section_has_many_chapters_key, :'playbook-section-chapters'
 # Ignored paths
 ignore '**/.keep'
 ignore '.github/**'
-ignore /^middleman(?!\/assets)(?!\/admin)(?!\/uploads).*/
+ignore /^middleman(?!\/assets)(?!\/uploads).*/
 ignore /^(?!.*\/.*)(?!index\.html).*/
 
 # Activate and configure extensions
@@ -43,7 +43,6 @@ page '/*.txt', layout: false
 # page '/path/to/file.html', layout: 'other_layout'
 page '/', layout: 'home'
 page /.+\.html$/, layout: 'playbook/chapter'
-page '/middleman/admin/*', layout: false
 
 # Proxy pages
 # https://middlemanapp.com/advanced/dynamic-pages/
