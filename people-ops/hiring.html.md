@@ -45,10 +45,10 @@ to start to get to know each other. Usually, we find candidates in one of the fo
 
 - by referral (for example, your former colleague who now works for us);
 - from GitHub, LinkedIn or Stack Overflow searches;
-- from the form on our [Careers](https://nebulab.it/careers/) page.
+- from the form on our [Careers](https://nebulab.com/careers/) page.
 
 If you are applying for a job, complete the form providing some information about yourself, your
-experience with software development and with [the tools we use](https://nebulab.it/tools/), your
+experience with software development and with [the tools we use](https://nebulab.com/tools/), your
 approach to work and why you are interested in Nebulab.
 
 Someone from our team will read your letter and, if they think you might be a good candidate, they

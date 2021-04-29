@@ -6,7 +6,7 @@ meta_description: >
 ---
 
 As you may have noticed on Slack or GitHub, we all have similar profile pictures. The pictures are
-also used on our site in the Team section of the page [About Us](https://nebulab.it/about-us/). 
+also used on our site in the Team section of the page [About Us](https://nebulab.com/about-us/). 
 You will be included in the list once you have yours.
 
 This is a picture of the photo set that we usually use to take the photos.

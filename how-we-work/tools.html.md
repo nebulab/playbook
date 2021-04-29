@@ -13,7 +13,7 @@ We use the business version of the following Google services:
 * contacts ([Google Contacts](https://www.google.com/contacts/));
 * files ([Drive](https://drive.google.com)).
 
-You can install and use these services locally on your Mac (after being provided with a @nebulab.it
+You can install and use these services locally on your Mac (after being provided with a @nebulab.com
 account).
 
 Of these services, pay specific attention to calendars and contacts, where you can find various
@@ -23,7 +23,7 @@ information about useful contacts (clients, freelancers, etc.) and appointments.
 
 We use Slack to chat and keep in touch with others. It is essential to communicate and understand
 who is doing what at all times. The main account is <https://nebulab.slack.com/> and if you have a
-@nebulab.it email address, you can sign up by yourself.
+@nebulab.com email address, you can sign up by yourself.
 
 On Slack, it is possible to find some public rooms that can be freely accessed by anyone (their
 names should be self-explanatory, such as `#development`) and private rooms that are usually used to

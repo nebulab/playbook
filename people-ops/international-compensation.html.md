@@ -63,7 +63,7 @@ available for employees to consult.
 ## Relocation
 
 What if someone relocates (for the long-term) outside their current area? We use the Location Factor
-for the [Offer step](https://playbook.nebulab.it/people-ops/hiring/#offer) only to define the
+for the [Offer step](https://playbook.nebulab.com/people-ops/hiring/#offer) only to define the
 candidate's level.
 
 If someone relocates, it is at the company's discretion whether or not to offer a new contract in

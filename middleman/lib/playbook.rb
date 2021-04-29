@@ -4,7 +4,7 @@ class Playbook < Middleman::Extension
     The Nebulab Playbook outlines the practices we follow in our day-to-day work on our company and
     client projects. Explore it to learn more or get inspiration!
   META
-  HOST = 'https://playbook.nebulab.it'
+  HOST = 'https://playbook.nebulab.com'
   DEFAULT_IMAGE = 'default.png'
 
   def initialize(app, options_hash = {}, &block)
