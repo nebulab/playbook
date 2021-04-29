@@ -1,0 +1,20 @@
+name: clear-cache
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Wait for CloudFlare pages to finish the deploy
+        uses: jakejarvis/wait-action@v0.1.0
+        with:
+          time: '6m'
+      - name: Purge CloudFlare Cache
+        uses: jakejarvis/cloudflare-purge-action@v0.3.0
+        env:
+          CLOUDFLARE_ZONE: ${{ secrets.CLOUDFLARE_ZONE }}
+          CLOUDFLARE_TOKEN: ${{ secrets.CLOUDFLARE_TOKEN }}
