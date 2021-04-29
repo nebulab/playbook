@@ -10,6 +10,6 @@ playbook-section-chapters:
   - Tools
   - Tracking time
   - Meetings
-  - All Hands meeting
+  - All-Hands meeting
   - Donut
 ---

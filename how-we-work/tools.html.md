@@ -13,17 +13,20 @@ We use the business version of the following Google services:
 * contacts ([Google Contacts](https://www.google.com/contacts/));
 * files ([Drive](https://drive.google.com)).
 
-You can install and use these services locally on your Mac (after being provided with a @nebulab.it
+You can install and use these services locally on your Mac (after being provided with a @nebulab.com
 account).
 
 Of these services, pay specific attention to calendars and contacts, where you can find various
 information about useful contacts (clients, freelancers, etc.) and appointments.
 
+As a rule of thumb if another service has Google authentication capabilities, you can use your
+@nebulab.com account to login.
+
 ## Slack
 
 We use Slack to chat and keep in touch with others. It is essential to communicate and understand
 who is doing what at all times. The main account is <https://nebulab.slack.com/> and if you have a
-@nebulab.it email address, you can sign up by yourself.
+@nebulab.com email address, you can sign up by yourself.
 
 On Slack, it is possible to find some public rooms that can be freely accessed by anyone (their
 names should be self-explanatory, such as `#development`) and private rooms that are usually used to
@@ -72,17 +75,23 @@ To track our work hours, we use [Harvest](https://nebulab.harvestapp.com/), whic
 In order to get an idea of how to track time on Harvest, look at
 [Measuring time](how-we-work/tracking-time).
 
-## Dipendenti in Cloud
+## Factorial
 
 In order to keep track of vacations, leave, overtime and sick leave, we use
-[Dipendenti in cloud](https://secure.dipendentincloud.it/app/dashboard).
+[Factorial](https://factorialhr.com).
 
 You can track [time off](/people-ops/time-off-and-overtime) by clicking on the
-[Presenze](https://secure.dipendentincloud.it/app/timesheet) tab and clicking on a day (or dragging
-the mouse over several days).
+[Time off](https://app.factorialhr.com/time-off) tab and clicking on the "Request time off"
+button.
 
-You can request an expense reimbursement by adding your request in the
-[Spese e Viaggi](https://secure.dipendentincloud.it/app/expenses) tab.
+You can request an expense reimbursement by adding your request in the expenses section.
+
+## Notion
+
+We have all sorts of documentation is on our [Notion](https://www.notion.so/) account. Everything
+that needs to be private or isn't relevant to be publicly released on the Playbook, will be on Notion.
+
+It's also a great tool to write down your thoughts or write a blog post.
 
 ## Remote meetings
 

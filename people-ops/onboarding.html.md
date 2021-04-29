@@ -2,7 +2,7 @@
 title: Onboarding
 meta_description: >
   Having a structured onboarding process is key to making joining your company an amazing
-  experience. Learn about Nebulab's onboarding process in our Playbook! 
+  experience. Learn about Nebulab's onboarding process in our Playbook!
 ---
 
 Congratulations on joining Nebulab! We're glad to have you aboard, and we can't wait to see what
@@ -29,7 +29,7 @@ Next up, you should set up your company accounts and install all the tools we us
 - Use your Google account to sign into [Slack](https://nebulab.slack.com).
 - Install [Harvest](https://www.getharvest.com), sign in, and make sure you can see all
   company-level projects and any client projects you've been assigned to.
-- Sign into [Dipendenti in Cloud](https://www.dipendentincloud.it/) and maybe download their mobile
+- Sign into [Factorial](https://factorialhr.com/) and maybe download their mobile
   app too, so that you can easily submit expense reports when you're abroad.
 - Check that you're part of the [Nebulab GitHub organization](https://github.com/nebulab) and
   update your company in your GitHub profile!

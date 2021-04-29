@@ -15,7 +15,3 @@ The annual revenue is equally divided into 12 monthly payments.
 
 The annual revenue is equally divided into 14 payments - 12 monthly payments and a thirteenth month
 paid in December by the 23rd and a fourteenth paid in June by the 30th.
-
-The payslip showing all the various amounts for the month or additional months can be found in the
-private `Buste Paga` folder in our Google Drive until 12/2018 or in the documents section of
-Dipendenti in Cloud starting from 01/2019.

@@ -1,17 +1,28 @@
 ---
-title: All Hands meeting
+title: All-Hands meeting
 meta_description: >
   Keeping distributed teammates in sync can be a challenge. All-hands meetings are a place for
   discussion and interaction. Learn more on how we structure them!
 ---
 
-Every month, we hold an All Hands meeting. We use this session to provide useful
-information to all team members to increase transparency on Nebulab's
-direction, successes, failures, and next challenges. The meeting covers several topics:
+Every month, we hold an All-Hands meeting. We use this session to provide useful information
+to all team members to increase transparency on Nebulab's direction, successes, failures, and
+next challenges.
 
-- **Welcome.** we welcome new team members. Often, there is an introduction of new
-  hires to the team, so everyone knows some information about them.
-  Here we may also talk about people who have left the company if that happens.
+The meeting is completely asynchronous - we want everyone to be able to receive the updates
+whenever they feel like it or to re-watch important parts of the meeting.
+
+On the day of the meeting a few recorded videos will be made available in the [#all-hands][slack]
+channel and everyone is invited to watch them when they get the chance. The videos are recorded
+with [Loom](https://www.loom.com/).
+
+The meeting covers several topics:
+
+- **Keynote** A general presentation of the topics for the current All-Hands meeting. This
+  mainly serves to understand what topics will be touched in the meeting you're about
+  to attend. Often, there is an introduction of new hires to the team, so everyone has
+  some information about them. Here we may also talk about people who have left the company
+  if that happens.
 - **Strategy.** This topic covers the high-level decisions that we are doing to make
   Nebulab grow. We talk about new sales initiatives, our hiring process, or how we
   are setting things up for personal and professional growth of individuals. We share
@@ -20,8 +31,6 @@ direction, successes, failures, and next challenges. The meeting covers several 
 - **New projects.** We introduce new clients, talking about their business, their team,
   which team members are assigned to work with them, and why we think the client is a good
   fit for us. If we have lost a client instead, we honestly share what didn't work with them.
-- **Rotations.** We describe which team members have switched projects and what need they
-  are fulfilling with their rotation.
 - **Policy of the Month.** We are very proud of this Playbook, it's our set of policies and
   every employee can refer to these pages when they have some doubts about how to behave.
   Anyway, it's unrealistic to expect that everyone recalls all the Playbook's content. This
@@ -31,9 +40,12 @@ direction, successes, failures, and next challenges. The meeting covers several 
 - **Playbook changes.** When policies change in our Playbook, there's no better way to
   talk about them with the rest of the team. This allows us to share why things have
   changed and how these differences will impact company life.
-- **Q&A.** We also hold a questions and answers session at the end of the meeting. The goal
-  here is to give everyone the chance to ask questions about the company or the topics
-  discussed during the meeting.
+- **Project Updates** Team leads have the chance to present a short update on the work that
+  their team is doing. This is the place to celebrate successes, share knowledge and understand
+  what other teams are doing.
 
-Make sure to join the channel [#all-hands](https://nebulab.slack.com/archives/CHLDKV560) to receive
-the link to the meeting, the meeting notes, updates, agendas, and useful links for each All Hands meeting.
+Make sure to join the channel [#all-hands](slack) to receive the link to the meeting, the
+meeting notes, updates, agendas, and useful links for each All Hands meeting. The channel will
+also be used for Q&A.
+
+[slack]: https://nebulab.slack.com/archives/CHLDKV560

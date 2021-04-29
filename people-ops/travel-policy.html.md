@@ -9,8 +9,8 @@ This travel policy defines travel and conference attendance guidelines for 2020.
 
 ## Communication
 
-The #travel Slack channel should be used for all travel-related requests such as hotel bookings, 
-flight tickets and so on. 
+The #travel Slack channel should be used for all travel-related requests such as hotel bookings,
+flight tickets and so on.
 
 ## Travel
 
@@ -44,7 +44,7 @@ Make sure to check-in online 24-48 hours in advance and print your boarding pass
 
 ### Car
 
-We prefer to travel by public transport, but if you have to travel by car, the following policies 
+We prefer to travel by public transport, but if you have to travel by car, the following policies
 apply:
 
 - if you use your vehicle between the main offices (Pescara/Latina - Latina/Pescara) there's a
@@ -82,8 +82,7 @@ where the company credit card cannot be used, or if you refused to have a corpor
 you'll have to submit an expense report, attaching your receipts (for both meals and travel) within
 seven days of your return.
 
-You can also download the “Dipendenti in Cloud” native mobile application to enter expenses from
-your phone.
+You can also download the “Factorial” native mobile application to enter expenses from your phone.
 
 ### Reimbursement for travel in Italy
 
@@ -115,7 +114,7 @@ Here's our company information if you need to ask for an invoice:
     Strada Comunale Piana, 3
     65129 Pescara (PE)
     Italia
-    
+
     Partita IVA (VAT ID): IT02112180688
     Codice fiscale (Tax ID): IT02112180688
     Electronic invoice code: M5UXCR1
@@ -130,7 +129,7 @@ to get to know each other better, build trust and improve communication and coop
 
 They're also a lot of fun!
 
-We'll inform everyone of team retreats at least three months in advance. Attendance is not 
+We'll inform everyone of team retreats at least three months in advance. Attendance is not
 mandatory, but strongly encouraged.
 
 ## Useful apps
@@ -138,7 +137,7 @@ mandatory, but strongly encouraged.
 - **Wi-Fi Finder** detects free Wi-fi networks.
 - **MetrO, Kinevia** is a free mobile guide to public transport systems worldwide. It provides the
 fastest route to your point of interest considering the day of the week and the time of the day.
-- **the official app of your airline** will often allow you to download an e-ticket for Apple 
+- **the official app of your airline** will often allow you to download an e-ticket for Apple
 Wallet or Pass2U Wallet. Also, it will provide handy information about your flight.
 - **MyTaxi** is a taxi app available in 9 European countries (including Italy).
 - **[Uber](#uber)**.
