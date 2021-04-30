@@ -14,7 +14,7 @@ There are 22 days of vacation per year. There's complete flexibility in using th
 to be as much communicative as possible according to your responsibilities. 
 
 Vacation days accrued in a year must be used within 24 months: e.g., the remaining days on
-31/12/2021 must be used by 31/12/2024.
+31/12/2021 must be used by 31/12/2023.
 
 ## Public Holidays
 
