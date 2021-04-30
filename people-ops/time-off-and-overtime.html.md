@@ -18,9 +18,12 @@ Vacation days accrued in a year must be used within 24 months: e.g., the remaini
 
 ## Public Holidays
 
-You have 11 days which are reported in the company calendar, based on your country of residence. If
-a Public Holiday falls on non-working days, so Saturday and/or Sunday, you can take up to 2
-following working days off to make up for them.
+You have 11 days which are reported in the company calendar, based on your country of residence.
+
+### International employees
+
+If a Public Holiday falls on non-working days you can take 1 or  2, according to how many days you
+lost, following working days off to make up for them.
 
 You can report this days using the `Make up for Public Holidays` option in the HR software.
 
