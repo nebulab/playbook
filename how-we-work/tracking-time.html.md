@@ -34,7 +34,7 @@ You're supposed to track when your workday starts and when it will be over, usin
 integration for Slack; you should also stop and start the timer during lunch time.
 
 At the end of the month, you're going to have your timesheet automatically filled; this means you
-have to report neither overtime nor time-off hours. We'll be asking you to write down just your
+have to report neither overtime nor time-off hours. We'll be asking you to request just your
 [paid time off.](people-ops/time-off-and-overtime/)
 
 ## Hours of work
