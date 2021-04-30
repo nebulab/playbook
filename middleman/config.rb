@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # Settings
 set :source, '..'
 set :css_dir, 'middleman/assets/stylesheets'
@@ -16,8 +18,8 @@ set :playbook_section_has_many_chapters_key, :'playbook-section-chapters'
 # Ignored paths
 ignore '**/.keep'
 ignore '.github/**'
-ignore /^middleman(?!\/assets)(?!\/uploads).*/
-ignore /^(?!.*\/.*)(?!index\.html).*/
+ignore %r{^middleman(?!/assets)(?!/uploads).*}
+ignore %r{^(?!.*/.*)(?!index\.html).*}
 
 # Activate and configure extensions
 # https://middlemanapp.com/advanced/configuration/#configuring-extensions

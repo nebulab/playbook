@@ -1,10 +1,12 @@
+# frozen_string_literal: true
+
 # Taken from https://github.com/thoughtbot/middleman-aria_current
 # It adds a fix where paths with trailing slash don't properly match. See
 # https://github.com/thoughtbot/middleman-aria_current/pull/18.
 # It also handles correctly path-able objects, e.g. Middleman resources
 
 module CurrentLinkHelper
-  FILE_EXTENSION = /\.(\w+)$/
+  FILE_EXTENSION = /\.(\w+)$/.freeze
 
   def current_link_to(*arguments, aria_current: "page", **options, &block)
     if block_given?
