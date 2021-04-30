@@ -8,23 +8,25 @@ meta_description: >
 The workday for full-time contracts is comprised of 8 hours. You can decide to reduce your
 contract's work hours and opt for part-time work.
 
-## Vacation
-
-There are 22 days of vacation per year (176 hours). All members of the team must communicate the
-vacation days they wish to take via chat or verbally, with a notice of at least two weeks if
-possible.
-
-Vacation days accrued in a year must be used within 18 months: e.g., the remaining days on
-31/12/2019 must be used by 1/06/2021.
-
 ## Holidays
 
-You don't have to follow a specific calendar for Holidays. You have 11 days, use them at your
-discretion. Just let the team know in advance of your plans.
+There are 22 days of vacation per year. There's complete flexibility in using these days. Please try
+to be as much communicative as possible according to your responsibilities. 
+
+Vacation days accrued in a year must be used within 24 months: e.g., the remaining days on
+31/12/2021 must be used by 31/12/2024.
+
+## Public Holidays
+
+You have 11 days which are reported in the company calendar, based on your country of residence. If
+a Public Holiday falls on non-working days, so Saturday and/or Sunday, you can take up to 2
+following working days off to make up for them.
+
+You can report this days using the `Make up for Public Holidays` option in the HR software.
 
 ### Italian employees
 
-The national contract strictly defines the Italian Holidays, and you have 11 Holidays too.
+The national contract strictly defines the Italian Holidays, and you have 11 Public Holidays too.
 
 A special mention goes to the Patron Saint holiday ("Santo Patrono"). The day of this holiday
 depends on where you work from:
@@ -38,7 +40,7 @@ On this day, our offices are **not** closed, and you can decide whether you want
 Since this is considered work on a holiday, your pay will be +30% the standard pay if you choose
 to come to the office or work remotely.
 
-## Time off, special leave and overtime
+## Time off, special paid leave and overtime
 
 The annual number of hours for time off depends on how long you've been with us.
 
@@ -101,15 +103,12 @@ will make it available in electronic form. Based on the sick leave days granted 
 physician, the employee must communicate to the company the days of absence together with the
 certificate's unique code.
 
-## Permit type
+## Most used permit types
 
 When deciding which type of permit to choose between, adopt the following rules:
 
-- `Ferie` is used for vacation days: you can use it for whole days off;
-- `ROL` is used for time off hours: you can use it by putting in the number of hours of time off;
-- `Malattia` is used in case of sick leave (make sure to **add the protocol code issued by your
+- `Holidays` is used for vacation days: you can use it for whole days off;
+- `Sick leave` is used in case of sick leave (make sure to **add the protocol code issued by your
   physician to the notes**);
-- `Straordinario` is used for overtime hours: you can use it by putting in the number of hours in
-  excess of the 8 hours a day;
-- `Permessi Retribuiti` is used for time off granted in special cases listed in the section
+- `Special paid leave` is used for time off granted in special cases listed in the section
   [Time off, special leave and overtime](#time-off-special-leave-and-overtime).
