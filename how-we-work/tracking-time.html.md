@@ -30,19 +30,12 @@ With that said, you have full flexibility when it comes to _when_ you work. For 
 * start at 10am, have lunch from 1pm to 2pm and stop working at 7pm, or
 * start working at 9am, have lunch 1pm to 2:30pm and stop working at 6:30pm.
 
-At the end of the day, you should calculate the number of hours you have spent at work. If you have
-a standard schedule, this can be easily done by calculating the number of hours between your start
-and end time and subtracting any major breaks, including your lunch break (going to the bathroom or
-any other short breaks do not count). Once you have this number, you should report any time off or
-overtime as needed:
+You're supposed to track when your workday starts and when it will be over, using the Factorial
+integration for Slack; you should also stop and start the timer during lunch time.
 
-- if you were present **less** than the expected hours, you should report time off;
-- if you were present **more** than the expected hours, you should report overtime.
-
-**NOTE:** You CANNOT "compensate" time off with overtime on your own. For instance, you cannot take
-30  minutes off today and stay 30 minutes more tomorrow _without_ reporting it, but it is perfectly
-acceptable to do it if you report 30 minutes of time off today and 30 minutes of overtime tomorrow.
-Compensation does happen, but it is done by HR rather than the individual employee.
+At the end of the month, you're going to have your timesheet automatically filled; this means you
+have to report neither overtime nor time-off hours. We'll be asking you to write down just your
+[paid time off.](people-ops/time-off-and-overtime/)
 
 ## Hours of work
 
@@ -94,14 +87,12 @@ You may have noticed there is some overlap between the two concepts of "hours of
 "hours of work".
 
 For instance, if you have reported 9 hours of work on Harvest, it's clear you have worked overtime,
-no matter how you have spent those hours (even if one hour was spent on Time Wasting, it's still an
-hour spent at work).
+no matter how you have spent those hours (even if one hour was spent chatting with a colleague, it's
+still an hour spent at work).
 
-Similarly, if you have reported 7 hours, you _may_ have taken some time off. However, if you have
-actually spent 8 hours at the office or your remote workspace, there's no need to report time off,
-because small breaks and other interruptions during the course of work are to be expected.
+Similarly, if you have reported 7 hours but you have actually spent 8 hours at your workspace, no
+time off will be reported.
 
-To sum up: tracked overtime must always be reported, time off may or may not have to be reported
-depending on whether the untracked time was spent during a regular work break or outside of work.  
+Small breaks and other interruptions during the course of work are to be expected.
 
 If you're in doubt, contact your mentor and they will be able to help!
