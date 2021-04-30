@@ -7,6 +7,7 @@ set :fonts_dir, 'middleman/assets/fonts'
 set :layouts_dir, 'middleman/layouts'
 set :data_dir, 'data'
 set :helpers_dir, 'helpers'
+set :encoding, 'utf-8'
 
 ## Playbook settings
 set :playbook_chapter_belongs_to_section_key, :title
