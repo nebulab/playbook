@@ -8,12 +8,10 @@ meta_description: >
 A paramount aspect of our work is our ability to make good use of the time we spend at the office.
 Measuring time is essential in order to spend it efficiently.
 
-There are two different measures of how we spend our time:
+Everyday you're expected to track time in two ways:
 
-* hours of _presence_ in the office;
-* hours of _activity_ on projects.
-
-There are similarities and differences between these two concepts.
+* hours of _presence_ at the office;
+* hours of _work_ on projects.
 
 ## Hours of presence
 
@@ -30,12 +28,18 @@ With that said, you have full flexibility when it comes to _when_ you work. For 
 * start at 10am, have lunch from 1pm to 2pm and stop working at 7pm, or
 * start working at 9am, have lunch 1pm to 2:30pm and stop working at 6:30pm.
 
-You're supposed to track when your workday starts and when it will be over, using the Factorial
-integration for Slack; you should also stop and start the timer during lunch time.
+You're expected to track time at the office by using [Factorial](https://factorialhr.com/). When your
+workday starts make sure you have the Factorial timer running - you can start it from the web app,
+mobile app or Slack integration. When your workday is over or when you take long breaks (i.e. lunch),
+make sure you stop the timer.
 
-At the end of the month, you're going to have your timesheet automatically filled; this means you
-have to report neither overtime nor time-off hours. We'll be asking you to request just your
-[paid time off.](people-ops/time-off-and-overtime/)
+The timesheet on Factorial will be used at the end of the month to compute the amount of hours
+you worked - depending on the amount you will either be paid for overtime or you will get a few hours
+detracted as Paid Time Off.
+
+Even if tracking daily hours of presence is automatic and happens through Factorial, you are still required
+to manually request full days of [Paid Time Off (PTO)](people-ops/paid-time-off/). This helps
+everyone at Nebulab understanding when you're away for more than a few hours.
 
 ## Hours of work
 
@@ -77,22 +81,6 @@ you are struggling with multi-tasking or tracking time accurately, reach out to 
 
 In addition to client projects, Harvest also has two more for internal purposes, that are:
 
-* Solidus - give the size and complexity of the Solidus ecosystem, we track time just like any other client project.
+* Solidus - given the size and complexity of the Solidus ecosystem, we track time just like any other client project.
 * Investment Time - this includes everything growth and learning related. The main reason for tracking this is to keep
 track of the yearly [Investment Time](personal-growth/investment-time) budget.
-
-## Presence vs. activity
-
-You may have noticed there is some overlap between the two concepts of "hours of presence" and
-"hours of work".
-
-For instance, if you have reported 9 hours of work on Harvest, it's clear you have worked overtime,
-no matter how you have spent those hours (even if one hour was spent chatting with a colleague, it's
-still an hour spent at work).
-
-Similarly, if you have reported 7 hours but you have actually spent 8 hours at your workspace, no
-time off will be reported.
-
-Small breaks and other interruptions during the course of work are to be expected.
-
-If you're in doubt, contact your mentor and they will be able to help!
