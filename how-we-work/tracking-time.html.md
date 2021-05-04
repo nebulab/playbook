@@ -8,12 +8,10 @@ meta_description: >
 A paramount aspect of our work is our ability to make good use of the time we spend at the office.
 Measuring time is essential in order to spend it efficiently.
 
-There are two different measures of how we spend our time:
+Everyday you're expected to track time in two ways:
 
-* hours of _presence_ in the office;
-* hours of _activity_ on projects.
-
-There are similarities and differences between these two concepts.
+* hours of _presence_ at the office;
+* hours of _work_ on projects.
 
 ## Hours of presence
 
@@ -30,19 +28,18 @@ With that said, you have full flexibility when it comes to _when_ you work. For 
 * start at 10am, have lunch from 1pm to 2pm and stop working at 7pm, or
 * start working at 9am, have lunch 1pm to 2:30pm and stop working at 6:30pm.
 
-At the end of the day, you should calculate the number of hours you have spent at work. If you have
-a standard schedule, this can be easily done by calculating the number of hours between your start
-and end time and subtracting any major breaks, including your lunch break (going to the bathroom or
-any other short breaks do not count). Once you have this number, you should report any time off or
-overtime as needed:
+You're expected to track time at the office by using [Factorial](https://factorialhr.com/). When your
+workday starts make sure you have the Factorial timer running - you can start it from the web app,
+mobile app or Slack integration. When your workday is over or when you take long breaks (i.e. lunch),
+make sure you stop the timer.
 
-- if you were present **less** than the expected hours, you should report time off;
-- if you were present **more** than the expected hours, you should report overtime.
+The timesheet on Factorial will be used at the end of the month to compute the amount of hours
+you worked - depending on the amount you will either be paid for overtime or you will get a few hours
+detracted as Paid Time Off.
 
-**NOTE:** You CANNOT "compensate" time off with overtime on your own. For instance, you cannot take
-30  minutes off today and stay 30 minutes more tomorrow _without_ reporting it, but it is perfectly
-acceptable to do it if you report 30 minutes of time off today and 30 minutes of overtime tomorrow.
-Compensation does happen, but it is done by HR rather than the individual employee.
+Even if tracking daily hours of presence is automatic and happens through Factorial, you are still required
+to manually request full days of [Paid Time Off (PTO)](people-ops/paid-time-off/). This helps
+everyone at Nebulab understanding when you're away for more than a few hours.
 
 ## Hours of work
 
@@ -84,24 +81,6 @@ you are struggling with multi-tasking or tracking time accurately, reach out to 
 
 In addition to client projects, Harvest also has two more for internal purposes, that are:
 
-* Solidus - give the size and complexity of the Solidus ecosystem, we track time just like any other client project.
+* Solidus - given the size and complexity of the Solidus ecosystem, we track time just like any other client project.
 * Investment Time - this includes everything growth and learning related. The main reason for tracking this is to keep
 track of the yearly [Investment Time](personal-growth/investment-time) budget.
-
-## Presence vs. activity
-
-You may have noticed there is some overlap between the two concepts of "hours of presence" and
-"hours of work".
-
-For instance, if you have reported 9 hours of work on Harvest, it's clear you have worked overtime,
-no matter how you have spent those hours (even if one hour was spent on Time Wasting, it's still an
-hour spent at work).
-
-Similarly, if you have reported 7 hours, you _may_ have taken some time off. However, if you have
-actually spent 8 hours at the office or your remote workspace, there's no need to report time off,
-because small breaks and other interruptions during the course of work are to be expected.
-
-To sum up: tracked overtime must always be reported, time off may or may not have to be reported
-depending on whether the untracked time was spent during a regular work break or outside of work.  
-
-If you're in doubt, contact your mentor and they will be able to help!

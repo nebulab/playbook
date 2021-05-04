@@ -10,7 +10,7 @@ playbook-section-chapters:
   - International compensation
   - Onboarding
   - Benefits
-  - Time off and overtime
+  - Paid Time Off
   - Payroll
   - Travel policy
   - Parting ways
