@@ -3,7 +3,7 @@ set :css_dir, 'assets/stylesheets'
 set :js_dir, 'assets/javascripts'
 set :images_dir, 'assets/images'
 set :fonts_dir, 'assets/fonts'
-set :helpers_dir, 'helpers'
+set :helpers_dir, 'lib/helpers'
 
 ## Playbook settings
 set :playbook_chapter_belongs_to_section_key, :title
