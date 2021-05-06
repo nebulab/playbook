@@ -1,7 +1,8 @@
-# Code that doesn't belong to helpers
-# lib/**/*.rb is avoided in order to ensure namespaced files to be loaded before the namespace definition
-Dir['lib/*.rb', 'lib/*/*.rb'].each(&method(:load))
-Dir['lib/helpers/*.rb'].each(&method(:load))
+# frozen_string_literal: true
+
+require 'lib/playbook'
+require 'lib/playbook/chapter'
+require 'lib/playbook/section'
 
 set :css_dir, 'assets/stylesheets'
 set :js_dir, 'assets/javascripts'

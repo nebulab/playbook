@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module DebugHelpers
   def debug(*args)
     content_tag(:pre) do

@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class Playbook::Chapter < SimpleDelegator
   attr_reader :resource
 

@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class Playbook < Middleman::Extension
   DEFAULT_TITLE_TAG_CONTENT = 'The Nebulab Playbook'
   DEFAULT_DESCRIPTION = <<~META.gsub("\n", ' ').strip
