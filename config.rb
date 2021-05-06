@@ -1,10 +1,8 @@
 # Settings
-set :source, '..'
-set :css_dir, 'middleman/assets/stylesheets'
-set :js_dir, 'middleman/assets/javascripts'
-set :images_dir, 'middleman/assets/images'
-set :fonts_dir, 'middleman/assets/fonts'
-set :layouts_dir, 'middleman/layouts'
+set :css_dir, 'assets/stylesheets'
+set :js_dir, 'assets/javascripts'
+set :images_dir, 'assets/images'
+set :fonts_dir, 'assets/fonts'
 set :data_dir, 'data'
 set :helpers_dir, 'helpers'
 
@@ -13,10 +11,10 @@ set :playbook_chapter_belongs_to_section_key, :title
 set :playbook_section_has_many_chapters_key, :'playbook-section-chapters'
 
 # Ignored paths
-ignore '**/.keep'
-ignore '.github/**'
-ignore /^middleman(?!\/assets)(?!\/uploads).*/
-ignore /^(?!.*\/.*)(?!index\.html).*/
+# ignore '**/.keep'
+# ignore '.github/**'
+# ignore /^(?!\/assets)(?!\/uploads).*/
+# ignore /^(?!.*\/.*)(?!index\.html).*/
 
 # Activate and configure extensions
 # https://middlemanapp.com/advanced/configuration/#configuring-extensions
@@ -84,9 +82,9 @@ configure :build do
   activate :minify_javascript
 
   # Append a hash to asset urls (make sure to use the url helpers)
-  activate :asset_hash, ignore: %r{^middleman/assets/not-hashed/.*}
+  activate :asset_hash, ignore: %r{^source/assets/not-hashed/.*}
 
   # activate :asset_host, :host => '//YOURDOMAIN.cloudfront.net'
 end
 
-import_file File.expand_path('../_redirects', root), '/_redirects'
+import_file File.expand_path('_redirects', root), '/_redirects'

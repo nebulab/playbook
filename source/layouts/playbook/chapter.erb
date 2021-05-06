@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+  <%= partial "layouts/shared/head" %>
+
+  <body>
+    <%= partial "layouts/shared/header" %>
+
+    <div class="main-container">
+      <%= partial "layouts/shared/sidebar" %>
+
+      <div class="container page">
+        <section class="playbook">
+          <%= partial 'layouts/playbook/chapter/header' %>
+
+          <div class="chapter-contents">
+            <%= yield %>
+          </div>
+
+          <%= partial 'layouts/playbook/chapter/footer' %>
+
+          <%= partial "layouts/shared/footer" %>
+        </section>
+      </div>
+    </div>
+
+    <%= partial "layouts/shared/cookies" %>
+
+    <%= partial "layouts/shared/all_js" %>
+
+    <%= javascript_include_tag "jquery.nice-select.min.js" %>
+    <%= javascript_include_tag "custom-select.js" %>
+    <%= javascript_include_tag "chapter.js" %>
+  </body>
+</html>

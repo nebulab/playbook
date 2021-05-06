@@ -91,6 +91,7 @@ GEM
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
       ffi (~> 1.0)
+    redcarpet (3.5.1)
     sassc (2.1.0)
       ffi (~> 1.9)
     servolux (0.13.0)
@@ -111,8 +112,9 @@ DEPENDENCIES
   middleman (~> 4.2)
   middleman-autoprefixer (~> 2.7)
   middleman-pry
+  redcarpet
   tzinfo-data
   wdm (~> 0.1)
 
 BUNDLED WITH
-   2.0.1
+   2.2.17
