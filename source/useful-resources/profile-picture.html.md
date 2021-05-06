@@ -11,13 +11,13 @@ You will be included in the list once you have yours.
 
 This is a picture of the photo set that we usually use to take the photos.
 
-![Photo Set](/assets/uploads/set.jpg)
+![Photo Set](set.jpg)
 
 There is no need to create an exact reproduction of this set. It is only provided as an example. All
 we require is for your photo to be consistent with the others. Here is the result of the photo:
 
-![Pre Production](/assets/uploads/pre-production.jpg)
+![Pre Production](pre-production.jpg)
 
 These assets must be provided to Davide (@davidedistefano), who is in charge of post-production to finalize the photo:
 
-![Post Production](/assets/uploads/post-production.jpg)
+![Post Production](post-production.jpg)

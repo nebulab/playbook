@@ -11,7 +11,6 @@ set :playbook_section_has_many_chapters_key, :'playbook-section-chapters'
 
 # Ignored paths
 ignore '.github/**'
-# ignore /^(?!\/assets)(?!\/uploads).*/
 ignore /^(?!.*\/.*)(?!index\.html).*/
 
 # Activate and configure extensions
@@ -80,7 +79,7 @@ configure :build do
   activate :minify_javascript
 
   # Append a hash to asset urls (make sure to use the url helpers)
-  activate :asset_hash, ignore: %r{^source/assets/not-hashed/.*}
+  activate :asset_hash, ignore: %r{^assets/not-hashed/.*}
 
   # activate :asset_host, :host => '//YOURDOMAIN.cloudfront.net'
 end
