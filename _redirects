@@ -1,24 +1,24 @@
-/about-us/our-values /about-us/values/
-/personal-growth/becoming-a-mentor /becoming-a-mentor/what-mentors-do/
-/personal-growth/mentoring-and-1-1 /personal-growth/mentoring-and-one-on-ones/
-/personal-growth/investment-fridays /personal-growth/investment-time/
-/personal-growth/fridays /personal-growth/investment-time/
-/personal-growth/benefits /people-ops/benefits/
-/people-ops/paid-time-off-and-overtime /people-ops/time-off-and-overtime/
-/people-ops/resignation /people-ops/parting-ways/
-/people-ops/time-off-and-overtime/ /people-ops/paid-time-off/
-/development/working-with-rails /development/working-with-ruby-on-rails/
-/mentoring-people/handling-conflict /leading-teams/handling-conflict/
-/mentoring-people/giving-feedback /leading-teams/giving-feedback/
-/leading-teams/interacting-with-mentors /personal-growth/mentors-and-team-leads/
-/leading-teams/fulfillment-meeting /leading-teams/what-team-leads-do/
+/about-us/our-values /about-us/values/ 301
+/personal-growth/becoming-a-mentor /becoming-a-mentor/what-mentors-do/ 301
+/personal-growth/mentoring-and-1-1 /personal-growth/mentoring-and-one-on-ones/ 301
+/personal-growth/investment-fridays /personal-growth/investment-time/ 301
+/personal-growth/fridays /personal-growth/investment-time/ 301
+/personal-growth/benefits /people-ops/benefits/ 301
+/people-ops/paid-time-off-and-overtime /people-ops/time-off-and-overtime/ 301
+/people-ops/resignation /people-ops/parting-ways/ 301
+/people-ops/time-off-and-overtime/ /people-ops/paid-time-off/ 301
+/development/working-with-rails /development/working-with-ruby-on-rails/ 301
+/mentoring-people/handling-conflict /leading-teams/handling-conflict/ 301
+/mentoring-people/giving-feedback /leading-teams/giving-feedback/ 301
+/leading-teams/interacting-with-mentors /personal-growth/mentors-and-team-leads/ 301
+/leading-teams/fulfillment-meeting /leading-teams/what-team-leads-do/ 301
 
-# Redirects of sections to chapters
-/about-us /about-us/what-we-do/
-/how-we-work /how-we-work/where-when-and-how/
-/personal-growth /personal-growth/mentors-and-team-leads/
-/mentoring-people /mentoring-people/what-mentors-do/
-/leading-teams /leading-teams/what-team-leads-do/
-/people-ops /people-ops/hiring/
-/working-on-nebulab /working-on-nebulab/management-scrum/
-/development /development/development-environment/
+# Redirects of sections to chapters 301
+/about-us /about-us/what-we-do/ 301
+/how-we-work /how-we-work/where-when-and-how/ 301
+/personal-growth /personal-growth/mentors-and-team-leads/ 301
+/mentoring-people /mentoring-people/what-mentors-do/ 301
+/leading-teams /leading-teams/what-team-leads-do/ 301
+/people-ops /people-ops/hiring/ 301
+/working-on-nebulab /working-on-nebulab/management-scrum/ 301
+/development /development/development-environment/ 301
