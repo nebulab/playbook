@@ -10,10 +10,9 @@ set :playbook_chapter_belongs_to_section_key, :title
 set :playbook_section_has_many_chapters_key, :'playbook-section-chapters'
 
 # Ignored paths
-# ignore '**/.keep'
-# ignore '.github/**'
+ignore '.github/**'
 # ignore /^(?!\/assets)(?!\/uploads).*/
-# ignore /^(?!.*\/.*)(?!index\.html).*/
+ignore /^(?!.*\/.*)(?!index\.html).*/
 
 # Activate and configure extensions
 # https://middlemanapp.com/advanced/configuration/#configuring-extensions
