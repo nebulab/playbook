@@ -18,9 +18,6 @@ ignore /^(?!.*\/.*)(?!index\.html).*/
 
 activate :directory_indexes
 activate :playbook
-activate :autoprefixer do |prefix|
-  prefix.browsers = 'last 2 versions'
-end
 
 ## Playbook settings
 set :playbook_chapter_belongs_to_section_key, :title
