@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module FormatHelpers
   # JSON version of Padrino's `js_escape_html`  helper. Useful to embed JSON data inside HTML <script> tags. See
   # `js_debug` helper for a use case.

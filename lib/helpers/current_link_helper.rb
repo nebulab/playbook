@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # Taken from https://github.com/thoughtbot/middleman-aria_current
 # It adds a fix where paths with trailing slash don't properly match. See
 # https://github.com/thoughtbot/middleman-aria_current/pull/18.
