@@ -7,7 +7,7 @@ meta_description: >
 
 ## Choosing conferences
 
-[This document](https://docs.google.com/document/d/1QX6YhV3GMPwE9sQ8x52wDhUzyhKRfXxG2jqAFrt3tsQ)
+  [This document](https://docs.google.com/document/d/1QX6YhV3GMPwE9sQ8x52wDhUzyhKRfXxG2jqAFrt3tsQ)
 contains a list of interesting conferences:
 
 - self-improvement conferences recommended for topics that are related to our work and business;
@@ -24,23 +24,6 @@ Finally, make sure to [get the most out of your conferences.](#getting-the-most-
 
 Please note that a three-month notice is required to attend non-European conferences/events, and a
 two-month notice is required to attend European/Italian conferences/events.
-
-## Conference budget
-
-For 2020, you can use up to **4 work days** and **€2.000** for conferences. If you are working
-part-time, your budget is reduced proportionally so, e.g. if you're in a 50% part-time contract, you
-can use up to €1.000 and 2 work days.
-
-The [conference list](#choosing-conferences) contains the number of days and cost for each event.
-
-There are a couple of exceptions to this rule:
-
-- If you're in the marketing team for a conference and going there as a Nebulab representative, the
-  conference won't be deducted from your budget.
-- In general, speaking engagements also count towards your budget (unless the conference offers
-  a reimbursement for their speakers). However, if you have been invited to speak at a conference
-  that is particularly interesting to Nebulab, reach out to your mentor and they may be able to
-  work something out.
 
 ## Getting the most out of a conference
 
@@ -59,7 +42,7 @@ In order to get the most out of a conference, we follow a few basic rules:
 - At the conference, we follow all the talks we want to follow and try not to get distracted.
   Sometimes, we don't like the talk and prefer to leave early, but if this happens repeatedly,
   perhaps we did a poor job of evaluating the conference when we decided to take part.
-- We always show the utmost respect towards the speakers. It takes a lot of courage to talk in 
+- We always show the utmost respect towards the speakers. It takes a lot of courage to talk in
   front of an audience and present your ideas.
 
 ## After the conference
@@ -74,3 +57,25 @@ points we could address:
 
 This information is priceless, because it could help others grow and decide whether to attend the
 next conference!
+
+## Conference budget
+
+For 2021, Nebulab will sponsor virtual events only. You can use up to **4 work days** and
+**€400/500$** for tickets. If you are working part-time, your budget is reduced proportionally so,
+e.g., if you're in a 50% part-time contract, you can use up to €250 and 2 work days.
+
+When you're attending a conference, you are not required to work, your main duty should be to attend
+the conference. Each day of the conference is considered a full-time work day, regardless of timezones
+(yours and the conference's). It's ok if you decide to do some work (if you have some time before
+the conference starts or after the conference ended) but you are not required to do so.
+
+You can report these days using the `Conference day` option in Factorial.
+
+There are a couple of exceptions to this rule:
+
+- If you're in the marketing team for a conference and going there as a Nebulab representative, the
+  conference won't be deducted from your budget.
+- In general, speaking engagements also count towards your budget (unless the conference offers
+  a reimbursement for their speakers). However, if you have been invited to speak at a conference
+  that is particularly interesting to Nebulab, reach out to your mentor and they may be able to
+  work something out.
