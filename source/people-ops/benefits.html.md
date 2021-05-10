@@ -9,12 +9,20 @@ All members of the team are entitled to the benefits listed in this document. If
 regarding any of the benefits, feel free to ask!
 
 - **Hire kit.** All members of the team receive a hardware hire kit that includes:
-  - [16" MacBook Pro](https://www.apple.com/it/shop/buy-mac/macbook-pro/16-pollici-grigio-siderale-processore-6%E2%80%91core-a-2,6ghz-512gb#) (32 GB of RAM, US or IT keyboard);
-  - [Tucano Second Skin Elements sleeve](https://www.amazon.it/dp/B009F8ARNS/ref=pe_3310731_189395851_TE_dp_1);
-  - [Apple Magic Keyboard](https://www.apple.com/it/shop/product/MLA22T/A/magic-keyboard-italiano) (with the layout choice of US or IT);
-  - mouse (to choose between [Apple Magic Mouse](https://www.apple.com/it/shop/product/MRME2Z/A/magic-mouse-2-grigio-siderale) and [Logitech MX Master 2S](https://www.logitech.com/it-it/product/mx-master-2s-flow));
-  - ANC headphones (to choose between [Bose QuietComfort 35 II](https://www.bose.it/it_it/products/headphones/over_ear_headphones/quietcomfort-35-wireless-ii.html) and [Sony WH-1000XM3](https://www.sony.it/electronics/cuffie-archetto/wh-1000xm3));
-  - [LG 27UK850-W screen](https://www.lg.com/it/monitor/lg-27UK850-W) (IPS, 27", 4K).
+  - [13"](https://www.apple.com/shop/buy-mac/macbook-pro/13-inch-space-gray-2.0ghz-intel-core-i5-quad-core-processor-with-intel-iris-plus-graphics-512gb#)
+  or [16"](https://www.apple.com/shop/buy-mac/macbook-pro/16-inch-space-gray-2.6ghz-6-core-processor-512gb#)
+  MacBook Pro (32 GB of RAM, US or IT keyboard);
+  - [13"](https://www.apple.com/shop/product/HPLG2ZM/A/incase-13-compact-sleeve-in-flight-nylon-for-macbook-air-and-macbook-pro)
+  or [16"](https://www.apple.com/shop/product/HPCZ2ZM/A/incase-compact-sleeve-in-flight-nylon-for-16-macbook-pro-and-15-macbook-pro)
+  Incase Compact Sleeve in Flight Nylon;
+  - [Apple Magic Keyboard](https://www.apple.com/shop/product/MLA22LL/A/magic-keyboard-us-english)
+  or a Logitech keyboard of choice;
+  - mouse (to choose between [Apple Magic Mouse](https://www.apple.com/shop/product/MLA02LL/A/magic-mouse-2-silver)
+  and [Logitech MX Master 3](https://www.logitech.com/en-us/products/mice/mx-master-3-mac-wireless-mouse.910-005693.html));
+  - [Bose Noise Cancelling Headphones 700](https://www.bose.com/en_us/products/headphones/noise_cancelling_headphones/noise-cancelling-headphones-700.html#v=noise_cancelling_headphones_700_black), [Sony WH-1000XM4](https://electronics.sony.com/audio/headphones/headband/p/wh1000xm4)
+  or equivalent ANC Bluetooth headphone;
+  - [LG 27UP850-W screen](https://www.lg.com/us/monitors/lg-27up850-w-uhd-monitor) (IPS, 27", 4K,
+  USB-C).
   - American Express Gold corporate credit card to be used for business trips.
 - **[Mentoring](/personal-growth/mentoring-and-one-on-ones).**
   When you become a member of our team, you will be assigned a mentor, who will support your
