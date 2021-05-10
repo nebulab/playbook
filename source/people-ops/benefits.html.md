@@ -20,7 +20,7 @@ regarding any of the benefits, feel free to ask!
   - mouse (to choose between [Apple Magic Mouse](https://www.apple.com/shop/product/MLA02LL/A/magic-mouse-2-silver)
   and [Logitech MX Master 3](https://www.logitech.com/en-us/products/mice/mx-master-3-mac-wireless-mouse.910-005693.html));
   - [Bose Noise Cancelling Headphones 700](https://www.bose.com/en_us/products/headphones/noise_cancelling_headphones/noise-cancelling-headphones-700.html#v=noise_cancelling_headphones_700_black), [Sony WH-1000XM4](https://electronics.sony.com/audio/headphones/headband/p/wh1000xm4)
-  or another equal ANC bluetooth headphone;
+  or equivalent ANC Bluetooth headphone;
   - [LG 27UP850-W screen](https://www.lg.com/us/monitors/lg-27up850-w-uhd-monitor) (IPS, 27", 4K,
   USB-C).
   - American Express Gold corporate credit card to be used for business trips.
