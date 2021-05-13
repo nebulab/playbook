@@ -8,5 +8,4 @@ You could use the following template for the signature in your work emails:
 
     —
     Jane Appleseed
-    +1 123 456 7
     https://nebulab.com
