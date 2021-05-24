@@ -22,7 +22,7 @@ We choose comfortable seats and arrangements to allow people to work during the 
 for the lost time, but working is not mandatory since not everyone is comfortable working while on
 the move.
 
-If you miss your because of reasons not caused by Nebulab or the carrier, you will have to reach the
+If you miss yours because of reasons not caused by Nebulab or the carrier, you will have to reach the
 destination at your expense, if possible.
 
 ### Trains
@@ -145,7 +145,7 @@ Wallet or Pass2U Wallet. Also, it will provide handy information about your flig
 ## Travel tips
 
 - Always watch your passport's expiration date. Make sure it expires in at least 6 months.
-- Also ensure you always have at least two blank pages for visas in your passport.  
+- Also ensure you always have at least two blank pages for visas in your passport.
 - If you are traveling to the US or plan on renting a car/staying in a hotel, you will need a credit
   card. If you don't have one, get one from your bank or use the American Express corporate credit
   card.
