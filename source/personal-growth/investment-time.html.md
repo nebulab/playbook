@@ -44,5 +44,4 @@ While you're free to use your Investment Time whenever you like, there are a few
 - A few hours when the client's team workday hasn't started yet.
 - When client work slows down, reserve a few days to focus on Investment Time.
 
- You're encouraged to use your own judgment and manage your schedule accordingly. If in doubt, ask your
- team lead or mentor!
+ You're encouraged to use your own judgment and manage your schedule accordingly. If in doubt, ask your mentor!

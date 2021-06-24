@@ -5,7 +5,7 @@ meta_description: >
   tips that you can easily implement immediately.
 ---
 
-One of your jobs as a team lead is to constantly provide feedback about your team member's
+One of your jobs as an engineering manager is to constantly provide feedback about your team member's
 performance, both about the work they do for clients and their interactions with other team members
 here at Nebulab.
 
