@@ -20,7 +20,7 @@ to practice in our day-to-day work:
   different parts of your team, and make sure everyone has all the information they need to do
   their job. Sometimes, this is just about communicating. Other times, it’s more complex (e.g.
   doing a PR review, holding a retrospective or a sprint planning).
-* **Give feedback.** Team leads are in a very privileged position: they are managers, and yet they
+* **Give feedback.** Engineering managers are in a very privileged position: they are managers, and yet they
   are very much hands-on. Because of this, you are able to provide 360-degree feedback to your team
   members about all aspects of their work. Remember to give feedback early and often and practice
   [radical candor](https://www.amazon.it/Radical-Candor-Revised-Kick-Ass-Humanity-ebook/dp/B07P9LPXPT),
@@ -35,8 +35,8 @@ to practice in our day-to-day work:
   first rather than imposing your own. Keep in mind that our clients usually have a very good
   understanding of their problem domain(s), they’re just unsure about the solution.
 * **Manage up and down.** You should manage both down (i.e. your team) and up (i.e. your client and
-  the directors). Managing up and down is the only way to be truly effective as a team lead. Forget
-  to manage down, and the team will underperform; forget to manage up, and the relationship between
+  the directors). Managing up and down is the only way to be truly effective as an engineering manager.
+  Forget to manage down, and the team will underperform; forget to manage up, and the relationship between
   you and your client, or you and your manager, will deteriorate.
 * **Seize opportunities.** You may run into a ton of opportunities to improve and consolidate your
   relationship with the client (team expansion, new initiatives, additional areas of responsibility
@@ -55,7 +55,7 @@ to practice in our day-to-day work:
   because it’s good for them. Use any chance you have to mentor them about our values and our
   processes. Do fun things together. Celebrate the small and the big wins. Get to know the client,
   their team and their culture, and find ways to integrate it with Nebulab’s culture and vision.
-* **Prioritize reflection.** Even though you’re technical, your role as team lead is highly
+* **Prioritize reflection.** Even though you’re technical, your role as engineering manager is highly
   strategic. How you handle a project can make or break our relationship with that client. Don’t
   just follow the rules, but deliberately set some time away to reflect on what you’re doing. Is
   there anything you could be doing that would improve the project?

@@ -47,12 +47,12 @@ thoroughly in [Mentoring and 1:1s](/personal-growth/mentoring-and-one-on-ones).
 When you join the company, your mentor will reach out to schedule your first 1:1, where you'll get
 to know each other and structure your mentorship together.
 
-## Meet your team lead
+## Meet your engineering manager
 
-Most likely, you also already have a team lead, who will be your technical supervisor for all
+Most likely, you also already have an engineering manager, who will be your technical supervisor for all
 client work.
 
-Your team lead will reach out to set up a call with the rest of your project's team, so that you
+Your engineering manager will reach out to set up a call with the rest of your project's team, so that you
 get to know the project and the people you'll be working with.
 
 ## Read this playbook

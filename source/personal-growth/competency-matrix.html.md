@@ -116,8 +116,8 @@ for evaluation if they think some information was missed in the initial discussi
 ### Switching disciplines
 
 Certain disciplines provide you with the ability to switch roles. For instance, if you are an SE3
-Software Engineer, you may decide to take the managerial path and become an EM3 Team Lead. It is
-important to note that this is not a promotion, but a step sideways.
+Software Engineer, you may decide to take the managerial path and become an EM3 Engineering Manager.
+It is important to note that this is not a promotion, but a step sideways.
 
 If you're interested in switching disciplines, you can do it by talking to your mentor, who will
 ask you to request a check in against the new discipline. This will help you understand whether

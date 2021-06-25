@@ -14,9 +14,9 @@ allows the client to get a sense of:
 2. how much it will cost them to do it.
 
 Over the years, we have put together a set of processes and tools that help us perform these tasks
-in a quick, efficient and reliable manner. If you're a team lead, it will be your responsibility to
-run these processes and deliver the output to the prospect, so that they can use it to make an
-informed decision about whether and how to move forward with the engagement.
+in a quick, efficient and reliable manner. If you're an engineering manager, it will be your
+responsibility to run these processes and deliver the output to the prospect, so that they can use
+it to make an informed decision about whether and how to move forward with the engagement.
 
 ## Collecting requirements with Discovery Sessions
 

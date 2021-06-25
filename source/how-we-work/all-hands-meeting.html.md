@@ -40,7 +40,7 @@ The meeting covers several topics:
 - **Playbook changes.** When policies change in our Playbook, there's no better way to
   talk about them with the rest of the team. This allows us to share why things have
   changed and how these differences will impact company life.
-- **Project Updates** Team leads have the chance to present a short update on the work that
+- **Project Updates** Engineering managers have the chance to present a short update on the work that
   their team is doing. This is the place to celebrate successes, share knowledge and understand
   what other teams are doing.
 

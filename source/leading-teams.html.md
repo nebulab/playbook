@@ -6,7 +6,7 @@ image:
 social_cover: leading-teams.png
 position: 5
 playbook-section-chapters:
-  - What team leads do
+  - What engineering managers do
   - Leadership principles
   - Discovery and estimation
   - Working with clients

@@ -21,4 +21,4 @@ A mentor has many different responsibilities towards the company and their mente
 Being one of our most crucial responsibilities and one of the activities with the highest impact on
 Nebulab and its team members, mentoring can only be provided by a restricted group of people who
 have proven to be exceptionally capable of leading others. This group currently includes the
-Directors and L5 Team Leads, but we may expand or change the requirements in the future.
+Directors and EM4/EM5 Engineering Managers, but we may expand or change the requirements in the future.

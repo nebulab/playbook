@@ -6,7 +6,7 @@ image:
 social_cover: personal-growth.png
 position: 3
 playbook-section-chapters:
-  - Mentors and team leads
+  - Mentors and engineering managers
   - Mentoring and 1:1s
   - Investment Time
   - Competency matrix
