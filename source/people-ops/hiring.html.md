@@ -15,26 +15,24 @@ For Nebulab, hiring means contributing to the success of our mission by increasi
 - create high-quality software;
 - produce content that contributes to our personal growth and the growth of Nebulab as a company.
 
-On the other hand, each time we hire, we commit to making our new teammate grow in an environment
-that contributes to their personal and professional success, making them happy and fulfilled.
+On the other hand, every time we make a hire, we commit to making our new teammate grow in an
+environment  that contributes to their personal and professional success, making them happy and
+fulfilled.
 
-We have a responsibility towards all those involved in this project to create a cohesive and
-functional team, so we put a lot of effort into selecting new members of the team. This is why we
-created a hiring process that must be adhered to as closely as possible, in order to avoid bias and
-subjective choices.
+We have a responsibility towards everyone at Nebulab to create a cohesive and functional team, so we
+put a lot of effort into selecting new members of the team. This is why we  created a hiring process
+that we adhere to very strictly, in order to minimize bias and subjectivity.
 
 ## Hiring process
 
-Usually the whole hiring process takes one month, but it could take longer depending on the number
-of candidates in our pipeline and other commitments of the team working on your assessment.
-
-Hiring at Nebulab is a 5-step process:
+Hiring at Nebulab is a 6-step process:
 
 1. [application](#application)
-2. [aptitude questionnaire](#aptitude-questionnaire)
-3. [informal chat](#informal-chat)
-4. [technical assessment](#technical-assessment)
-5. [offer](#offer)
+2. [initial screen](#initial-screen)
+3. [aptitude test](#aptitude-test)
+4. [technical test](#technical-test)
+5. [pre-offer interview](#pre-offer-interview)
+6. [offer](#offer)
 
 ### Application
 
@@ -43,48 +41,25 @@ Hi!
 This first contact gives us an idea if there is a cultural and technical fit that will allow us
 to start to get to know each other. Usually, we find candidates in one of the following ways:
 
-- by referral (for example, your former colleague who now works for us);
-- from GitHub, LinkedIn or Stack Overflow searches;
-- from the form on our [Careers](https://nebulab.com/careers/) page.
-
-If you are applying for a job, complete the form providing some information about yourself, your
-experience with software development and with [the tools we use](https://nebulab.com/tools/), your
-approach to work and why you are interested in Nebulab.
+Complete the application form for your position thoroughly. Usually, we'll ask you for a portfolio
+(e.g., GitHub/BitBucket/GitLab for developers, Dribbble for designers) and to let us know why you're
+interested in working with us.
 
 Someone from our team will read your letter and, if they think you might be a good candidate, they
-will send you a link to the [aptitude questionnaire](#aptitude-questionnaire) which is the first
-step in the hiring process.
+will reach out to schedule the [initial screen](#initial-screen).
 
-### Aptitude questionnaire
+### Initial screen
 
-The aptitude questionnaire is a way for us to get to know you better and to understand how you think,
-act and communicate. The test will be mainly focused on your soft skills but there are some basic
-technical questions as well. The questionnaire will be sent to you as a Google form, which you can
-complete at your own pace. The only thing we ask is that you tell us when we can expect your answers,
-so we can do a better job of coordinating our hiring efforts.
+This is a 15-minute video call where we get to know each other and understand if there's mutual
+interest in working together.
 
-The fundamental requirement in answering the questionnaire is sincerity: write in accordance with
-your values and the way you work, not what you think we would like to hear from you. The purpose of
-the questionnaire is to understand whether you're a good cultural and technical fit, so it is in
-everyone's interest that the answers reflect the way you really work and handle problems.
+We'll ask you about your professional experience and what made you apply at Nebulab, and you'll
+also get the chance to ask any questions you might have about the company and the work we do. We
+will also ask about your salary expectations in order to understand whether they're in line with
+what we can offer for your seniority and location.
 
-Don't hesitate to ask clarifications on questions or technical issues in case anything is not clear
-to you, and don't be afraid to hit a wrong note: in the past, some of the most striking answers
-were completely out of tune, perhaps mentioning aspects outside of the work context, but they
-allowed us to perfectly understand the person on the other end of the screen.
-
-### Informal chat
-
-This is a video call where we will explain the Nebulab values, our needs and the way we work. We
-will also ask you to explain what are you looking for in your ideal work environment and why you
-think that Nebulab would be a good choice.
-
-This chat should help us understand whether we would like to work together and meet daily in a work
-context.
-
-In this phase there are no specific questions: we avoid formalities, we talk about a bit of
-everything and see how we feel about each other. We will also discuss some of the answers you gave
-in the [aptitude questionnaire](#aptitude-questionnaire).
+The initial screen is usually pretty relaxed: we avoid formalities, we talk about a bit of 
+everything and see how we feel about each other.
 
 Some advice for the chat:
 
@@ -97,88 +72,61 @@ Some advice for the chat:
 * **Be yourself.** The get-to-know meeting is meant to help understand what type of person you are
   and how you can fit in the company. We cannot do that if you pretend to be someone else.
 * **Relax.** We are humans. None of us is an HR manager or has a psychology degree. Think, behave
-  and talk as you would do normally.
+  and talk as you would do in a real-world environment.
 
-### Technical assessment
+### Aptitude test
+
+The aptitude test is a way for us to get to know you better and to understand how you think,
+act and communicate. The test will be mainly focused on your soft skills but there are some basic
+technical questions as well. The test will be sent to you via HackerRank.
+
+The fundamental requirement in answering the test is sincerity: write in accordance with your values
+and the way you work, not what you think we would like to hear from you. The purpose of the test is
+to understand whether you're a good cultural and technical fit, so it is in everyone's interest that
+the answers reflect the way you really work and handle problems.
+
+Don't hesitate to ask clarifications on questions or technical issues in case anything is not clear
+to you, and don't be afraid to hit a wrong note: in the past, some of the most striking answers
+were completely out of tune, perhaps mentioning aspects outside of the work context, but they
+allowed us to perfectly understand the person on the other end of the screen.
+
+### Technical test
 
 If you have reached this stage, it means we think you may be a good candidate and that working with
 you would be a pleasure. At this point, we want to get an idea of your technical skills.
 
 You will not be asked to do any live coding or solve absurd challenges. Instead, we just want to
 make sure that your technical skills are coherent with our expectations, so feel at ease: nobody
-here manages to solve business problems without looking up documentation and/or Stack Overflow.
+here solves critical business problems without asking questions, looking up documentation or
+copy-pasting from StackOverflow every now and then.
 
-The technical assessment consists of a feature, enhancement or bugfix to implement on an
-open-source project, which will be selected according to your role and experience. You'll work at
-your own pace and simply open a PR on the project when you're done. The PR will then be reviewed by
-the hiring managers assigned to your application, who will almost certainly ask to adjust certain
-aspects of it and explain the rationale behind your choices.
+For developers, the technical test consists of one or more features, enhancements or bugfixes to
+implement, which will be selected according to your role and experience. Your work will be reviewed
+by the hiring manager assigned to your application, who will almost certainly ask you some follow-up
+questions to better understand the rationale behind your choices.
 
 Here are some tips to help you excel:
 
 - Pay attention to documentation and Git history.
 - Follow the conventions established on the project.
-- If in doubt, feel free to ask! You have our full support.
+
+### Pre-offer interview
+
+If you pass the technical test, we'll schedule a second, longer (~30 minutes) interview with your
+original hiring manager plus another one, who didn't attend the hiring process.
+
+The second hiring manager will review your entire application package thoroughly, so that they can
+prepare some follow-up questions for you.
+
+There's no fixed structure for this call: it mostly depends on what questions the hiring managers
+still have for you and what final doubts they want to clear up.
+
+You will also get the chance to ask any last-minute questions about Nebulab, if you want.
 
 ### Offer
 
-We will contact you to let you know to let you know what salary level we have in mind for you.
-The offer often comes with a series of objectives, which we will agree upon with you based on your
-level and the offer formulated.
+Congratulations, you made it!
 
-Feel free to let us know if you disagree, and we will try to find some middle ground. We are ready
-to adjust our offer if we have set objectives that are either too low or overly ambitious.
+At this point, we'll send over a formal offer which you can sign electronically.
 
-## Hiring manager guidelines
-
-Each candidate is assigned two hiring managers, whose approval is required for the candidate to
-proceed to the next step (i.e. either hiring manager can stop the process and reject the candidate
-at any point).
-
-With such a great responsibility on their shoulders, it is extremely important for hiring managers
-to be aligned on the practices and principles of our hiring process.
-
-### When to hire?
-
-We only hire people when it hurts (<https://m.signalvnoise.com/hire-when-it-hurts/>). If you're not
-going crazy because of all the different projects and initiatives you need to look after, it's
-probably not the time to hire someone yet.
-
-This is mainly because Nebulab is still a somewhat small company: every hire matters, both from a
-cultural and a financial perspective. We need to make absolutely sure we can support each and every
-one of our employees in the same way, so we'd rather pass on a good candidate if we don't feel
-completely ready to onboard them yet.
-
-One exception to this is that we try to always have a backend and a frontend developer who are not
-assigned on a client project, but are ready to start on a new one when needed. This is because we
-cannot ask clients to wait while we source developers for them.
-
-### Conducting an interview
-
-During the interview, one hiring manager is in charge of following the scorecard and asking the
-relevant questions, while the other observes and listens to catch any particularly positive
-answers/traits or red flags.
-
-With that said, both hiring managers should be able to ask questions, so if you're conducting the
-interview make sure to bring your colleague into the conversation at least two or three times to
-make sure they can also talk to the candidate.
-
-When following the scorecard, try to be as informal as possible so that the candidate is comfortable
-and authentic, but keep the conversation on point if it goes off topic.
-
-### The Golden Rule
-
-If it's not a hell yes, it's a no.
-
-We're a small company. Making a bad hire costs us far more, in terms of lost time, money and
-opportunities, than not making an immediate hire.
-
-In retrospect, every bad hire we have made in the past has raised some kind of red flag. Maybe we
-were not sure the candidate was a good cultural fit, or we felt like they were only good at
-executing tasks and not self-starters. Whatever the reason, we thought we could overlook or fix the
-candidate's shortcomings, but this is almost never the case.
-
-This doesn't mean we should only hire superstars: it's okay for someone to not be in the 1% from a
-technical perspective. They will grow and learn over time. In fact, some of our best past hires were
-junior or mid-level engineers that strongly resonated with our culture. It is NOT okay to accept a
-candidate who is possibly not a good fit for the way we work.
+Welcome to Nebulab!
