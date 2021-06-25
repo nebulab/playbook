@@ -113,6 +113,23 @@ This promotion package will then be submitted to the directors group, who will v
 by majority. The group's decision is final, although your mentor can present a new promotion package
 for evaluation if they think some information was missed in the initial discussion.
 
+#### Mid-level promotions
+
+If you're on the path to gaining a higher level, we want to reward your ability to improve yourself
+with a halfway promotion. The progression will happen when you reach half the number of *meeting*s
+on the total number you'd need to get the higher level. Since skills' level don't always change, and
+sometimes you can bring some *meeting* from the previous check-in "for free", we're going to
+consider the number of **new** *meeting*s you'll get in the check-in.
+
+We'll report here the number of **meeting**s you need to be eligible for a mid-level promotion, in
+the Engineering career:
+
+- SE1.5 -> 8
+- SE2.5 -> 11
+- SE3.5 -> 12
+- EM3.5 -> 11
+- EM4.5 -> 12
+
 ### Switching disciplines
 
 Certain disciplines provide you with the ability to switch roles. For instance, if you are an SE3
