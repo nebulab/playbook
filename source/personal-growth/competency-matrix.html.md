@@ -121,8 +121,8 @@ on the total number you'd need to get the higher level. Since skills' level don'
 sometimes you can bring some *meeting* from the previous check-in "for free", we're going to
 consider the number of **new** *meeting*s you'll get in the check-in.
 
-We'll report here the number of **meeting**s you need to be eligible for a mid-level promotion, in
-the Engineering career:
+We'll report here the number of *meeting*s you need to be eligible for a mid-level promotion, in the
+Engineering career:
 
 - SE1.5 -> 8
 - SE2.5 -> 11
