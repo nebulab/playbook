@@ -113,6 +113,15 @@ This promotion package will then be submitted to the directors group, who will v
 by majority. The group's decision is final, although your mentor can present a new promotion package
 for evaluation if they think some information was missed in the initial discussion.
 
+#### Mid-level promotions
+
+If you're on the path to your next matrix position, you may be eligible for a mid-level salary bump.
+This happens when you are evaluated as **Meeting** on at least half the number of new skill
+requirements for the next position.
+
+Note that, since the level required for each skill doesn't always change from one position to the
+next, only the skills with new requirements are considered in this calculation.
+
 ### Switching disciplines
 
 Certain disciplines provide you with the ability to switch roles. For instance, if you are an SE3
