@@ -121,15 +121,6 @@ The annual budget of PTO hours depends on how long you've been with us.
 | 25 - 48                 |    60      |
 | >48                     |    88      |
 
-### Rounding-off
-
-PTO hours and overtime might sum up to a non-rounded total - for this reason the balance will
-be rounded-up to the nearest half-hour by applying the following rules:
-
-- from 0 to 0.249 = 0;
-- from 0.25 to 0.749 = 0.5;
-- from 0.75 to 1 = 1.
-
 ## Special paid leave
 
 In special cases you're eligible in requesting a special paid leave. Below is a non-exhaustive list:
