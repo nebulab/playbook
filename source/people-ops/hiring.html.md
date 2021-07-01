@@ -93,17 +93,23 @@ allowed us to perfectly understand the person on the other end of the screen.
 ### Technical test
 
 If you have reached this stage, it means we think you may be a good candidate and that working with
-you would be a pleasure. At this point, we want to get an idea of your technical skills.
+you would be a pleasure. At this point, we want to get an idea of your technical skills. This test
+is also administered via HackerRank.
 
 You will not be asked to do any live coding or solve absurd challenges. Instead, we just want to
 make sure that your technical skills are coherent with our expectations, so feel at ease: nobody
 here solves critical business problems without asking questions, looking up documentation or
 copy-pasting from StackOverflow every now and then.
 
-For developers, the technical test consists of one or more features, enhancements or bugfixes to
-implement, which will be selected according to your role and experience. Your work will be reviewed
-by the hiring manager assigned to your application, who will almost certainly ask you some follow-up
-questions to better understand the rationale behind your choices.
+For developers, the technical test consists of two or three projects of increasing complexity. These
+might be bugfixes, enhancements or brand new features. Your work will be scored automatically by
+HackerRank for correctness, but it will also be reviewed by your hiring manager, who will almost
+certainly ask you some follow-up questions to better understand the rationale behind your choices.
+
+Note that we use the same test for all seniority levels—this means that, unless you're applying as a
+senior/principal engineer, we don't really expect you to solve all the challenges in the test. Not
+solving all the challenges will not disqualify you, but it might result in your profile being
+classified under a lower seniority level.
 
 Here are some tips to help you excel:
 
