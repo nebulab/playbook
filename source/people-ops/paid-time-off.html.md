@@ -96,8 +96,7 @@ enter the certificate's unique code on the Factorial sick leave request.
 
 Italian employees are required by the law to have health insurance. Nebulab will withheld the monthly
 amount for you.
-More details are available [here](https://docs.google.com/document/d/1g_joXaJ1klFvf10JfzlxMTapqV_p73micQj9N0SXAmo/)
-(document in Italian).
+More details are available [here](https://nebulab.notion.site/Sick-leave-in-the-CCNL-Commercio-5281f317919f47adac6f5fc1fa74c613).
 
 ## Schedule flexibility
 
