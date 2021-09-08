@@ -43,6 +43,8 @@ regarding any of the benefits, feel free to ask!
   Each year we organize a team retreat where we work and have fun together. The purpose of these
   meetings is to let members of the team who work in different offices or remotely socialize; your
   are encouraged to take part!
+  Curious about what a Nebulab team retreat looks like? Check out the [video](https://youtu.be/gXsDfOmC6eY) and
+  [website](https://retreat2019.nebulab.com) of our last team retreat!
 - **[Paid conferences](/personal-growth/conferences).**
   The cost of taking part in industry conferences are fully paid by us.
 - **English lessons.** If you're not comfortable with your English proficiency, we will happily pay
