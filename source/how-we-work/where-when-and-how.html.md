@@ -9,25 +9,28 @@ Our working week consists of five days devoted to work for external clients (not
 with the same client) and 10% of that time, [Investment Time](personal-growth/investment-time),
 dedicated exclusively to learning, other projects or open source contributions.
 
-We work an 8-hour day, though these are reasonably flexible. In any case, legally, you cannot exceed
-13 hours a day or 48 hours a week. The hours adopted by most of us is between 9:30 AM and 6:30 PM,
-considering about an hour for lunch. Work organization must, in any case, be a team effort: those
-who choose to work at different hours must be careful not to prevent others from performing their
-work.
+We work an 8-hour day, with a fully-flexible schedule. The hours adopted by most people in Nebulab
+is between 9:30 AM and 6:30 PM, considering about an hour for lunch, but you'll see a lot of people
+coming in and out of the (virtual) office (on Slack) at all times, depending on how they chose to work during
+that particular day of the week.
 
-In terms of place, the flexibility is even higher. Nebulab currently has two operative offices, one
-in Pescara and one in Latina, but you are free to work from anywhere you want (including your home).
+Organizing the scheudle must, in any case, be a team effort: those who choose a very unusual schedule
+must be careful to inform everyone they are working with so to not prevent others from performing
+their work.
+
+Work happens from anywhere you want, as long as it's the right place for doing proper work.
+Nebulab currently has two operative offices in Italy, one in Pescara and one in Latina. If you are
+close by and want to visit, ask your mentor first to make sure there is someone at the office when
+you visit.
 
 This flexibility in terms of time and place is possible thanks to the discipline of our team and
 continuous and attentive use of ad hoc tools.
 
 ## Remote work
 
-As mentioned above, it is possible at any time (with advance notice) to choose to work remotely for
-a determined period of time or indefinitely. At Nebulab, we strongly believe in the remote-first
+We are remote-first by default. At Nebulab, we strongly believe in the remote-first
 philosophy, as it not only improves the productivity of individuals who are in an environment most
 congenial to them, but especially instills the habit of continuous communication and transparency.
-After all, we work remotely for all our clients!
 
 That said, remote work comes with serious challenges that must be handled in advance, to prevent
 them from negatively affecting your productivity and that of the entire team. In this section, we
@@ -40,7 +43,7 @@ First of all, we must always remember some basic principles when we work remotel
 - Remote work is not simply a benefit, but a philosophy in itself and an alternative to co-located
   work. As such, it should be approached with the same focus and care we use when working from the
   office.
-- Remote work requires the collective effort of those who work remotely and those who work from the
+- Remote work requires the collective effort of those who work remotely and those who work from a physical
   office. If one of these two groups is not sufficiently involved, it will not work.
 - A well-implemented remote-first philosophy improves everyone's work quality, bringing calmness and
   transparency to communication, decisions and daily work.
@@ -67,20 +70,12 @@ Here is a list of essential things for working remotely:
   understand or who disconnects continuously. If you intend to work remotely, invest in a good
   Internet connection. If you need help, we can find a solution together.
 
-### Communication channels
-
-We use the Slack channel #time-off for all communications regarding working time and place. If you
-intend to work remotely, communicate this as early as possible.
-
-**Important: DO NOT use private messages or unofficial channels for this type of communication!**
-It is important to keep them centralized and accessible.
-
 ### Exceptions
 
 Life is complicated and things happen. We all need to make a small exception to the rule every now
 and then. Perhaps someone in your family is sick and nobody can take care of them, but you don't
 want to take a whole day off. **Communication** is the key in such situations. Inform others that
-you will be working remotely but may not be accessible at all times; nobody will object.
+you may not be accessible at all times; nobody will object.
 
-In any case, if situations of this type happen often, talk to us and we will find a solution
+In any case, if situations of this type happen often, talk to your mentor and we will find a solution
 together.
