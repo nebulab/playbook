@@ -8,6 +8,37 @@ meta_description: >
 All members of the team are entitled to the benefits listed in this document. If you have any doubts
 regarding any of the benefits, feel free to ask!
 
+- **[Remote-first culture](/how-we-work/where-when-and-how/#remote-work).**
+  We've been a distributed company since 2012. Every process is obsessively designed for effective
+  remote work and collaboration.
+- **[Mentoring](/personal-growth/mentoring-and-one-on-ones).**
+  When you become a member of our team, you will be assigned a mentor, who will support your
+  personal and professional growth. If you are interested in a given subject and would
+  like to study it, or if a project you are working on is particularly challenging, do not hesitate
+  to contact your mentor who will be happy to help you!
+- **[Investment Time](/personal-growth/investment-time).**
+  You can use up to 10% of your time to focus on studying or to work on side-projects. If you don't
+  know what to work on, ask your mentor to help you find a project appropriate for your growth.
+- **[Flexible work hours](/how-we-work/where-when-and-how).**
+  As long as you’re doing great work and enjoying it, we don’t really care if it’s a standard 9-to-5
+  or a more exotic schedule. All members of the team have the right to choose their own schedule,
+  as long as they're not impacting someone's else productivity.
+- **[Generous PTO](/people-ops/paid-time-off).**
+  Up to 33 days of paid time off plus 11 days of national holidays.
+- **[Conference budget](/personal-growth/conferences).**
+  Want to attend a conference? Let us know and we’ll happily pay for the trip, the hotel and the tickets.
+- **Learning stipend.** We provide full reimbursement for industry-related books, workshops and courses.
+- **English lessons.** If you're not comfortable with your English proficiency, we will happily pay
+  for your English lessons. We recommend [italki](https://www.italki.com/), but you can expense any
+  other platform that helps you learn the language.
+- **Software of choice.** We provide full reimbursement for any software, up to €150/year/person.
+- **[Team retreats.](/people-ops/travel-policy/#team-retreats)**
+  Each year we organize a team retreat where we work and have fun together. The purpose of these
+  meetings is to let members of the team who work in different offices or remotely socialize; your
+  are encouraged to take part!
+
+  Curious about what a Nebulab team retreat looks like? Check out the [video](https://youtu.be/gXsDfOmC6eY) and
+  [website](https://retreat2019.nebulab.com) of our last team retreat!
 - **Hire kit.** All members of the team receive a hardware hire kit that includes:
   - [13"](https://www.apple.com/shop/buy-mac/macbook-pro/13-inch-space-gray-2.0ghz-intel-core-i5-quad-core-processor-with-intel-iris-plus-graphics-512gb#)
   or [16"](https://www.apple.com/shop/buy-mac/macbook-pro/16-inch-space-gray-2.6ghz-6-core-processor-512gb#)
@@ -24,33 +55,4 @@ regarding any of the benefits, feel free to ask!
   - [LG 27UP850-W screen](https://www.lg.com/us/monitors/lg-27up850-w-uhd-monitor) (IPS, 27", 4K,
   USB-C).
   - American Express Gold corporate credit card to be used for business trips.
-- **[Mentoring](/personal-growth/mentoring-and-one-on-ones).**
-  When you become a member of our team, you will be assigned a mentor, who will support your
-  personal and professional growth. For example, if you are interested in a given subject and would
-  like to study it, or if you have difficulties with a project, do not hesitate to contact your
-  mentor who will be happy to help you!
-- **[Investment Time](/personal-growth/investment-time).**
-  You can use up to 10% of your time to focus on studying or to work on personal (or company) projects. If you don't
-  know what to work on, ask your mentor to help you find a project appropriate for your growth.
-- **[Flexible time](/how-we-work/where-when-and-how).**
-  We look at results, not hours. All members of the team have the right to work flexible hours,
-  compatible with the client's requirements and those of other team members. If you have any doubts,
-  ask the client and your colleagues.
-- **[Remote work](/how-we-work/where-when-and-how/#remote-work).**
-  Despite having two offices, our culture is absolutely _remote-first_. It is possible at any time
-  to work remotely, whether you want to do it for a day, a year or indefinitely.
-- **[Team retreats.](/people-ops/travel-policy/#team-retreats)**
-  Each year we organize a team retreat where we work and have fun together. The purpose of these
-  meetings is to let members of the team who work in different offices or remotely socialize; your
-  are encouraged to take part!
-  Curious about what a Nebulab team retreat looks like? Check out the [video](https://youtu.be/gXsDfOmC6eY) and
-  [website](https://retreat2019.nebulab.com) of our last team retreat!
-- **[Paid conferences](/personal-growth/conferences).**
-  The cost of taking part in industry conferences are fully paid by us.
-- **English lessons.** If you're not comfortable with your English proficiency, we will happily pay
-  for your English lessons. We recommend [italki](https://www.italki.com/), but you can expense any
-  other platform that helps you learn the language.
-- **Learning stipend.** We provide full reimbursement for industry-related books, up to
-  €50/year/person. Additional expenses (workshops, courses or even _more_ books!) may also be
-  covered and will be evaluated on a case-by-case basis.
-- **Software of choice.** We provide full reimbursement for any software, up to €150/year/person.
+  - Swag bag with lots of goodies inside it!
