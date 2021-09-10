@@ -7,9 +7,9 @@ social_cover: how-we-work.png
 position: 2
 playbook-section-chapters:
   - Where, when and how
-  - Tools
   - Tracking time
   - Meetings
   - All-Hands meeting
   - Donut
+  - Tools
 ---
