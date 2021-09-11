@@ -5,41 +5,37 @@ meta_description: >
   extreme accuracy for our clients. Curious how we do it? Read more!
 ---
 
-A paramount aspect of our work is our ability to make good use of the time we spend at the office.
-Measuring time is essential in order to spend it efficiently.
+Being distributed and remote-first comes with its fair share of challenges. The biggest challenge
+is probably that of tracking time to ensure full-flexibility and complete fairness to all team
+members and clients.
 
-Everyday you're expected to track time in two ways:
+We strive to be fair with teammmates (everyone will work the agreed hours to the best of their
+ability) and to our clients (we only invoice time that's actually spent on their projects).
+For these reasons we track time in two ways:
 
 * hours of _presence_ at the office;
 * hours of _work_ on projects.
 
 ## Hours of presence
 
-Your contract includes the number of hours you are expected to be in the office during a regular
-work day. Of course, because some of us work remotely, "hours at the office" really means "hours
-spent working", including small pauses, like it would in a physical office. If you work full-time,
-you are expected to have 8 hours/day of presence.
+Your contract includes the number of hours you are expected to be at the office during a regular
+work day. Considering our distributed nature "hours at the office" really means "hours spent working",
+including small pauses, like it would in a physical office. If you signed a full-time contract that
+means you should track 8 hours/day of presence.
 
-During this time we expect you to be physically in the office if you chose to work from the office,
-or in front of your computer if you chose to work remotely.
+During this time you should consider yourself "at the office" meaning that you're around, ready to
+do active work and to collaborate with the rest of the team.
 
-With that said, you have full flexibility when it comes to _when_ you work. For instance, you could:
+Full flexibility is possible when it comes to _when_ you work. At any given time during
+the day you can clock-in/clock-out with [Factorial](https://factorialhr.com/), the tool we use to manage
+the team. This will allow some pretty flexible scheduling as you are free to start/stop the timer whenever
+you need to account for events of your personal life.
 
-* start at 10am, have lunch from 1pm to 2pm and stop working at 7pm, or
-* start working at 9am, have lunch 1pm to 2:30pm and stop working at 6:30pm.
-
-You're expected to track time at the office by using [Factorial](https://factorialhr.com/). When your
-workday starts make sure you have the Factorial timer running - you can start it from the web app,
-mobile app or Slack integration. When your workday is over or when you take long breaks (i.e. lunch),
-make sure you stop the timer.
-
-The timesheet on Factorial will be used at the end of the month to compute the amount of hours
-you worked - depending on the amount you will either be paid for overtime or you will get a few hours
-detracted as Paid Time Off.
-
-Even if tracking daily hours of presence is automatic and happens through Factorial, you are still required
-to manually request full days of [Paid Time Off (PTO)](people-ops/paid-time-off/). This helps
-everyone at Nebulab understanding when you're away for more than a few hours.
+Your timesheet on Factorial will be used at the end of the month to compute the amount of overtime
+and PTO hours you did, with very little maintenance needed. The only thing that requires a bit of planning
+ahead is requestuesting full days of [Paid Time Off (PTO)](people-ops/paid-time-off/). We do this
+so that everyone is informed that you won't be available and they cannot count on your help on that
+particular day/week.
 
 ## Hours of work
 
