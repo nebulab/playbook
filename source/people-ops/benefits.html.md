@@ -56,3 +56,7 @@ regarding any of the benefits, feel free to ask!
   USB-C).
   - American Express Gold corporate credit card to be used for business trips.
   - Swag bag with lots of goodies inside it!
+  <br>
+  <br>
+
+![Hire kit](hire-kit.jpg)
