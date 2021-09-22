@@ -7,7 +7,7 @@ social_cover: people-ops.png
 position: 6
 playbook-section-chapters:
   - Hiring
-  - International compensation
+  - Compensation
   - Onboarding
   - Benefits
   - Paid Time Off
