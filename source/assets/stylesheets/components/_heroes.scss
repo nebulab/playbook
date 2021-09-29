@@ -6,8 +6,7 @@ $personal-growth:          #D4F8EE;
 $people-ops:               #F7E9FB;
 $useful-resources:         #FAEDD5;
 $working-on-nebulab:       #FDECFF;
-$mentoring-people:         #DAF2BF;
-$leading-teams:            #E2FEB8;
+$managing-teams:            #E2FEB8;
 
 .chapter-hero {
   text-align: center;
@@ -37,8 +36,7 @@ $leading-teams:            #E2FEB8;
     people-ops: $people-ops,
     useful-resources: $useful-resources,
     working-on-nebulab: $working-on-nebulab,
-    mentoring-people: $mentoring-people,
-    leading-teams: $leading-teams
+    managing-teams: $managing-teams
   );
 
   @each $chapter, $color in $heroes {

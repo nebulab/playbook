@@ -9,7 +9,7 @@ In 2018, Nebulab doubled in size, growing from 10 to 20 engineers. This created 
 challenges around our hiring and team retention processes:
 
 - We wanted to have a clear career path for every team member, to help them understand what skills
-  they needed to develop in order to improve their craft. This would make it easier for mentors to
+  they needed to develop in order to improve their craft. This would make it easier for managers to
   design a growth path for their mentees that is aligned with Nebulab's culture.
 - We wanted to have a standardized framework for salaries, to limit the room for negotiation and
   eliminate unconscious bias during the hiring process.
@@ -24,7 +24,7 @@ After looking at a few examples, we designed our own matrix, which you can find 
 [Nebulab Competency Matrix][ncm].
 
 Today, the matrix permeates all aspects of Nebulab, and we use it as a tool to promote our culture
-and measure a team member's impact. The matrix will be used by your mentor continuously to help you
+and measure a team member's impact. The matrix will be used by your manager continuously to help you
 grow and evaluate you, so it's paramount you understand how it works!
 
 Be aware that [Progression][progression], the tool that we're using for the matrix, refers to the
@@ -65,7 +65,7 @@ as the levels progress, so once that skill is learnt no further work is required
 
 ## Using the matrix to grow
 
-As we mentioned, the matrix will be used by your mentor to monitor your progress and figure out what
+As we mentioned, the matrix will be used by your manager to monitor your progress and figure out what
 areas you need to work on to increase your impact at Nebulab. We use [Progression][progression], for
 evaluating team members, and the process is the following:
 
@@ -74,20 +74,20 @@ evaluating team members, and the process is the following:
    expectations, *meeting* the expectations or *exceeding* the expectations for that level. Although
    it is not required, you're strongly encouraged to also provide examples of situations where you
    performed at that level.
-3. Once you've completed your side of the check-in, your mentor will be notified and will follow
+3. Once you've completed your side of the check-in, your manager will be notified and will follow
    the same exact steps.
-4. When your mentor has also completed the check-in, you will both be notified and should schedule
+4. When your manager has also completed the check-in, you will both be notified and should schedule
    a meeting to finalize the evaluation.
-5. To finalize the evaluation, you will look at both your check-in and your mentor's and reconcile
+5. To finalize the evaluation, you will look at both your check-in and your manager's and reconcile
    any differences.
 
 The result of the evaluation will tell you whether you're *working towards*, *meeting* or
 *exceeding* the overall expectations for your position at Nebulab:
 
-- If you are working towards the expectations, your mentor will work with you to get up to speed.
-- If you are meeting expectations, your mentor will work with you to determine which area to grow
+- If you are working towards the expectations, your manager will work with you to get up to speed.
+- If you are meeting expectations, your manager will work with you to determine which area to grow
   in next.
-- If you are exceeding the expectations, good job! Continue working with your mentor to grow.
+- If you are exceeding the expectations, good job! Continue working with your manager to grow.
 
 Note that, while most check-ins will be requested against your _current_ position at Nebulab, you
 are also welcome to request check-ins against the next level of your career path, or even an
@@ -104,13 +104,13 @@ Our promotions are descriptive, not prescriptive: in order to be promoted, you n
 exhibit all skills and traits from the higher level for a significant period of time. This is to
 prevent people from [rising to the level of their incompetence][peter-principle].
 
-When you check in with your mentor and the conclusion is that you're meeting your next level in the
-competency matrix, your mentor will begin the  promotion process. They will assemble a promotion
+When you check in with your manager and the conclusion is that you're meeting your next level in the
+competency matrix, your manager will begin the  promotion process. They will assemble a promotion
 package comprised of your latest matrix evaluation and a comment explaining why they think you
 should be promoted.
 
 This promotion package will then be submitted to the directors group, who will vote on the promotion
-by majority. The group's decision is final, although your mentor can present a new promotion package
+by majority. The group's decision is final, although your manager can present a new promotion package
 for evaluation if they think some information was missed in the initial discussion.
 
 #### Mid-level promotions
@@ -128,7 +128,7 @@ Certain disciplines provide you with the ability to switch roles. For instance, 
 Software Engineer, you may decide to take the managerial path and become an EM3 Engineering Manager.
 It is important to note that this is not a promotion, but a step sideways.
 
-If you're interested in switching disciplines, you can do it by talking to your mentor, who will
+If you're interested in switching disciplines, you can do it by talking to your manager, who will
 ask you to request a check in against the new discipline. This will help you understand whether
 you already have all the skills you would need, or if you need to work towards meeting some of the
 expectations for your new role.

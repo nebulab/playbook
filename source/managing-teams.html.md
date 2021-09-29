@@ -11,6 +11,5 @@ playbook-section-chapters:
   - Holding 1:1s
   - Coaching reports
   - Matrix evaluations
-  - Compensation reviews
   - Peer-level meeting
 ---

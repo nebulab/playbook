@@ -28,7 +28,7 @@ where you can choose your coach and interact with them remotely, but feel free t
 or offline platform that best suits you. [It's on us!](/people-ops/benefits)
 
 We usually recommend holding a 1-hour session with your coach every week. However, as this varies with
-your learning style and experience, only your mentor will be able to provide tailored guidance and
+your learning style and experience, only your manager will be able to provide tailored guidance and
 tell you how many classes you need to take.
 
 ### Work interactions
@@ -56,7 +56,7 @@ research the meaning of a foreign word or sentence. It doesn't matter whether th
 technical or not, and it's actually far more important that it's something you're passionate about.
 The most clever and well-written book in the world won't do you any good if you find it boring.
 
-A good way to start is to ask your mentor to suggest some English content. Mention your interests
+A good way to start is to ask your manager to suggest some English content. Mention your interests
 and any challenges you have faced in the past, and they will be able to offer something you will
 like! You can also try to go back and re-read any books from your past in their original language.
 
@@ -69,7 +69,7 @@ The good thing about podcasts is that most of the podcast apps let you increase 
 so you can start a bit slower than normal and then, as you get to know the speaker and the language,
 increase the speed until it's just outside of your comfort zone.
 
-You can easily find good podcasts online or through your mentor - don't be afraid to ask!
+You can easily find good podcasts online or through your manager - don't be afraid to ask!
 
 ### Movies and TV shows
 

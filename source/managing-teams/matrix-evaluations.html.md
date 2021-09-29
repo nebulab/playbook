@@ -105,6 +105,3 @@ responsibilities?
 If you've decided to promote your report, you should submit your request to a Director. Once the
 request is approved, you can update the person's title in Progression and celebrate the event in
 the `#shoutouts` channel on Slack!
-
-For more information about the relation between matrix evaluations, promotions and salary, head
-over to [Compensation reviews](/managing-teams/compensation-reviews/).

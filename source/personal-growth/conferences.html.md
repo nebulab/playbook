@@ -16,7 +16,7 @@ contains a list of interesting conferences:
 These are just suggestions: you can ask us to add other conferences to the document by pinging the
 \#conferenze Slack channel.
 
-Your mentor will help you choose which conferences to attend. Propose your conference schedule,
+Your manager will help you choose which conferences to attend. Propose your conference schedule,
 in accordance with our [allowance](#conference-budget), and explain why you are interested in those
 events.
 
@@ -77,5 +77,5 @@ There are a couple of exceptions to this rule:
   conference won't be deducted from your budget.
 - In general, speaking engagements also count towards your budget (unless the conference offers
   a reimbursement for their speakers). However, if you have been invited to speak at a conference
-  that is particularly interesting to Nebulab, reach out to your mentor and they may be able to
+  that is particularly interesting to Nebulab, reach out to your manager and they may be able to
   work something out.
