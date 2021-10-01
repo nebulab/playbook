@@ -20,7 +20,7 @@ their work.
 
 Work happens from anywhere you want, as long as it's the right place for doing proper work.
 Nebulab currently has two operative offices in Italy, one in Pescara and one in Latina. If you are
-close by and want to visit, ask your mentor first to make sure there is someone at the office when
+close by and want to visit, ask your manager first to make sure there is someone at the office when
 you visit.
 
 This flexibility in terms of time and place is possible thanks to the discipline of our team and
@@ -77,5 +77,5 @@ and then. Perhaps someone in your family is sick and nobody can take care of the
 want to take a whole day off. **Communication** is the key in such situations. Inform others that
 you may not be accessible at all times; nobody will object.
 
-In any case, if situations of this type happen often, talk to your mentor and we will find a solution
+In any case, if situations of this type happen often, talk to your manager and we will find a solution
 together.

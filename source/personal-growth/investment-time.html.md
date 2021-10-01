@@ -11,7 +11,7 @@ Here are some ideas for Investment Time:
 - Write a post on your personal blog or our [own](working-on-nebulab/blog).
 - Contribute to an open source project.
 - Study a new tool or technology.
-- Mentor a teammate and teach them a skill.
+- Coach a teammate and teach them a skill.
 - Learn a language.
 
 This is "Investment Time", because it's time you can invest in yourself to grow as a professional and progress
@@ -25,9 +25,9 @@ there is a task named "Investment Time" under client Nebulab.
 
 Whenever you're doing something for your personal growth, whatever the activity might be, you should be tracking
 against that budget. There are a few exceptions: [Conferences](personal-growth/conferences),
-[All Hands](how-we-work/all-hands-meeting), [1:1s](personal-growth/mentoring-and-one-on-ones) and
+[All Hands](how-we-work/all-hands-meeting), [1:1s](personal-growth/coaching-and-one-on-ones) and
 [Team Retreats](/people-ops/travel-policy/#team-retreats) are not considered Investment Time and should not be
-tracked. When in doubt, talk to your mentor to figure out if a particular activity is Investment Time or something else.
+tracked. When in doubt, talk to your manager to figure out if a particular activity is Investment Time or something else.
 
 Once you hit the yearly budget you're done for that year and need to wait for the next one to use more Investment
 Time. Considering the full budget is given for every full year, if you joined Nebulab mid-year you will get a smaller
@@ -44,4 +44,4 @@ While you're free to use your Investment Time whenever you like, there are a few
 - A few hours when the client's team workday hasn't started yet.
 - When client work slows down, reserve a few days to focus on Investment Time.
 
- You're encouraged to use your own judgment and manage your schedule accordingly. If in doubt, ask your mentor!
+ You're encouraged to use your own judgment and manage your schedule accordingly. If in doubt, ask your manager!

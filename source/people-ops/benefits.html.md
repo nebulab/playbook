@@ -15,14 +15,14 @@ regarding any of the benefits, feel free to ask!
   As long as you’re doing great work and enjoying it, we don’t really care if it’s a standard 9-to-5
   or a more exotic schedule. All members of the team have the right to choose their own schedule,
   as long as they're not impacting someone's else productivity.
-- **[Mentoring](/personal-growth/mentoring-and-one-on-ones).**
-  When you become a member of our team, you will be assigned a mentor, who will support your
-  personal and professional growth. If you are interested in a given subject and would
-  like to study it, or if a project you are working on is particularly challenging, do not hesitate
-  to contact your mentor who will be happy to help you!
+- **[Coaching](/personal-growth/coaching-and-one-on-ones).**
+  One of your manager's main responsibilities is to support your personal and professional growth.
+  If you are interested in a given subject and would like to study it, or if a project you are
+  working on is particularly challenging, do not hesitate to contact your manager who will be happy
+  to help you!
 - **[Investment Time](/personal-growth/investment-time).**
   You can use up to 10% of your time to focus on studying or to work on side-projects. If you don't
-  know what to work on, ask your mentor to help you find a project appropriate for your growth.
+  know what to work on, ask your manager to help you find a project appropriate for your growth.
 - **[Generous PTO](/people-ops/paid-time-off).**
   Up to 33 days of paid time off plus 11 days of national holidays.
 - **[Team retreats.](/people-ops/travel-policy/#team-retreats)**

@@ -42,7 +42,7 @@ particular day/week.
 These are the hours you actually spend on work tasks and are tracked via Harvest. Keep in mind that
 Harvest is NOT a tool for controlling employees. We use it in order to be 100% transparent towards
 our clients and to improve our time management skills. If you are worried about it, reach out to
-your mentor and they will be able to answer all of your questions!
+your manager and they will be able to answer all of your questions!
 
 Our Harvest account is setup with various projects and each project has several subtasks. Generally
 speaking, each client project gets its own project in Harvest and has tasks for Software
@@ -67,11 +67,11 @@ On the other hand, we do not consider this time to be billable:
 - time spent studying generic resources not specific to the client's project (e.g. if you're a
   junior developer and are reading about MVC, we don't want the client to pay for this);
 - time spent waiting the client to reply (but, if you're constantly blocked by the client, you
-  should reach out to your mentor).
+  should reach out to your manager).
 
 Also remember: multi-tasking is the enemy of time management. Not only does it actually slow you
 down instead of speeding you up, it also makes it virtually impossible to track time accurately. If
-you are struggling with multi-tasking or tracking time accurately, reach out to your mentor.
+you are struggling with multi-tasking or tracking time accurately, reach out to your manager.
 
 ### Internal projects
 

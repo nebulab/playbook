@@ -23,8 +23,8 @@ usually 60 days, but please check your contract.
 The [resignation process](https://www.cliclavoro.gov.it/Cittadini/Pagine/Adempimenti.aspx) is remote
 and can be sent in various ways:
 
-* Autonomously, on the [cliclavoro.gov.it](http://cliclavoro.gov.it) website for all those who
-  have INPS access credentials. Below is a link to a useful
+* Autonomously, on the [cliclavoro.gov.it](https://www.cliclavoro.gov.it/Pagine/default.aspx)
+  website for all those who have INPS access credentials. Below is a link to a useful
   [video tutorial](https://youtu.be/02yuLr7-h_E).
 * By going to authorized entities, such as patronages, trade union organizations, certification
   commissions, bilateral entities, and, with the introduction of Legislative Decree 185/2016, also

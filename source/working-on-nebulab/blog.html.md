@@ -15,7 +15,7 @@ make for excellent articles!).
 If you want to write an article, but you're struggling to find the right inspiration or idea, note
 that we have a #blog channel in our Slack that you can and should join if you're working on or
 plan to work on the blog. It's a fantastic place to get some feedback, suggestions, tips, or just
-the occasional confidence boost! You can also talk to your mentor, of course. Anyway, even if you
+the occasional confidence boost! You can also talk to your manager, of course. Anyway, even if you
 don't master the "art" of writing blog posts (or, at least, not yet!) give it a shot. It can be
 challenging, but it is definitely gratifying! And as we said, you can always count on the team for
 help.
@@ -62,7 +62,7 @@ Here are some tips for writing good articles:
 - More tips can be found in our [article template][template].
 
 If you follow these rules, you should be able to produce an article in 8 hours. If it's taking
-longer than 8 hours, you should probably reach out to your mentor, who will help you figure out any
+longer than 8 hours, you should probably reach out to your manager, who will help you figure out any
 issues you might be having!
 
 [template]: https://github.com/nebulab/nebulab-website/blob/master/blog/_drafts/blogpost-template.markdown

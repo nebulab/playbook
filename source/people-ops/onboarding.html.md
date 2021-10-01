@@ -36,23 +36,16 @@ Next up, you should set up your company accounts and install all the tools we us
 
 If you need any help, don't be afraid to reach out to the person who handled your onboarding!
 
-## Meet your mentor
+## Meet your manager
 
-You've been assigned a mentor, who will be with you during your entire stay at Nebulab!
+Your manager will coordinate your work, as well as be responsible for your personal and professional
+growth. Our coaching practices are explained more thoroughly in
+[Coaching and 1:1s](/personal-growth/coaching-and-one-on-ones).
 
-Your mentor will help you grow personally and professionally and will be your point of reference for
-everything about your relationship with Nebulab. Our mentoring practices are explained more
-thoroughly in [Mentoring and 1:1s](/personal-growth/mentoring-and-one-on-ones).
+When you join the company, your manager will reach out to schedule your first 1:1, where you'll get
+to know each other and structure your relationship together.
 
-When you join the company, your mentor will reach out to schedule your first 1:1, where you'll get
-to know each other and structure your mentorship together.
-
-## Meet your engineering manager
-
-Most likely, you also already have an engineering manager, who will be your technical supervisor for all
-client work.
-
-Your engineering manager will reach out to set up a call with the rest of your project's team, so that you
+Your manager will reach out to set up a call with the rest of your project's team, so that you
 get to know the project and the people you'll be working with.
 
 ## Read this playbook

@@ -57,7 +57,7 @@ apply:
 Use Uber if you need a quick, easy ride around the city.
 
 Before your departure, check if Uber is available at your destination (you can do it from
-[here](https://www.uber.com/it/cities/)). Also make sure you're part of the Nebulab Uber
+[here](https://www.uber.com/global/it/cities/). Also make sure you're part of the Nebulab Uber
 organization (if you're not, ask for it in the #travel Slack channel).
 
 All you have to do if you need a ride is book your Uber as usual and select "Nebulab Srls" from the
