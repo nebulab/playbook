@@ -2,5 +2,4 @@
 
 ## Checklist
 
-- [ ] This change moves content around and I have configured the appropriate [Netlify redirects](https://www.netlify.com/docs/redirects/).
-- [ ] This change adds a new page and I have written an appropriate meta description.
+- [ ] This changes the content index and I've made sure `_redirects` are updated.
