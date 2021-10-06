@@ -1,8 +1,5 @@
 ---
 title: Leading engagements
-meta_description: >
-  Engineering Managers are responsible for overseeing the execution of projects under their mandate.
-  This means supporting the client, the team and Nebulab.
 ---
 
 One of your core responsibilities as an Engineering Manager at Nebulab is to oversee the execution

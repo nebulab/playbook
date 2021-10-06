@@ -1,8 +1,5 @@
 ---
 title: What we do
-meta_description: >
-  Nebulab is a consulting firm that specializes in eCommerce and Solidus development. Read our
-  Playbook to learn more!
 ---
 
 Over the years, we have specialized in helping eCommerce stores unleashing their full potential.

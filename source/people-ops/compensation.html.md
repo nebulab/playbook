@@ -1,8 +1,5 @@
 ---
 title: Compensation
-meta_description: >
-  Nebulab strives to hire the best fit-talents both in culture and skill-set. Our
-  compensation policy aims to pay the right salary for them. Find out how we handle this!
 ---
 
 We hire people in different regions and countries. Every market is different, and it can be

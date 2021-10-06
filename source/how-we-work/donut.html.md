@@ -1,8 +1,5 @@
 ---
 title: Donut
-meta_description: >
-  When working remotely, it can be challenging to find the space and time to socialize with your
-  teammates. Learn how we use a Slack bot to help with that!
 ---
 
 Periodically during the week, [Donut](https://donut.com) will pair people in the #coffee channel. It

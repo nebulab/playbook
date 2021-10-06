@@ -1,8 +1,5 @@
 ---
 title: What Engineering Managers do
-meta_description: >
-  Engineering Managers at Nebulab are responsible for overseeing the execution of client projects
-  and looking after the growth and well-being of their team.
 ---
 
 At Nebulab, we strongly believe in the value of competent, supportive management. Engineering

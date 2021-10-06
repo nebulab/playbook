@@ -1,8 +1,5 @@
 ---
 title: Where, when and how
-meta_description: >
-  Being a distributed company, having battle-tested work practices allows us to ship top-notch
-  products without giving up flexibility. Here's how we do it!
 ---
 
 Our working week consists of five days devoted to work for external clients (not necessarily always

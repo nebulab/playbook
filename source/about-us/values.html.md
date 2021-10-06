@@ -1,8 +1,5 @@
 ---
 title: Values
-meta_description: >
-  Our values are what drives us in our day-to-day work and interactions with clients and colleagues.
-  Find out about them in our Playbook!
 ---
 
 All of us, in our work, have direct relations with colleagues and stakeholders, such as clients, 

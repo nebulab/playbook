@@ -1,8 +1,5 @@
 ---
 title: Conferences
-meta_description: >
-  Attending conferences is an opportunity for growth and enrichment, but how can you make the most
-  out of them? Here are some tips from Nebulab's Playbook!
 ---
 
 ## Choosing conferences

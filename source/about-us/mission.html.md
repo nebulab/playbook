@@ -1,8 +1,5 @@
 ---
 title: Mission
-meta_description: >
-  At Nebulab, we produce high-quality work for amazing clients. We focus on professional growth,
-  work-life balance and OSS. Learn more about our Mission!
 ---
 
 Nebulab was founded by two developers and one designer with a shared desire: to create a company

@@ -1,8 +1,5 @@
 ---
 title: All-Hands meeting
-meta_description: >
-  Keeping distributed teammates in sync can be a challenge. All-hands meetings are a place for
-  discussion and interaction. Learn more on how we structure them!
 ---
 
 Every month, we hold an All-Hands meeting. We use this session to provide useful information

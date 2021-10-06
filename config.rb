@@ -10,11 +10,12 @@ set :images_dir, 'assets/images'
 set :fonts_dir, 'assets/fonts'
 set :helpers_dir, 'lib/helpers'
 
+page '/404.html', layout: 'error', directory_index: false
 page '/', layout: 'home'
 page /.+\.html$/, layout: 'playbook/chapter'
 
 # Ignored chapter indexes
-ignore /^(?!.*\/.*)(?!index\.html).*/
+ignore /^(?!.*\/.*)(?!(index|404)\.html).*/
 
 activate :directory_indexes
 activate :playbook

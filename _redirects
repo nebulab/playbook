@@ -1,25 +1,15 @@
-/about-us/our-values /about-us/values/ 301
-/personal-growth/becoming-a-mentor /becoming-a-mentor/what-mentors-do/ 301
-/personal-growth/mentoring-and-1-1 /personal-growth/mentoring-and-one-on-ones/ 301
-/personal-growth/investment-fridays /personal-growth/investment-time/ 301
-/personal-growth/fridays /personal-growth/investment-time/ 301
-/personal-growth/benefits /people-ops/benefits/ 301
-/personal-growth/mentors-and-team-leads /personal-growth/mentors-and-engineering-managers/ 301
-/people-ops/paid-time-off-and-overtime /people-ops/time-off-and-overtime/ 301
-/people-ops/resignation /people-ops/parting-ways/ 301
-/people-ops/time-off-and-overtime/ /people-ops/paid-time-off/ 301
-/people-ops/international-compensation /people-ops/compensation/ 301
-/mentoring-people/handling-conflict /managing-teams/handling-conflict/ 301
-/mentoring-people/giving-feedback /managing-teams/giving-feedback/ 301
-/managing-teams/interacting-with-mentors /personal-growth/mentors-and-team-leads/ 301
-/managing-teams/fulfillment-meeting /managing-teams/what-team-leads-do/ 301
-/managing-teams/what-team-leads-do /managing-teams/what-engineering-managers-do/ 301
-
 # Redirects of sections to chapters 301
+
 /about-us /about-us/what-we-do/ 301
+
 /how-we-work /how-we-work/where-when-and-how/ 301
-/managing-teams /managing-teams/what-team-leads-do/ 301
+
+/personal-growth /personal-growth/coaching-and-one-on-ones/ 301
+
+/managing-teams /managing-teams/what-engineering-managers-do/ 301
+
 /people-ops /people-ops/hiring/ 301
-/personal-growth /personal-growth/mentors-and-team-leads/ 301
+
+/working-on-nebulab /working-on-nebulab/blog/ 301
+
 /useful-resources /useful-resources/email-signature/ 301
-/working-on-nebulab /working-on-nebulab/management-scrum/ 301

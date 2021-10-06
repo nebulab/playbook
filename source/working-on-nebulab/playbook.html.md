@@ -1,8 +1,5 @@
 ---
 title: Playbook
-meta_description: >
-  Our Playbook is where we share our internal company processes with all team members and the
-  community at large. If you want to contribute, here's how to do it!
 ---
 
 This playbook evolves continuously. We all need to contribute to it in order for it to be the point

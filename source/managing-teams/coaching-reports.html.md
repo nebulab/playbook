@@ -1,8 +1,5 @@
 ---
 title: Coaching reports
-meta_description: >
-  Nebulab is a learning organization. We promote and create space for personal mastery for all of
-  our teammates. Engineering Managers play a critical role in this journey.
 ---
 
 Nebulab is a learning organization: we're in a constant process of transformation, both as a company

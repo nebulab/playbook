@@ -1,8 +1,5 @@
 ---
 title: Peer-level meeting
-meta_description: >
-  At Nebulab, Engineering Managers have a weekly touchpoint in which they share problems and
-  solutions. Read more about this on our Playbook!
 ---
 
 Each team has its own story and challenges. In order to share problems, find solutions together, and

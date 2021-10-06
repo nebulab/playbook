@@ -1,8 +1,5 @@
 ---
 title: Payroll
-meta_description: >
-  At Nebulab, we like automation so much we have even automated our payroll process. Read on to find
-  how we did and what tools we have used!
 ---
 
 Salaries are paid via bank transfer by the 10th day of each month.

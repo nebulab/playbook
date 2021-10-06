@@ -3,6 +3,7 @@
 class Playbook::Section < SimpleDelegator
   ROOT_FILES_EXCLUDED_BY_PLAYBOOK_SECTIONS = %w[
     index.html.md
+    404.html.md
   ]
 
   attr_reader :resource

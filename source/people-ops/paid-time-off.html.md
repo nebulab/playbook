@@ -1,8 +1,5 @@
 ---
 title: Paid Time Off
-meta_description: >
-  The concept of office hours has a different meaning for a remote team such as Nebulab's. Learn how
-  we handle paid time off in our distributed agency!
 ---
 
 The workday for full-time contracts is comprised of 8 hours. You can decide to reduce your
