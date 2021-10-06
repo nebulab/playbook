@@ -1,8 +1,5 @@
 ---
 title: Coaching and 1:1s
-meta_description: >
-  Ensuring the personal and professional growth of all team members is one of our key objectives at
-  Nebulab. Read more on how our coaching program works!
 ---
 
 One of the most important responsibilities of your manager is the organization of one-on-one (1:1)

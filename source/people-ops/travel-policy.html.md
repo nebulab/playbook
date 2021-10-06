@@ -1,8 +1,5 @@
 ---
 title: Travel policy
-meta_description: >
-  Coordinating travel for a distributed team is not easy, but it becomes less of a struggle with a
-  good Travel Policy in place. Here's what we use at Nebulab.
 ---
 
 This travel policy defines travel and conference attendance guidelines for 2020.

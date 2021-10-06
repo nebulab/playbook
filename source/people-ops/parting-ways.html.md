@@ -1,8 +1,5 @@
 ---
 title: Parting ways
-meta_description: >
-  Parting ways is always sad, but it can happen sometimes. Should that be the case, we have a
-  process to ensure a smooth offboarding for our team members.
 ---
 
 It's always sad when we have to part ways with an employee, whether because they have decided to

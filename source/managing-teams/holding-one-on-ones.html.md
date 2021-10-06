@@ -1,8 +1,5 @@
 ---
 title: Holding 1:1s
-meta_description: >
-  1:1s are a ritual that allows Engineering Managers and their teams to talk about well-being,
-  professional growth and career progression.
 ---
 
 All Engineering Managers are expected to have recurring 1:1 meetings (one-on-ones) with their team.

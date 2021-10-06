@@ -46,8 +46,4 @@ class Playbook::Chapter < SimpleDelegator
     return unless section
     "#{section.data.title} - #{data.title}"
   end
-
-  def meta_description_tag_content
-    data.meta_description
-  end
 end

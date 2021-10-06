@@ -1,8 +1,5 @@
 ---
 title: Matrix evaluations
-meta_description: >
-  Engineering Managers at Nebulab are responsible for periodically evaluating their reports on our
-  competency matrix—the crux of our growth framework.
 ---
 
 Engineering managers at Nebulab are responsible for periodically evaluating their reports on our

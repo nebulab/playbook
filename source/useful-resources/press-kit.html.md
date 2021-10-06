@@ -1,8 +1,5 @@
 ---
 title: Press kit
-meta_description: >
-  If you need to use the Nebulab brand anywhere, our Press Kit will provide you with all the
-  material and guidance you need. Access it from our Playbook!
 ---
 
 You can find useful brand resources in Nebulab's [Press kit](https://drive.google.com/open?id=1VATPcbAhnhHZ376_GPixyYAo6u3gN8Os), such as:

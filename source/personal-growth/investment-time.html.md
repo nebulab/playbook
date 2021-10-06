@@ -1,7 +1,5 @@
 ---
 title: Investment Time
-meta_description: >
-  At Nebulab, 10% of the time is dedicated to personal and company projects. Sounds interesting? Read on!
 ---
 
 We use 10% of our time for personal growth. During this time, named "Investment Time", we do not work for clients.

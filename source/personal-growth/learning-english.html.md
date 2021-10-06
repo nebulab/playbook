@@ -1,8 +1,5 @@
 ---
 title: Learning English
-meta_description: >
-  Dealing with international clients, it is extremely important for everyone on our team to speak
-  fluent English. Here are the initiatives we set up for them.
 ---
 
 Because all of our communication with clients happens in English, it is extremely important that we
