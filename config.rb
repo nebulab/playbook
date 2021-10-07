@@ -11,6 +11,7 @@ set :fonts_dir, 'assets/fonts'
 set :helpers_dir, 'lib/helpers'
 
 page '/', layout: 'home'
+page '/404.html', layout: 'home', directory_index: false
 page /.+\.html$/, layout: 'playbook/chapter'
 
 # Ignored chapter indexes
