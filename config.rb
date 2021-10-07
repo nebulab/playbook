@@ -14,7 +14,7 @@ page '/', layout: 'home'
 page /.+\.html$/, layout: 'playbook/chapter'
 
 # Ignored chapter indexes
-ignore /^(?!.*\/.*)(?!index\.html).*/
+ignore /^((?!index)[a-z\-]+)\.html\.md$/
 
 activate :directory_indexes
 activate :playbook
