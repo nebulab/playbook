@@ -41,7 +41,7 @@ The meeting covers several topics:
   their team is doing. This is the place to celebrate successes, share knowledge and understand
   what other teams are doing.
 
-Make sure to join the channel [#all-hands](slack) to receive the link to the meeting, the
+Make sure to join the channel [#all-hands][slack] to receive the link to the meeting, the
 meeting notes, updates, agendas, and useful links for each All Hands meeting. The channel will
 also be used for Q&A.
 

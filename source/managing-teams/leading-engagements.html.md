@@ -59,7 +59,7 @@ practices that will help you drive the team in the right direction:
   work will always be part of the job, you should continuously look for ways to create learning
   opportunities for your team, by putting the right people on the right projects and creating safe
   boundaries for experimentation and innovation. You can read more about this in
-  [Promoting Growth](/managing-teams/promoting-growth/).
+  [Coaching Reports](/managing-teams/coaching-reports/).
 
 One aspect to keep in mind is that there's a fine balance between empowering your team and
 protecting them from external pressure and time wasting. The latter activity is commonly referred to

@@ -54,7 +54,7 @@ attention it deserves.
 In the introduction to this chapter, we hinted briefly at what's typically discussed during 1:1
 meetings. For most reports, 1:1s will be a place to discuss how things are going on a personal and
 professional level, to provide and gather feedback about their performance and yours, to
-[promote their growth](/managing-teams/promoting-growth/), to keep them informed and collect
+[promote their growth](/managing-teams/coaching-reports/), to keep them informed and collect
 feedback about any new company-wide initiatives.
 
 Just like every teammate has their own communication style, they also have different topics they

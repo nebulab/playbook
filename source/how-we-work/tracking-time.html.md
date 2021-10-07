@@ -30,7 +30,7 @@ you need to account for events of your personal life.
 
 Your timesheet on Factorial will be used at the end of the month to compute the amount of overtime
 and PTO hours you did, with very little maintenance needed. The only thing that requires a bit of planning
-ahead is requestuesting full days of [Paid Time Off (PTO)](people-ops/paid-time-off/). We do this
+ahead is requestuesting full days of [Paid Time Off (PTO)](/people-ops/paid-time-off/). We do this
 so that everyone is informed that you won't be available and they cannot count on your help on that
 particular day/week.
 

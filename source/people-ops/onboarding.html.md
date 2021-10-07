@@ -15,7 +15,7 @@ here.
 The first thing you want to do is choose your hardware. We not only provide our employees with a
 MacBook Pro, but also a wide range of accessories.
 
-Head over to the [Benefits](/personal-growth/benefits) page and make your choices!
+Head over to the [Benefits](/people-ops/benefits) page and make your choices!
 
 ## Set up your tools
 

@@ -77,7 +77,7 @@ In order to get an idea of how to track time on Harvest, look at
 In order to keep track of vacations, leave, overtime and sick leave, we use
 [Factorial](https://factorialhr.com).
 
-You can track [time off](/people-ops/time-off-and-overtime) by clicking on the
+You can track [time off](/people-ops/paid-time-off) by clicking on the
 [Time off](https://app.factorialhr.com/time-off) tab and clicking on the "Request time off"
 button.
 
