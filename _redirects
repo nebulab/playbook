@@ -1,15 +1,22 @@
 # Redirects of sections to chapters 301
 
 /about-us /about-us/what-we-do/ 301
+/about-us/ /about-us/what-we-do/ 301
 
 /how-we-work /how-we-work/where-when-and-how/ 301
+/how-we-work/ /how-we-work/where-when-and-how/ 301
 
 /personal-growth /personal-growth/coaching-and-one-on-ones/ 301
+/personal-growth/ /personal-growth/coaching-and-one-on-ones/ 301
 
 /managing-teams /managing-teams/what-engineering-managers-do/ 301
+/managing-teams/ /managing-teams/what-engineering-managers-do/ 301
 
 /people-ops /people-ops/hiring/ 301
+/people-ops/ /people-ops/hiring/ 301
 
 /working-on-nebulab /working-on-nebulab/blog/ 301
+/working-on-nebulab/ /working-on-nebulab/blog/ 301
 
 /useful-resources /useful-resources/email-signature/ 301
+/useful-resources/ /useful-resources/email-signature/ 301
