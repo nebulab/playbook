@@ -1,5 +1,5 @@
 ---
-title: Values
+title: North stars
 ---
 
 All of us, in our work, have direct relations with colleagues and stakeholders, such as clients, 

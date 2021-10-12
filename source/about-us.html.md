@@ -8,5 +8,5 @@ position: 1
 playbook-section-chapters:
   - What we do
   - Our vision
-  - Values
+  - North stars
 ---
