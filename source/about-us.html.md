@@ -7,7 +7,6 @@ social_cover: about-us.png
 position: 1
 playbook-section-chapters:
   - What we do
-  - Mission
   - Our vision
   - Values
 ---
