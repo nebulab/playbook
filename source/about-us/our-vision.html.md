@@ -13,12 +13,11 @@ consulting as a zero-sum game, we see it as a reinforcing loop: the work we do f
 the community inspires us to continuously improve ourselves as people, as professionals and as a
 company, which in turn allows us to raise the bar even higher in our work.
 
-We get closer to our vision when we launch an experience that we are proud of, when we introduce a
-new company policy that makes our team happier, when we share our journey with the community.
+We get closer to our vision when we ship eCommerce products that make us proud, when we improve the
+lives of our team, or when we share our experience with the community through our blog and our
+contributions to [Solidus](/about-us/what-we-do/#we-build-an-ecommerce-framework) and other
+open-source software.
 
-Most importantly, we get closer to our vision when we learn something new while doing all of the
-above. We take pride and joy in this process of continuous, deliberate learning and 
-transformation—it is the driving force behind our success.
-
-We are Nebulab, and this is our vision. It is ambitious, but very much achievable, and we have what
-it takes to get there.
+Most importantly, we learn continuously while doing all of the above. We take pride and joy in this
+process of continuous, deliberate learning and transformation—in fact, we consider it to be the
+driving force behind our success.

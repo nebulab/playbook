@@ -2,52 +2,77 @@
 title: North stars
 ---
 
-All of us, in our work, have direct relations with colleagues and stakeholders, such as clients, 
-other development teams, members of the OSS community and other professionals. The relationship 
-established with them is fundamental: we must always keep in mind all the values and standards that 
-Nebulab aims to represent and uphold.
+While [our vision](/about-us/our-vision) is the destination, our North stars are how we get there.
+They are the standards we hold ourselves to and the values we carry with us every day.
 
-Working at Nebulab means investing in an all-round collaboration context. It is essential to support
-one another as well as coordinate with each other in an attempt to compensate any shortcomings of 
-other team members.
+## Integrity
 
-## Be honest.
+Integrity is doing and saying what's right, not what's convenient.
 
-* We choose the right solutions over the convenient ones.
-* We work and communicate sincerely and loyally.
-* We speak up when a decision could damage our clients.
-* We only bill our clients for the hours we actually work for them.
+We all have an inner sense of fairness, and we should use that as a guiding light in our decisions
+and interactions with partners and teammates. If something doesn't _feel_ right, it's probably not, 
+and we should speak up.
 
-## Be transparent.
+Sometimes, integrity takes courage, such as when we need to provide constructive feedback to
+someone we care about. This is good: it means there's a healthy tension between our sense of
+integrity and our sense of empathy.
 
-* We communicate with simplicity, clarity, and precision.
-* We make all the information at our disposal available.
-* We respond to questions and concerns in a timely fashion.
-* We keep track of our output in agreed-upon tools.
+A lack of integrity is a lack of trust. In the absence of trust, it's impossible to build shared
+vision or get anything done as a team.
 
-## Enjoy both life and work.
+## Transparency
 
-* We work at a sustainable pace.
-* We create a fun work environment.
-* We make space for the things that matter to us.
-* We work in harmony with our personal values.
+Transparency is systematically providing the context behind our choices.
 
-## Be committed to clients.
+Building a transparent company requires effort, empathy and respect. It requires trust that people
+will use the information we are providing in good faith, and that they will speak up if they
+disagree with us.
 
-* We act as if we were spending our own money, not our clients'.
-* We work to make sure the problems we solve never happen again.
-* We approach problems critically, researching all possible solutions.
-* We are empathetic towards our clients' needs and concerns.
+Transparency empowers others to make their own decisions and reach their own conclusions. It makes
+them feel like they're not just a means to an end, but rather the end in itself.
 
-## Strive for excellence, not perfection.
+Effective distributed cultures are, first and foremost, transparent cultures. 
 
-* We find the sweet spot between technical perfection and business value.
-* We stick to battle-tested tools and methodologies which are right for the job.
-* We focus on the value of our solutions instead of engaging in thought experiments.
+## Balance
 
-## Build valuable human connections.
+Balance is the _leitmotiv_ in everything we do.
 
-* We share our knowledge in all possible ways with the community.
-* We train our clients on our way of working and learn from theirs.
-* We create an environment of constant growth for our teammates.
-* We strive to understand everyone at both a personal and professional level. 
+First of all, we exhibit work-life balance, as it allows us to be our best selves, day after day.
+The alternative is to chase short-term wins at the expense of our health, our productivity and the
+quality of our work.
+
+Secondly, we exhibit balance in how we approach problems. We think in systems and try to account for
+all factors at play. We take the time we need to make the right decision, but we don't
+stall—instead, we know when to disagree and commit.
+
+Finally, we exhibit balance in the way we communicate. We don't let chance, circumstances or
+emotions put words in our mouths: instead, we choose our words in accordance with our values and our
+beliefs.
+
+## Commitment
+
+Commitment is caring about the work we do and the people we do it for.
+
+We show commitment when we ensure everyone and everything around us is enriched as a result of our
+presence. We look at the world with a critical, pragmatic eye and take initiative to improve the
+status quo.
+
+We recognize that there will always be things to improve—things we wish we had done, things we wish
+we had done differently, and things we wish we had never done at all—and that's okay: commitment is
+about the journey, not the destination.
+
+Our first and foremost commitment is to ourselves and our personal mastery. Everything else follows.
+
+## Community
+
+We appreciate and respect that none of the things we do would be possible without the work of the
+community, and we constantly look for ways to give back.
+
+Sometimes, this means releasing our work as open-source, so that the next person can get the same
+result with a fraction of the effort; other times, it means helping out someone in need, because we
+all need to start somewhere.
+
+We think that life is too short for everyone to be solving the same problems over and over again,
+and we do whatever is in our power to accelerate the collective process of learning and growth.
+
+We want to be the rising tide that lifts all boats.
