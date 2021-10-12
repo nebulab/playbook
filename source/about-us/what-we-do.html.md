@@ -11,7 +11,7 @@ put that knowledge at work for our clients.
 
 The majority of our work is eCommerce consulting—we handle a wide range of strategy-, design- and
 engineering-related services. On the engineering side, we typically work with
-[Shopify](https://shopify.com),[Shopify Plus](https://shopify.com/plus) and
+[Shopify](https://shopify.com), [Shopify Plus](https://shopify.com/plus) and
 [Solidus](#we-build-an-ecommerce-framework).
 
 We mostly partner with startups operating in the direct-to-consumer (DTC) / digitally-native
