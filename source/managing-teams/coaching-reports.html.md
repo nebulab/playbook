@@ -68,10 +68,11 @@ At Nebulab, there are multiple rituals that involve providing feedback to your r
 has a different cadence and a different "scope of impact", and you should use all of them in a
 holistic and strategic way:
 
-- **Situational feedback** is feedback about a specific event. For example, you might your report
-  did a particularly good job of handling a project, or a particularly poor job of communicating
-  with a stakeholder. In this case, you should provide the feedback immediately, so that you can
-  have a relevant and useful conversation while the memory is still fresh in everyone's mind.
+- **Situational feedback** is feedback about a specific event. For example, you might think your
+  report did a particularly good job of handling a project, or a particularly poor job of
+  communicating with a stakeholder. In this case, you should provide the feedback immediately,
+  so that you can have a relevant and useful conversation while the memory is still fresh in
+  everyone's mind.
 - **[1:1s](/managing-teams/holding-one-on-ones/)** are best reserved for more elaborate feedback
   conversations, where you want face time to dig into the matter and explore it from different
   angles, or when you need to collect information from different parties before providing the
