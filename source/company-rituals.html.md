@@ -6,7 +6,7 @@ image:
 social_cover: company-rituals.png
 position: 3
 playbook-section-chapters:
-  - Donuts
+  - Watercoolers
   - All-hands sessions
   - Team retreats
 ---
