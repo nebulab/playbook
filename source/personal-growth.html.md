@@ -4,7 +4,7 @@ image:
   filename: personal-growth.svg
   width: 280
 social_cover: personal-growth.png
-position: 3
+position: 4
 playbook-section-chapters:
   - Coaching and 1:1s
   - Investment Time

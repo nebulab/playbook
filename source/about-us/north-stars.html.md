@@ -70,9 +70,9 @@ community, and we constantly look for ways to give back.
 
 Sometimes, this means releasing our work as open-source, so that the next person can get the same
 result with a fraction of the effort; other times, it means helping out someone in need, because we
-all need to start somewhere.
+all have to start somewhere in our journey.
 
-We think that life is too short for everyone to be solving the same problems over and over again,
-and we do whatever is in our power to accelerate the collective process of learning and growth.
+We think that life is too short for humankind to be solving the same problems over and over again,
+and we do whatever's in our power to accelerate this collective process of learning and growth.
 
 We want to be the rising tide that lifts all boats.

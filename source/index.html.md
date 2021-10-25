@@ -30,7 +30,7 @@ with the outside world.
 
 The playbook is divided into sections (e.g., "Managing teams") which themselves are divided into
 chapters (e.g., "Leading engagements"). Each section explores one aspect of life at Nebulab, while
-each chapter explores a specific... well, aspect of that aspect.
+each chapter explores a specific… well, aspect of that aspect.
 
 If this playbook was a real book made of real paper, you could read the playbook cover-to-cover, or
 you could jump between chapters/sections as needed—whatever floats your boat. Since this playbook

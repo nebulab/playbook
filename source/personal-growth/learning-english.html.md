@@ -60,7 +60,7 @@ like! You can also try to go back and re-read any books from your past in their 
 ### Podcasts
 
 Podcasts became a big thing in the last few years. Now, you can find a podcast on nearly any topic:
-science, finance, world news, technology... you name it.
+science, finance, world news, technology… you name it.
 
 The good thing about podcasts is that most of the podcast apps let you increase the playback speed,
 so you can start a bit slower than normal and then, as you get to know the speaker and the language,
