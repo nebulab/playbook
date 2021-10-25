@@ -29,7 +29,7 @@ regarding any of the benefits, feel free to ask!
 
   Curious about what a Nebulab team retreat looks like? Check out the [video](https://youtu.be/gXsDfOmC6eY) and
   [website](https://retreat2019.nebulab.com) of our last team retreat!
-- **[Conference budget](/personal-growth/conferences).**
+- **Conference budget.**
   Want to attend a conference? Let us know and we’ll happily pay for the trip, the hotel and the tickets.
 - **Learning budget.** We provide full reimbursement for industry-related books, workshops and courses.
 - **English lessons.** If you're not comfortable with your English proficiency, we will happily pay
