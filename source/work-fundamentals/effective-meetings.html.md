@@ -13,11 +13,10 @@ where a meeting is the best choice:
    communication encourages deep reflection, it also comes with a longer feedback loop. If your goal
    is to collect feedback, resolve conflicts, reach a conclusion and move forward, a meeting may
    actually work better than a Slack thread.
-2. **You want to maintain emotional context.** Sensitive conversations are best held
-   face to face: you can't fire someone through Slack—well, you _could,_ but that would tell a lot
-   about your EI. This also applies to other high-stakes conversations. Make sure you're accounting
-   for the emotional component of your message when picking its medium.
-3. **You're interacting with "foreign" stakeholders.** In an ideal world, everyone would be an async
+2. **You want to maintain emotional context.** Sensitive matters are best discussed face to face:
+   it's tough to have high-stakes conversations over Slack. Make sure you're accounting for the
+   emotional component of your message when picking its medium.
+5. **You're interacting with "foreign" stakeholders.** In an ideal world, everyone would be an async
    fanboy, but that's not the world we live in. If you need to have a conversation with someone
    you've never met before, they are very likely to prefer a Zoom call over a Google Doc. Within
    reason, try to be flexible and pragmatic in such situations.
@@ -43,8 +42,8 @@ traits which require the effort of everyone involved in them, from the organizer
 - **The meeting has all and only mandatory attendees.** This ensures you're not missing any context,
   helps the conversation stay on topic and respects the time of the people who don't need to be at
   the meeting in the first place. If you're the organizer, make sure you invite everyone who's
-  needed to make a decision, and no one else. If you're an attendee, make sure you're _actually_
-  needed to reach the meeting's outcome.
+  needed to make a decision, and set anyone else as optional. If you're an attendee, make sure
+  the meeting is _actually_ one you need to attend.
 - **The meeting has an agenda and expected outcomes.** This ensures the meeting doesn't degenerate
   into casual chit-chat or into a brainstorming session. If you can't establish an agenda or if you
   don't know what outcome you expect from the meeting, why are you meeting in the first place?

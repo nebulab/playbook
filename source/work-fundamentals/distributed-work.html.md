@@ -9,9 +9,9 @@ terms and fail, because they don't realize that distributed work is an entirely 
 with its own rules, pros and cons.
 
 Because we have two studios, Nebulab has been distributed since day 1. For us, distributed work is a
-way think more clearly, communicate more transparently, and work more intentionally, not to mention
-the ability to hire people all over the world. On the downside, we have found that it makes social
-interactions harder, and requires us to work twice as hard to bring people together. 
+way to think more clearly, communicate more transparently, and work more intentionally, not to
+mention the ability to hire people all over the world. On the downside, we have found that it makes
+social interactions more difficult, and requires us to work twice as hard to bring people together. 
 
 We've always considered co-located work to be a nice benefit on top of our distributed culture: our
 studios are there if you're close by and need a nice, quiet space away from home, but not in the
