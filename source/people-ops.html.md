@@ -11,7 +11,5 @@ playbook-section-chapters:
   - Onboarding
   - Benefits
   - Paid Time Off
-  - Payroll
-  - Travel policy
   - Parting ways
 ---
