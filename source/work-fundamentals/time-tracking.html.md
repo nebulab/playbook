@@ -17,7 +17,7 @@ of people work their local 9-to-6 (i.e., 8 hours of work and a 1-hour lunch brea
 teammates working early in the morning and/or late in the afternoon, so that they can spend more
 time with their family.
 
-Finally, all team members get a "schedule flexibility" PTO allowance of up to 88 hours per year,
+Finally, all team members get a "schedule flexibility" PTO allowance of up to 104 hours per year,
 depending on length of service. This allows you to come in a little late or leave a little early
 without eating into your vacation PTO or having to compensate with overtime.
 
