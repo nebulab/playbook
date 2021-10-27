@@ -40,27 +40,15 @@ judgment to give a recommendation.
 > recommend only doing this after you've left your own evaluation for each skill, in order to
 > minimize bias during the process.
 
-Once one of your reports has initiated and completed their side of an evaluation, you'll get an
-email notification by [Progression](https://progressionapp.com/) and you'll be able to complete your
-side of the evaluation.
+Once one of your reports has initiated and completed
+[their side of an evaluation](/personal-growth/competency-matrix), you'll get an email notification
+and you'll be able to provide your input.
 
-The Progression UI is fairly straightforward: for each skill, you can enter whether the person is
-**Working towards**, **Meeting** or **Exceeding** the expectations:
-
-- **Working towards** will place the person at the previous level of the skill compared to the
-  requirement for their evaluation (e.g., if the requirement is _Pragmatism - Level 2_, this will
-  place them at _Pragmatism - Level 1_).
-- **Meeting** will place the person at the expected level of the skill compared to the requirement
-  for their evaluation (e.g., if the requirement is _Pragmatism - Level 2_, this will place them at
-  _Pragmatism - Level 2_).
-- **Exceeding** will place the person at the next level of the skill compared to the requirement
-  for their evaluation (e.g., if the requirement is _Pragmatism - Level 2_, this will place them at
-  _Pragmatism - Level 3_). This option won't be available if the person is already at the highest
-  possible level for that skill.
-
-You will also be able to leave some free-form feedback for each skill. This is strongly encouraged
-for anything other than a **Meeting**: if your report is under-performing or over-performing, they
-should know what they could improve/what they're doing well!
+For each skill, you can enter whether the person is working towards, meeting exceeding the
+expectations. You will also be able to leave some free-form feedback for each skill. This is
+strongly encouraged for anything other than a "meeting expectations": if your report is
+under-performing or over-performing, they should know what they could improve/what they're doing
+well!
 
 Once you've evaluated all skills, you can submit the evaluation. This will notify your report and
 allow you to complete the joint review.
