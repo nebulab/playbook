@@ -6,6 +6,8 @@ image:
 social_cover: internal-projects.png
 position: 6
 playbook-section-chapters:
-  - Blog
+  - Nebulab
+  - Solidus
   - Playbook
+  - Blog
 ---

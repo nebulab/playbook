@@ -74,6 +74,7 @@ All new team members receive a hardware hire kit that includes:
 - an [Apple Magic Keyboard][magic-keyboard] or a Logitech keyboard of choice;
 - an [Apple Magic Mouse][magic-mouse] or a [Logitech MX Master 3][mx-master-3];
 - a pair of [Bose Noise Cancelling Headphones 700][bose-headphones], [Sony WH-1000XM4][sony-headphones] or equivalent ANC Bluetooth headphones;
+- a [Logitech C920S][webcam] HD webcam;
 - an [LG 27UP850-W screen][lg-screen] (IPS, 27", 4K, USB-C),
 - an American Express Gold corporate credit card, which you can use on business trips and other
   work-related expenses,
@@ -88,3 +89,4 @@ All new team members receive a hardware hire kit that includes:
 [bose-headphones]: https://www.bose.com/en_us/products/headphones/noise_cancelling_headphones/noise-cancelling-headphones-700.html#v=noise_cancelling_headphones_700_black
 [sony-headphones]: https://electronics.sony.com/audio/headphones/headband/p/wh1000xm4
 [lg-screen]: https://www.lg.com/us/monitors/lg-27up850-w-uhd-monitor
+[webcam]: https://www.logitech.com/en-us/products/webcams/c920s-pro-hd-webcam.960-001257.html
