@@ -8,7 +8,7 @@ position: 5
 playbook-section-chapters:
   - Hiring
   - Compensation
-  - Onboarding
   - Benefits
+  - Onboarding
   - Parting ways
 ---
