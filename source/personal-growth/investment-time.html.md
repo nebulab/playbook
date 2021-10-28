@@ -11,7 +11,7 @@ community or simply allows us to disconnect from work and recharge.
 
 In these years, teammates have used Investment Time to:
 
-- Write a post on their personal blog or our [own](working-on-nebulab/blog).
+- Write a post on their personal blog or our [own](internal-projects/blog).
 - Contribute to an open source project (it doesn't have to be Solidus!).
 - Read that book that they kept postponing.
 - Study a new tool, technology or methodology they were interested in.

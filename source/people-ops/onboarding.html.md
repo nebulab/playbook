@@ -51,4 +51,4 @@ You don't have to do it all in one day, or even in one week: simply take the tim
 through the content and fully understand it.
 
 Take notes on any the aspects that are not clear and ask your manager to clarify them or, better 
-yet, [open a PR](/working-on-nebulab/playbook)!
+yet, [open a PR](/internal-projects/playbook)!
