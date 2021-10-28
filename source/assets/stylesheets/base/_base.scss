@@ -12,7 +12,7 @@ nav ul {
   list-style: none;
   line-height: normal;
   padding: 0;
-  
+
   li {
     padding: 0;
   }
@@ -21,7 +21,8 @@ nav ul {
 ul,
 ol {
   line-height: 2.2rem;
-  
+  margin: 0 0 1rem;
+
   li {
     padding: 0 0 0 1rem;
   }
@@ -34,22 +35,22 @@ table {
   display: block;
   overflow-x: auto;
   width: 100%;
-  
+
   th {
     border: 1px solid $border-color;
     font-weight: 800;
     padding: ($gutter / 2) ($gutter - .5);
     text-align: center;
   }
-  
+
   tr {
     border-top: 1px solid $border-color;
-    
+
     &:nth-child(2n) {
       background-color: #f8f8f8;
     }
   }
-  
+
   td {
     border: 1px solid $border-color;
     padding: ($gutter / 2) ($gutter - .5);

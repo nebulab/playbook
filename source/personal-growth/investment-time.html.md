@@ -2,44 +2,33 @@
 title: Investment Time
 ---
 
-We use 10% of our time for personal growth. During this time, named "Investment Time", we do not work for clients.
-Instead, we focus on initiatives that improve our skills or contribute to the community.
-Here are some ideas for Investment Time:
+We dedicate 10% of our work time (~165 hours for full-time employees) every year to our personal
+growth and well-being—we call this Investment Time, and it's one of our longest-standing traditions.
 
-- Write a post on your personal blog or our [own](working-on-nebulab/blog).
-- Contribute to an open source project.
-- Study a new tool or technology.
-- Coach a teammate and teach them a skill.
-- Learn a language.
+During Investment Time, we do not work for clients. We don't even have guidelines or fixed lists of
+projects to pick from. Instead, we just do something that improves our skills, contributes to the
+community or simply allows us to disconnect from work and recharge.
 
-This is "Investment Time", because it's time you can invest in yourself to grow as a professional and progress
-in your career. It is the right time to work on personal open source projects (if you have any) or even to relax
-a little bit if you feel stressed over doing too much client work.
+In these years, teammates have used Investment Time to:
 
-## Tracking your Investment Time budget
+- Write a post on their personal blog or our [own](working-on-nebulab/blog).
+- Contribute to an open source project (it doesn't have to be Solidus!).
+- Read that book that they kept postponing.
+- Study a new tool, technology or methodology they were interested in.
+- Make progress on their personal learning plan.
+- Learn a second (or third, or fourth!) language.
+- Coach a teammate and teach them a new skill.
 
-You get 165 hours of Investment Time every year. You are required to track against this budget by using Harvest,
-there is a task named "Investment Time" under client Nebulab.
+But really, you can use this for anything else you might think of! 
 
-Whenever you're doing something for your personal growth, whatever the activity might be, you should be tracking
-against that budget. There are a few exceptions: [Conferences](personal-growth/conferences),
-[All Hands](how-we-work/all-hands-meeting), [1:1s](personal-growth/coaching-and-one-on-ones) and
-[Team Retreats](/people-ops/travel-policy/#team-retreats) are not considered Investment Time and should not be
-tracked. When in doubt, talk to your manager to figure out if a particular activity is Investment Time or something else.
+## Finding time for... Investment Time
 
-Once you hit the yearly budget you're done for that year and need to wait for the next one to use more Investment
-Time. Considering the full budget is given for every full year, if you joined Nebulab mid-year you will get a smaller
-initial budget.
+Each teammate is free to organize their schedule however they want to make space for Investment
+Time. Any arrangement works, as long as urgent client work is given priority.
 
-## Client work and Investment Time
+The most popular approach is to use the first or last hour of the workday, when you are mentally
+disconnected from client work and can invest yourself fully in what you're doing. You cold also
+batch entire hours or days of Investment Time, if the project allows for it.
 
-We work for clients from Monday to Friday. It's on you to find the right moment for Investment Time, any arrangement
-works as long as clients are given full priority.
-
-While you're free to use your Investment Time whenever you like, there are a few options that are known to work:
-
-- First/last hour of the work day.
-- A few hours when the client's team workday hasn't started yet.
-- When client work slows down, reserve a few days to focus on Investment Time.
-
- You're encouraged to use your own judgment and manage your schedule accordingly. If in doubt, ask your manager!
+You're encouraged to use your own judgment and manage your schedule accordingly. If in doubt, ask
+your manager and they'll figure something out!
