@@ -21,9 +21,8 @@ Promoting a teammate's continuous growth boils down to three key activities:
 ## Establishing a learning path
 
 > **Pro Tip:** We started to put some of our learning paths in public for the entire company to see,
-> in order to build accountability and learn from others. You can find them in
-> [Notion](https://www.notion.so/nebulab/Personal-learning-paths-0b341a5333cc41068de56e1e8f9a1321)
-> and, if you like the idea, you're more than welcome to add your own learning path there!
+> in order to build accountability and learn from others. You can find them in Notion and, if you
+> like the idea, you're more than welcome to add your own learning path there!
 
 Most people at Nebulab have a learning path, no matter their position or seniority. At its core, the
 concept is fairly simple: you decide in which direction you want to grow as a professional (i.e.

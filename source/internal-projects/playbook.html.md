@@ -34,7 +34,7 @@ experimental policies and initiatives could lead to a lot of confusion both for 
 and existing employees. Moreover, we've been in business for more than ten years and our core
 principles are fairly stable, so we don't need to change things _that_ often anyway.
 
-The playbook is most often updated as the result of a [new initiative or policy change](/internal-projects/company-culture),
+The playbook is most often updated as the result of a [new initiative or policy change](/internal-projects/nebulab),
 or when someone finds a typo or a piece of content that became irrelevant/outdated as we all learn
 about things and change our minds.
 
@@ -51,7 +51,7 @@ Notion.
 
 Sometimes, we also use Notion for information that is bound to change quickly, perhaps because it's
 still experimental. When that's the case, we will eventually move it to the public playbook once it
-becomes an official policy. That's what we do with [internal RFCs](/internal-projects/company-culture), for
+becomes an official policy. That's what we do with [internal RFCs](/internal-projects/nebulab#complex-initiatives-and-rfcs), for
 example: they start off as a Notion document, and they are then moved to the playbook when they
 become fully effective.
 
