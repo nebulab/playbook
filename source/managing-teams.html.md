@@ -4,7 +4,7 @@ image:
   filename: managing-teams.svg
   width: 250
 social_cover: managing-teams.png
-position: 5
+position: 7
 playbook-section-chapters:
   - What Engineering Managers do
   - Leading engagements

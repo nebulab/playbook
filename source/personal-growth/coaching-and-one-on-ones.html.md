@@ -61,4 +61,4 @@ manager know in advance so you can adjust the deadline accordingly.
 
 Following up consistently on your 1:1s will allow you to really make the best of your time at
 Nebulab, and will sometimes be critical for your career progression here (e.g., in the case of
-[matrix evaluations](/personal-growth/competency-metrix)).
+[matrix evaluations](/personal-growth/competency-matrix)).

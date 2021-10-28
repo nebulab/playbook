@@ -5,7 +5,7 @@ $managing-teams:           #E2FEB8;
 $people-ops:               #F7E9FB;
 $personal-growth:          #D4F8EE;
 $work-fundamentals:        #FFF9B3;
-$working-on-nebulab:       #FDECFF;
+$internal-projects:        #FDECFF;
 
 .chapter-hero {
   text-align: center;
@@ -34,7 +34,7 @@ $working-on-nebulab:       #FDECFF;
     people-ops: $people-ops,
     personal-growth: $personal-growth,
     work-fundamentals: $work-fundamentals,
-    working-on-nebulab: $working-on-nebulab
+    internal-projects: $internal-projects
   );
 
   @each $chapter, $color in $heroes {
