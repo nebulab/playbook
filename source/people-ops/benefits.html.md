@@ -2,58 +2,89 @@
 title: Benefits
 ---
 
-All members of the team are entitled to the benefits listed in this document. If you have any doubts
-regarding any of the benefits, feel free to ask!
+We maintain a competitive set of benefits that are aimed at improving the productivity and promoting
+the personal and professional well-being of all teammates.
 
-- **[Remote-first culture](/how-we-work/where-when-and-how/#remote-work).**
-  We've been a distributed company since 2012. Every process is obsessively designed for effective
-  remote work and collaboration.
-- **[Flexible work hours](/how-we-work/where-when-and-how).**
-  As long as you’re doing great work and enjoying it, we don’t really care if it’s a standard 9-to-5
-  or a more exotic schedule. All members of the team have the right to choose their own schedule,
-  as long as they're not impacting someone's else productivity.
-- **[Coaching](/personal-growth/coaching-and-one-on-ones).**
-  One of your manager's main responsibilities is to support your personal and professional growth.
-  If you are interested in a given subject and would like to study it, or if a project you are
-  working on is particularly challenging, do not hesitate to contact your manager who will be happy
-  to help you!
-- **[Investment Time](/personal-growth/investment-time).**
-  You can use up to 10% of your time to focus on studying or to work on side-projects. If you don't
-  know what to work on, ask your manager to help you find a project appropriate for your growth.
-- **[Generous PTO](/people-ops/paid-time-off).**
-  Up to 33 days of paid time off plus 11 days of national holidays.
-- **[Team retreats.](/people-ops/travel-policy/#team-retreats)**
-  Each year we organize a team retreat where we work and have fun together. The purpose of these
-  meetings is to let members of the team who work in different offices or remotely socialize; your
-  are encouraged to take part!
+We're constantly iterating on this list based on the feedback we get from the team so, if you have
+any ideas, feel free to tell your manager!
 
-  Curious about what a Nebulab team retreat looks like? Check out the [video](https://youtu.be/gXsDfOmC6eY) and
-  [website](https://retreat2019.nebulab.com) of our last team retreat!
-- **Conference budget.**
-  Want to attend a conference? Let us know and we’ll happily pay for the trip, the hotel and the tickets.
-- **Learning budget.** We provide full reimbursement for industry-related books, workshops and courses.
-- **English lessons.** If you're not comfortable with your English proficiency, we will happily pay
-  for your English lessons. We recommend [italki](https://www.italki.com/), but you can expense any
-  other platform that helps you learn the language.
-- **Software of choice.** We provide full reimbursement for any software, up to €150/year/person.
-- **Hire kit.** All members of the team receive a hardware hire kit that includes:
-  - [13"](https://www.apple.com/shop/buy-mac/macbook-pro/13-inch-space-gray-2.0ghz-intel-core-i5-quad-core-processor-with-intel-iris-plus-graphics-512gb#)
-  or [16"](https://www.apple.com/shop/buy-mac/macbook-pro/16-inch-space-gray-2.6ghz-6-core-processor-512gb#)
-  MacBook Pro (32 GB of RAM, US or IT keyboard);
-  - [13"](https://www.apple.com/shop/product/HPLG2ZM/A/incase-13-compact-sleeve-in-flight-nylon-for-macbook-air-and-macbook-pro)
-  or [16"](https://www.apple.com/shop/product/HPCZ2ZM/A/incase-compact-sleeve-in-flight-nylon-for-16-macbook-pro-and-15-macbook-pro)
-  Incase Compact Sleeve in Flight Nylon;
-  - [Apple Magic Keyboard](https://www.apple.com/shop/product/MLA22LL/A/magic-keyboard-us-english)
-  or a Logitech keyboard of choice;
-  - mouse (to choose between [Apple Magic Mouse](https://www.apple.com/shop/product/MLA02LL/A/magic-mouse-2-silver)
-  and [Logitech MX Master 3](https://www.logitech.com/en-us/products/mice/mx-master-3-mac-wireless-mouse.910-005693.html));
-  - [Bose Noise Cancelling Headphones 700](https://www.bose.com/en_us/products/headphones/noise_cancelling_headphones/noise-cancelling-headphones-700.html#v=noise_cancelling_headphones_700_black), [Sony WH-1000XM4](https://electronics.sony.com/audio/headphones/headband/p/wh1000xm4)
-  or equivalent ANC Bluetooth headphone;
-  - [LG 27UP850-W screen](https://www.lg.com/us/monitors/lg-27up850-w-uhd-monitor) (IPS, 27", 4K,
-  USB-C).
-  - American Express Gold corporate credit card to be used for business trips.
-  - Swag bag with lots of goodies inside it!
-  <br>
-  <br>
+## Remote-first culture
+
+We've been [fully distributed](/work-fundamentals/distributed-work) company since our birth in 2011.
+Every process, policy and interaction is obsessively designed to be remote-first, and everyone is
+free to design their work schedule however they like.
+
+While we consider this to be more of a fundamental choice than a benefit, being able to work from
+home and use those commute hours to spend time with yourself and your loved ones is definitely a
+nice addition!
+
+## Personal and professional development
+
+At Nebulab, you'll have plenty of opportunities for personal and professional development. In fact,
+supporting your growth continuously and systematically is one of your manager's
+[main responsibilities](/personal-growth/coaching-and-one-on-ones).
+
+In practice, this benefit takes different forms:
+
+- Every teammate gets [10% of their work hours](/personal-growth/investment-time) every year to
+  spend however they want: you can study a new language, work on an open-source project, write a
+  book, or simply disconnect from work and recharge your batteries.
+- We'll reimburse any industry-related books, workshops and courses, subject to your manager's
+  approval. Whatever you need to keep learning!
+- We provide a yearly conference budget that covers travel, accommodation and conference tickets.
+- If you're not fully comfortable with your English proficiency, we will happily pay for your
+  English lessons. We recommend [italki](https://www.italki.com/), but you can expense any other
+  similar platform.
+
+## Generous PTO
+
+Everyone at Nebulab should work at a healthy, sustainable pace and take time off to mentally
+disconnect from work and recharge.
+
+All teammates get 22 days of [regular PTO](/people-ops/paid-time-off), 11 days for national holidays
+and additional permits for sick leave and special paid leave.
+
+Finally, we have a [schedule flexibility](/work-fundamentals/time-tracking/) PTO allowance of up to
+104 hours per year, depending on length of service. This allows you to come in a little late, leave
+a little earlier or take a few hours off every now and then.
+
+## Team retreats
+
+Each year, we organize a [team retreat](/company-rituals/team-retreats) in some amazing location
+around the world to get to know each other in real life and spend some time together.
+
+Curious about what a Nebulab team retreat looks like? Check out the
+[video](https://youtu.be/gXsDfOmC6eY) and [website](https://retreat.nebulab.com) of our last team
+retreat!
+
+## Software budget
+
+We reimburse for any software you need to do your job, up to €150/year. This can be spent on your
+IDE, productivity tools or anything else that you find useful!
+
+## Hire kit
 
 ![Hire kit](hire-kit.jpg)
+
+All new team members receive a hardware hire kit that includes:
+
+- a shiny new [13"][mbpro-13] or [16"][mbpro-16] MacBook Pro which is upgraded every two years;
+- an [Incase Compact Sleeve in Flight Nylon][laptop-sleeve] to tuck your MacBook away when you're
+  on the move;
+- an [Apple Magic Keyboard][magic-keyboard] or a Logitech keyboard of choice;
+- an [Apple Magic Mouse][magic-mouse] or a [Logitech MX Master 3][mx-master-3];
+- a pair of [Bose Noise Cancelling Headphones 700][bose-headphones], [Sony WH-1000XM4][sony-headphones] or equivalent ANC Bluetooth headphones;
+- an [LG 27UP850-W screen][lg-screen] (IPS, 27", 4K, USB-C),
+- an American Express Gold corporate credit card, which you can use on business trips and other
+  work-related expenses,
+- a swag bag with lots more goodies inside!
+
+[mbpro-13]: https://www.apple.com/shop/buy-mac/macbook-pro/13-inch-space-gray-2.0ghz-intel-core-i5-quad-core-processor-with-intel-iris-plus-graphics-512gb#
+[mbpro-16]: https://www.apple.com/shop/buy-mac/macbook-pro/16-inch-space-gray-2.6ghz-6-core-processor-512gb#
+[laptop-sleeve]: https://www.apple.com/shop/product/HPCZ2ZM/A/incase-compact-sleeve-in-flight-nylon-for-16-macbook-pro-and-15-macbook-pro
+[magic-keyboard]: https://www.apple.com/shop/product/MLA22LL/A/magic-keyboard-us-english
+[magic-mouse]: https://www.apple.com/shop/product/MLA02LL/A/magic-mouse-2-silver
+[mx-master-3]: https://www.logitech.com/en-us/products/mice/mx-master-3-mac-wireless-mouse.910-005693.html
+[bose-headphones]: https://www.bose.com/en_us/products/headphones/noise_cancelling_headphones/noise-cancelling-headphones-700.html#v=noise_cancelling_headphones_700_black
+[sony-headphones]: https://electronics.sony.com/audio/headphones/headband/p/wh1000xm4
+[lg-screen]: https://www.lg.com/us/monitors/lg-27up850-w-uhd-monitor

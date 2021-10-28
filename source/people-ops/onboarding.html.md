@@ -22,7 +22,7 @@ Head over to the [Benefits](/people-ops/benefits) page and make your choices!
 Next up, you should set up your company accounts and install all the tools we use:
 
 - Make sure you can sign into your work Google account, and that everything's in order both in
-  Gmail and Google Calendar. You'll be using these extensively at Nebulab!
+  Gmail and Google Calendar. You'll be using these extensively!
 - Use your Google account to sign into [Slack](https://nebulab.slack.com).
 - Install [Harvest](https://www.getharvest.com), sign in, and make sure you can see all
   company-level projects and any client projects you've been assigned to.
@@ -35,21 +35,20 @@ If you need any help, don't be afraid to reach out to the person who handled you
 
 ## Meet your manager
 
-Your manager will coordinate your work, as well as be responsible for your personal and professional
-growth. Our coaching practices are explained more thoroughly in
+Your manager will coordinate your work and they will be responsible for your personal and
+professional growth. Our coaching practices are explained more thoroughly in
 [Coaching and 1:1s](/personal-growth/coaching-and-one-on-ones).
 
 When you join the company, your manager will reach out to schedule your first 1:1, where you'll get
-to know each other and structure your relationship together.
-
-Your manager will reach out to set up a call with the rest of your project's team, so that you
-get to know the project and the people you'll be working with.
+to know each other and structure your relationship together. They will also set up a call with the
+rest of your team, so that you can get to know the project and the people you'll be working with.
 
 ## Read this playbook
 
-Finally, when you've completed all the steps, we suggest reading the rest of this playbook!
+Finally, once you've completed all of the above, we suggest reading the rest of this playbook!
 
 You don't have to do it all in one day, or even in one week: simply take the time you need to go
-through the content and fully understand it. If needed, make notes of the aspects that are not clear
-and ask for clarification or, better yet, [open a PR](/working-on-nebulab/playbook) to improve
-them!
+through the content and fully understand it.
+
+Take notes on any the aspects that are not clear and ask your manager to clarify them or, better 
+yet, [open a PR](/working-on-nebulab/playbook)!
