@@ -41,8 +41,8 @@ In practice, this benefit takes different forms:
 Everyone at Nebulab should work at a healthy, sustainable pace and take time off to mentally
 disconnect from work and recharge.
 
-All teammates get 22 days of [regular PTO](/work-fundamentals/distributed-work), 11 days for
-national holidays and additional permits for sick leave and special paid leave.
+All teammates get 22 days of regular PTO, 11 days for national holidays and additional permits for
+sick leave and special paid leave.
 
 Finally, we have a [schedule flexibility](/work-fundamentals/time-tracking/) PTO allowance of up to
 104 hours per year, depending on length of service. This allows you to come in a little late, leave
