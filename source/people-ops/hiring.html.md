@@ -35,7 +35,7 @@ candidates are dedicating to us.
 
 These factors need to be kept in balance: make the process too light, and you'll risk making the
 wrong hire; make it too accurate, and you'll ask people for too much of their time. We are
-constantly iterating on our process to make make the experience as pleasant as possible for everyone
+constantly iterating on our process to make the experience as pleasant as possible for everyone
 involved, by asking candidates for feedback and re-evaluating best practices.
 
 ### Step 1: Application
