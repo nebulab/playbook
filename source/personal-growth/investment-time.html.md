@@ -3,7 +3,7 @@ title: Investment Time
 ---
 
 We dedicate 10% of our work time (~165 hours for full-time employees) every year to our personal
-growth and well-being—we call this Investment Time, and it's one of our longest-standing traditions.
+growth and well-being (not cumulative, resets at the end of the year). We call this Investment Time, and it's one of our longest-standing traditions.
 
 During Investment Time, we do not work for clients. We don't even have guidelines or fixed lists of
 projects to pick from. Instead, we just do something that improves our skills, contributes to the
@@ -19,7 +19,7 @@ In these years, teammates have used Investment Time to:
 - Learn a second (or third, or fourth!) language.
 - Coach a teammate and teach them a new skill.
 
-But really, you can use this for anything else you might think of! 
+But really, you can use this for anything else you might think of!
 
 ## Finding time for... Investment Time
 
