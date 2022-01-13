@@ -9,7 +9,7 @@ building bespoke eCommerce experiences for disruptive brands. We also lead the d
 [Solidus](https://solidus.io), the open-source eCommerce platform for industry trailblazers.
 
 If you're here, it means you already work at Nebulab (yay!), or you're interested in working _at_
-Nebulab, or you're interested in working _with_ Nebulab, or you you just want to take a sneak peek
+Nebulab, or you're interested in working _with_ Nebulab, or you just want to take a sneak peek
 at how we do things over here. Or maybe you rage-clicked a SERP and ended up on this site. Whatever
 the case might be, let us first give you the history and tour of this playbook, so that you can more
 easily find your way around.
