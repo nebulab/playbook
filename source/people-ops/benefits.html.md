@@ -42,7 +42,7 @@ Everyone at Nebulab should work at a healthy, sustainable pace and take time off
 disconnect from work and recharge.
 
 In total all teammates get up to 35 days of PTO (paid time off) per year. 22 days of regular 
-PTO and up to 104 hours per year (depending on their length of service) for 
+PTO and up to 104 hours per year (depending on their tenure) for 
 [schedule flexibility](/work-fundamentals/time-tracking/). This allows you to come in a little 
 late, leave a little earlier or take a few hours off every now and then. You can use it to 
 just take full days off too.
