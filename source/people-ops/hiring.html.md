@@ -123,7 +123,7 @@ senior/principal engineer, we don't really expect you to solve all the challenge
 solving all the challenges will not disqualify you, but it might result in your profile being
 classified under a lower seniority level.
 
-Two or three days after completing the aptitude test, your interviewer will let you know if you've
+Two or three days after completing the technical test, your interviewer will let you know if you've
 made it to the fifth step, the [pre-offer interview](#step-5-pre-offer-interview).
 
 ### Step 5: Pre-offer interview
