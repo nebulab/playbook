@@ -1,35 +1,50 @@
-@font-face {
-    font-family: 'Eina03';
-    src: url('../fonts/Eina03/38EBD9_0_0.eot');
-    src: url('../fonts/Eina03/38EBD9_0_0.eot?#iefix') format('embedded-opentype'),
-            url('../fonts/Eina03/38EBD9_0_0.woff') format('woff'),
-            url('../fonts/Eina03/38EBD9_0_0.woff2') format('woff2'),
-            url('../fonts/Eina03/38EBD9_0_0.ttf') format('truetype');
+/*
+ * Web Fonts from colophon-foundry.org
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Colophon Foundry. The fonts are protected under domestic and international trademark and
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2021 Colophon Foundry
+ *
+ * Licenced to Davide Di Stefano Nebulab
+ */
 
-    font-weight: 800;
-    font-style: normal;
-}
+ $basis-font-path: "../fonts/basis-grotesque/";
 
-@font-face {
-    font-family: 'Eina03';
-    src: url('../fonts/Eina03/38EB00_0_0.eot');
-    src: url('../fonts/Eina03/38EB00_0_0.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/Eina03/38EB00_0_0.woff') format('woff'),
-         url('../fonts/Eina03/38EB00_0_0.woff2') format('woff2'),
-         url('../fonts/Eina03/38EB00_0_0.ttf') format('truetype');
-
-    font-weight: 600;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Eina03';
-    src: url('../fonts/Eina03/38EB00_1_0.eot');
-    src: url('../fonts/Eina03/38EB00_1_0.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/Eina03/38EB00_1_0.woff') format('woff'),
-         url('../fonts/Eina03/38EB00_1_0.woff2') format('woff2'),
-         url('../fonts/Eina03/38EB00_1_0.ttf') format('truetype');
-
-    font-weight: normal;
-    font-style: normal;
-}
+ @font-face {
+     font-family: 'basis-grotesque-bold';
+     src: url('#{$basis-font-path}basis-grotesque-bold.eot');
+     src: url('#{$basis-font-path}basis-grotesque-bold.eot?#iefix') format('embedded-opentype'),
+         url('#{$basis-font-path}basis-grotesque-bold.woff2') format('woff2'),
+         url('#{$basis-font-path}basis-grotesque-bold.woff') format('woff'),
+         url('#{$basis-font-path}basis-grotesque-bold.ttf') format('truetype');
+     font-weight: normal;
+     font-style: normal;
+     font-display: swap;
+ }
+ 
+ @font-face {
+     font-family: 'basis-grotesque-italic';
+     src: url('#{$basis-font-path}basis-grotesque-italic.eot');
+     src: url('#{$basis-font-path}basis-grotesque-italic.eot?#iefix') format('embedded-opentype'),
+         url('#{$basis-font-path}basis-grotesque-italic.woff2') format('woff2'),
+         url('#{$basis-font-path}basis-grotesque-italic.woff') format('woff'),
+         url('#{$basis-font-path}basis-grotesque-italic.ttf') format('truetype');
+     font-weight: normal;
+     font-style: italic;
+     font-display: swap;
+ }
+ 
+ @font-face {
+     font-family: 'basis-grotesque-regular';
+     src: url('#{$basis-font-path}basis-grotesque-regular.eot');
+     src: url('#{$basis-font-path}basis-grotesque-regular.eot?#iefix') format('embedded-opentype'),
+         url('#{$basis-font-path}basis-grotesque-regular.woff2') format('woff2'),
+         url('#{$basis-font-path}basis-grotesque-regular.woff') format('woff'),
+         url('#{$basis-font-path}basis-grotesque-regular.ttf') format('truetype');
+     font-weight: normal;
+     font-style: normal;
+     font-display: swap;
+ }

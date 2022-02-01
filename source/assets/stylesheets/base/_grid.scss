@@ -3,10 +3,11 @@
   padding: $gutter;
   text-decoration: none;
   outline: 0;
+  border: 0;
 }
 
 .header .title {
-  color: $light-grey;
+  color: $n_black;
   display: block;
   font-size: $extra-small-fs;
   text-transform: uppercase;
@@ -47,13 +48,13 @@
   }
   
   p:last-of-type {
-    color: $black;
+    color: $n_black;
     margin: 0;
   }
   
   a {
     font-weight: 800;
-    color: $black;
+    color: $n_black;
   }
 }
 

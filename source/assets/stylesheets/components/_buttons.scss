@@ -1,5 +1,6 @@
 .button {
   border: 1px solid $button-color;
+  border-radius: 50px;
   color: $button-color;
   display: inline-block;
   font-size: $buttons-fs;
@@ -14,6 +15,7 @@
   &:hover {
     background: $button-color;
     color: $white;
+    border-color: $button-color;
   }
 }
 

@@ -1,19 +1,12 @@
 body {
-  font-family: $sans-ff;
+  font-family: $font-family__base;
   font-weight: normal;
-  font-size: $body-fs;
+  font-size: $small-fs;
   color: $p-color;
   -webkit-font-smoothing: antialiased;
-}
 
-a {
-  color: $link-color;
-  font-weight: normal;
-  text-decoration: underline;
-  outline: 0;
-
-  &:hover {
-    color: $link-hover-color;
+  @media (min-width: $device-md) {
+    font-size: $body-fs;
   }
 }
 
@@ -22,49 +15,63 @@ p {
   margin: 0 0 1rem;
 }
 
+
+a {
+  font-family: $font-family__bold;
+  color: $link-color;
+  text-decoration: none;
+  border-bottom: 2px solid $n_black;
+  outline: 0;
+  transition: all 0.3s;
+
+  &:hover {
+    color: $link-hover-color;
+    border-color: $link-hover-color;
+  }
+}
+
+
+strong {
+  font-family: $font-family__bold;
+}
+
+em {
+  font-family: $font-family__italic;
+}
+
 table {
   margin: 0 0 1rem;
 }
 
 h1, h2, h3, h4, h5, h6 {
+  font-family: $font-family__bold;
   color: $heading-color;
 }
 
 h1 {
-  font-family: $sans-ff;
-  font-weight: 800;
   font-size: 2.111em; // 38px
   margin: 0 0 2.5rem;
 }
 
 h2 {
-  font-family: $sans-ff;
-  font-weight: 800;
   font-size: 1.667em; // 30px
   margin: 2rem 0 1.5rem;
 }
 
 h3 {
-  font-family: $sans-ff;
-  font-weight: 800;
   font-size: 1.444em; // 26px
   margin: 2rem 0 1.5rem;
 }
 
 h4 {
-  font-family: $sans-ff;
-  font-weight: 800;
   font-size: 1.222em; // 22px
 }
 
 h5 {
-  font-family: $sans-ff;
-  font-weight: 800;
   font-size: 1.125em; // 18px
 }
 
 h6 {
-  font-weight: 800;
   text-transform: uppercase;
   font-size: .667em; // 12px
   letter-spacing: 2px;

@@ -60,8 +60,8 @@
     white-space: normal;
     
     &::after {
-      border-bottom: 2px solid $black;
-      border-right: 2px solid $black;
+      border-bottom: 2px solid $n_black;
+      border-right: 2px solid $n_black;
       width: 10px;
       height: 10px;
       right: $gutter - .5;
