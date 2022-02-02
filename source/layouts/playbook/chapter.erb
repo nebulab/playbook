@@ -5,11 +5,11 @@
   <body>
     <%= partial "layouts/shared/header" %>
 
-    <div class="main-container">
+    <main class="main">
       <%= partial "layouts/shared/sidebar" %>
 
-      <div class="container page">
-        <section class="playbook">
+      <article class="page">
+        <div class="container">
           <%= partial 'layouts/playbook/chapter/header' %>
 
           <div class="chapter-contents">
@@ -19,9 +19,9 @@
           <%= partial 'layouts/playbook/chapter/footer' %>
 
           <%= partial "layouts/shared/footer" %>
-        </section>
-      </div>
-    </div>
+        </div>
+      </article>
+    </main>
 
     <%= partial "layouts/shared/cookies" %>
 

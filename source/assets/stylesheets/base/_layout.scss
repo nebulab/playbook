@@ -1,25 +1,19 @@
-.main-container {
+.main {
   position: relative;
   margin-top: $gutter;
 }
 
-.container {
+.page {
   padding-left: $gutter;
   padding-right: $gutter;
   
   @media (min-width: $device-md) {
     padding: 0 ($gutter * 2);
-  }
-}
-
-.container.home,
-.container.page {
-  @media (min-width: $device-md) {
     margin-left: $nav-width;
   }
 }
 
-section.playbook {
+.container {
   @media (min-width: $device-lg) {
     margin: 0 auto;
     max-width: 700px;

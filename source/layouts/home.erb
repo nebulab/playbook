@@ -5,11 +5,11 @@
   <body class="home-page">
     <%= partial "layouts/shared/header" %>
 
-    <div class="main-container">
+    <main class="main">
       <%= partial "layouts/shared/sidebar" %>
 
-      <div class="container home">
-        <div class="content-wrapper">
+      <article class="page home">
+        <div class="container">
           <div class="home-img">
             <%= image_tag 'homepage-hero.svg' %>
           </div>
@@ -17,8 +17,8 @@
         </div>
 
         <%= partial "layouts/shared/footer" %>
-      </div>
-    </div>
+      </article>
+    </main>
 
     <%= partial "layouts/shared/cookies" %>
 
