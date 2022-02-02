@@ -10,16 +10,13 @@
 
       <div class="container home">
         <div class="content-wrapper">
-          <div>
-            <%= yield %>
+          <div class="home-img">
+            <%= image_tag 'homepage-hero.svg' %>
           </div>
-          <div class="home-img-wrapper">
-            <div class="home-img"></div>
-          </div>
+          <%= yield %>
         </div>
 
         <%= partial "layouts/shared/footer" %>
-
       </div>
     </div>
 
