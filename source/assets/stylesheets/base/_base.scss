@@ -1,5 +1,14 @@
-body.js-show-nav {
-  overflow: hidden;
+body {
+  .js-show-nav {
+    overflow: hidden;
+  }
+
+  ::-moz-selection {
+    background: lighten($n_cyan, 25%);
+  }
+  ::selection {
+    background: lighten($n_cyan, 25%);
+  }
 }
 
 img, object, embed {

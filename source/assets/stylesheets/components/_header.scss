@@ -1,0 +1,33 @@
+.header {
+  border-bottom: 1px solid $border-color;
+  height: $header-height;
+  position: relative;
+  width: 100%;
+  text-align: center;
+  z-index: $header-z-index;
+  
+  @media (min-width: $device-md) {
+    border-right: 1px solid $border-color;
+    width: $nav-width;
+    position: fixed;
+    text-align: left;
+    left: 0;
+    top: 0;
+  }
+
+  .logo {
+    display: inline-block;
+    padding: $gutter;
+    text-decoration: none;
+    outline: 0;
+    border: 0;
+
+    .title {
+      color: $n_black;
+      display: block;
+      font-size: $extra-small-fs;
+      text-transform: uppercase;
+      text-align: right;
+    }
+  }
+}

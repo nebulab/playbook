@@ -1,0 +1,40 @@
+.main-container {
+  position: relative;
+  margin-top: $gutter;
+}
+
+.container {
+  padding-left: $gutter;
+  padding-right: $gutter;
+  
+  @media (min-width: $device-md) {
+    padding: 0 ($gutter * 2);
+  }
+}
+
+.container.home,
+.container.page {
+  @media (min-width: $device-md) {
+    margin-left: $nav-width;
+  }
+}
+
+section.playbook {
+  @media (min-width: $device-lg) {
+    margin: 0 auto;
+    max-width: 700px;
+  }
+}
+
+// Next chapter container
+.section-footer {
+  display: flex;
+  justify-content: center;
+  margin-top: $gutter;
+}
+
+*,
+*:after,
+*:before {
+  box-sizing: border-box;
+}
