@@ -154,3 +154,11 @@ touch with someone from Finance who can handle all your doubts.
 Once we agree on a start date and you sign the offer, we'll begin the onboarding process.
 
 Welcome to Nebulab!
+
+## Joining as an apprentice
+
+Sometimes, we talk to promising candidates who are not ready for a professional work environment
+yet. When this happens, and we have enough bandwidth, we may offer the candidate a full-time, paid
+position in our [Apprenticeship Program](/personal-growth/apprenticeship-program). This will
+eventually turn into a permanent full-time position if the candidate successfully graduates from the
+program.
