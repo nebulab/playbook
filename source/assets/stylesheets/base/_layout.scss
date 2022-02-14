@@ -1,0 +1,34 @@
+.main {
+  position: relative;
+  margin-top: $gutter;
+}
+
+.page {
+  padding-left: $gutter;
+  padding-right: $gutter;
+  
+  @media (min-width: $device-md) {
+    padding: 0 ($gutter * 2);
+    margin-left: $nav-width;
+  }
+}
+
+.container {
+  @media (min-width: $device-lg) {
+    margin: 0 auto;
+    max-width: 700px;
+  }
+}
+
+// Next chapter container
+.section-footer {
+  display: flex;
+  justify-content: center;
+  margin-top: $gutter;
+}
+
+*,
+*:after,
+*:before {
+  box-sizing: border-box;
+}

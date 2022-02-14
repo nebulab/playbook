@@ -53,23 +53,24 @@
 
 .nav-list {
   a {
-    color: $light-grey;
+    font-family: $font-family__bold;
+    color: $n_black;
     display: block;
     font-size: $menu-fs;
-    font-weight: 800;
     list-style: none;
     margin: ($gutter + .5) 0;
     position: relative;
     text-decoration: none;
+    border-bottom: 0;
   }
   
   > li > a {
     &:hover {
-      color: $black;
+      color: $n_black;
     }
     
     &[aria-current]:not([aria-current="false"]) {
-      color: $black;
+      color: $n_black;
     }
   }
   
@@ -80,15 +81,16 @@
     margin: 0;
     
     a {
-      color: $black;
+      color: lighten($n_black, 30%);
       font-size: $submenu-fs;
+      margin: ($gutter - .2) 0;
       
       &:hover {
-        color: $primary-color;
+        color: $n_black;
       }
       
       &[aria-current]:not([aria-current="false"]) {
-        color: $primary-color;
+        color: $link-hover-color;
         
         @media (min-width: $device-md) {
           &::after {
@@ -126,7 +128,7 @@
 
 .nav-list > li > a[aria-current]:not([aria-current="false"]),
 .nav-list > li.opened > a {
-  color: $black;
+  color: $n_black;
 }
 
 // Display chevron on hover on large devices

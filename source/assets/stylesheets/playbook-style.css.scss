@@ -1,19 +1,25 @@
 @import "vendor/normalize";
 
 @import "base/variables";
-
 @import "base/base";
-@import "base/fonts";
-@import "base/grid";
+@import "base/font-face";
+@import "base/layout";
 @import "base/typography";
+@import "base/transitions";
 
-@import "components/buttons";
+@import "elements/buttons";
+
 @import "components/cookies";
 @import "components/custom-select";
 @import "components/heroes";
+@import "components/footer";
+@import "components/header";
 @import "components/algolia-search";
 @import "components/navigation";
 @import "components/nav-button";
 @import "components/local-anchor";
+
+@import "pages/homepage";
+@import "pages/errors";
 
 @import "vendor/nice-select";

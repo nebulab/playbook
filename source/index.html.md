@@ -2,8 +2,6 @@
 title: The Nebulab Playbook
 ---
 
-# The Nebulab Playbook
-
 Hello! We are [Nebulab](https://nebulab.com), a full-service eCommerce agency. We specialize in
 building bespoke eCommerce experiences for disruptive brands. We also lead the development of
 [Solidus](https://solidus.io), the open-source eCommerce platform for industry trailblazers.

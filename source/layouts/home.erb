@@ -2,26 +2,23 @@
 <html>
   <%= partial "layouts/shared/head" %>
 
-  <body class="home-page">
+  <body class="home-page preload">
     <%= partial "layouts/shared/header" %>
 
-    <div class="main-container">
+    <main class="main">
       <%= partial "layouts/shared/sidebar" %>
 
-      <div class="container home">
-        <div class="content-wrapper">
-          <div>
-            <%= yield %>
+      <article class="page home">
+        <div class="container">
+          <div class="home-img">
+            <%= image_tag 'homepage-hero.svg' %>
           </div>
-          <div class="home-img-wrapper">
-            <div class="home-img"></div>
-          </div>
+          <%= yield %>
         </div>
 
         <%= partial "layouts/shared/footer" %>
-
-      </div>
-    </div>
+      </article>
+    </main>
 
     <%= partial "layouts/shared/cookies" %>
 

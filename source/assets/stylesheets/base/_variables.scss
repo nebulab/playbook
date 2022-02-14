@@ -1,37 +1,36 @@
 //Corporate colors
-$n_cyan: #5fbffd;
-$n_yellow: #fef135;
-$n_dark-grey: #3e3e3e;
+$n_cyan: #5DBEFD;
+$n_yellow: #FEF135;
+$n_black: #151515;
 
 //Website colors
 $white: #ffffff;
-$black: #222222;
 $light-grey: #898989;
 $light-blue: #f0f7fc;
 
 $primary-color:       $n_cyan;
 $secondary-color:     $n_yellow;
-$heading-color:       $n_dark-grey;
-$p-color:             $n_dark-grey;
+$heading-color:       $n_black;
+$p-color:             $n_black;
 $border-color:        #F2F2F2;
 $section-title-color: $primary-color;
-$button-color:        $n_dark-grey;
-$link-color:          $n_cyan;
+$button-color:        $n_black;
+$link-color:          $n_black;
 $link-hover-color:    darken($n_cyan, 10%);
 
 //Font families
-$sans-ff: "Eina03", sans-serif;
-$serif-ff: "freight-display-pro", sans-serif;
+$font-family__base: 'basis-grotesque-regular', sans-serif;
+$font-family__bold: 'basis-grotesque-bold', sans-serif;
+$font-family__italic: 'basis-grotesque-italic', sans-serif;
 
 //Font sizes
-$body-fs:        1.125em; // 18px
-$small-fs:       0.889em; //16px
-$smaller-fs:     0.778em;
-$extra-small-fs: 0.611em;
-$blog-fs:        1.111em; //20px
+$body-fs:        18px;
+$small-fs:       16px;
+$smaller-fs:     14px;
+$extra-small-fs: 12px;
 
-$menu-fs:    $smaller-fs;
-$submenu-fs: 0.678em;
+$menu-fs:    $small-fs;
+$submenu-fs: $smaller-fs;
 $buttons-fs: $extra-small-fs;
 
 //Grid

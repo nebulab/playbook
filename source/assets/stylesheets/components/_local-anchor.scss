@@ -1,11 +1,11 @@
 .local-anchor {
-  float: left;
   width: 30px;
   height: 30px;
   margin-left: -30px;
   text-decoration: none;
   display: inline-block;
   line-height: 1;
+  border: 0 !important;
 
   &:hover {
     color: #5fbffd;

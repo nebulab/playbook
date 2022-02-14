@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+  <%= partial "layouts/shared/head" %>
+
+  <body class="preload">
+    <%= partial "layouts/shared/header" %>
+
+    <main class="main">
+      <%= partial "layouts/shared/sidebar" %>
+
+      <div class="page error">
+        <div class="container">
+          <%= yield %>
+          <%= link_to "Head back home", '/', class: 'button' %>
+        </div>
+      </div>
+    </main>
+
+    <%= partial "layouts/shared/cookies" %>
+
+    <%= partial "layouts/shared/all_js" %>
+  </body>
+</html>

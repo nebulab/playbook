@@ -1,0 +1,12 @@
+.home {
+  .content-wrapper {
+    @media (min-width: $device-lg) {
+      margin: 0 auto;
+      max-width: 700px;
+    }
+  }
+
+  .home-img {
+    width: 100%;
+  }
+}

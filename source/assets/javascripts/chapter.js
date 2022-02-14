@@ -11,7 +11,7 @@
       href: '#' + $title.attr('id'),
       html: $('<span/>', {
         'class': 'local-anchor-content',
-        text: '¶'
+        text: '🔗'
       })
     }))
   })

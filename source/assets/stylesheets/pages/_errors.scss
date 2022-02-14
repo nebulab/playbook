@@ -1,0 +1,23 @@
+.error {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+
+  @media (min-width: $device-md) {
+    padding-top: 10%;
+  }
+
+  h1 {
+    font-size: 400%;
+    color: darken($light-blue, 8%);
+
+    @media (min-width: $device-lg) {
+      font-size: 950%;
+    }
+  }
+
+  h4 {
+    margin-bottom: 0;
+  }
+}
