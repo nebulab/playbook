@@ -70,7 +70,7 @@ IDE, productivity tools or anything else that you find useful!
 
 All new team members receive a hardware hire kit that includes:
 
-- a shiny new [13"][mbpro-13] or [16"][mbpro-16] MacBook Pro which is upgraded every two years;
+- a shiny new [14"][mbpro-14] or [16"][mbpro-16] MacBook Pro which is upgraded every two years;
 - an [Incase Compact Sleeve in Flight Nylon][laptop-sleeve] to tuck your MacBook away when you're
   on the move;
 - an [Apple Magic Keyboard][magic-keyboard] or a Logitech keyboard of choice;
@@ -78,12 +78,10 @@ All new team members receive a hardware hire kit that includes:
 - a pair of [Bose Noise Cancelling Headphones 700][bose-headphones], [Sony WH-1000XM4][sony-headphones] or equivalent ANC Bluetooth headphones;
 - a [Logitech C920S][webcam] HD webcam;
 - an [LG 27UP850-W screen][lg-screen] (IPS, 27", 4K, USB-C),
-- an American Express Gold corporate credit card, which you can use on business trips and other
-  work-related expenses,
 - a swag bag with lots more goodies inside!
 
-[mbpro-13]: https://www.apple.com/shop/buy-mac/macbook-pro/13-inch-space-gray-2.0ghz-intel-core-i5-quad-core-processor-with-intel-iris-plus-graphics-512gb#
-[mbpro-16]: https://www.apple.com/shop/buy-mac/macbook-pro/16-inch-space-gray-2.6ghz-6-core-processor-512gb#
+[mbpro-14]: https://www.apple.com/shop/buy-mac/macbook-pro/14-inch
+[mbpro-16]: https://www.apple.com/shop/buy-mac/macbook-pro/16-inch
 [laptop-sleeve]: https://www.apple.com/shop/product/HPCZ2ZM/A/incase-compact-sleeve-in-flight-nylon-for-16-macbook-pro-and-15-macbook-pro
 [magic-keyboard]: https://www.apple.com/shop/product/MLA22LL/A/magic-keyboard-us-english
 [magic-mouse]: https://www.apple.com/shop/product/MLA02LL/A/magic-mouse-2-silver
