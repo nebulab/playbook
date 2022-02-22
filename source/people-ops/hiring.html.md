@@ -56,7 +56,7 @@ it to the second step, the [initial screen](#step-2-initial-screen).
 
 ### Step 2: Initial screen
 
-This is a 15-minute video call where we get to know each other and understand if there's mutual
+This is a 30-minute video call where we get to know each other and understand if there's mutual
 interest in working together. We mostly avoid formalities, we talk about a bit of everything and see
 how we feel about each other.
 
