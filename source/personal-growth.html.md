@@ -9,5 +9,6 @@ playbook-section-chapters:
   - Coaching and 1:1s
   - Investment Time
   - Competency matrix
+  - Learning Library
   - Apprenticeship Program
 ---
