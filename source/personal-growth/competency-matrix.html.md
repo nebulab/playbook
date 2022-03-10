@@ -87,6 +87,9 @@ This might happen if your manager is extremely confident that you will soon meet
 expectations for the role—we don't want to hold people back in their journey because they're working
 on a single skill out of 20!
 
+Note that, when you get a promotion, your salary will be adjusted during the next
+[compensation review][compensation-review].
+
 ## Switching disciplines
 
 Certain departments provide you with the ability to switch disciplines. For instance, if you are a
@@ -105,3 +108,4 @@ position, you will be officially switched over!
 [ncm]: https://nebulab.progressionapp.com
 [peter-principle]: https://en.wikipedia.org/wiki/Peter_principle
 [progression]: https://progressionapp.com
+[compensation-review]: /people-ops/compensation#compensation-reviews

@@ -68,7 +68,8 @@ increase salaries as needed and reduce the gap between the current and the ideal
 There are three main factors that can influence your compensation:
 
 - **Your job title:** if you get a [promotion](/personal-growth/competency-matrix), you will
-  (obviously!) get a salary bump.
+  (obviously!) get a salary bump. Note that, depending on budget allocation, this might only be a
+  partial bump that takes you closer to your target salary.
 - **Your performance:** some promotions may take years, but we still want to reward people for
   performing well and living by our [North stars](/about-us/north-stars). If they think you have
   really shined, your manager may decide to bump your salary. 
