@@ -90,3 +90,8 @@ responsibilities?
 If you've decided to promote your report, you should submit your request to a Director. Once the
 request is approved, you can update the person's title in Progression and celebrate the event in
 the `#shoutouts` channel on Slack!
+
+Note that, when your report gets a promotion, their salary will be adjusted during the next
+[compensation review][compensation-review].
+
+[compensation-review]: /people-ops/compensation#compensation-reviews
