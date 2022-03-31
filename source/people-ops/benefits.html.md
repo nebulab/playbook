@@ -41,13 +41,13 @@ In practice, this benefit takes different forms:
 Everyone at Nebulab should work at a healthy, sustainable pace and take time off to mentally
 disconnect from work and recharge.
 
-In total all teammates get up to 35 days of PTO (paid time off) per year. 22 days of regular 
-PTO and up to 104 hours per year (depending on their tenure) for 
-[schedule flexibility](/work-fundamentals/time-tracking/). This allows you to come in a little 
-late, leave a little earlier or take a few hours off every now and then. You can use it to 
+In total all teammates get up to 35 days of PTO (paid time off) per year. 22 days of regular
+PTO and up to 104 hours per year (depending on their tenure) for
+[schedule flexibility](/work-fundamentals/time-tracking/). This allows you to come in a little
+late, leave a little earlier or take a few hours off every now and then. You can use it to
 just take full days off too.
 
-In addition to that all teammates get 11 days for national holidays and additional permits for 
+In addition to that all teammates get 11 days for national holidays and additional permits for
 sick leave and special paid leave.
 
 ## Team retreats
@@ -71,8 +71,6 @@ IDE, productivity tools or anything else that you find useful!
 All new team members receive a hardware hire kit that includes:
 
 - a shiny new [14"][mbpro-14] or [16"][mbpro-16] MacBook Pro which is upgraded every two years;
-- an [Incase Compact Sleeve in Flight Nylon][laptop-sleeve] to tuck your MacBook away when you're
-  on the move;
 - an [Apple Magic Keyboard][magic-keyboard] or a Logitech keyboard of choice;
 - an [Apple Magic Mouse][magic-mouse] or a [Logitech MX Master 3][mx-master-3];
 - a pair of [Bose Noise Cancelling Headphones 700][bose-headphones], [Sony WH-1000XM4][sony-headphones] or equivalent ANC Bluetooth headphones;
@@ -82,7 +80,6 @@ All new team members receive a hardware hire kit that includes:
 
 [mbpro-14]: https://www.apple.com/shop/buy-mac/macbook-pro/14-inch
 [mbpro-16]: https://www.apple.com/shop/buy-mac/macbook-pro/16-inch
-[laptop-sleeve]: https://www.apple.com/shop/product/HPCZ2ZM/A/incase-compact-sleeve-in-flight-nylon-for-16-macbook-pro-and-15-macbook-pro
 [magic-keyboard]: https://www.apple.com/shop/product/MLA22LL/A/magic-keyboard-us-english
 [magic-mouse]: https://www.apple.com/shop/product/MLA02LL/A/magic-mouse-2-silver
 [mx-master-3]: https://www.logitech.com/en-us/products/mice/mx-master-3-mac-wireless-mouse.910-005693.html
