@@ -87,7 +87,7 @@ made to the next step, the [aptitude test](#step-3-aptitude-test).
 
 The aptitude test is a way for us to get to know you better and to understand how you think,
 act and communicate in a professional setting. The test is mainly focused on your soft skills, but
-there are some basic technical questions as well. The test will be sent to you via HackerRank.
+there are some basic technical questions as well. The test will be sent to you by email.
 
 The fundamental requirement in answering the test is sincerity: write in accordance with your values
 and the way you work, not what you think we would like to hear from you. The purpose of the test is
@@ -96,8 +96,8 @@ the answers reflect the way you really work and handle problems.
 
 Don't hesitate to ask clarifications on questions or technical issues in case anything is not clear
 to you, and don't be afraid to hit a wrong note: in the past, some of the most striking answers
-were completely out of tune, perhaps mentioning aspects outside of the work context, but they
-allowed us to perfectly understand the person on the other end of the screen.
+were completely out of tune, perhaps mentioning aspects outside the work context, but they allowed
+us to perfectly understand the person on the other end of the screen.
 
 Two or three days after completing the aptitude test, your interviewer will let you know if you've
 made it to the fourth step, the [technical test](#step-4-technical-test).
@@ -105,26 +105,20 @@ made it to the fourth step, the [technical test](#step-4-technical-test).
 ### Step 4: Technical test
 
 If you have reached this stage, it means we think Nebulab might be the right company for you. At
-this point, we want to get an idea of your technical skills. This test is also administered via
-HackerRank.
+this point, we want to get an idea of your technical skills. The test will be administered in 
+different ways depending on the position you're interviewing for: for technical positions, for
+example, we will create a dedicated GitHub repository.
 
 You will not be asked to do any live coding or solve absurd challenges: nobody here solves critical
-business problems without asking questions, looking up documentation or copy-pasting from
-StackOverflow every now and then. Instead, we just want to make sure that your technical skills are
-coherent with our general expectations for your role. 
+business problems without asking questions and doing research. Instead, we just want to make sure
+that your technical skills are coherent with our general expectations for your role. For engineers,
+the technical test consists of two or three projects of increasing complexity.
 
-For engineers, the technical test consists of two or three projects of increasing complexity. These
-might be bugfixes, enhancements or brand new features. Your work will be scored automatically by
-HackerRank for correctness, but it will also be reviewed by your hiring manager, who will typically
-ask you some follow-up questions to better understand the rationale behind your choices.
+Within two/three days, your hiring manager will review your submission, and they might ask some
+follow-up questions, e.g. to better understand the rationale behind your choices.
 
-Note that we use the same test for all seniority levels—this means that, unless you're applying as a
-senior/principal engineer, we don't really expect you to solve all the challenges in the test. Not
-solving all the challenges will not disqualify you, but it might result in your profile being
-classified under a lower seniority level.
-
-Two or three days after completing the technical test, your interviewer will let you know if you've
-made it to the fifth step, the [pre-offer interview](#step-5-pre-offer-interview).
+Once they have all the context they need, your hiring manager will let you know if you've made it to
+the fifth step, the [pre-offer interview](#step-5-pre-offer-interview).
 
 ### Step 5: Pre-offer interview
 
