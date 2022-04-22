@@ -100,9 +100,9 @@ were completely out of tune, perhaps mentioning aspects outside the work context
 us to perfectly understand the person on the other end of the screen.
 
 Two or three days after completing the aptitude test, your interviewer will let you know if you've
-made it to the fourth step, the [technical test](#step-4-technical-test).
+made it to the fourth step, the [take-home test](#step-4-take-home-test).
 
-### Step 4: Technical test
+### Step 4: Take-home test
 
 If you have reached this stage, it means we think Nebulab might be the right company for you. At
 this point, we want to get an idea of your technical skills. The test will be administered in 
@@ -112,7 +112,7 @@ example, we will create a dedicated GitHub repository.
 You will not be asked to do any live coding or solve absurd challenges: nobody here solves critical
 business problems without asking questions and doing research. Instead, we just want to make sure
 that your technical skills are coherent with our general expectations for your role. For engineers,
-the technical test consists of two or three projects of increasing complexity.
+the take-home test consists of two or three projects of increasing complexity.
 
 Within two/three days, your hiring manager will review your submission, and they might ask some
 follow-up questions, e.g. to better understand the rationale behind your choices.
