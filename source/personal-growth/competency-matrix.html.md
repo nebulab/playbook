@@ -17,7 +17,7 @@ The matrix helps us solve a large set of challenges:
 - It reduces any salary gaps that might be caused by a candidate's negotiation skills, or lack
   thereof, during the hiring process.
 - It helps us promote our culture at scale, by recognizing and rewarding team members that work in
-  alignment with our [North stars](/about-us/north-stars).
+  alignment with our [values](/about-us/our-values).
 
 ## How the matrix is structured
 
