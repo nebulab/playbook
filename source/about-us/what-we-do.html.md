@@ -7,7 +7,7 @@ this industry—rather, the industry chose us, and it's been an amazing journey.
 developed a deep expertise in what it takes for an eCommerce brand to succeed, and we're proud to
 put that knowledge at work for our clients.
 
-## We build eCommerce brands
+## We launch eCommerce brands
 
 The majority of our work is eCommerce consulting—we handle a wide range of strategy-, design- and
 engineering-related services. On the engineering side, we typically work with
