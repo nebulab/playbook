@@ -20,3 +20,11 @@
 
 /company-rituals /company-rituals/all-hands-sessions/ 301
 /company-rituals/ /company-rituals/all-hands-sessions/ 301
+
+# Redirects for renamed pages
+
+/about-us/north-stars /about-us/our-values/ 301
+/about-us/north-stars/ /about-us/our-values/ 301
+
+/about-us/our-vision /about-us/mission-and-vision/ 301
+/about-us/our-vision/ /about-us/mission-and-vision/ 301
