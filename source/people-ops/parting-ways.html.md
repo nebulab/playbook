@@ -35,7 +35,7 @@ is not directly addressing—if you're unsure of where you stand, talk to them d
 
 Very rarely, we may be forced to let someone go. This can be for a number of reasons, but it usually
 happens when the teammate has failed to produce meaningful results for a significant period of time,
-or if there's been a critical and sustained breach of our [North stars](/about-us/north-stars).
+or if there's been a critical and sustained breach of our [values](/about-us/our-values).
 
 If you are being let go, we're terribly sorry, and we want you to know that we take responsibility
 for the event. Having to fire a teammate almost always means that we failed at properly assessing

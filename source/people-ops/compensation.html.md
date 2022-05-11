@@ -71,7 +71,7 @@ There are three main factors that can influence your compensation:
   (obviously!) get a salary bump. Note that, depending on budget allocation, this might only be a
   partial bump that takes you closer to your target salary.
 - **Your performance:** some promotions may take years, but we still want to reward people for
-  performing well and living by our [North stars](/about-us/north-stars). If they think you have
+  performing well and living by our [values](/about-us/our-values). If they think you have
   really shined, your manager may decide to bump your salary. 
 - **Market data:** if market data tells us that salaries in your region have increased, we'll
   increase your salary accordingly.

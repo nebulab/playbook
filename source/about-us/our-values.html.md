@@ -1,9 +1,10 @@
 ---
-title: North stars
+title: Our values
 ---
 
-While [our vision](/about-us/our-vision) is the destination, our North stars are how we get there.
-They are the standards we hold ourselves to and the values we carry with us every day.
+While [our vision](/about-us/mission-and-vision) is the destination, our values are the compass we
+follow to get there. They are the standards we hold ourselves to and the values we carry with us
+every day.
 
 ## Integrity
 
