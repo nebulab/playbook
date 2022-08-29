@@ -11,7 +11,7 @@ rather than having to wake up at 5am to watch what is, essentially, a two-hour c
 If you have any questions, you can ask them on Slack, on the Loom recording or in your next 1:1.
 
 All-hands don't have a fixed agenda, but you can expect most of the content to be presented by the
-directors. We try to cover a variety of cross-cutting topics such as recent successes and failures
+Managing Partners and Directors. We try to cover a variety of cross-cutting topics such as recent successes and failures
 and what we've learned from them, any updates on company strategy, new company policies, any team
 members that are joining/leaving the team, any new partners and why we think they're a good fit, and
 anything else that we think might be of interest.
