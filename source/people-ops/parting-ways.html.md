@@ -21,7 +21,7 @@ follow, which will be different depending on your type of employment and how lon
 us. They will also most likely hold an exit interview to understand what did well and what we could
 have done better during your journey with Nebulab.
 
-We typically ask people to send a goodbye note in #general to let the company know they're leaving.
+We typically ask people to send a goodbye note in #announcements to let the company know they're leaving.
 This maintains a sense of transparency and ensures no one's in the dark about what's going on. If
 you're unsure of what to write here, your manager can help you out. If you're not comfortable
 writing the note and would rather delegate that, your manager can also send the message. 
