@@ -3,13 +3,13 @@ title: Nebulab
 ---
 
 Nebulab's leadership structure is slightly unconventional: rather than having one CEO, we have four
-directors which make decisions together—think of them as co-CEOs, if you want. Their main
+managing partners which make decisions together—think of them as co-CEOs, if you want. Their main
 responsibility is to hire great people and support them in achieving the Nebulab's vision by
 constantly iterating on the company's policies and business strategy.
 
-The directors treat Nebulab as if it were a product. They work in cycles of four weeks—these look
+The managing partners treat Nebulab as if it were a product. They work in cycles of four weeks—these look
 somewhat like sprints, although they don't present much of the overhead of a regular Scrum process.
-Each director is welcome to create a ticket and pitch it for the upcoming cycle. Tickets generally
+Each managing partner is welcome to create a ticket and pitch it for the upcoming cycle. Tickets generally
 impact one or more of the company's strategic goals.
 
 We don't generally require consensus to make decisions: instead, we try to disagree and commit,
@@ -18,9 +18,9 @@ The only exception to this rule are decisions that are really critical for the c
 and/or the team's well-being—these are often discussed at length and analyzed from different angles
 before a conclusion is reached.
 
-During the cycle, directors typically work by themselves or in pairs of two, depending on the
+During the cycle, managing partners typically work by themselves or in pairs of two, depending on the
 complexity of the task. They chat constantly in Slack, and they meet every Monday for a 1-hour sync
-where everyone presents their work and asks the group for feedback. Very often, directors will also
+where everyone presents their work and asks the group for feedback. Very often, managing partners will also
 use 1:1s to collect feedback from the team and make sure they're headed in the right direction.
 
 ## Complex initiatives and RFCs
@@ -56,16 +56,16 @@ as [Investment Time](/personal-growth/investment-time) and our
 
 ## Accessible leadership
 
-When designing the process for the directors' work, we wanted to make the decision-making process to
+When designing the process for the managing partners' work, we wanted to make the decision-making process to
 be as accessible as possible. Accessible, in this context, meant two things:
 
-1. We wanted everyone to be able to look at what the directors are working on, why they think it is
+1. We wanted everyone to be able to look at what the managing partners are working on, why they think it is
    a priority, and what conclusions they reach.
 2. We wanted everyone to be able to pitch a company-wide change, no matter what department they work
    in or whether they're an IC or a manager.
 
 The policy we settled on to make this happen is dead-simple: everyone has read-write access to the
-[Linear](https://linear.app) board the directors use to define and prioritize work, and everyone
+[Linear](https://linear.app) board the managing partners use to define and prioritize work, and everyone
 has read-write access to the list of RFCs in Notion. At any point, you can create a new ticket,
 write an RFC or comment an existing one to make a suggestion or ask a question. 
 
