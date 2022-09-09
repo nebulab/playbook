@@ -46,7 +46,7 @@ attention it deserves.
 
 ## What to discuss in 1:1s
 
-> **Pro Tip:** Most managers at Nebulab use [Fellow](https://fellow.app) to run the agendas for
+> **Pro Tip:** Managers at Nebulab use [Lattice](https://lattice.com/) to run the agendas for
 > their 1:1s. It automatically syncs with your calendar, and it can suggest a bunch of useful
 > discussion topics for your meetings. We even have a couple of pre-defined 1:1 templates you can
 > take inspiration from.
