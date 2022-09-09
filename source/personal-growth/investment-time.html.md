@@ -27,7 +27,7 @@ Each teammate is free to organize their schedule however they want to make space
 Time. Any arrangement works, as long as urgent client work is given priority.
 
 The most popular approach is to use the first or last hour of the workday, when you are mentally
-disconnected from client work and can invest yourself fully in what you're doing. You cold also
+disconnected from client work and can invest yourself fully in what you're doing. You could also
 batch entire hours or days of Investment Time, if the project allows for it.
 
 You're encouraged to use your own judgment and manage your schedule accordingly. If in doubt, ask
