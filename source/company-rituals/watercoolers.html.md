@@ -41,7 +41,7 @@ what happens!
 
 ## Weekly Donuts
 
-Twice a week, Donut will pair people in the #Donut-everyone channel. It will kick off the conversation with a
+Twice a week, Donut will pair people in the #donut-everyone channel. It will kick off the conversation with a
 fun icebreaker and then encourage you to take a remote coffee (or donuts!) together.
 
 The Donut can take any form you want, but usually it's a 10-20 minutes video call where you can talk
