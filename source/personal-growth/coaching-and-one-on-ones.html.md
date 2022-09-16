@@ -52,7 +52,8 @@ questions you can ask yourself to prepare for a 1:1:
 
 During the 1:1, your manager will take notes on what you discuss and what you commit to, so that you
 can review your progress in the following 1:1. This creates a sense of accountability and ensures no
-stone is left unturned. You will be able to review the meeting minutes via [Lattice](https://lattice.com/) or Slack, so that you can reference them later.
+stone is left unturned. You will be able to review the meeting minutes via [Lattice](https://lattice.com/) 
+or Slack, so that you can reference them later.
 
 If any action items have been assigned to you, make sure to follow up on them within the designated
 timeline. It's okay if work gets in the way and you can't complete a task, but you should let your
