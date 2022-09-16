@@ -56,7 +56,7 @@ it to the second step, the [initial screen](#step-2-initial-screen).
 
 ### Step 2: Initial screen
 
-This is a 30-minute video call where we get to know each other and understand if there's mutual
+This is a 30-minute video call where we get to know each other and understand if there's a mutual
 interest in working together. We mostly avoid formalities, we talk about a bit of everything and see
 how we feel about each other.
 
@@ -80,8 +80,8 @@ Some advice to succeed in this first step:
   interviews can be. If you're nervous, tell your interviewer and they'll do their best to make you
   more comfortable.
 
-A couple of days after call, you'll get an email from your interviewer telling you whether you've
-made to the next step, the [aptitude test](#step-3-aptitude-test).
+A couple of days after the call, you'll get an email from your interviewer telling you whether you've
+made it to the next step, the [aptitude test](#step-3-aptitude-test).
 
 ### Step 3: Aptitude test
 
@@ -142,7 +142,7 @@ original hiring manager will notify you and let you know if you'll be getting an
 Congratulations, you made it! Thanks for the time you spent with us so far.
 
 At this point, we'll send over a formal offer which you can sign electronically. Feel free to ask
-your hiring manger any questions about the offer, and they'll either answer directly or put you in
+your hiring manager any questions about the offer, and they'll either answer directly or put you in
 touch with someone from Finance who can handle all your doubts.
 
 Once we agree on a start date and you sign the offer, we'll begin the onboarding process.
