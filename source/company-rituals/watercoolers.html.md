@@ -41,7 +41,7 @@ what happens!
 
 ## Weekly Donuts
 
-Once a week, Donut will pair people in the #coffee channel. It will kick off the conversation with a
+Twice a week, Donut will pair people in the #donut-everyone channel. It will kick off the conversation with a
 fun icebreaker and then encourage you to take a remote coffee (or donuts!) together.
 
 The Donut can take any form you want, but usually it's a 10-20 minutes video call where you can talk
@@ -53,10 +53,11 @@ If you're a remote worker, Donut is an excellent way to socialize with the rest 
 work from an office, it's still great to get to know everyone else—in this case, you can "ban" your
 co-located colleagues so that Donut only pairs you with people you don't know as well.
 
-## Birthday celebrations
+## Birthday and Work Anniversary celebrations
 
-[BirthdayBot](https://birthdaybot.io/) ensures we don't miss a single birthday at Nebulab.
+[Donut Celebrations](https://www.donut.com/celebrations/) ensures we don't miss a single birthday and work anniversary at Nebulab.
 
-On the day of someone's birthday (or on Monday, if the birthday falls on a weekend), it will post a
-nice celebratory message in #general, so that the entire team can chime in with their love and a
-sea of emojis.
+On the day of someone's birthday or work anniversary (or on Friday, if the birthday falls on a weekend), it will post a
+nice celebratory message in #celebrations, so that the entire team can chime in with their love and a
+sea of emojis. 
+
