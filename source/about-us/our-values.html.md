@@ -6,74 +6,42 @@ While [our vision](/about-us/mission-and-vision) is the destination, our values 
 follow to get there. They are the standards we hold ourselves to and the values we carry with us
 every day.
 
-## Integrity
+## Humans at Every Stage 🫀
 
-Integrity is doing and saying what's right, not what's convenient.
+Recognizing the human element in everything we do is vital.
 
-We all have an inner sense of fairness, and we should use that as a guiding light in our decisions
-and interactions with partners and teammates. If something doesn't _feel_ right, it's probably not, 
-and we should speak up.
+We believe in the value of each person at every stage of their journey, whether they are a seasoned veteran or just starting out. We understand that every interaction offers an opportunity to learn, grow, and contribute positively to someone else's journey.
 
-Sometimes, integrity takes courage, such as when we need to provide constructive feedback to
-someone we care about. This is good: it means there's a healthy tension between our sense of
-integrity and our sense of empathy.
+We respect and accommodate individual needs, understanding that the quest for work-life balance is continuous and unique to each person. Whether it's about providing space for family time, mental health, or personal growth, we aim to cultivate an environment that allows people to be their most productive selves without compromising their quality of life.
 
-A lack of integrity is a lack of trust. In the absence of trust, it's impossible to build shared
-vision or get anything done as a team.
+In the end, our success is measured not just in business outcomes, but in the wellbeing and growth of each member of our team.
 
-## Transparency
+## Trusted by Default 🪢
 
-Transparency is systematically providing the context behind our choices.
+Trust forms the foundation of our interactions and decisions.
 
-Building a transparent company requires effort, empathy and respect. It requires trust that people
-will use the information we are providing in good faith, and that they will speak up if they
-disagree with us.
+We believe in extending trust as a default, not as an earned privilege. This trust speaks volumes about our commitment to transparency and integrity. We hold ourselves accountable, and we believe that each team member will act in the best interest of the company and each other.
 
-Transparency empowers others to make their own decisions and reach their own conclusions. It makes
-them feel like they're not just a means to an end, but rather the end in itself.
+We encourage everyone to voice their opinions, to question, and to provide constructive feedback. We recognize that trust goes hand in hand with honesty, even when it requires the courage to face hard truths.
 
-Effective distributed cultures are, first and foremost, transparent cultures. 
+In this culture of trust, we create an environment where everyone is empowered to take initiative, make decisions, and feel a sense of ownership over their work.
 
-## Balance
+## Pragmatic Learners 🧭
 
-Balance is the _leitmotiv_ in everything we do.
+Embracing learning as a way of life is our mantra.
 
-First of all, we exhibit work-life balance, as it allows us to be our best selves, day after day.
-The alternative is to chase short-term wins at the expense of our health, our productivity and the
-quality of our work.
+We approach every situation, problem, and interaction with a learning mindset. But it's not just about theoretical knowledge; we strive to be pragmatic learners, applying what we learn to improve our work and processes.
 
-Secondly, we exhibit balance in how we approach problems. We think in systems and try to account for
-all factors at play. We take the time we need to make the right decision, but we don't
-stall—instead, we know when to disagree and commit.
+We recognize that growth comes with making mistakes, and we see these not as failures, but as valuable learning opportunities. We acknowledge what can be improved, and we pivot quickly, always with an eye on our mission and values.
 
-Finally, we exhibit balance in the way we communicate. We don't let chance, circumstances or
-emotions put words in our mouths: instead, we choose our words in accordance with our values and our
-beliefs.
+Our learning culture not only enriches us as individuals, but also as a team, fostering innovative solutions and continuous improvement.
 
-## Commitment
+## Collaborative Leaders ⛵️
 
-Commitment is caring about the work we do and the people we do it for.
+Leadership is not confined to roles or positions; it's a collaborative effort.
 
-We show commitment when we ensure everyone and everything around us is enriched as a result of our
-presence. We look at the world with a critical, pragmatic eye and take initiative to improve the
-status quo.
+We view every team member as a leader in their own right, and we understand the power of collective leadership. We lead not by exercising authority, but by setting an example, sharing knowledge, and empowering others to succeed.
 
-We recognize that there will always be things to improve—things we wish we had done, things we wish
-we had done differently, and things we wish we had never done at all—and that's okay: commitment is
-about the journey, not the destination.
+Collaboration and teamwork are embedded in our approach to leadership. We see the importance of diverse perspectives and believe that the best solutions arise from collaboration. We value the unique contributions of each team member and recognize that our collective success is anchored in our shared commitment and collaborative spirit.
 
-Our first and foremost commitment is to ourselves and our personal mastery. Everything else follows.
-
-## Community
-
-We appreciate and respect that none of the things we do would be possible without the work of the
-community, and we constantly look for ways to give back.
-
-Sometimes, this means releasing our work as open-source, so that the next person can get the same
-result with a fraction of the effort; other times, it means helping out someone in need, because we
-all have to start somewhere in our journey.
-
-We think that life is too short for humankind to be solving the same problems over and over again,
-and we do whatever's in our power to accelerate this collective process of learning and growth.
-
-We want to be the rising tide that lifts all boats.
+Our approach to leadership aims to lift everyone, fostering a sense of community, and a culture where we learn from each other and grow together.
